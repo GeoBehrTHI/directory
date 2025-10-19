@@ -1,0 +1,58 @@
+{
+ "enroll_now_url": "https://www.jacksonholeclassicalacademy.org/admissions/", 
+ "contact_us_url": "https://www.jacksonholeclassicalacademy.org/about-us/contact-us", 
+ "enroll_aliases": [
+   "https://www.jacksonholeclassicalacademy.org/admissions/",
+   "https://www.jacksonholeclassicalacademy.org/event-detail?pk=15747582"
+ ],
+ "contact_aliases": [
+   "https://www.jacksonholeclassicalacademy.org/about-us/contact-us",
+   "mailto:admissions@jhclassical.org",
+   "mailto:info@jhclassical.org"
+ ],
+ "cta_evidence": [
+   {
+     "type": "enroll",
+     "url": "https://www.jacksonholeclassicalacademy.org/admissions/",
+     "text": "Apply Today",
+     "source": "homepage nav"
+   },
+   {
+     "type": "contact",
+     "url": "https://www.jacksonholeclassicalacademy.org/about-us/contact-us",
+     "text": "Contact Us",
+     "source": "homepage nav"
+   }
+ ],
+ "homepage_title": "Jackson Hole Classical Academy – Private School, Grades K–12, Classical Education", 
+ "homepage_url": "https://www.jacksonholeclassicalacademy.org/", 
+ "homepage_screenshot_ref": null, 
+ "favicon_url": null, 
+ "contacts": [
+   {
+     "name": "Lisa Landis",
+     "email": "admissions@jhclassical.org",
+     "phone": "(307) 201-5040"
+   },
+   {
+     "name": "School Office",
+     "email": "info@jhclassical.org",
+     "phone": "(307) 201-5040"
+   }
+ ],
+ "locations": [
+   {
+     "location_name": "Main Campus",
+     "location_type": "Campus",
+     "page_url": "https://www.jacksonholeclassicalacademy.org/about-us/contact-us",
+     "address": "2500 S. Park Loop Rd., Jackson, WY 83001", 
+     "phone": "(307) 201-5040",
+     "email_or_contact_link": "info@jhclassical.org",
+     "map_link": null,
+     "evidence": [
+       "Physical Address listed on homepage lines 129-132 in source turn0view0",
+       "Contact page lists same address and phone (turn0search6)"
+     ]
+   }
+ ]
+}
