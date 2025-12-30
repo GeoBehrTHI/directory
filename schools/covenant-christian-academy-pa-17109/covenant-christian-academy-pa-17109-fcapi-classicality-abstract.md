@@ -1,0 +1,12 @@
+## ABSTRACT
+
+Covenant Christian Academy (Harrisburg, PA 17109) demonstrates a robust CLASSICAL orientation across all six classical categories: Religious and Metaphysical Foundations; School Purpose and Goal; Curriculum; Pedagogy; Faculty; and Parents & Community. Public materials consistently portray a Christ-centered, theologically-integrated program that foregrounds the liberal arts (grammar, logic, rhetoric; quadrivium), Great Books, and the Great Conversation as core curricular axes. Pedagogy blends contemplative/restful elements (Scholé, singing/chanting, memorization) with Socratic inquiry, seminars, and rhetorical practice, reflecting a mature classical pedagogy. Faculty are depicted as living exemplars and mentors who anchor the curriculum in virtue and classical formation; parents are invited to participate as co-educators and partners in the Covenant educational mission. Across evidence from Covenant’s site (including mission/value statements, curriculum details, and teacher profiles) and the classical lexicon (Six Essential Elements), Covenant’s materials align strongly with transcendental truth, goodness, and beauty; formation as telos; liberal arts curriculum; and engaged community life.
+
+- Religious and Metaphysical Foundations: Covenant positions education within a Christ-centered, liturgical, and theologically integrated framework, with explicit references to theology, worship, liturgy, sacred tradition, and the Logos.  
+- School Purpose and Goal: Emphasis on formation, virtue, wisdom, human flourishing, and the classic telos of education (truth, goodness, beauty) rather than purely vocational preparation. 
+- Curriculum: Explicit focus on the Seven Liberal Arts and Great Books, Great Conversation, and integrated historical-literary-cultural study. 
+- Pedagogy: Socratic questioning in the Upper School, memorization/recitation and chant in the Lower School, and rhetoric/speeches (Forum et Agora, Senior Thesis) in the upper grades; liturgical music informs pedagogy.  
+- Faculty: Model teachers and mentors; living curriculum; collaborative culture; named subject specialists and leadership roles. 
+- Parents & Community: Strong partnership with families; open invitations for parent involvement and education about classical education; welcome visits and tours. 
+
+Citations reflect Covenant’s public materials and the classical education framework (Six Essential Elements of a Classical School) that anchor the rubric.

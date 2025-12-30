@@ -1,0 +1,13 @@
+## ABSTRACT
+
+Pietas Classical Christian School Melbourne, FL (32940) demonstrates a robust CLASSICAL orientation across most criteria, with explicit strength in Curriculum (Seven Liberal Arts; Great Books; primary sources; dialogue/narration) and a Christian/theological foundation. The Religious and Metaphysical Foundations category is CLASSICAL due to explicit theology, virtue formation, and transcendental aims. School Purpose and Goal is CLASSICAL, anchored in formation, virtue, and the pursuit of truth/goodness/beauty. Parents & Community is CLASSICAL, evidenced by active parent involvement, partnership with families, and a culture of formation in the home. History and Great-Conversation aligned Curriculum, and a strong emphasis on Great Books, primary sources, and liberal arts, further anchor Category 3 as CLASSICAL.
+
+Pedagogy shows SOMEWHAT CLASSICAL signals, with dialogue and Great Books present, but a lack of explicit statements of Scholé (restful learning) and Socratic/seminar structures in public materials places it in the middle ground. Faculty signals are NOT CLASSICAL due to an absence of publicly stated living-curriculum faculty portraits or explicit teacher-formation programs. The aggregate classification is CLASSICAL, with a notable needle-mover opportunity around Pedagogy and Faculty to push toward full alignment.
+
+Key direct terms from the public materials include truth, good, beauty; virtue; wisdom; theology; gospel; Christ; seven liberal arts; great books; primary sources; dialogue; narration; formation; and parent partnership. These terms anchor the school in the classical tradition as defined by the Six Essential Elements.
+
+Citations grounded in the sources include Pietas Classical Christian School content describing the Christian/theological frame, the seven liberal arts, primary sources, poetry, narration, dialogue, and Great Books, as well as the parental testimonial and program language. 
+
+Notes on the knowledge framework used in this evaluation:
+- The Six Essential Elements of a Classical School (1) provide the Positive/Negative Keyword Indicators used to assess each category, including the explicit lexicon for Religious/Metaphysical Foundations, School Purpose and Goal, Curriculum, Pedagogy, Faculty, and Parents & Community, with positive indicators such as truth/goodness/beauty, theology, liturgy, Great Books, Great Conversation, Scholé, Socratic dialogue, and Partnership with Families, among others. fileciteturn0file1turn0file4turn0file7
+- The school-specific crawl content (Pietas) demonstrates core classical elements (liberal arts, Great Books, primary sources, dialogue) and Christian formation, which underpin the CLASSICAL ratings in Categories 1–3 and 6.

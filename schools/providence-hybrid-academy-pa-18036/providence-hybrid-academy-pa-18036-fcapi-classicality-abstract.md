@@ -1,0 +1,13 @@
+## ABSTRACT
+
+Providence Hybrid Academy (PHA) demonstrates strong CLASSICAL alignment in Religious and Metaphysical Foundations and School Purpose/Goal, with robust parent/community engagement. Its Charlotte Mason–influenced curriculum emphasizes the integrated, formation-first approach—knowledge of God, history, literature, music, art, science, and nature—within a Christ-centered framework. The Pedagogy and Curriculum categories show partial CLASSICAL alignment: lower-school practices honor contemplative memory and communal worship, while upper grades incorporate rigorous study, though explicit Classical Trivium components (grammar, logic, rhetoric) and a formal Great Books/Great Conversation program are not clearly articulated in public-facing materials. Faculty structure exists, but explicit statements about the living-curriculum teacher profile are less explicit. Overall, the aggregate assessment lands at SOMEWHAT CLASSICAL, with actionable steps available to move toward full CLASSICAL status, particularly through explicit articulation of classical curriculum elements and more explicit Socratic pedagogy across grades. The school’s strengths lie in its theological foundation, formation-oriented goals, and active parent partnership; opportunities exist to deepen classical curricular content and pedagogy, while maintaining its existing CM-informed strengths.
+
+KEYWORDS AND EVIDENCE SUMMARY
+- Religious/metaphysical: Christ-centered; Christian worldview; Honoring God; Bible; Word of God; morning Bible reading/hymns/poetry; Statement of Faith; truth, beauty, goodness. fileciteturn0file12turn0file2turn0file4
+- Purpose/Goal: formation over information; lifelong learning; truth/beauty/goodness; “education is an atmosphere, a discipline, and a life.” fileciteturn0file12turn0file6
+- Curriculum: CM-informed, integrated across Bible/history/literature/music/art/science; focus on wonder and whole-child development; public materials do not clearly publish Seven Liberal Arts/Great Books. 
+- Pedagogy: lower-school contemplative/memory-based; upper-school rigorous study; CM framework; limited explicit Socratic/logic/rhetoric pedagogy in public content. fileciteturn0file4turn0file6
+- Faculty: named staff structures (Administrative/Aspen/Birch, Board); leadership and mentorship implications present though explicit “living curriculum” phrasing is inferred rather than explicit. 
+- Parents/Community: strong family partnership; parents as co-educators; open to visits; mission-centered on parental involvement. fileciteturn0file2turn0file4
+
+If you’d like, I can extract direct quotes or create a side-by-side rubric appendix mapping each keyword to the exact category appearance.

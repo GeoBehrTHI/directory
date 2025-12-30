@@ -1,0 +1,16 @@
+## ABSTRACT
+
+Covenant High School (Tacoma, WA 98465) presents a strong CLASSICAL profile across all six rubric categories. The school’s public materials foreground a Christ-centered mission, teleology toward virtue and wisdom, and a robust classical curriculum featuring Socratic pedagogy, discussion of great works, and cross-disciplinary integration. The Exordium and faculty perspectives emphasize mentorship, living curriculum, and a collaborative culture with families, aligning with the “Partnership with Families” and “Formation of Affections” keywords from the classical canon. Explicit theological framing—Christ-centered education, worship context, and doctrinal statements—grounds the Religious & Metaphysical Foundations category in a Transcendental moral realism and a grounded theology in line with the Six Essential Elements’ Positive keyword indicators. The Curriculum and Pedagogy sections reflect Seven Liberal Arts–inflected thinking (grammar/logic/rhetoric) and a focus on reading broadly, logical reasoning, and literature of the Western canon, alongside modern college-credit opportunities. Faculty bios and leadership language reinforce the classical living-curriculum model, while parent/community structures show a robust form of partnership with families and an emphasis on communal life.
+
+- Religious and Metaphysical Foundations: CLASSICAL — Strong Christ-centered, theological grounding with liturgical/community rhythm evident in Covenant’s mission and statements. 
+- Purpose and Goal: CLASSICAL — Formation of virtue and wisdom through a Christian frame; true/good/beautiful orientation. 
+- Curriculum: CLASSICAL — Classical content and method; emphasis on logic, broad reading, and “great works” in a cross-disciplinary liberal-arts frame. 
+- Pedagogy: CLASSICAL — Socratic discussion, cross-curricular classics, reflective learning; integrated approach to learning. 
+- Faculty: CLASSICAL — Mentoring teachers; teachers as role models; living curriculum; strong bios and faith integration.  
+- Parents & Community: CLASSICAL — Strong parent partnership; active involvement; tuition assistance; family engagement; campus visits encouraged. 
+
+Aggregate Ranking: CLASSICAL.
+
+This assessment integrates both the Covenant High School crawl content (which demonstrates explicit classical and Christian commitments) and the classical-criteria lexicon and indicators from the Six Essential Elements (e.g., Seven Liberal Arts, Great Books/Great Conversation, partnership with families, liturgical practices, and formation-focused aims). The public materials show substantial alignment with the positive keyword indicators across all six categories, yielding a cohesive CLASSICAL classification. The school’s public messaging and programmatic features consistently map to the six-category rubric without significant evidence of the negative keyword indicators in the provided content.   
+
+Note: All six categories were evaluated with keyword-based analysis drawn from Covenant High School’s public materials and matched against the Positive/Negative Keyword Indicators described in the Six Essential Elements of a Classical School (1) document. See accompanying citations for source material.

@@ -1,0 +1,26 @@
+## ABSTRACT
+
+Regina Coeli Academy Pa 19001 demonstrates a CLASSICAL orientation, anchored in Catholic formation and a time-tested liberal-arts curriculum. The school explicitly situates itself within a classical educational frame through a Trivium-centered curriculum (grammar, logic, rhetoric) and a Catholic approach that integrates Scripture, Tradition, and Magisterial teaching across disciplines. Public materials emphasize liturgy, Mass, catechesis, virtue formation, and the cultivation of wisdom, with a strong commitment to small class sizes, dedicated faculty, and a partnership with parents and the wider faith community.
+
+Key observations by category:
+- Religious and Metaphysical Foundations: Strong Catholic liturgical life and theology integration; Mass and liturgical practices are explicit; catechesis and Magisterial teaching are woven into the curriculum. This aligns with transcendental moral realism and theology-based grounding characteristic of classical education. 
+- School Purpose and Goal: Emphasis on formation, virtue, wisdom, and the pursuit of truth, goodness, and beauty; the mission foregrounds human flourishing in a classical frame.
+- Curriculum: Core classical elements (Trivium; liberal arts; Latin/Greek) are present; Great Books/Great Conversation are not explicitly foregrounded in publicly accessible content, which places RCA toward SOMEWHAT CLASSICAL on that axis, though the Trivium and liberal-arts framing are strong signals.
+- Pedagogy: Combines contemplative/restful elements with memorization and memory-work (lower grades) and rhetoric/public-speaking aims (upper grades); presence of Student Forum and public-speaking development indicates some classical pedagogy, though not a fully explicit high-school Socratic program in the public content.
+- Faculty: Described as model teachers and mentors; the living-curriculum concept and small class sizes are highlighted, indicating a robust classical faculty culture.
+- Parents & Community: Clear emphasis on parental partnership, formation, and open-campus opportunities; community ties and catechesis at home are described, which align with classical-community expectations.
+
+Cited evidence includes RCA materials detailing the Curriculum Framework and mission (Catholic formation integrated throughout the curriculum; Trivium-based learning) and faculty/community signals (small classes; dedicated faculty; parent involvement). See materials on curricula and religious life for details.    
+
+- The Positive Keyword Indicators (from the Six Essential Elements lexicon) such as truth, virtue, theology, liturgy, catechesis, Trivium, liberal arts, great books, and public speaking are reflected in RCA’s public content in various combinations; the school’s Catholic formation, liturgical life, and Trivium-based curriculum are particularly salient. The absence of explicit Great Books emphasis in the public-facing content explains the SOMEWHAT CLASSICAL rating for Curriculum and Pedagogy, while the other categories meet or exceed classical benchmarks. The lexicon and indicators provide a framework to interpret these signals as CLASSICAL overall, with room to deepen Great Books integration for a full CLASSICAL alignment. The lexicon document used for keyword indicators is the classicality_lexicon.v2.2.txt, which lists the positive indicators (e.g., liberal arts, Trivium, great books, theology, liturgy, virtue, formation, etc.) and negative indicators (e.g., project-based learning dominance, relativism). 
+
+End of ABSTRACT
+
+- This evaluation used both the school-specific crawl content (Regina Coeli Academy site materials) and the classical education knowledge base (Six Essential Elements of a Classical School) to apply the six-category rubric and the keyword framework. The school’s materials align strongly with CLASSICAL characteristics, particularly in Religious Foundations, School Purpose/Goal, Faculty, and Parents & Community. The Curriculum and Pedagogy appear very strong but would be even more fully CLASSICAL with an explicit Great Books/Great Conversation emphasis and enhanced Socratic-seminar pedagogy in the upper grades. The overall assessment remains CLASSICAL, with explicit opportunities for growth toward a more fully integrated Great Books-centric classical program.
+
+Notes on sources (selected):
+- Evidence of Catholic formation, liturgical life, and integration of theology across curriculum: RCA materials including “Curriculum Framework” and “Welcome from the Head of School” (Mass, liturgy, Catechesis, Magisterial teaching)  .
+- Explicit Trivium and liberal-arts orientation; Latin/Greek instruction mentioned; history framing; and the classical mission: Curriculum pages and mission statements   .
+- Pedagogical cues (memory work, chanting, singing; Student Forum; public speaking): Curriculum & Pedagogy references, alumni notes, and program descriptions  .
+- Faculty and community: Small classes, dedicated faculty, living-curriculum language; parent involvement and book studies   .
+- Classical keyword framework: The Six Essential Elements lexicon provides the positive/negative indicators used for the category analyses (e.g., Trivium, liberal arts, Great Books, liturgy, formation, etc.) .

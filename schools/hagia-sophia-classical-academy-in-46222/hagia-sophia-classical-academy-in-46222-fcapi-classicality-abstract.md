@@ -1,0 +1,4 @@
+## ABSTRACT
+Austin Classical School is CLASSICAL overall. Its mission centers on glorifying Jesus Christ and cultivating wisdom and virtue, guided by the transcendentals of truth, goodness, and beauty. Curriculum and pedagogy are emphatically classical: Trivium structure, Latin through middle grades, formal logic and rhetoric, primary sources/Great Books, integrated humanities and sciences, memory work, Socratic discussion, and a senior thesis with oral defense. Parents are treated as true partners through a collaborative model and explicit parent formation steps. The Faculty section is the only softer area, as the public site shares fewer details about teacher formation or a formal portrait of a teacher. Category ratings: Religious/Metaphysical—Classical; Purpose/Goal—Classical; Curriculum—Classical; Pedagogy—Classical; Faculty—Somewhat Classical; Parents/Community—Classical.    
+
+---

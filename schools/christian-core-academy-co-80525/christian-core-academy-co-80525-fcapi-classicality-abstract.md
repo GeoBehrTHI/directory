@@ -1,0 +1,5 @@
+## ABSTRACT
+
+Christin Core Academy Co 80525’s public-facing materials (via the LatinschoolCo/GMA content in the crawl) substantiate a CLASSICAL education orientation. The program foregrounds God-centered formation, biblical literacy, and a Judeo-Christian worldview as foundational to all learning. The curriculum is grounded in the liberal arts (grammar, logic, rhetoric; arithmetic, geometry, music, astronomy) and integrates Great Books, living books, and classical languages (Latin, Greek, Hebrew), with history taught through interconnected historical-literary inquiry rather than as social studies. Pedagogy emphasizes Socratic discussion, memory work, recitation/narration, and a contemplative, scholé approach to learning, while upper grades foster rhetoric and public speaking. Faculty are portrayed as mentors and living exemplars, and parents are treated as co-educators in a robust partnership with the school. Together, these elements align with the classical education rubric in the provided knowledge-base and lexicon. The aggregate assessment is CLASSICAL.
+
+End of report.

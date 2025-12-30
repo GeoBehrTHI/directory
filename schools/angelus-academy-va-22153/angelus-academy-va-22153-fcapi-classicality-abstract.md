@@ -1,0 +1,12 @@
+## ABSTRACT
+- Overall classification: SOMEWHAT CLASSICAL.
+- Most important insights:
+  - Strong, explicit classical Christian aims: truth, goodness, beauty; formation in wisdom and virtue; biblically grounded and gospel‑centered; prayerful community; parent partnership   .
+  - Missing from public pages: explicit Trivium/Latin/Great Books claims; explicit K‑8 chanting/singing descriptions and upper‑school Socratic/rhetoric features; explicit teacher‑as‑mentor “portrait.”
+- Category summary:
+  - Religious/Metaphysical Foundations: CLASSICAL (explicit T‑G‑B; theology; prayer)   .
+  - Purpose & Goal: CLASSICAL (formation in wisdom/virtue; love of T‑G‑B) .
+  - Curriculum: SOMEWHAT CLASSICAL (fine arts/literature present; public statements about Trivium/Latin/Great Books not yet explicit) .
+  - Pedagogy: SOMEWHAT CLASSICAL (recitation evident; Socratic/scholé/rhetoric orations not explicitly presented) .
+  - Faculty: SOMEWHAT CLASSICAL (esteem for teachers present; explicit “teacher as mentor/living curriculum” language not evident) .
+  - Parents & Community: CLASSICAL (partnership, hospitality, community prayer/events)    .

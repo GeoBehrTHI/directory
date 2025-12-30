@@ -1,0 +1,9 @@
+## ABSTRACT
+
+Mansfield Classical Academy Oh 44905 presents a Christian, classical program with strong emphasis on parent-led teaching and a theological framing that aligns closely with Religious and Metaphysical Foundations and Parents & Community. Public materials reflect a formation-oriented aim (leadership within family and community) and a Christ-centered, biblical worldview, reinforcing a CLASSICAL signal in those two categories. However, explicit articulation of core classical-curriculum components (Great Books/Great Conversation) and explicit classical pedagogical practices (Socratic dialogue, scholé, memory work) is less visible in the public materials, placing Curriculum and Pedagogy in the SOMEWHAT CLASSICAL range. Faculty portrayal and a more detailed articulation of a “living curriculum” are also less explicit publicly, contributing to a SOMETIMES CLASSICAL signal there. The aggregate assessment places Mansfield Classical Academy in the SOMEWHAT CLASSICAL range overall, with two clear CLASSICAL signals and four areas that would benefit from stronger public articulation to move toward full classical alignment.
+
+Notes on sources and keyword framework used:
+- Public school language and positioning (Christ-centered, classical, Latin schole, parent-led teaching) were drawn from the Mansfield Classical Academy homepage and firecrawl content.  
+- ACCS membership and accreditation notes were drawn from the site’s content. 
+- The Six Essential Elements of a Classical School (1) document provides the canonical six-category rubric, with both positive and negative keyword indicators used for scoring. See the document for the framework and keyword lists. 
+- The keyword lexicon (classicality_lexicon.v2.2.txt) provides positive/negative indicators aligned with each category to ground keyword analysis.

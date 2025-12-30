@@ -1,0 +1,12 @@
+## ABSTRACT
+
+Christ King Academy Wa 98531 (CKA) demonstrates a strong CLASSICAL orientation across most of the classical education rubric. The public-facing materials emphasize robust Christian formation, classical curriculum elements (grammar/logic/rhetoric; Latin; Great Books; memorization; singing/chanting), and a partnership model with parents as co-educators. Category-by-category keyword analysis confirms alignment with Positive Keywords for Religious and Metaphysical Foundations, School Purpose and Goal, Curriculum, Faculty, and Parents & Community, with Pedagogy showing substantial classical signals (memory/chanting and Scholé-like cadence) but less explicit, widespread use of Socratic seminars across all grades. This places CK A firmly in CLASSICAL territory, with Pedagogy offering the primary needle-mover opportunity to reach full Classical status.
+
+- Executive Summary — Category 1: CLASSICAL; Category 2: CLASSICAL; Category 3: CLASSICAL; Category 4: SOMEWHAT CLASSICAL; Category 5: CLASSICAL; Category 6: CLASSICAL.
+- What Would Move the Needle: Strength explicit Socratic/seminar pedagogy and Great Books integration across disciplines; reinforce Scholé/restful learning; expand teacher-practice documentation for the public to demonstrate catechetical and virtuous teacher models.
+- Overall: CLASSICAL
+
+Notes on sources cited in this evaluation:
+- Core CK A public materials indicating Christian, classical formation, and parental-partner ethos: “We believe that education is discipleship; it is never neutral. We unashamedly teach every subject from a distinctively Christian worldview,” and “We are Thoroughly Classical,” with emphasis on Psalms/Hymns, Bible/Poetry memorization, Latin, Logic, and Rhetoric. Also, the emphasis on parental partnership and school-home collaboration is documented, along with a Four + One model and a robust staff profile. See CK A About and Staff pages and related public posts.     
+- ACCS membership and mission statements supporting classical Christian identity and Great Books/paideia framing: CK A “CKA is welcomed into the Association of Classical Christian Schools (ACCS)” and mission/vision statements. 
+- Public posts and pages indicating Great Books, Latin/Logic/Rhetoric, and a classical approach to education; “Plan Your Visit,” “Parent Academy,” and “What is Classical Education?” media and text indicate continued classical framing.

@@ -1,0 +1,13 @@
+## ABSTRACT
+
+- Gulf Pointe Latin School Flo 32566 demonstrates a fully CLASSICAL orientation across all six classical-school categories: Religious and Metaphysical Foundations, School Purpose and Goal, Curriculum, Pedagogy, Faculty, and Parents & Community. Evidence from public materials shows explicit classical framing, Christian/theological grounding, a liberal-arts curriculum centered on grammar/logic/rhetoric (with extensive Latin/Greek and Great Books-like content), a pedagogy that blends contemplative memory work with Socratic/seminar-style upper-level work, a faculty model of mentorship and living curriculum, and robust parent/community partnerships. The Positive Keyword indicators from the Six Essentials lexicon appear prominently in Gulf Pointe’s public materials, with essentially no Negative keyword signals detected in the school’s public documents for these categories. This alignment underpins an overall CLASSICAL classification.
+
+- Key sources underpinning the assessment include the About page and Values (classical, Christian, traditional framing; Latin emphasis) and explicit faith elements (Apostles’ Creed; chapel), faculty pages, curriculum pages featuring the Greeks and Romans, logic/rhetoric progression, and upper-level rhetoric pedagogy, as well as parent resources and campus-tour materials. These insights are corroborated by the Classicality Lexicon, which maps the school’s textual signals to the positive/negative keyword indicators for each category.      
+
+---
+
+Note: All six categories are assessed as CLASSICAL based on the keyword-driven rubric and the concrete public materials available from Gulf Pointe Latin School. The keyword lists and analysis method are grounded in the Six Essential Elements of a Classical School (1) lexicon and its Positive/Negative keyword indicators. The lexicon and its category mappings are documented in the lexicon resource. 
+
+ABSTRACT
+
+Gulf Pointe Latin School (Navarre, FL 32566) is CLASSICAL overall. Each category—Religious and Metaphysical Foundations, School Purpose and Goal, Curriculum, Pedagogy, Faculty, and Parents & Community—exhibits explicit classical signals in public materials (classical framing, Christian/theological grounding, grammar/logic/rhetoric curriculum, Latin/Great Books-influenced content, upper-level rhetorical pedagogy, model faculty, and strong parent partnership). The Positive keyword indicators from the Six Essential Elements lexicon align with the school’s messaging, and Negative indicators are not evident in the public materials affecting these six domains. The aggregate portrait is a coherent, fully classical program.

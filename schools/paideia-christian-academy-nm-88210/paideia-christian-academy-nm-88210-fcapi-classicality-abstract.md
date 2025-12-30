@@ -1,0 +1,14 @@
+## ABSTRACT
+
+- Overall classification: SOMEWHAT CLASSICAL
+- Core rationale: The Paideia Christian Academy NM 88210 site communicates a private, Christian, classical identity with a curriculum described as classically based (language, mathematics, rhetoric, history, art, literature) and a mission framed as formation of virtuous character within a Christian worldview. This supports strong Religious Metaphysical Foundations and School Purpose/Goal signals, and explicit Parent-Community partnership signals align with Classical practice. However, explicit evidence for key classical pedagogy (Socratic seminars, scholé/restful learning, memorization/recitation), explicit Great Books/Great Conversation, and a fully articulated Trivium/Quadrivium curriculum is not publicly present in the available materials, which reduces the Curriculum, Pedagogy, and Faculty signals to partial or uncertain levels. Accordingly, the aggregate classification is SOMEWHAT CLASSICAL, with concrete steps outlined above that would push the school toward full CLASSICAL status.
+
+- Category-by-category snapshot (highlights):
+  - Category 1 (Religious and Metaphysical Foundations): CLASSICAL. Evidence of Christian worldview and theology framing; explicit faith content in About/Mission materials. Positive keywords aligned with theology/scripture; liturgical depth not clearly documented. Citations: About text; Six Elements lexicon. 
+  - Category 2 (School Purpose and Goal): CLASSICAL. Formation/virtue orientation and Christian teleology; absence of workforce-centric language in public materials. Citations: About page statements; Six Elements lexicon. 
+  - Category 3 (Curriculum): SOMEWHAT CLASSICAL. Classical in name and subject areas listed (language, mathematics, rhetoric, history, art, literature) but lacks explicit Great Books/Great Conversation and full Trivium/Quadrivium mapping in public materials. Citations: About page; Six Elements lexicon. 
+  - Category 4 (Pedagogy): NOT CLASSICAL. Public site does not document the explicit classical methods (Socratic, scholé, chant/memory, etc.). Citations: About page; Six Elements lexicon. 
+  - Category 5 (Faculty): NOT CLASSICAL. No explicit faculty portraits or “living curriculum” descriptions in public materials. Citations: About page; Six Elements lexicon. 
+  - Category 6 (Parents & Community): CLASSICAL. Strong parental partnership signals, co-educator framing, and community engagement. Citations: About page; Six Elements lexicon. 
+
+Note: All keyword and category assessments above reference the public school materials (About page and mission cues) and the classical education rubric and keyword lexicons from the knowledge base (Six Essential Elements of a Classical School) to ground the analysis. The primary sources used include Paideia Christian Academy NM 88210 About page content and the Six Essential Elements keyword framework. Citations for these sources are included inline above.

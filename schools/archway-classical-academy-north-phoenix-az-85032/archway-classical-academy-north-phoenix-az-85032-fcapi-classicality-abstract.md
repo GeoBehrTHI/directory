@@ -1,0 +1,3 @@
+## ABSTRACT
+
+Archway Classical Academy North Phoenix demonstrates CLASSICAL alignment across all six categories of classical education: (1) Religious and Metaphysical Foundations, (2) School Purpose and Goal, (3) Curriculum, (4) Pedagogy, (5) Faculty, and (6) Parents & Community. The public-facing materials show a deliberate emphasis on truth, goodness, and beauty; a liberal-arts curriculum rooted in the Western tradition; Great Books and Socratic pedagogy; and an engaged, mentor-driven faculty culture with strong parent involvement. The school presents explicit signals of formation, virtue, and a living curriculum, consistent with classic paideia aims and the Great Hearts model. The aggregated result is CLASSICAL, with supporting evidence across all six categories.

@@ -1,0 +1,3 @@
+## ABSTRACT
+
+Founders Classical Academy - Tyler demonstrates a classical orientation in formation, virtue-centered goals, and family-community partnerships, with a liberal-arts curricular frame. However, explicit articulation of core Classical pedagogy (Socratic methods, scholé, liturgical cadence), and explicit reference to Great Books/Great Conversation and the Trivium in public materials are not consistently present. The school thus sits in the SOMEWHAT CLASSICAL category overall, with clear strengths in School Purpose & Goal and Parents/Community and with opportunities to strengthen Curriculum, Pedagogy, and Faculty alignment to reach CLASSICAL status.
