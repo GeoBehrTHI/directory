@@ -1,0 +1,61 @@
+{
+ "enroll_now_url": "https://discovercovenant.com/admissions/", 
+ "contact_us_url": "https://discovercovenant.com/contact/", 
+ "enroll_aliases": [
+   "https://discovercovenant.com/admissions/", 
+   "https://discovercovenant.com/admissions-process/"
+ ],
+ "contact_aliases": [
+   "https://discovercovenant.com/contact/", 
+   "mailto:Office@DiscoverCovenant.com"
+ ],
+ "cta_evidence": [
+   {
+     "type": "enroll",
+     "url": "https://discovercovenant.com/admissions/",
+     "text": "Apply Today / Admissions",
+     "source": "homepage nav"
+   },
+   {
+     "type": "contact",
+     "url": "https://discovercovenant.com/contact/",
+     "text": "Contact",
+     "source": "homepage nav/footer"
+   }
+ ],
+ "homepage_title": "Covenant Christian Academy – Greater Harrisburg's Classical Christian School",
+ "homepage_url": "https://discovercovenant.com/",
+ "homepage_screenshot_ref": null,
+ "favicon_url": "https://discovercovenant.com/wp-content/uploads/2015/07/logo-icon.png",
+ "contacts": [
+   {
+     "name": "Dulci Brubaker",
+     "email": "Dulci.Brubaker@DiscoverCovenant.com",
+     "phone": "717-540-9885 ext. 232"
+   },
+   {
+     "name": "Katie Broeg",
+     "email": "Katie.Broeg@DiscoverCovenant.com",
+     "phone": "717-540-9885 ext. 555"
+   },
+   {
+     "name": "Office Main",
+     "email": "Office@DiscoverCovenant.com",
+     "phone": "717-540-9885"
+   }
+ ],
+ "locations": [
+   {
+     "location_name": "Main Campus",
+     "location_type": "Campus",
+     "page_url": "https://discovercovenant.com/",
+     "address": "1982 Locust Lane, Harrisburg, PA 17109",
+     "phone": "717-540-9885",
+     "email_or_contact_link": "Office@DiscoverCovenant.com",
+     "map_link": null,
+     "evidence": [
+       "address line on homepage lines 128-133"
+     ]
+   }
+ ]
+}
