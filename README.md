@@ -1,4 +1,4 @@
-# School Directory Repository
+# S3 School Directory Repository
 
 This repository contains published school files and data that are synced from the THI application.
 
@@ -7,7 +7,7 @@ This repository contains published school files and data that are synced from th
 ```
 .
 ├── data/
-│   ├── THI-directory_csv_master.csv          # Full listing of published schools
+│   ├── THI-directory_csv_master.csv          # Current Full listing of published schools
 │   └── archives/                             # Historical CSV exports
 │       ├── THI-directory_csv_master-20251018.csv
 │       ├── THI-directory_csv_master-20251017.csv
