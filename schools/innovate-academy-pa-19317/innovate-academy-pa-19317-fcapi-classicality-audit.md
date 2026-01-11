@@ -1,6 +1,6 @@
 ## Executive Summary
 
-Innovate Academy Pa 19317 presents as a church-affiliated classical Christian school operating in the Chen or Delaware County area (Calvary Chapel Delaware County network). Public materials consistently label it as a “classical Christian school,” which signals a strong religious/metaphysical foundation and a classical branding. Evidence from the crawl indicates focus on faith formation, worship, and family discipleship, with explicit ties to a church context (e.g., Calvary Chapel Delaware County). However, explicit classical curriculum specifics (e.g., Great Books, grammar–logic–rhetoric sequence, Latin, or a clearly codified Trivium/Quadrivium approach) and explicit classical pedagogy (e.g., Socratic seminars, scholé, or rigorous rhetorical training) are not clearly articulated in the materials available from the site. The school does show a family-oriented community ecosystem ( Journey Kids, parental engagement through church and school activities), but the explicit articulation of what would render it a full classical program on all six rubric categories is incomplete.
+Innovate Academy (Chadds Ford, PA, 19317) presents as a church-affiliated classical Christian school operating in the Chen or Delaware County area (Calvary Chapel Delaware County network). Public materials consistently label it as a “classical Christian school,” which signals a strong religious/metaphysical foundation and a classical branding. Evidence from the crawl indicates focus on faith formation, worship, and family discipleship, with explicit ties to a church context (e.g., Calvary Chapel Delaware County). However, explicit classical curriculum specifics (e.g., Great Books, grammar–logic–rhetoric sequence, Latin, or a clearly codified Trivium/Quadrivium approach) and explicit classical pedagogy (e.g., Socratic seminars, scholé, or rigorous rhetorical training) are not clearly articulated in the materials available from the site. The school does show a family-oriented community ecosystem ( Journey Kids, parental engagement through church and school activities), but the explicit articulation of what would render it a full classical program on all six rubric categories is incomplete.
 
 Overall, the school leans toward CLASSICAL in its religious/theological orientation but shows weaker alignment in fully explicit classical curricular and pedagogical signatures across the six-element rubric. The aggregate assessment is SOMEWHAT CLASSICAL.
 
@@ -14,29 +14,29 @@ Evidence
 - Content from related church materials references Scripture, Bible memory, and discipleship themes (Journey Kids; JKids) that accompany the school program, reinforcing a liturgical/communal spiritual framework. 
 
 Positive/Negative keyword analysis
-- Positive indicators found: theology, worship, God’s love, discipleship, sacred/communal religious life (e.g., “classical Christian school,” “worship,” “Bible memory,” “discipling”). These correspond to positive signals in the Religious and Metaphysical Foundations lexicon (theology, liturgy, worship, wonder, etc.). fileciteturn0file2turn0file4turn0file17
+- Positive indicators found: theology, worship, God’s love, discipleship, sacred/communal religious life (e.g., “classical Christian school,” “worship,” “Bible memory,” “discipling”). These correspond to positive signals in the Religious and Metaphysical Foundations lexicon (theology, liturgy, worship, wonder, etc.). 
 - Negative indicators: none clearly evident in public materials (no explicit relativism, secular humanism, or other negative signals appear in the visible excerpts). 
 
 Why this rating
-- The material presents a robust religious/metaphysical foundation (theology/worship/discipleship) and explicitly labels the school as classical Christian, which aligns with the Positive signals for this category. The absence of overt secular or contradicting signals reinforces CLASSICAL in this area. fileciteturn0file2turn0file4turn0file17
+- The material presents a robust religious/metaphysical foundation (theology/worship/discipleship) and explicitly labels the school as classical Christian, which aligns with the Positive signals for this category. The absence of overt secular or contradicting signals reinforces CLASSICAL in this area. 
 
 ### Element 2: School Purpose and Goal — SOMEWHAT CLASSICAL
 
 Evidence
 - Public materials emphasize formation, faith-driven aims, and a sense of formation around God-centered aims rather than purely vocational preparation. The phrase “classical Christian school” signals a traditional educational telos beyond job training. 
-- The Journey Kids/JKids material suggests a family/discipleship orientation and ongoing relational formation within the faith community (e.g., Bible memory, family discipleship, worship-centered programming). fileciteturn0file4turn0file17
+- The Journey Kids/JKids material suggests a family/discipleship orientation and ongoing relational formation within the faith community (e.g., Bible memory, family discipleship, worship-centered programming). 
 
 Positive/Negative keyword analysis
 - Positive indicators present: formation, virtue-related language, pursuit of truth/faith, classical mission (as indicated by “classical Christian school”). The explicit Great Conversation/Great Books language is not present in the visible site text, which limits the full Classical alignment for this category. 
 - Negative indicators: none explicit in the public materials; however, absence of explicit classical aims like “great books,” “liberal arts telos” or “truth/beauty/virtue through the Great Conversation” reduces the strength of a full CLASSICAL signal. 
 
 Why this rating
-- The school shows formation-oriented aims rooted in Christian formation and discipleship, which is consistent with the classical tradition’s focus on formation of character and wisdom. Yet, without clear articulation of classical telos elements (e.g., truth–goodness–beauty as knowable, or explicit Great Books/Great Conversation language), the score remains SOMETIME CLASSICAL rather than CLASSICAL. fileciteturn0file2turn0file17
+- The school shows formation-oriented aims rooted in Christian formation and discipleship, which is consistent with the classical tradition’s focus on formation of character and wisdom. Yet, without clear articulation of classical telos elements (e.g., truth–goodness–beauty as knowable, or explicit Great Books/Great Conversation language), the score remains SOMETIME CLASSICAL rather than CLASSICAL. 
 
 ### Element 3: School Curriculum — NOT CLASSICAL
 
 Evidence
-- The site describes the school as “classical Christian,” but explicit curricular components aligned with classical education (liberal arts framework, Grammar–Logic–Rhetoric sequence, Great Books, Latin, or Quadrivium/Trivium) are not explicitly documented in the available public material. The curriculum references include “PreK–8th grade classical Christian school” with biblical/theological framing and a curriculum note about “Answers in Genesis Curriculum” for some age bands (which emphasizes biblical content rather than a stated classical liberal arts sequence). fileciteturn0file2turn0file4
+- The site describes the school as “classical Christian,” but explicit curricular components aligned with classical education (liberal arts framework, Grammar–Logic–Rhetoric sequence, Great Books, Latin, or Quadrivium/Trivium) are not explicitly documented in the available public material. The curriculum references include “PreK–8th grade classical Christian school” with biblical/theological framing and a curriculum note about “Answers in Genesis Curriculum” for some age bands (which emphasizes biblical content rather than a stated classical liberal arts sequence). 
 - No explicit mention of Great Books, Great Conversation, logic or rhetoric training, Latin or Greek, or a formal Trivium/Quadrivium progression in the accessible public materials. 
 
 Positive/Negative keyword analysis
@@ -49,7 +49,7 @@ Why this rating
 ### Element 4: Pedagogy or Teaching Methods — NOT CLASSICAL
 
 Evidence
-- Public materials emphasize faith formation and worship-related experience, with limited explicit mention of classical pedagogical methods such as Socratic dialogue, scholé, or a rigorous Trivium-based approach. The site highlights roles like “Head of School,” “Music mentor,” and youth ministry staff, rather than a structured classical pedagogy framework. fileciteturn0file2turn0file13
+- Public materials emphasize faith formation and worship-related experience, with limited explicit mention of classical pedagogical methods such as Socratic dialogue, scholé, or a rigorous Trivium-based approach. The site highlights roles like “Head of School,” “Music mentor,” and youth ministry staff, rather than a structured classical pedagogy framework. 
 - There is mention of a church context and family discipleship activities, but not a clear articulation of contemplative, Socratic seminars, or rhetoric-based public speaking programs as core pedagogy. 
 
 Positive/Negative keyword analysis
@@ -62,20 +62,20 @@ Why this rating
 ### Element 5: Faculty — SOMEWHAT CLASSICAL
 
 Evidence
-- Public materials identify a formal leadership structure (e.g., Head of School) and named staff (e.g., Monica Guaglione, Head of School; Ken Frieson, Middle School Pastor; Nichole Peta, Family Ministry Operations Manager). This signals a structured faculty and leadership corps rather than anonymous teaching staff. fileciteturn0file2turn0file13
+- Public materials identify a formal leadership structure (e.g., Head of School) and named staff (e.g., Monica Guaglione, Head of School; Ken Frieson, Middle School Pastor; Nichole Peta, Family Ministry Operations Manager). This signals a structured faculty and leadership corps rather than anonymous teaching staff. 
 - The presence of a “living curriculum” concept is not explicitly stated, but the faculty are positioned as faith-mentors in a church-linked setting, which in classical terms can align with a model where mentors embody and convey the formation goals. However, explicit classical faculty descriptors (portrait of teacher, living curriculum, faculty of friends, etc.) are not directly stated. 
 
 Positive/Negative keyword analysis
-- Positive indicators: named senior leader and staff, indicating a professional faculty structure; the integration of staff with faith formation roles (e.g., “Middle School Pastor”) aligns with the classical emphasis on a virtuous teacher as exemplar and mentor. fileciteturn0file2turn0file13
+- Positive indicators: named senior leader and staff, indicating a professional faculty structure; the integration of staff with faith formation roles (e.g., “Middle School Pastor”) aligns with the classical emphasis on a virtuous teacher as exemplar and mentor. 
 - Negative indicators: lack of explicit language about living curriculum, classical teacher portraits, or collegial teacher culture beyond standard roles. The available materials do not present the classical faculty image in the explicit lexicon of the Six Essential Elements. 
 
 Why this rating
-- The visible signs point to a structured faculty with faith-embedded leadership and roles. While this does not fully meet the classical faculty portraits described in the canonical lexicon (e.g., “living curriculum” teachers), the presence of named leaders and faith-mentoring roles provides a partial alignment, justifying SOMEWHAT CLASSICAL rather than NOT CLASSICAL in pedagogy/faculty alignment. fileciteturn0file2turn0file13
+- The visible signs point to a structured faculty with faith-embedded leadership and roles. While this does not fully meet the classical faculty portraits described in the canonical lexicon (e.g., “living curriculum” teachers), the presence of named leaders and faith-mentoring roles provides a partial alignment, justifying SOMEWHAT CLASSICAL rather than NOT CLASSICAL in pedagogy/faculty alignment. 
 
 ### Element 6: Parents & Community — SOMEWHAT CLASSICAL
 
 Evidence
-- The program includes family/disciple-making elements (Journey Kids, JKids at Home, parent involvement in safety and church-related activities), indicating ongoing partnership with parents and a community-centered model. The JKids program and family discipleship language signal active engagement with parents/guardians. fileciteturn0file4turn0file17
+- The program includes family/disciple-making elements (Journey Kids, JKids at Home, parent involvement in safety and church-related activities), indicating ongoing partnership with parents and a community-centered model. The JKids program and family discipleship language signal active engagement with parents/guardians. 
 - There is evidence of a public-facing partnership model with families (e.g., events, ministries, and faith-based programming) and a willingness to engage families in school-related activities through church-affiliated channels. 
 
 Positive/Negative keyword analysis
@@ -83,7 +83,7 @@ Positive/Negative keyword analysis
 - Negative indicators: explicit “co-teacher” dynamic (parents as co-teachers) is not fully documented in the public materials; while there is strong parent/community engagement, the explicit co-teacher framework is not clearly stated. 
 
 Why this rating
-- The school demonstrates meaningful parent/community engagement typical of classical Christian settings (family involvement, discipleship, events). However, explicit articulation of “parents as co-teachers” or formal parent-education offerings beyond church/faith activities is not clearly documented in the visible materials. This yields SOMEWHAT CLASSICAL for this category. fileciteturn0file4turn0file17
+- The school demonstrates meaningful parent/community engagement typical of classical Christian settings (family involvement, discipleship, events). However, explicit articulation of “parents as co-teachers” or formal parent-education offerings beyond church/faith activities is not clearly documented in the visible materials. This yields SOMEWHAT CLASSICAL for this category. 
 
 Aggregate assessment
 - Element 1: CLASSICAL

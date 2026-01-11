@@ -27,11 +27,11 @@ Evidence
 - The Fine Arts section frames art as worship and a means to glorify God, reinforcing a sacred-context dimension (the arts connect us to God and allow expression of ideas related to Him). 
 
 Positive/Negative Keyword Analysis
-- Positive keywords found: truth, theology, chapel, liturgy, worship (through chapel and liturgical associations), God, creed, sacred, wisdom, virtue, Gospel/the Word, biblical, church affiliation. The Statement of Faith explicitly ties truth to biblical authority and theology, and the chapel/worship references add liturgical texture.  
+- Positive keywords found: truth, theology, chapel, liturgy, worship (through chapel and liturgical associations), God, creed, sacred, wisdom, virtue, Gospel/the Word, biblical, church affiliation. The Statement of Faith explicitly ties truth to biblical authority and theology, and the chapel/worship references add liturgical texture. 
 - Negative keywords found: Not evident in the public materials reviewed. No explicit signals of relativism, secular humanism, or values-clarification in the accessible pages. The lexicon notes negative signals theoretically, but PCS materials show no clear presence of them.
 - Frequency/Proportion: Positive keywords (roughly 4–6 distinct terms across multiple pages) dominate; negative signals appear negligible or absent in the core public content.
 Why this rating
-- The school’s own materials foreground a biblical foundation, theology, chapel/worship (liturgical cues), and a Trivium-based, classical approach. This aligns with the Positive Keyword indicators for Religious and Metaphysical Foundations and shows little evidence of negative signals. Therefore, CLASSICAL for this category. fileciteturn0file2turn0file1
+- The school’s own materials foreground a biblical foundation, theology, chapel/worship (liturgical cues), and a Trivium-based, classical approach. This aligns with the Positive Keyword indicators for Religious and Metaphysical Foundations and shows little evidence of negative signals. Therefore, CLASSICAL for this category. 
 
 ### Element 2: School Purpose and Goal — CLASSICAL
 
@@ -41,26 +41,26 @@ Evidence
 - The site references the Trivium (Grammar, Logic, Rhetoric) as the developmental stages of learning, which is central to the classical mission of shaping thinking, virtue, and judgment (a telos-oriented view of education). 
 
 Positive/Negative Keyword Analysis
-- Positive keywords found: formation, virtue, wisdom, classical mission, telos, scholé/contemplation (as implied by the formation-oriented language and classical framing), great conversation (explicitly part of classical heritage (in spirit through primary sources and historical study), and permanent questions (implied by the humanities approach). The site explicitly ties education to virtue and wisdom rather than job-readiness. fileciteturn0file0turn0file9
+- Positive keywords found: formation, virtue, wisdom, classical mission, telos, scholé/contemplation (as implied by the formation-oriented language and classical framing), great conversation (explicitly part of classical heritage (in spirit through primary sources and historical study), and permanent questions (implied by the humanities approach). The site explicitly ties education to virtue and wisdom rather than job-readiness. 
 - Negative keywords found: None of the workforce-readiness or 21st-century-skills framing appears in PCS public materials.
 - Frequency/Proportion: Positive indicators are widely present (formation, virtue, wisdom, classical, telos); negatives are absent in the public content.
 Why this rating
-- The school defines its aim around virtue, wisdom, and formation within a classical frame, not primarily job-prep. This aligns with the Positive keyword indicators for School Purpose and Goal and yields a CLASSICAL rating. fileciteturn0file0turn0file9
+- The school defines its aim around virtue, wisdom, and formation within a classical frame, not primarily job-prep. This aligns with the Positive keyword indicators for School Purpose and Goal and yields a CLASSICAL rating. 
 
 ### Element 3: School Curriculum — CLASSICAL
 
 Evidence
 - The profile explicitly notes: “True to the classical model, students are instructed through the stages of the Trivium (Grammar, Logic and Rhetoric).” This is the core curriculum architecture. 
 - The Grammar School Course of Study shows explicit coverage of Bible, reading, grammar, Latin (Latin for Children), and a history sequence tied to biblical and Western history, with emphasis on primary sources and classical texts (e.g., “History: Creation, Washington, Lincoln, Thanksgiving, AL History Community”). 
-- The Rhetoric Curriculum and the “Dual Enrollment” offerings reveal a path from grammar through rhetoric into advanced coursework, including senior theses and college-level studies (e.g., English/Humanities, Western Civilization, etc.). This aligns with liberal arts and the classical curriculum structure. fileciteturn0file8turn0file1
+- The Rhetoric Curriculum and the “Dual Enrollment” offerings reveal a path from grammar through rhetoric into advanced coursework, including senior theses and college-level studies (e.g., English/Humanities, Western Civilization, etc.). This aligns with liberal arts and the classical curriculum structure. 
 - Humanities core and primary sources are referenced in the School Profile, indicating integration of literature and history with primary-source-based study. 
 
 Positive/Negative Keyword Analysis
-- Positive keywords found: liberal arts, trivium, grammar, logic, rhetoric, great books/primary sources, history, Western civilization, Latin, classical languages, humanities core, primary sources. The public materials indeed emphasize the Trivium, primary-source engagement, and historical/western civ content. fileciteturn0file0turn0file6turn0file8
+- Positive keywords found: liberal arts, trivium, grammar, logic, rhetoric, great books/primary sources, history, Western civilization, Latin, classical languages, humanities core, primary sources. The public materials indeed emphasize the Trivium, primary-source engagement, and historical/western civ content. 
 - Negative keywords found: No clear evidence of social-studies terminology replacing history, or a project-based-first approach; the site emphasizes classical humanities and primary-source engagement. No explicit negative signals observed.
 - Frequency/Proportion: Multiple strong positive indicators across several curriculum facets (Trivium, primary sources, history emphasis, Latin). No clear negative signals.
 Why this rating
-- The curriculum is explicitly built around the Trivium and classical liberal arts, with strong history/humanities integration and classical language study, supporting a CLASSICAL rating. fileciteturn0file0turn0file6turn0file8
+- The curriculum is explicitly built around the Trivium and classical liberal arts, with strong history/humanities integration and classical language study, supporting a CLASSICAL rating. 
 
 ### Element 4: Pedagogy or Teaching Methods — SOMEWHAT CLASSICAL
 
@@ -71,11 +71,11 @@ Evidence
 - The site emphasizes the Trivium pathway (grammar, logic, rhetoric), with a strong emphasis on humanities, philosophy, and primary-source engagement, which are canonical elements of classical pedagogy.
 
 Positive/Negative Keyword Analysis
-- Positive keywords found: Socratic discussions/seminars (explicitly named in the classical lexicon as a positive pedagogical approach) appears in the knowledge-domain lexicon but is not strongly evidenced as a public PCS phrase in all grade levels. However, there are explicit mentions of grammar-logic-rhetoric progression and rhetoric-focused writing/speeches, which are core classical pedagogy. Positive terms likely present include: Socratic/seminal discussions (documented in the lexicon and implied by “Rhetoric” and “Senior Thesis”), narration/recitation (implied by classical structure), memory work, and liturgical integration (chapel/music as memory devices). fileciteturn0file8turn0file7
+- Positive keywords found: Socratic discussions/seminars (explicitly named in the classical lexicon as a positive pedagogical approach) appears in the knowledge-domain lexicon but is not strongly evidenced as a public PCS phrase in all grade levels. However, there are explicit mentions of grammar-logic-rhetoric progression and rhetoric-focused writing/speeches, which are core classical pedagogy. Positive terms likely present include: Socratic/seminal discussions (documented in the lexicon and implied by “Rhetoric” and “Senior Thesis”), narration/recitation (implied by classical structure), memory work, and liturgical integration (chapel/music as memory devices). 
 - Negative keywords found: The public materials do not clearly advertise project-based learning dominance, experiential-learning-only approaches, or constructivist pedagogy as a primary method. The classical frame is maintained through structured Trivium pedagogy and rhetoric in the upper grades. The lack of explicit “Socratic seminars” or “Paideia-style seminars” in the visible pages means partial classical signaling rather than full explicit Socratic pedagogy across the board.
 - Proportion: Positive signals (grammar/logic/rhetoric, rhetoric, memory/recitation, liturgical integration) are present; explicit Socratic/seminar-based pedagogy is not consistently evidenced across all pages, placing this at a moderate level of classical signaling.
 Why this rating
-- PCS demonstrates most features of classical pedagogy (Trivium, rhetoric, memory work, writing-intensive senior projects) but does not consistently document explicit Socratic seminars or scholé-based restful learning across all grades in the publicly visible content. Therefore, SOMEWHAT CLASSICAL. The school clearly leans classical but could strengthen explicit Socratic pedagogy and scholé elements in the messaging. fileciteturn0file0turn0file8
+- PCS demonstrates most features of classical pedagogy (Trivium, rhetoric, memory work, writing-intensive senior projects) but does not consistently document explicit Socratic seminars or scholé-based restful learning across all grades in the publicly visible content. Therefore, SOMEWHAT CLASSICAL. The school clearly leans classical but could strengthen explicit Socratic pedagogy and scholé elements in the messaging. 
 
 ### Element 5: School Faculty — CLASSICAL
 
@@ -99,15 +99,15 @@ Evidence
 - The school’s admissions and involvement-oriented materials (Admission Process, Visit scheduling, etc.) reflect welcoming parents for visits and involvement, consistent with classical practice of parent partnership. 
 
 Positive/Negative Keyword Analysis
-- Positive keywords found: partnership with parents, co-teachers, parental formation, open campus/visits, family participation, seminars/book clubs, liturgical year events, parent covenant. These align with the lexicon’s positive indicators for Parents and Community. fileciteturn0file0turn0file16
+- Positive keywords found: partnership with parents, co-teachers, parental formation, open campus/visits, family participation, seminars/book clubs, liturgical year events, parent covenant. These align with the lexicon’s positive indicators for Parents and Community. 
 - Negative keywords found: None observed in the public content.
 - Frequency/Proportion: Multiple positive signals across communications channels indicate strong engagement with parents and the community; negative signals appear absent.
 Why this rating
-- PCS shows a robust model of parent partnership and community involvement, consistent with CLASSICAL signals in this category. fileciteturn0file0turn0file16
+- PCS shows a robust model of parent partnership and community involvement, consistent with CLASSICAL signals in this category. 
 
 Aggregate Assessment
 - Overall classification: CLASSICAL
-  - Rationale: The school presents a biblically grounded, Trivium-based curriculum; a clear classical mission; strong humanities and language components; a credentialed faculty; and a robust parent/community partnership. The one area with somewhat less explicit signaling (Pedagogy) is offset by strong classical practice in Curriculum, Purpose, and Religious Foundations. The aggregate evidence places PCS firmly within the CLASSICAL band.
+ - Rationale: The school presents a biblically grounded, Trivium-based curriculum; a clear classical mission; strong humanities and language components; a credentialed faculty; and a robust parent/community partnership. The one area with somewhat less explicit signaling (Pedagogy) is offset by strong classical practice in Curriculum, Purpose, and Religious Foundations. The aggregate evidence places PCS firmly within the CLASSICAL band.
 
 What Would Move the Needle
 - Make Socratic/seminar-based pedagogy explicit across more grade levels, including visible public communications about structured Socratic discussions, Paideia-style seminars, and student-led inquiry in upper grades.

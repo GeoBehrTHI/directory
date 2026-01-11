@@ -1,6 +1,6 @@
 ## ABSTRACT
 
-Clermont Christian School Oh 45102 demonstrates limited alignment with the classical education rubric as defined by the Six Essential Elements and the associated keyword lexicon. Across Categories 1–5, explicit classical markers (transcendental moral realism; theology; liturgical practice; liberal arts curriculum; Great Books; Socratic pedagogy; and the portrait of the teacher as virtuous exemplar) are not evidenced in the public materials available in the crawl. Category 6 shows some alignment through family engagement, notably Family Nights and family-friendly activities, which maps to the classical emphasis on parental partnership and formation within the home.
+Clermont Christian School (Amelia, OH, 45102) demonstrates limited alignment with the classical education rubric as defined by the Six Essential Elements and the associated keyword lexicon. Across Categories 1–5, explicit classical markers (transcendental moral realism; theology; liturgical practice; liberal arts curriculum; Great Books; Socratic pedagogy; and the portrait of the teacher as virtuous exemplar) are not evidenced in the public materials available in the crawl. Element 6 shows some alignment through family engagement, notably Family Nights and family-friendly activities, which maps to the classical emphasis on parental partnership and formation within the home.
 
 - Overall classification: NOT CLASSICAL
 - Category-by-category highlights:

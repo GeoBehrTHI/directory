@@ -1,18 +1,18 @@
 ## Executive Summary
 
-Knox Classical Academy Mn 55113 presents a distinctly classical, Christ-centered approach that aligns strongly with core classical education principles across all six rubric categories. Public materials consistently emphasize a three-day Christian classical model, a charitable partnership with families, a Charlotte Mason–influenced pedagogy (living books, narration, nature study), and a Trivium-based curriculum (grammar, logic, rhetoric). The school’s communications repeatedly frame education as formation of character and wisdom in a religiously anchored framework, not merely information transfer or workforce preparation. Examples include explicit statements about a Christ-centered community, the use of the Trivium in every classroom, living books and the Great Conversation, and a home-school partnership model that keeps parents as co-teachers. These signals are reinforced by faculty and governance materials, parent-facing content, and curricular descriptions that highlight theology, virtue formation, and liturgical or worship-informed practices. Overall, Knox Classical Academy Mn 55113 earns CLASSICAL across the six categories with only minor tensions in pedagogy wording (e.g., a limited emphasis on explicit Socratic seminars in the public-facing site language). 
+Knox Classical Academy (Roseville, MN, 55113) presents a distinctly classical, Christ-centered approach that aligns strongly with core classical education principles across all six rubric categories. Public materials consistently emphasize a three-day Christian classical model, a charitable partnership with families, a Charlotte Mason–influenced pedagogy (living books, narration, nature study), and a Trivium-based curriculum (grammar, logic, rhetoric). The school’s communications repeatedly frame education as formation of character and wisdom in a religiously anchored framework, not merely information transfer or workforce preparation. Examples include explicit statements about a Christ-centered community, the use of the Trivium in every classroom, living books and the Great Conversation, and a home-school partnership model that keeps parents as co-teachers. These signals are reinforced by faculty and governance materials, parent-facing content, and curricular descriptions that highlight theology, virtue formation, and liturgical or worship-informed practices. Overall, Knox Classical Academy (Roseville, MN, 55113) earns CLASSICAL across the six categories with only minor tensions in pedagogy wording (e.g., a limited emphasis on explicit Socratic seminars in the public-facing site language). 
 
 Key supports drawn from the public-facing site and internal references include: Christ-centered mission and governance language, emphasis on the Trivium (grammar, logic, rhetoric), living books and narration as core pedagogy, nature study and worship-oriented aims, Charlotte Mason–styled curriculum signals, and a family-partnering, open-campus posture. These signals are supported by multiple public materials and the knowledge-base rubric terms (positive keyword indicators for truth, goodness, beauty; formation; Great Books/living books; Socratic/dialogic pedagogy; and partnership with families). Citations reflect the exact sources used from the crawl content and the classical-education rubric lexicon. See cited sources for specific phrasing and scope.
 
 - Overall classification: CLASSICAL
 
 - Executive snapshot notes:
-  - Religious and Metaphysical Foundations: strong Christ-centered framing, worship/theology language, and liturgical sensibilities evident in mission and policy language.   
-  - Purpose and Goal: formation of character and wisdom foregrounded; virtuous education and God-centered aims repeatedly stated. 
-  - Curriculum: Trivium emphasis (grammar, logic, rhetoric); living books; history-infused and Great Conversation–leaning articulation; evidence of Great Books/reading culture and curricular integration.  
-  - Pedagogy: inclusion of contemplative/restful elements, narration as a central practice, and singing/chanting in lower grades; some public-language emphasis on Socratic/seminar formats appears less pronounced on the site but is consistent with classical forms.  
-  - Faculty: governance and leadership materials show a formal Head of School and a board of engaged Christian professionals; representations of teacher as living curriculum and mentor appear in profiles and mission statements. 
-  - Parents & Community: explicit emphasis on parental partnership and co-teaching model; openness to visits and parent formation through book/gatherings; strong parent-school integration. 
+ - Religious and Metaphysical Foundations: strong Christ-centered framing, worship/theology language, and liturgical sensibilities evident in mission and policy language. 
+ - Purpose and Goal: formation of character and wisdom foregrounded; virtuous education and God-centered aims repeatedly stated. 
+ - Curriculum: Trivium emphasis (grammar, logic, rhetoric); living books; history-infused and Great Conversation–leaning articulation; evidence of Great Books/reading culture and curricular integration. 
+ - Pedagogy: inclusion of contemplative/restful elements, narration as a central practice, and singing/chanting in lower grades; some public-language emphasis on Socratic/seminar formats appears less pronounced on the site but is consistent with classical forms. 
+ - Faculty: governance and leadership materials show a formal Head of School and a board of engaged Christian professionals; representations of teacher as living curriculum and mentor appear in profiles and mission statements. 
+ - Parents & Community: explicit emphasis on parental partnership and co-teaching model; openness to visits and parent formation through book/gatherings; strong parent-school integration. 
 
 Note: The six-element knowledge lexicon provides the explicit Positive/Negative keyword indicators used to ground the category scoring (see the detailed keyword framework in the Six Essential Elements documents). The Knox materials align with multiple positive indicators (e.g., truth, virtue, Great Books, scholé, living books, partnership with families) and show minimal alignment with negative indicators (e.g., exclusive focus on project-based or secular-workforce framing). See the cited “Six Essential Elements” sources for the rubric terms. 
 
@@ -23,16 +23,16 @@ Note: The six-element knowledge lexicon provides the explicit Positive/Negative 
 ### Element 1: Religious and Metaphysical Foundations — CLASSICAL
 
 Evidence
-- Public materials repeatedly frame Knox as Christ-centered and God-oriented, including explicit Christ-centered community language and references to Jesus Christ’s lordship in daily life and policy.  
+- Public materials repeatedly frame Knox as Christ-centered and God-oriented, including explicit Christ-centered community language and references to Jesus Christ’s lordship in daily life and policy. 
 - Worship, theology, and liturgical sensibilities appear in routines and mission framing (e.g., collective worship language and theology-forward language in related materials). 
 - Nature-study passages connect scientific inquiry with worship and wonder toward God’s creation, reinforcing a theologically grounded metaphysical frame. 
 
 Positive/Negative keyword analysis
-- Positive keywords present: Christ-centered, God, worship, theology, liturgy, imago Dei (via theological framing), sacred tradition, wonder. Evidence includes explicit Christ-centered mission, worship-oriented statements, and the God-centered framing of nature-study aims.   
+- Positive keywords present: Christ-centered, God, worship, theology, liturgy, imago Dei (via theological framing), sacred tradition, wonder. Evidence includes explicit Christ-centered mission, worship-oriented statements, and the God-centered framing of nature-study aims. 
 - Negative keywords: None evident (no strong secular-relativist signals detected in public materials). See rubric expectations for negative signals, none observed in these materials. 
 
 Why this rating
-- The school foregrounds a transcendent moral framework and theological grounding in multiple principal materials (Christ-centered mission, worship/theology language, liturgical sensibilities, and a theology-grounded view of creation). This aligns squarely with the Positive Keyword indicators for Religious and Metaphysical Foundations in the Six Essential Elements lexicon, and the absence of secularly oriented negative signals reinforces a Classical alignment.   
+- The school foregrounds a transcendent moral framework and theological grounding in multiple principal materials (Christ-centered mission, worship/theology language, liturgical sensibilities, and a theology-grounded view of creation). This aligns squarely with the Positive Keyword indicators for Religious and Metaphysical Foundations in the Six Essential Elements lexicon, and the absence of secularly oriented negative signals reinforces a Classical alignment. 
 
 ### Element 2: School Purpose and Goal — CLASSICAL
 
@@ -56,7 +56,7 @@ Evidence
 - Curriculum signals include primary sources, grammar/poetics/Latin from early grades, and a two-year science rotation with a God-centered purpose (Nature study and creation-focused framing). 
 
 Positive/Negative keyword analysis
-- Positive keywords present: grammar, logic, rhetoric (Trivium); Great Books / Great Conversation (via living books and culture); history integrated; narration; Latin; interdisciplinary/harmony; wonder; sacred tradition. Public materials show explicit use of grammar/logic/rhetoric and living books through mission and curriculum descriptions.  
+- Positive keywords present: grammar, logic, rhetoric (Trivium); Great Books / Great Conversation (via living books and culture); history integrated; narration; Latin; interdisciplinary/harmony; wonder; sacred tradition. Public materials show explicit use of grammar/logic/rhetoric and living books through mission and curriculum descriptions. 
 - Negative keywords present: limited reference to modern project-based or externally driven, secular STEM-first framing; the site emphasizes a classical approach rather than modern, non-traditional, or purely vocational/project-based methods. (See Six Elements’ negative cues around project-based or strictly experiential learning; not prominently featured in Knox’s public materials.) 
 
 Why this rating
@@ -70,11 +70,11 @@ Evidence
 - There are explicit references to Socratic-style instruction in high school in classical pedagogy lexicons; Knox’s public materials emphasize Socratic dialogic potential via Trivium but place emphasis on narration and living books. The site language does not heavily foreground formal Socratic seminars, but the Trivium framing implies dialectical reasoning as a skill. 
 
 Positive/Negative keyword analysis
-- Positive keywords present: scholé/restful learning, narration, chanting/singing as memorative technique, master-teacher model, formational learning via living books, rhetorical training, and memory-focused pedagogy. Evidence includes explicit lower-school singing/chants, and narration as core practice.  
+- Positive keywords present: scholé/restful learning, narration, chanting/singing as memorative technique, master-teacher model, formational learning via living books, rhetorical training, and memory-focused pedagogy. Evidence includes explicit lower-school singing/chants, and narration as core practice. 
 - Negative keywords present: limited explicit emphasis on formal, high-frequency Socratic seminars in the public text; the site emphasizes narration and living books over a constant Socratic seminar format. The presence of Socratic dialogue as a keyword is in the rubric; Knox’s site language centers on other classical methods more prominently. 
 
 Why this rating
-- Pedagogy signals align with Classical expectations: contemplative rest, memory-building through chant/singing, narration as a primary method, and a rhetoric-informed trajectory in higher grades, with living books and Great Conversation framings pervasive. The absence of a heavy, explicit, on-the-ground Socratic seminar language does not undermine a Classical status given the strong presence of other Classical pedagogy signals.  
+- Pedagogy signals align with Classical expectations: contemplative rest, memory-building through chant/singing, narration as a primary method, and a rhetoric-informed trajectory in higher grades, with living books and Great Conversation framings pervasive. The absence of a heavy, explicit, on-the-ground Socratic seminar language does not undermine a Classical status given the strong presence of other Classical pedagogy signals. 
 
 ### Element 5: Faculty — CLASSICAL
 
@@ -105,7 +105,7 @@ Why this rating
 
 Aggregate assessment: All six categories reach CLASSICAL status based on keyword alignment and textual evidence from the Knox materials and the classical-education rubric lexicon.
 
-- Overall, Knox Classical Academy Mn 55113 is CLASSICAL.
+- Overall, Knox Classical Academy (Roseville, MN, 55113) is CLASSICAL.
 
 - The six-category tally supports a strong, cohesive CLASSICAL characterization with robust alignment to the Great Books / living books / Trivium core emphasis, a Christian formation framework, and a genuine parent-partnered model.
 

@@ -5,28 +5,28 @@ Holy Innocents Catholic School CA 90806 presents a robust Catholic, classical li
 Overall classification: CLASSICAL.
 
 Key insights:
-- Religious and Metaphysical Foundations are clearly foregrounded through Catholic identity, Carmelite spirituality, and liturgical life (Mass, Eucharistic processions, and Eucharistic worship as routines). Evidence centers on daily Mass, ceremonies, and a Catholic worldview threaded through curriculum and community life. fileciteturn0file0turn0file3turn0file13
+- Religious and Metaphysical Foundations are clearly foregrounded through Catholic identity, Carmelite spirituality, and liturgical life (Mass, Eucharistic processions, and Eucharistic worship as routines). Evidence centers on daily Mass, ceremonies, and a Catholic worldview threaded through curriculum and community life. 
 - Purpose and Goal emphasize formation, virtue, and wisdom consistent with classical aims rather than sole job preparation. Public statements articulate a transformative Catholic education and a mission framed around truth, goodness, and beauty with a strong focus on formation. 
 - Curriculum centers on liberal arts (grammar, logic, rhetoric), Great Books, Latin, and Western civilization, with explicit references to Great Works of the Ancient World and Medieval & Renaissance World, indicating alignment with classical curriculum expectations. 
-- Pedagogy includes a blend of contemplative/restful elements (memory work, chant, singing, contemplation) and Socratic-style discussion and rhetoric in upper grades, consistent with classical pedagogy expectations. fileciteturn0file5turn0file16
+- Pedagogy includes a blend of contemplative/restful elements (memory work, chant, singing, contemplation) and Socratic-style discussion and rhetoric in upper grades, consistent with classical pedagogy expectations. 
 - Faculty are framed as mentors and living exemplars within a community of teachers who model virtue and form the living curriculum, with explicit emphasis on devoted faculty and staff. 
-- Parents & Community are positioned as co-educators and partners, with opportunities for parent formation, book studies, and open campus/welcoming visits. Campaigns and events further strengthen community engagement. fileciteturn0file11turn0file17turn0file19
+- Parents & Community are positioned as co-educators and partners, with opportunities for parent formation, book studies, and open campus/welcoming visits. Campaigns and events further strengthen community engagement. 
 
 ## Executive Summary — Element-by-Element Snapshot
 
 ### Element 1: Religious and Metaphysical Foundations — CLASSICAL
 
 Evidence
-- The school presents Catholic identity as central, referencing Catholic classical liberal arts education and Carmelite spirituality as guiding charisms. Public materials note daily Mass, Eucharistic practice, and liturgical life (e.g., morning Mass, Eucharistic processions). fileciteturn0file3turn0file0turn0file10
+- The school presents Catholic identity as central, referencing Catholic classical liberal arts education and Carmelite spirituality as guiding charisms. Public materials note daily Mass, Eucharistic practice, and liturgical life (e.g., morning Mass, Eucharistic processions). 
 - Liturgical and communal practices are described as integral to education, including references to worship and sacred appointments (Mass, Eucharist, prayer). 
 - The mission emphasizes truth, goodness, and beauty within a Catholic framework, with explicit language about formation in a sacred context. 
 
 Positive/Negative keyword analysis
-- Positive keywords observed: truth, goodness, beauty, liturgy, Mass, sacred/tradition, theology, Carmelite spirituality, sacred community, reverence, wonder, ritual. fileciteturn0file3turn0file13
+- Positive keywords observed: truth, goodness, beauty, liturgy, Mass, sacred/tradition, theology, Carmelite spirituality, sacred community, reverence, wonder, ritual. 
 - Negative keywords observed: none evident in public materials; no signals of relativism or secular-humanist emphasis detected in the site content. For rubric-reference, negative signals described in the classical lexicon are not evidenced in public site content. (Rubric source: Six Essential Elements lexicon; Negative signals include relativism, secular humanism, etc.) 
 
 Why this rating
-- The presence of Catholic liturgical life, Carmelite spirituality, and explicit references to truth, goodness, and beauty grounds this category firmly in Religious and Metaphysical Foundations with CLASSICAL orientation. The site consistently ties education to a transcendent, sacred order rather than secular humanist framing. The absence of countervailing secular narratives further supports a CLASSICAL rating. fileciteturn0file3turn0file0
+- The presence of Catholic liturgical life, Carmelite spirituality, and explicit references to truth, goodness, and beauty grounds this category firmly in Religious and Metaphysical Foundations with CLASSICAL orientation. The site consistently ties education to a transcendent, sacred order rather than secular humanist framing. The absence of countervailing secular narratives further supports a CLASSICAL rating. 
 
 ### Element 2: School Purpose and Goal — CLASSICAL
 
@@ -36,7 +36,7 @@ Evidence
 - Curriculum rhetoric and program descriptions emphasize Great Works, Great Books, and a holistic formation of the person, not solely workforce readiness. 
 
 Positive/Negative keyword analysis
-- Positive keywords observed: formation, virtue, wisdom, liberal education, telos, contemplation/scholé, great conversation, humane education, moral imagination, character development, sacred/tradition, love of learning. Public materials reflect several of these themes, especially formation and the telos of education. fileciteturn0file13turn0file16
+- Positive keywords observed: formation, virtue, wisdom, liberal education, telos, contemplation/scholé, great conversation, humane education, moral imagination, character development, sacred/tradition, love of learning. Public materials reflect several of these themes, especially formation and the telos of education. 
 - Negative keywords observed: none overtly; public materials do not emphasize workforce preparation or job-market readiness as the primary goal. (Rubric negative signals include college/career readiness as a non-classical aim; not evident in public site content.) 
 
 Why this rating
@@ -59,7 +59,7 @@ Why this rating
 ### Element 4: School Pedagogy or Teaching Methods — CLASSICAL
 
 Evidence
-- Pedagogical life includes a blend of contemplative and rigorous elements: singing, memorization, and contemplative experiences in lower grades; Socratic-style discussion, seminars, and debates in upper grades; and rhetoric training with opportunities to give speeches. The site notes a balance of rest and rigor and a progression from memory-based, chant/memory work to rhetorical discourse and public speaking. fileciteturn0file5turn0file16
+- Pedagogical life includes a blend of contemplative and rigorous elements: singing, memorization, and contemplative experiences in lower grades; Socratic-style discussion, seminars, and debates in upper grades; and rhetoric training with opportunities to give speeches. The site notes a balance of rest and rigor and a progression from memory-based, chant/memory work to rhetorical discourse and public speaking. 
 - The upper grades employ rhetoric and debate (Rhetoric II, Rhetoric IV) and public speaking, which aligns with classical pedagogy. 
 - The lower grades emphasize singing, chanting, and memorization as memory-deepening and joy-filled activities, which mirrors scholé and contemplative pedagogy. 
 
@@ -68,7 +68,7 @@ Positive/Negative keyword analysis
 - Negative keywords observed: the public site does not emphasize purely experiential-only or project-based pedagogy as its sole approach; the classical lexicon lists these as negative in some contexts, but the site demonstrates a mixed approach with Socratic and rhetorical elements rather than a purely project-based emphasis. (Rubric negative signals from the lexicon.) 
 
 Why this rating
-- The pedagogy demonstrates a deliberate balance of contemplative and discursive methods, with lower-grade activities that cultivate memory and reverence and upper-grade seminars and speaking. This aligns with CLASSICAL expectations more than with a strictly project-based or purely information-transmission approach. fileciteturn0file5turn0file16
+- The pedagogy demonstrates a deliberate balance of contemplative and discursive methods, with lower-grade activities that cultivate memory and reverence and upper-grade seminars and speaking. This aligns with CLASSICAL expectations more than with a strictly project-based or purely information-transmission approach. 
 
 ### Element 5: School Faculty — CLASSICAL
 
@@ -87,8 +87,8 @@ Why this rating
 ### Element 6: School Parents and Community — CLASSICAL
 
 Evidence
-- The school explicitly frames parents as partners and co-teachers, with a mission to educate parents and engage them in classical education (parent formation, book studies, gatherings). The site notes that parents are welcome to visit and participate. Campaigns and events also indicate active parental and community involvement. fileciteturn0file13turn0file11turn0file17
-- There are explicit channels for parental involvement (handbook access, open campus, parent formation opportunities) and regular community events (gala, campaigns, and outreach). fileciteturn0file11turn0file17
+- The school explicitly frames parents as partners and co-teachers, with a mission to educate parents and engage them in classical education (parent formation, book studies, gatherings). The site notes that parents are welcome to visit and participate. Campaigns and events also indicate active parental and community involvement. 
+- There are explicit channels for parental involvement (handbook access, open campus, parent formation opportunities) and regular community events (gala, campaigns, and outreach). 
 - The school’s communications emphasize partnership with families and the notion of the school-family community working together toward formation of students. 
 
 Positive/Negative keyword analysis
@@ -96,7 +96,7 @@ Positive/Negative keyword analysis
 - Negative keywords observed: none evident; the site frames parental involvement positively and comprehensively, with no signals of treating parents as customers or minimizing parent engagement. (Rubric negative signals from the lexicon exist, but are not reflected in the public site content.) 
 
 Why this rating
-- The school presents a strong, explicit model of parent partnership and community engagement, consistent with classical education expectations about parents as co-educators and stakeholders in the formation process. The presence of parent formation activities, book clubs, open-campus access, and collaborative events supports a CLASSICAL designation. fileciteturn0file13turn0file11
+- The school presents a strong, explicit model of parent partnership and community engagement, consistent with classical education expectations about parents as co-educators and stakeholders in the formation process. The presence of parent formation activities, book clubs, open-campus access, and collaborative events supports a CLASSICAL designation. 
 
 ## What Would Move the Needle
 

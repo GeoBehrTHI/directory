@@ -10,7 +10,7 @@ Executive-level takeaway by category:
 - Faculty: CLASSICAL
 - Parents & Community: CLASSICAL
 
-These judgments are grounded in direct public statements from the school (mission, admissions, curriculum notes, faculty and parent-partner messaging) and cross-referenced with the Positive/Negative keyword indicators drawn from the classical education rubric. For example, the school's public materials emphasize biblical truth, a Christian worldview, and a partnership with families (positive alignments with “truth, theology, liturgy/worship, catechesis,” and “partnership with families”) and explicitly name grammar/logic/rhetoric and Latin as core components of the curriculum. See evidence snippets and citations throughout the category-by-category notes. Key sources include the admissions and mission language, the statements about biblical truth and Christian worldview, the explicit mention of Bible/logic/rhetoric/Latin in the curriculum, and testimonials about the public-facing classical model. fileciteturn0file1turn0file2turn0file4turn0file6turn0file7
+These judgments are grounded in direct public statements from the school (mission, admissions, curriculum notes, faculty and parent-partner messaging) and cross-referenced with the Positive/Negative keyword indicators drawn from the classical education rubric. For example, the school's public materials emphasize biblical truth, a Christian worldview, and a partnership with families (positive alignments with “truth, theology, liturgy/worship, catechesis,” and “partnership with families”) and explicitly name grammar/logic/rhetoric and Latin as core components of the curriculum. See evidence snippets and citations throughout the category-by-category notes. Key sources include the admissions and mission language, the statements about biblical truth and Christian worldview, the explicit mention of Bible/logic/rhetoric/Latin in the curriculum, and testimonials about the public-facing classical model. 
 
 ## Executive Summary — Element-by-Element Snapshot
 
@@ -28,7 +28,7 @@ Positive/Negative keyword analysis
 - Quantitative note: 8–9 distinct positive items identified; 0 negative items identified in the public-facing texts reviewed.
 
 Why this rating
-- The school’s materials repeatedly foreground transcendent truths (truth, God’s truth, biblical worldview) and communal/ritual aspects (prayer, church involvement) that align strongly with Transcendental moral realism and a theological grounding. The lack of explicit liturgical practice terms (e.g., liturgy, Mass, chapel) in the visible materials does not undermine the overall religious-metaphysical orientation given the explicit biblical framing and theological commitments. Therefore, CLASSICAL is warranted. fileciteturn0file2turn0file0turn0file6turn0file7
+- The school’s materials repeatedly foreground transcendent truths (truth, God’s truth, biblical worldview) and communal/ritual aspects (prayer, church involvement) that align strongly with Transcendental moral realism and a theological grounding. The lack of explicit liturgical practice terms (e.g., liturgy, Mass, chapel) in the visible materials does not undermine the overall religious-metaphysical orientation given the explicit biblical framing and theological commitments. Therefore, CLASSICAL is warranted. 
 
 ### Element 2: School Purpose and Goal — CLASSICAL
 
@@ -43,7 +43,7 @@ Positive/Negative keyword analysis
 - Quantitative note: 4–6 positive items identified; 0 explicit negative items identified in the public materials.
 
 Why this rating
-- The messaging centers on character formation, virtue, and truth as ends of education, not primarily on job readiness or workforce preparation. This aligns with CLASSICAL rather than a purely utilitarian or career-focused framing. fileciteturn0file1turn0file2turn0file6
+- The messaging centers on character formation, virtue, and truth as ends of education, not primarily on job readiness or workforce preparation. This aligns with CLASSICAL rather than a purely utilitarian or career-focused framing. 
 
 ### Element 3: School Curriculum — CLASSICAL
 
@@ -58,7 +58,7 @@ Positive/Negative keyword analysis
 - Quantitative note: 5–7 positive items identified; 0 explicit negative items identified.
 
 Why this rating
-- Clear alignment with the classical curriculum schema: Trivium (grammar/logic/rhetoric), Latin, Great Books/Great Conversation in their stated orientation, and a historical/Western-civilization emphasis. The explicit mention of “great books” and “classical model” strengthens CLASSICAL status. fileciteturn0file4turn0file2
+- Clear alignment with the classical curriculum schema: Trivium (grammar/logic/rhetoric), Latin, Great Books/Great Conversation in their stated orientation, and a historical/Western-civilization emphasis. The explicit mention of “great books” and “classical model” strengthens CLASSICAL status. 
 
 ### Element 4: Pedagogy or Teaching Methods — SOMEWHAT CLASSICAL
 
@@ -73,7 +73,7 @@ Positive/Negative keyword analysis
 - Quantitative note: 5–6 positive items identified; 0 explicit negative items documented in the public materials; explicit Socratic/seminar pedagogy is not clearly evidenced.
 
 Why this rating
-- The school clearly adopts classical pedagogical elements (grammar/logic/rhetoric, memorization/dialogue practices implied by a classical model) but lacks explicit public documentation of the full spectrum of high-school Socratic seminars, scholé days, and formal Great Conversation structures. Therefore, categorization as SOMEWHAT CLASSICAL reflects strong classical underpinnings with room for more explicit pedagogy details. fileciteturn0file4turn0file6
+- The school clearly adopts classical pedagogical elements (grammar/logic/rhetoric, memorization/dialogue practices implied by a classical model) but lacks explicit public documentation of the full spectrum of high-school Socratic seminars, scholé days, and formal Great Conversation structures. Therefore, categorization as SOMEWHAT CLASSICAL reflects strong classical underpinnings with room for more explicit pedagogy details. 
 
 ### Element 5: School Faculty — CLASSICAL
 
@@ -88,14 +88,14 @@ Positive/Negative keyword analysis
 - Quantitative note: 6–7 positive keywords identified; 0 explicit negative items.
 
 Why this rating
-- The public materials strongly align with the classical faculty ideal: teachers as models of virtue, living curriculum, and collaborative, supportive professional culture. This justifies CLASSICAL. fileciteturn0file7turn0file6
+- The public materials strongly align with the classical faculty ideal: teachers as models of virtue, living curriculum, and collaborative, supportive professional culture. This justifies CLASSICAL. 
 
 ### Element 6: School Parents and Community — CLASSICAL
 
 Evidence
-- The school explicitly positions parents as partners and co-teachers, aligning with classical-community norms. There is emphasis on parental formation and engagement (e.g., parents as co-teachers, involvement in school life, and at-home/home-days roles). fileciteturn0file4turn0file6
+- The school explicitly positions parents as partners and co-teachers, aligning with classical-community norms. There is emphasis on parental formation and engagement (e.g., parents as co-teachers, involvement in school life, and at-home/home-days roles). 
 - The materials note that Armis Dei aims to partner with parents in the education of children, and to be an asset to parents with visible opportunities for involvement and ongoing communication (e.g., home days, prayer, and active life in the school). 
-- The school highlights an open-campus approach and ongoing gatherings and book studies as vehicles for parent education about classical education, reinforcing parent-forming community ties. fileciteturn0file4turn0file2
+- The school highlights an open-campus approach and ongoing gatherings and book studies as vehicles for parent education about classical education, reinforcing parent-forming community ties. 
 
 Positive/Negative keyword analysis
 - Positive keywords present: partnership with families, co-teachers, parental formation, parental involvement, open campus, parent education (book studies, gatherings), living in community with churches.
@@ -103,7 +103,7 @@ Positive/Negative keyword analysis
 - Quantitative note: 5–6 positive keywords identified; 0 explicit negative items.
 
 Why this rating
-- The school’s language and programs consistently treat parents as integral partners in classical education, fulfilling the “Partnership with Families” and “Household formation” signals in the Six Elements lexicon. Therefore, CLASSICAL is warranted. fileciteturn0file1turn0file6
+- The school’s language and programs consistently treat parents as integral partners in classical education, fulfilling the “Partnership with Families” and “Household formation” signals in the Six Elements lexicon. Therefore, CLASSICAL is warranted. 
 
 ## What Would Move the Needle
 

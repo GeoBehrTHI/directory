@@ -5,11 +5,11 @@ Aquinas Classical Academy (ACA) in Bremerton, WA presents a robust Classical Chr
 Overall classification: CLASSICAL.
 
 Key strengths
-- Religious and metaphysical foundations are explicit and central (Catholic identity, Magisterium, Our Lady Seat of Wisdom, Aquinas) and integrated into coursework and formation (e.g., faith, reason, virtue; pursuit of truth; education ordered toward eternal good) .
-- Curriculum foregrounds liberal arts (grammar, dialectic, rhetoric), Great Books/primary sources, and Sacred Scripture, with explicit references to history, Western civilization, Latin, and the classical mission .
-- Pedagogy includes both contemplative/restful elements and Socratic seminars, with emphasis on narration/recitation and public rhetoric in upper grades; learning is framed as a dialogue with primary sources and classical authors .
-- Faculty are portrayed as forming a living curriculum, with a headmaster and dean of faculty signaling organized mentorship and professional formation; teachers are engaged with classical formation and virtue as central aims .
-- Parents and community are positioned as partners in formation, with explicit references to parental primacy and collaboration through governance, admissions, and financial-aid pathways; family involvement is a designed feature (shadow days, admissions interviews) .
+- Religious and metaphysical foundations are explicit and central (Catholic identity, Magisterium, Our Lady Seat of Wisdom, Aquinas) and integrated into coursework and formation (e.g., faith, reason, virtue; pursuit of truth; education ordered toward eternal good).
+- Curriculum foregrounds liberal arts (grammar, dialectic, rhetoric), Great Books/primary sources, and Sacred Scripture, with explicit references to history, Western civilization, Latin, and the classical mission.
+- Pedagogy includes both contemplative/restful elements and Socratic seminars, with emphasis on narration/recitation and public rhetoric in upper grades; learning is framed as a dialogue with primary sources and classical authors.
+- Faculty are portrayed as forming a living curriculum, with a headmaster and dean of faculty signaling organized mentorship and professional formation; teachers are engaged with classical formation and virtue as central aims.
+- Parents and community are positioned as partners in formation, with explicit references to parental primacy and collaboration through governance, admissions, and financial-aid pathways; family involvement is a designed feature (shadow days, admissions interviews).
 
 Executive Summary — Element-by-Element Snapshot
 
@@ -21,8 +21,8 @@ Executive Summary — Element-by-Element Snapshot
 - Element 6: School Parents and Community — CLASSICAL
 
 Notes on the keyword framework
-- Positive keywords anchored in the Six Elements document (e.g., truth, goodness, beauty; theology; liturgy; virtue; Great Books; liberal arts; scholé; Socratic method) are clearly reflected in ACA materials (e.g., explicit Catholic identity, Great Books/primary sources, grammar–dialectic–rhetoric curriculum, Socratic/recitation-based pedagogy, and parent partnership) fileciteturn0file0turn0file1turn0file18turn0file13turn0file0.
-- The Six Essential Elements lexicon (Positive/Negative keywords) provides the framework used to assess each category; ACA materials align with the positive indicators across categories with few if any signals of negative/anti-classical practices in public materials .
+- Positive keywords anchored in the Six Elements document (e.g., truth, goodness, beauty; theology; liturgy; virtue; Great Books; liberal arts; scholé; Socratic method) are clearly reflected in ACA materials (e.g., explicit Catholic identity, Great Books/primary sources, grammar–dialectic–rhetoric curriculum, Socratic/recitation-based pedagogy, and parent partnership).
+- The Six Essential Elements lexicon (Positive/Negative keywords) provides the framework used to assess each category; ACA materials align with the positive indicators across categories with few if any signals of negative/anti-classical practices in public materials.
 
 ## Executive Summary — Element-by-Element Details
 
@@ -35,11 +35,11 @@ Evidence
 - Additional pages reinforce Catholic culture and intellectual formation through Theology and Sacred Scripture as guiding authorities. 
 
 Positive/Negative keyword analysis
-- Positive keywords present: Catholic, Magisterium, Our Lady Seat of Wisdom, St. Thomas Aquinas, faith, reason, virtue, truth, God, divinely oriented formation, sacred scripture, liturgical/catechetical framing (sourced from mission/Philosophy of Education sections and FAQs). fileciteturn0file0turn0file1
+- Positive keywords present: Catholic, Magisterium, Our Lady Seat of Wisdom, St. Thomas Aquinas, faith, reason, virtue, truth, God, divinely oriented formation, sacred scripture, liturgical/catechetical framing (sourced from mission/Philosophy of Education sections and FAQs). 
 - Negative keywords present: None identifiable in public materials; no secularist or relativist signals observed in the accessible content. 
 
 Why this rating
-- The school’s public materials place theology, sacred tradition, and liturgical/habitus elements at the center of education, aligning with the “Grounded in Theology” and “Liturgical/Communal Practices” signals in the Six Elements framework. The explicit Catholic identity and integration of faith with academic formation squarely support a CLASSICAL classification in this category. fileciteturn0file0turn0file1
+- The school’s public materials place theology, sacred tradition, and liturgical/habitus elements at the center of education, aligning with the “Grounded in Theology” and “Liturgical/Communal Practices” signals in the Six Elements framework. The explicit Catholic identity and integration of faith with academic formation squarely support a CLASSICAL classification in this category. 
 
 ### Element 2: School Purpose and Goal — CLASSICAL
 
@@ -49,7 +49,7 @@ Evidence
 - The curricular and philosophical language emphasizes truth, goodness, beauty as real and knowable, and the cultivation of human excellence through liberal education. 
 
 Positive/Negative keyword analysis
-- Positive keywords present: formation, virtue, wisdom, liberal education, truth, goodness, beauty, classical mission, scholé, contemplation/faith-based formation. fileciteturn0file0turn0file1
+- Positive keywords present: formation, virtue, wisdom, liberal education, truth, goodness, beauty, classical mission, scholé, contemplation/faith-based formation. 
 - Negative keywords present: The content does not emphasize workforce- or career-prep as primary telos; focus remains on formation and virtue. Public materials show limited to no signals of negative indicators here. 
 
 Why this rating
@@ -64,7 +64,7 @@ Evidence
 - Additional materials describe Latin, logic, rhetoric, and exposure to Homer, Dante, Shakespeare as part of formation of imagination and intellect. 
 
 Positive/Negative keyword analysis
-- Positive keywords present: liberal arts, grammar, dialectic, rhetoric, Great Books, primary sources, Latin, Homer, Plato, Augustine, Shakespeare, Western civilization, history of salvation, sacred scripture, catechesis, liturgical integration, memory work, recitation, chant, and rhetoric training. fileciteturn0file0turn0file18
+- Positive keywords present: liberal arts, grammar, dialectic, rhetoric, Great Books, primary sources, Latin, Homer, Plato, Augustine, Shakespeare, Western civilization, history of salvation, sacred scripture, catechesis, liturgical integration, memory work, recitation, chant, and rhetoric training. 
 - Negative keywords present: The public materials do not emphasize history as “social studies,” nor do they foreground project-based or STEM-first framing; rather, history is framed in the traditional sense (salvation history, Western civ). This aligns with classical pedagogy rather than its negation. 
 
 Why this rating

@@ -1,6 +1,6 @@
 ## Executive Summary
 
-Grace Truth Christian Academy Ok 73010 presents as a clearly Christian, classical-leaning school that foregrounds religious formation, virtue, and a Christ-centered worldview. Public materials emphasize a Christian moral framework, a stated commitment to virtue and character formation, and a classroom culture shaped by faith, worship, and a community partnership with families. The school also identifies itself as classical (e.g., “classical academic excellence”) and positions its program within ACCS/ACTS-affirmed accreditation circles. Overall, the school aligns with several core elements of classical education and orients most strongly toward formation, virtue, and theological foundations. The aggregate assessment is CLASSICAL, with a couple of categories showing only partial alignment (SOMEWHAT CLASSICAL), primarily in explicit curriculum details and certain pedagogical specifics that are less clearly documented on public-facing materials.
+Grace & Truth Christian Academy (Blanchard, OK, 73010) presents as a clearly Christian, classical-leaning school that foregrounds religious formation, virtue, and a Christ-centered worldview. Public materials emphasize a Christian moral framework, a stated commitment to virtue and character formation, and a classroom culture shaped by faith, worship, and a community partnership with families. The school also identifies itself as classical (e.g., “classical academic excellence”) and positions its program within ACCS/ACTS-affirmed accreditation circles. Overall, the school aligns with several core elements of classical education and orients most strongly toward formation, virtue, and theological foundations. The aggregate assessment is CLASSICAL, with a couple of categories showing only partial alignment (SOMEWHAT CLASSICAL), primarily in explicit curriculum details and certain pedagogical specifics that are less clearly documented on public-facing materials.
 
 Key strengths
 - Strong religious/metaphysical framing: explicit theology, a Statement of Faith, weekly chapel, and Scripture-centered instruction.
@@ -19,7 +19,7 @@ Executive Summary — Element-by-Element Snapshot
 ### Element 1: Religious and Metaphysical Foundations — CLASSICAL
 
 Evidence
-- Public materials present a Christ-centered worldview, Scripture-led instruction, and a Statement of Faith. Examples include mission statements emphasizing education “in light of God’s Word in a Christ-centered worldview” and explicit theological affirmations (Trinity) in the Statement of Faith.  
+- Public materials present a Christ-centered worldview, Scripture-led instruction, and a Statement of Faith. Examples include mission statements emphasizing education “in light of God’s Word in a Christ-centered worldview” and explicit theological affirmations (Trinity) in the Statement of Faith. 
 - Weekly chapel and Bible-centered framing in the curriculum/school life are noted in admissions and program materials. 
 - Core Values explicitly tie belief in God’s Word to truth, virtue, and character formation (e.g., “BELIEVE God’s Word is the foundation for all truth”). 
 
@@ -31,7 +31,7 @@ Negative keyword analysis
 - No clear presence of Negative Keywords related to undermining religious formation (e.g., secular ethics, relativism, instrumentalization of education). The public materials consistently foreground theology and worship rather than secular conceptual frameworks.
 
 Why this rating
-- The school presents an explicit theological base, a Statement of Faith, liturgical practices (Weekly Chapel), and a Christ-centered approach that treats truth as knowable through Divine revelation. These align with the Classical School criterion of Transcendental moral realism and Grounded Theology, as described in the Six Essential Elements rubric. The weight of explicit doctrinal signaling and liturgical/community life supports CLASSICAL here.  
+- The school presents an explicit theological base, a Statement of Faith, liturgical practices (Weekly Chapel), and a Christ-centered approach that treats truth as knowable through Divine revelation. These align with the Classical School criterion of Transcendental moral realism and Grounded Theology, as described in the Six Essential Elements rubric. The weight of explicit doctrinal signaling and liturgical/community life supports CLASSICAL here. 
 
 ### Element 2: School Purpose and Goal — CLASSICAL
 
@@ -52,7 +52,7 @@ Why this rating
 ### Element 3: School Curriculum — SOMEWHAT CLASSICAL
 
 Evidence
-- The school uses a “classical Christian” framing and emphasizes a rigorous Christian curriculum with scripture-centered instruction. The site highlights a classical orientation and “classical academic excellence,” but explicit signals about the Seven Liberal Arts (grammar, logic, rhetoric) and Great Books/Great Conversation are not consistently named on public pages; however, the ACCS/ACTS accreditation and classical branding signal alignment with classical curriculum norms.  
+- The school uses a “classical Christian” framing and emphasizes a rigorous Christian curriculum with scripture-centered instruction. The site highlights a classical orientation and “classical academic excellence,” but explicit signals about the Seven Liberal Arts (grammar, logic, rhetoric) and Great Books/Great Conversation are not consistently named on public pages; however, the ACCS/ACTS accreditation and classical branding signal alignment with classical curriculum norms. 
 
 Positive keyword analysis
 - Keywords present: classical, Christian, Bible/scripture-lens, profound grounding in the Word, academic excellence (classical branding), mission- and vision-language around forming learners with virtue.
@@ -118,6 +118,6 @@ Aggregate: CLASSICAL
 
 Notes on “needle-moving” changes (What would move the needle)
 - If the school wishes to move toward a fully CLASSICAL profile across Curriculum (Element 3) and Pedagogy (Element 4), it could more explicitly document and publicly signal:
-  - Element 3: Seven Liberal Arts signaling (grammar, logic, rhetoric; Quadrivium elements) and Great Books/Great Conversation signals; direct articulation of how Great Books are incorporated; and explicit mention of the Great Conversation in the curriculum. This would align the Curriculum with the full classical rubric. Suggested signals: explicit statements about grammar, logic, rhetoric, Great Books, and cross-disciplinary Great Conversations in public materials. 
-  - Element 4: Pedagogy signals for Socratic discourse in upper grades, regular memorization/recitation (Scholé) as formal practice, and contemplative learning along with rich memory work (chanting, etc.) as per the classical model. This would convert SOMEWHAT CLASSICAL signals in Pedagogy to CLASSICAL. 
+ - Element 3: Seven Liberal Arts signaling (grammar, logic, rhetoric; Quadrivium elements) and Great Books/Great Conversation signals; direct articulation of how Great Books are incorporated; and explicit mention of the Great Conversation in the curriculum. This would align the Curriculum with the full classical rubric. Suggested signals: explicit statements about grammar, logic, rhetoric, Great Books, and cross-disciplinary Great Conversations in public materials. 
+ - Element 4: Pedagogy signals for Socratic discourse in upper grades, regular memorization/recitation (Scholé) as formal practice, and contemplative learning along with rich memory work (chanting, etc.) as per the classical model. This would convert SOMEWHAT CLASSICAL signals in Pedagogy to CLASSICAL. 
 - Additional strengthening could emphasize “the living curriculum” more explicitly and publicly (faculty as mentors, modeling virtue across disciplines) to further reinforce Element 5.

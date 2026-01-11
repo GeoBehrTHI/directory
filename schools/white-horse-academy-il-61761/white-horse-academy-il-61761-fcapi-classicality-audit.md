@@ -17,7 +17,7 @@ Overall, White Horse Academy is CLASSICAL according to the full classical-school
 
 Evidence and keyword scaffolding come from the school’s public materials and the classical-education lexicon used in the knowledge base. See the cited sources for each category below.
 
-Cited sources (illustrative): The Paideia-of-God formulation and Great Books emphasis (Our Philosophy of Education; The Path to Faithfulness; Our Admissions and Philosophy pages) , , . Christian formation and liturgical/communal language (The Path to Faithfulness, Admissions pages), including liturgies recited before each subject and Christ-centered framing , . Public-facing statements about partnership with families and parental formation . Historical framing and “Mission & Vision” language emphasizing Christian cultural leadership and classical education . Pedagogical signaling through seminars and classical discourse in higher-grade programs (High School Humanities Seminar) . Relevant classical-keyword lexicon and criteria from the Six Essential Elements documents (positive/negative keyword indicators) , , .
+Cited sources (illustrative): The Paideia-of-God formulation and Great Books emphasis (Our Philosophy of Education; The Path to Faithfulness; Our Admissions and Philosophy pages) ,. Christian formation and liturgical/communal language (The Path to Faithfulness, Admissions pages), including liturgies recited before each subject and Christ-centered framing ,. Public-facing statements about partnership with families and parental formation. Historical framing and “Mission & Vision” language emphasizing Christian cultural leadership and classical education. Pedagogical signaling through seminars and classical discourse in higher-grade programs (High School Humanities Seminar). Relevant classical-keyword lexicon and criteria from the Six Essential Elements documents (positive/negative keyword indicators) ,.
 
 Executive Summary — Element-by-Element Snapshot
 
@@ -86,7 +86,7 @@ Why this rating
 Evidence
 - The school presents faculty as central to the formation experience, with explicit emphasis on mentors and the living curriculum. The “Faculty & Staff” page highlights a connected, faith-integrated teaching team, including the Head of School and administrative staff, and emphasizes Christian teachers and mentorship. 
 - The public materials connect faculty with the school’s mission and with parental partnership, highlighting teachers as the core of the school’s vocation (the “living curriculum” notion appears in classical lexicon, and is echoed by the school’s emphasis on teacher-formation and canonical study). 
-- The school’s materials show faculty as role models and cultural leaders within a Christian educational frame, with board documentation and staff profiles illustrating teacher-principal leadership and Christian virtue. fileciteturn0file18turn0file19
+- The school’s materials show faculty as role models and cultural leaders within a Christian educational frame, with board documentation and staff profiles illustrating teacher-principal leadership and Christian virtue. 
 
 Positive/Negative keyword analysis
 - Positive keywords present: model teachers, mentors, living curriculum, portrait of a teacher, faculty as core, teachers as colleagues and moral exemplars, formation through exemplary teachers.

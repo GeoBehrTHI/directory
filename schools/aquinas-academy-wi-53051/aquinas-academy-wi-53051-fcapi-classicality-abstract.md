@@ -1,3 +1,5 @@
+Overall Classification: SOMEWHAT CLASSICAL
+
 ## ABSTRACT
 This audit reviewed Arcadia Christian School’s publicly available materials alongside the Six Essential Elements framework. ACS is SOMEWHAT CLASSICAL overall. Strengths include explicit Trivium language (grammar–logic–rhetoric), a commitment to classics and Socratic discussion, and strong theological grounding via Scripture and a biblical worldview across subjects (evidence from ACS web pages and series on their “Journey towards Christian Classical Education”) . The school also posts community resources (“Guide to Classical”) that function as early parent formation aids.
 

@@ -8,12 +8,12 @@ Key evidence highlights:
 - Strong parent partnership language and engagement (Parent Links, PIE, volunteer opportunities). 
 
 Category-by-category keywords (high-level):
-- Category 1 (Religious): Positive terms include Christ-centered, Biblical worldview, Christian tradition. No strong negative signals observed in accessible material.
-- Category 2 (Purpose/Goal): Positive terms include formation, virtue, lifelong learners, telos as an implied aim; no overt negative signals.
-- Category 3 (Curriculum): Positive terms include grammar/logic/rhetoric, Latin, Great Books, Western Civilization; no negative signals detected.
-- Category 4 (Pedagogy): Positive terms include trivium; recitation/chanting/memory work are implied in classical pedagogy but not explicitly documented; no explicit scholé/Séminars language in the public copy.
-- Category 5 (Faculty): Public materials emphasize virtue-led culture and small-class settings; explicit living-curriculum language is not documented.
-- Category 6 (Parents/Community): Positive terms include partnership with parents, co-teachers, parent formation, open campus.
+- Element 1 (Religious): Positive terms include Christ-centered, Biblical worldview, Christian tradition. No strong negative signals observed in accessible material.
+- Element 2 (Purpose/Goal): Positive terms include formation, virtue, lifelong learners, telos as an implied aim; no overt negative signals.
+- Element 3 (Curriculum): Positive terms include grammar/logic/rhetoric, Latin, Great Books, Western Civilization; no negative signals detected.
+- Element 4 (Pedagogy): Positive terms include trivium; recitation/chanting/memory work are implied in classical pedagogy but not explicitly documented; no explicit scholé/Séminars language in the public copy.
+- Element 5 (Faculty): Public materials emphasize virtue-led culture and small-class settings; explicit living-curriculum language is not documented.
+- Element 6 (Parents/Community): Positive terms include partnership with parents, co-teachers, parent formation, open campus.
 
 Citations:
 - Core descriptive statements about classical, Christ-centered education and the public-facing purpose: turn0file0; turn0file4.

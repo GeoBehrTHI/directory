@@ -1,3 +1,5 @@
+Overall Classification: CLASSICAL
+
 ## ABSTRACT
 
 Chesterton Academy – Queen of Martyrs (Sun Prairie, WI) presents a clearly Catholic, classical educational program. The school’s public materials foreground a liturgical life (daily Mass, sacraments) and a formation-focused mission (virtue, wisdom, truth, goodness, beauty) anchored in Catholic teaching. Pedagogical practice references Socratic dialogue and rhetoric, supported by a public emphasis on classical education. Parental partnership and community integration are emphasized as core to the school’s model.

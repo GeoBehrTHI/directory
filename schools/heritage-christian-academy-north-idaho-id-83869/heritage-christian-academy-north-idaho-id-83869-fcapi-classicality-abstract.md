@@ -25,7 +25,7 @@ Aggregate ranking: CLASSICAL
 What would move the needle (SOMEWHAT CLASSICAL scenarios)
 - Explicitly adopt and publish a liberal-arts core (grammar, logic, rhetoric) and consider Great Books/Great Conversation components; implement Socratic seminars in upper grades; document a cadence of classical-motivated pedagogy to transition from SOMEWHAT CLASSICAL toward CLASSICAL in Curriculum and Pedagogy.
 
-EXECUTIVE SUMMARY — Category-by-Category Snapshot citations:
+EXECUTIVE SUMMARY — Element-by-Element Snapshot citations:
 - Religious Foundations: turn0file2, turn0file3, turn0file11
 - Purpose & Formation: turn0file11
 - Curriculum structure: turn0file0, turn0file3

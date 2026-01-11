@@ -16,7 +16,7 @@ Evidence
 - The faculty and curriculum emphasis centers on virtue, character, and moral formation alongside intellectual development (e.g., “models of learning and of character”). 
 
 Positive/Negative Keyword Analysis
-- Positive keywords present: truth, goodness, beauty; virtue; character; moral formation; great conversation; formation; wisdom (implicit in virtue and moral formation); Socratic dialogue (in related Great Books content). Evidence appears in mission statements, philosophy notes, and discussions of Great Books and moral formation. fileciteturn0file2turn0file3turn0file0turn0file10
+- Positive keywords present: truth, goodness, beauty; virtue; character; moral formation; great conversation; formation; wisdom (implicit in virtue and moral formation); Socratic dialogue (in related Great Books content). Evidence appears in mission statements, philosophy notes, and discussions of Great Books and moral formation. 
 - Negative keywords present: none observed in the public materials for this category (no explicit absence signals detected in the public-facing material here).
 
 Why this rating
@@ -30,7 +30,7 @@ Evidence
 - Explicit commitment to the enduring realness of truth, goodness, and beauty as real guides for education. 
 
 Positive/Negative Keyword Analysis
-- Positive keywords present: formation; virtue; wisdom; truth; beauty; goodness; moral imagination; love of learning; great conversation (from related Great Books language). fileciteturn0file0turn0file2
+- Positive keywords present: formation; virtue; wisdom; truth; beauty; goodness; moral imagination; love of learning; great conversation (from related Great Books language). 
 - Negative keywords present: none observed (the site does not present workforce- or job-prep as the sole aim; rather, it emphasizes formation and enduring human flourishing).
 
 Why this rating
@@ -45,7 +45,7 @@ Evidence
 - The school emphasizes a liberal arts framework (grammar, logic, rhetoric), and a curriculum designed to form learners through historical and philosophical texts within a Western canon. 
 
 Positive/Negative Keyword Analysis
-- Positive keywords present: Great Books; Great Conversation; classical liberal arts; Western tradition; grammar, logic, rhetoric (as foundational elements); Latin/Greek study; formation through integrated disciplines; wonder. fileciteturn0file10turn0file4
+- Positive keywords present: Great Books; Great Conversation; classical liberal arts; Western tradition; grammar, logic, rhetoric (as foundational elements); Latin/Greek study; formation through integrated disciplines; wonder. 
 - Negative keywords present: none observed in the public materials for this category.
 
 Why this rating
@@ -59,7 +59,7 @@ Evidence
 - The pedagogical approach includes a continuum from memory-rich lower-division activities to seminar-style higher-division discourse, consistent with classic pedagogy (scholarly dialogue and rhetorical training). 
 
 Positive/Negative Keyword Analysis
-- Positive keywords present: Socratic dialogue/method; great conversation; seminars; debates; rhetoric; memory-based learning; formation through disciplined study; teacher as mentor. fileciteturn0file10turn0file0
+- Positive keywords present: Socratic dialogue/method; great conversation; seminars; debates; rhetoric; memory-based learning; formation through disciplined study; teacher as mentor. 
 - Negative keywords present: none detected in public materials for this category.
 
 Why this rating

@@ -3,12 +3,12 @@
 Holy Trinity Classical Christian School (Beaufort, SC 29902) demonstrates robust CLASSICAL alignment across all six categories. Religious and metaphysical foundations are foregrounded through explicit Christian/theological framing, biblical worldview, and liturgical life (chapel and communal worship). The school’s purpose centers on formation, virtue, wisdom, and a teleological pursuit of truth, goodness, and beauty, rather than mere information or workplace preparation. The curriculum integrates Seven Liberal Arts elements, Great Books/Great Conversation, Latin, and Western civilization, with history treated as a throughline rather than a social-studies add-on. Pedagogy includes Socratic dialogue, seminars, memory work, recitation, and rhetoric—aligned with classic modes of instruction—while maintaining contemplative and systemic approaches (Scholé) in appropriate contexts. Faculty are portrayed as living curriculum, mentors, and core to the school’s identity, and parents are intentionally integrated as co-educators, with strong community and parental-formation programs.
 
 Category-by-category assessment summary:
-- Category 1: CLASSICAL — Strong Christian/theological grounding; liturgical practices and a biblical foundation are evident. fileciteturn0file0turn1file12
-- Category 2: CLASSICAL — Formation-centered aims; pursuit of truth, wisdom, beauty; formation over information with a biblical worldview. 
-- Category 3: CLASSICAL — Curriculum emphasizes grammar/logic/rhetoric, Great Books, Latin, and Western civilization; history as a throughline. fileciteturn0file4turn1file10
-- Category 4: CLASSICAL — Pedagogy includes Socratic seminars, Scholé/restful learning concepts, memorization/recitation, and rhetorical training. fileciteturn0file4turn1file11
-- Category 5: CLASSICAL — Faculty described as dedicated and central to the school’s mission; living-curriculum framing aligns with classical expectations. 
-- Category 6: CLASSICAL — Strong partnership with parents; active parent involvement and formation; welcoming community. fileciteturn0file2turn0file7
+- Element 1: CLASSICAL — Strong Christian/theological grounding; liturgical practices and a biblical foundation are evident. fileciteturn0file0turn1file12
+- Element 2: CLASSICAL — Formation-centered aims; pursuit of truth, wisdom, beauty; formation over information with a biblical worldview. 
+- Element 3: CLASSICAL — Curriculum emphasizes grammar/logic/rhetoric, Great Books, Latin, and Western civilization; history as a throughline. fileciteturn0file4turn1file10
+- Element 4: CLASSICAL — Pedagogy includes Socratic seminars, Scholé/restful learning concepts, memorization/recitation, and rhetorical training. fileciteturn0file4turn1file11
+- Element 5: CLASSICAL — Faculty described as dedicated and central to the school’s mission; living-curriculum framing aligns with classical expectations. 
+- Element 6: CLASSICAL — Strong partnership with parents; active parent involvement and formation; welcoming community. fileciteturn0file2turn0file7
 
 Aggregate ranking: CLASSICAL
 

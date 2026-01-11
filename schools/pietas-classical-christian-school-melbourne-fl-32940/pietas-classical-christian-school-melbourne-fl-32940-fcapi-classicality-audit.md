@@ -33,7 +33,7 @@ Evidence
 Positive/Negative Keyword Analysis
 - Positive keywords present: truth, goodness, beauty; virtue; wisdom; theology; gospel; Christ; sacred tradition.
 - No explicit negative signals about theology or liturgy in the public materials.
-- The Classic Elements grid (Positive Keywords) supports these signals as aligning with “Grounded in Theology,” “Transcendental Moral Realism,” and “Liturgical/Communal Practices.” See Six Essential Elements positive keyword indicators including truth/goodness/beauty and theology. fileciteturn0file1turn0file7
+- The Classic Elements grid (Positive Keywords) supports these signals as aligning with “Grounded in Theology,” “Transcendental Moral Realism,” and “Liturgical/Communal Practices.” See Six Essential Elements positive keyword indicators including truth/goodness/beauty and theology. 
 
 Why this rating
 - The materials explicitly foreground a Christian theological frame, the order/realism of ultimate truths (truth, goodness, beauty), and formation in virtue and wisdom, all hallmarks of CLASSICAL orientation in the Religious/Metaphysical Foundations category. The presence of a strong theological umbrella and explicit language about sacred aims justifies CLASSICAL rather than weaker formulations.
@@ -66,7 +66,7 @@ Evidence
 Positive/Negative Keyword Analysis
 - Positive keywords present: seven liberal arts; grammar, logic, rhetoric; Great Books; primary sources; great conversation; wonder; integrated approach.
 - Negative keywords: none evident in public materials.
-- The knowledge-base Positive Keywords for Curriculum content (from the Six Essential Elements) explicitly include the Seven Liberal Arts, Great Books / primary sources, and inter-disciplinary harmony. fileciteturn0file4turn0file6
+- The knowledge-base Positive Keywords for Curriculum content (from the Six Essential Elements) explicitly include the Seven Liberal Arts, Great Books / primary sources, and inter-disciplinary harmony. 
 
 Why this rating
 - Curriculum content aligns directly with classical criteria: liberal arts core, Great Books, primary sources, and an emphasis on wonder and integrated study. This category is CLASSICAL.
@@ -82,7 +82,7 @@ Evidence
 Positive/Negative Keyword Analysis
 - Positive keywords present: dialogue; narration; poetry; primary sources; Great Books; “great conversation” (implicit Socratic dialogue-like engagement).
 - Negative keywords present: absence of explicit Schole/restful learning, explicit Socratic seminars, or upper-level rhetoric training in public materials.
-- The Six Essential Elements pedagogy keywords include Socratic dialogue, Scholé (restful learning), memorization/recitation, and formation through imitation. Public Pietas materials mention dialogue, but not explicit Socratic methods or Scholé. fileciteturn0file1turn0file7
+- The Six Essential Elements pedagogy keywords include Socratic dialogue, Scholé (restful learning), memorization/recitation, and formation through imitation. Public Pietas materials mention dialogue, but not explicit Socratic methods or Scholé. 
 
 Why this rating
 - The program demonstrates some classical pedagogy markers (dialogue, Great Books, primary sources) but lacks explicit, public commitments to key higher-level classical methods (Socratic seminars, Scholé-restful pedagogy, formal rhetoric training) in Grades 9–12. This yields a SOMEWHAT CLASSICAL rating for Pedagogy.
@@ -105,7 +105,7 @@ Evidence
 Positive/Negative Keyword Analysis
 - Positive keywords for Faculty (from the Six Essential Elements) include: teachers as models of virtue; living curriculum; faculty of friends; collegial culture; mentorship; character formation; virtuous exemplars.
 - The Pietas page contains no explicit statements about faculty being the living curriculum, virtue-models, or a formal faculty portrait; no direct reference to mentorship or collegial culture in the public materials. Therefore, negative signals are effectively present as a lack of explicit articulation.
-- The knowledge-base lexicon includes explicit faculty signals; absence on Pietas site yields a NOT CLASSICAL reading for this category, unless more evidence appears in other materials. fileciteturn0file5turn0file11
+- The knowledge-base lexicon includes explicit faculty signals; absence on Pietas site yields a NOT CLASSICAL reading for this category, unless more evidence appears in other materials. 
 
 Why this rating
 - Without explicit public articulation of faculty as exemplars of virtue and living curriculum, this category does not meet the Classical criteria as strongly as others. The lack of explicit teacher portrait/formation signals justifies NOT CLASSICAL for Faculty.

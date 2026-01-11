@@ -1,10 +1,10 @@
 ## Executive Summary
 
-Mt Royal Academy Nh 03782 (Mount Royal Academy, Sunapee, NH) presents a robust CLASSICAL profile across all six classical-school categories. The publicly visible content emphasizes a Catholic, formation-focused education anchored in liberal arts and the Trivium (grammar, logic, and rhetoric), a strong Great Books/Great Conversation orientation, and pedagogy that blends memory-work, chant, and recitation with Socratic seminars and rhetorical training. The school frames its mission around forming the whole person—spiritually, morally, and intellectually—within a community of students, parents, teachers, and clergy. This aligns with the Positive Keyword indicators for Religious and Metaphysical Foundations, School Purpose and Goal, Curriculum, Pedagogy, Faculty, and Parents & Community, while showing few to no Negative Keyword signals in those areas.
+Mt Royal Academy (Sunapee, NH, 3782) (Mount Royal Academy, Sunapee, NH) presents a robust CLASSICAL profile across all six classical-school categories. The publicly visible content emphasizes a Catholic, formation-focused education anchored in liberal arts and the Trivium (grammar, logic, and rhetoric), a strong Great Books/Great Conversation orientation, and pedagogy that blends memory-work, chant, and recitation with Socratic seminars and rhetorical training. The school frames its mission around forming the whole person—spiritually, morally, and intellectually—within a community of students, parents, teachers, and clergy. This aligns with the Positive Keyword indicators for Religious and Metaphysical Foundations, School Purpose and Goal, Curriculum, Pedagogy, Faculty, and Parents & Community, while showing few to no Negative Keyword signals in those areas.
 
 Evidence of a fully classical orientation is explicit in mission statements and curricular descriptions, including references to Catholic formation, the Trivium, Great Books, and contemplative/restful elements (scholé) alongside Socratic discussion and public speaking. The school’s public materials also emphasize partnership with parents, a family-friendly campus culture, and a living-faculty model. Taken together, these signals place Mt Royal Academy firmly in the CLASSICAL category per the Six Essential Elements rubric and the knowledge-base lexicon.
 
-Key supporting sources include: the school’s mission and formation language (spiritual formation, pursuit of truth/goodness/beauty) and explicit Catholic identity; curricular descriptions invoking liberal arts, the Trivium, Great Books, and a Great Books canon; pedagogical notes describing singing/chanting in the lower grades and Socratic/seminar-based upper grades; statements about faithful faculty and a living-curriculum approach; and explicit parent/community partnership language. These elements are substantiated in public-facing materials cataloged from the Mount Royal Academy site (e.g., Our Mission, Education in Virtue, Classical Curriculum, and Newman Guide-related content) and in the school’s firecrawl excerpts.     
+Key supporting sources include: the school’s mission and formation language (spiritual formation, pursuit of truth/goodness/beauty) and explicit Catholic identity; curricular descriptions invoking liberal arts, the Trivium, Great Books, and a Great Books canon; pedagogical notes describing singing/chanting in the lower grades and Socratic/seminar-based upper grades; statements about faithful faculty and a living-curriculum approach; and explicit parent/community partnership language. These elements are substantiated in public-facing materials cataloged from the Mount Royal Academy site (e.g., Our Mission, Education in Virtue, Classical Curriculum, and Newman Guide-related content) and in the school’s firecrawl excerpts. 
 
 Executive Summary — Element-by-Element Snapshot
 
@@ -17,7 +17,7 @@ Executive Summary — Element-by-Element Snapshot
 
 Across categories, keyword analyses show strong alignment with the Positive Keyword Indicators for each element and minimal to no Negative Keyword indicators. See the “Positive/Negative keyword analysis” sections below for category-by-category detail and explicit textual evidence.
 
-If you want a deeper, line-by-line textual audit (including exact keyword tallies) I can provide that as a follow-up. For now, the aggregate assessment is that Mt Royal Academy Nh 03782 is CLASSICAL across all six canonical dimensions.
+If you want a deeper, line-by-line textual audit (including exact keyword tallies) I can provide that as a follow-up. For now, the aggregate assessment is that Mt Royal Academy (Sunapee, NH, 3782) is CLASSICAL across all six canonical dimensions.
 
 ## Executive Summary — Element-by-Element Snapshot
 
@@ -37,7 +37,7 @@ Positive/Negative keyword analysis
 Why this rating
 - The materials explicitly situate education within Catholic theology and liturgical/spiritual life, with terms like “Catholic education,” “spiritual formation,” and “truth, goodness, and beauty” framing all disciplines. The public content consistently links academic aims to sacred purpose, which matches the strongest Positive Keyword indicators for this category. This aligns with the classical rubric’s requirement for transcendental moral realism and a theology-grounded, liturgical dimension. The absence of negative religious-secular signals further supports CLASSICAL.
 
-Citations: Our Mission and Catholic-identity materials (Our Mission; Education in Virtue; Newman Guide), and Catholic Education/Charisms sections illustrate the religious-metaphysical basis.    
+Citations: Our Mission and Catholic-identity materials (Our Mission; Education in Virtue; Newman Guide), and Catholic Education/Charisms sections illustrate the religious-metaphysical basis. 
 
 ### Element 2: School Purpose and Goal — CLASSICAL
 
@@ -55,7 +55,7 @@ Positive/Negative keyword analysis
 Why this rating
 - The school’s publicly stated purpose emphasizes formation, virtue, and the pursuit of truth/goodness/beauty as ends in themselves, aligned with classical liberal-arts pedagogy rather than a narrow job-preparation stance. The presence of terms like telos, scholé, and classical mission, combined with formation-focused language, supports CLASSICAL.
 
-Citations: Our Mission; Education in Virtue; Great Books/Canon discussions; Newman Guide materials.    
+Citations: Our Mission; Education in Virtue; Great Books/Canon discussions; Newman Guide materials. 
 
 ### Element 3: Curriculum — CLASSICAL
 
@@ -73,7 +73,7 @@ Positive/Negative keyword analysis
 Why this rating
 - The explicit emphasis on Trivium-based liberal arts, Great Books, history as Western civilization through primary sources, and classical-language study places the curriculumsolidly in the CLASSICAL category. The absence of pro-modernist, project-based-only language and the articulation of a canonical Great Books canon support this categorization.
 
-Citations: Trivium and liberal-arts framing (What Is a Classical Curriculum?), Great Books canon and heavy humanities emphasis (High School Course of Study; Great Books Curriculum).   
+Citations: Trivium and liberal-arts framing (What Is a Classical Curriculum?), Great Books canon and heavy humanities emphasis (High School Course of Study; Great Books Curriculum). 
 
 ### Element 4: Pedagogy or Teaching Methods — CLASSICAL
 
@@ -91,7 +91,7 @@ Positive/Negative keyword analysis
 Why this rating
 - A hybrid pedagogy that combines contemplative, memory-based practice (lower grades) with Socratic dialogue and rhetoric-based performance (upper grades) aligns directly with classical Pedagogy signals. The explicit use of memory-work, recitation, chanting, and Socratic/seminar formats supports CLASSICAL.
 
-Citations: Lower/elementary pedagogy (circling seating; memory and chant), upper-level Socratic/seminar language, and rhetoric/capstone elements (Elementary and High School pages; Great Books/Humanities Canon materials).   
+Citations: Lower/elementary pedagogy (circling seating; memory and chant), upper-level Socratic/seminar language, and rhetoric/capstone elements (Elementary and High School pages; Great Books/Humanities Canon materials). 
 
 ### Element 5: Faculty — CLASSICAL
 
@@ -109,7 +109,7 @@ Positive/Negative keyword analysis
 Why this rating
 - The public materials consistently treat teachers as central to the curriculum and formation process, not as passive deliverers of content. This aligns with the Classical rubric’s faculty signals (model virtue, living curriculum, collegiality).
 
-Citations: Faithful Faculty; Living Curriculum; Partnerships/Community arcs; Newman Guide.   
+Citations: Faithful Faculty; Living Curriculum; Partnerships/Community arcs; Newman Guide. 
 
 ### Element 6: Parents & Community — CLASSICAL
 
@@ -127,7 +127,7 @@ Positive/Negative keyword analysis
 Why this rating
 - The school presents a robust, formation-centered approach to parental involvement, aligning with the classical rubric’s expectations around engaged, forming families and a shared mission.
 
-Citations: Partnership with Parents; parental formation; open campus/hospitality; home catechesis references.   
+Citations: Partnership with Parents; parental formation; open campus/hospitality; home catechesis references. 
 
 ## What Would Move the Needle
 

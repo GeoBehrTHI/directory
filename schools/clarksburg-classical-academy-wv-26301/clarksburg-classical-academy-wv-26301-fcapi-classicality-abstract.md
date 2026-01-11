@@ -1,3 +1,5 @@
+Overall Classification: SOMEWHAT CLASSICAL
+
 ## ABSTRACT
 
 Classification: SOMEWHAT CLASSICAL
@@ -15,7 +17,7 @@ Category-by-category snapshot (summary):
 - Parents & Community: CLASSICAL (strong partnership with families and community integration; open campus/parent involvement). 
 
 Note on keyword indicators (grounding in the Six Essential Elements):
-- The school’s public materials show classic signals such as Trivium framing and character education, with explicit references to virtue/formation (Category 1 and Category 2), and to the overall classical model of education (Category 3). However, explicit articulation of Great Books/Great Conversation, liturgical/theological grounding, and full Socratic pedagogy is less visible, which informs the SOMEWHAT CLASSICAL classification for multiple categories. See the Six Essential Elements keyword framework (Positive: virtue, formation, truth/goodness/beauty, great books, etc.; Negative: secular, value-neutral, job-readiness over formation) as discussed in the knowledge documents.  
+- The school’s public materials show classic signals such as Trivium framing and character education, with explicit references to virtue/formation (Element 1 and Element 2), and to the overall classical model of education (Element 3). However, explicit articulation of Great Books/Great Conversation, liturgical/theological grounding, and full Socratic pedagogy is less visible, which informs the SOMEWHAT CLASSICAL classification for multiple categories. See the Six Essential Elements keyword framework (Positive: virtue, formation, truth/goodness/beauty, great books, etc.; Negative: secular, value-neutral, job-readiness over formation) as discussed in the knowledge documents.  
 
 Sources cited in this evaluation include:
 - Clarksburg Classical Academy site content detailing Trivium framing, AIM model, and public statements about formation, virtue, and character education.   

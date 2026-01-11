@@ -22,7 +22,7 @@ Evidence
 - The school notes that truth, goodness, and beauty are real and central to education, tying intellectual pursuits to a theological framework (e.g., “Truth, Goodness, Beauty” and “Joy from the Truth”). 
 
 Positive/Negative keyword analysis
-- Positive keywords present include truth, goodness, beauty; theology; daily prayer; sacramental life; liturgical practices; worship/ Mass (conceptual alignment with liturgical communal life). The site directly references truth/goodness/beauty and theological formation multiple times. fileciteturn0file11turn0file13
+- Positive keywords present include truth, goodness, beauty; theology; daily prayer; sacramental life; liturgical practices; worship/ Mass (conceptual alignment with liturgical communal life). The site directly references truth/goodness/beauty and theological formation multiple times. 
 - Negative keyword indicators are not evident in the public materials for this category.
 
 Why this rating
@@ -33,10 +33,10 @@ Why this rating
 Evidence
 - The school explicitly aims at forming the whole person (moral and intellectual formation) rather than merely preparing for work, with a focus on virtue, wisdom, and life-long flourishing. This is stated in the Academic Excellence section. 
 - The Mission statement emphasizes forming students in the Catholic faith toward a contemplative and purposeful life, tying education to virtue and character. 
-- The Great Books/Western Canon emphasis and language about education as “formation” rather than mere information are echoed in program pages (e.g., “Joy from the Truth,” “we focus on a love for learning, not testing”). fileciteturn0file4turn0file13
+- The Great Books/Western Canon emphasis and language about education as “formation” rather than mere information are echoed in program pages (e.g., “Joy from the Truth,” “we focus on a love for learning, not testing”). 
 
 Positive/Negative keyword analysis
-- Positive keywords present include formation, virtue, wisdom, truth/goodness/beauty, contemplation, and a life-directed purpose. The site repeatedly emphasizes formation over mere information and moral/intellectual cultivation. fileciteturn0file9turn0file14
+- Positive keywords present include formation, virtue, wisdom, truth/goodness/beauty, contemplation, and a life-directed purpose. The site repeatedly emphasizes formation over mere information and moral/intellectual cultivation. 
 - Negative keyword indicators: none identified in public materials.
 
 Why this rating
@@ -45,13 +45,13 @@ Why this rating
 ### Element 3: Curriculum — CLASSICAL
 
 Evidence
-- The site foregrounds reading the Western Canon and engagement in a “Great Conversation” through Great Books-based instruction. The Why Classical? page describes classical education as awakening a love for True, Good, Beautiful, and the Great Books; the enrollment page references the Western Canon and direct conversation with the great thinkers. fileciteturn0file1turn0file4
+- The site foregrounds reading the Western Canon and engagement in a “Great Conversation” through Great Books-based instruction. The Why Classical? page describes classical education as awakening a love for True, Good, Beautiful, and the Great Books; the enrollment page references the Western Canon and direct conversation with the great thinkers. 
 - Public materials include explicit Great Books content such as The Iliad, The Odyssey, and classic literature in upper grades, showing a strength in canon-based literature and historical engagement. 
 - The curriculum listing includes Grammar Stage references (Poetry for the Grammar Stage), Latin study, and classical composition, indicating explicit liberal-arts scaffolding. 
 - There are explicit mentions of the Seven Liberal Arts and Trivium/Quadrivium motifs embedded in the classical approach (as reflected in the public-facing descriptions of the curriculum and Great Books approach). While not all terms appear verbatim on every page, the combination of grammar-stage content, Latin, classical literature, and Great Books signals a liberal-arts curriculum. 
 
 Positive/Negative keyword analysis
-- Positive keywords present include Great Books, Western Canon, Great Conversation, grammar, logic, rhetoric (via grammar-stage and classical compositions), Latin, and classical literature (Iliad, Odyssey). The public materials show multiple instances of Great Books and canonical reading, grammar-stage content, and Latin. fileciteturn0file19turn0file4
+- Positive keywords present include Great Books, Western Canon, Great Conversation, grammar, logic, rhetoric (via grammar-stage and classical compositions), Latin, and classical literature (Iliad, Odyssey). The public materials show multiple instances of Great Books and canonical reading, grammar-stage content, and Latin. 
 - Negative keywords: none evident in public materials.
 
 Why this rating
@@ -63,7 +63,7 @@ Evidence
 - Lower-division pedagogy shows elements of contemplative and joyful learning, with a focus on memory and recitation in early years (Poetry for the Grammar Stage; classical recitation and language arts) and a "joyful environment." The presence of a graded structure and explicit memorization/recitation components indicate a traditional pedagogy compatible with classical aims. 
 - The school communicates that upper grades involve more rigorous classical education, including reading the Great Books and engaging with canonical texts. There are indications of organized classical content (e.g., Classical Composition, grammar/recitation), and upper-grade enrichment through literature and classical topics. 
 - Extracurriculars (Chorus, Latin Club, Theatre) support a holistic, culture-rich approach consistent with many classical programs (habits of mind, oratory, and memory through recitation/musical activities). 
-- However, there is no explicit public statement of explicit Socratic seminars, public-facing detail about formal seminar-based discussions, or a declared, school-wide implementation of Socratic or Seminars pedagogy in upper grades. The Six Elements rubric notes that Socratic discussion, seminars, or debates are typical hallmarks of a high-grade classical pedagogy; while HFCA demonstrates several compatible practices, explicit mention of these elements is not clearly present in public pages. fileciteturn0file1turn0file4
+- However, there is no explicit public statement of explicit Socratic seminars, public-facing detail about formal seminar-based discussions, or a declared, school-wide implementation of Socratic or Seminars pedagogy in upper grades. The Six Elements rubric notes that Socratic discussion, seminars, or debates are typical hallmarks of a high-grade classical pedagogy; while HFCA demonstrates several compatible practices, explicit mention of these elements is not clearly present in public pages. 
 
 Positive/Negative keyword analysis
 - Positive keywords present include contemplative/joyful learning; memory-focused recitation; grammar-stage content; Great Books; rhetoric and classical composition; Latin; and a structured progression from grammar to logic to rhetoric (via content like Poetry for the Grammar Stage and classical composition). These reflect classical pedagogy signals. 
@@ -89,7 +89,7 @@ Why this rating
 
 Evidence
 - The school features parent testimonials and a community-facing fundraising/volunteer culture (donations, prayer, and volunteer culture). This demonstrates community involvement and parental support, even if explicit “parents as co-teachers” is not clearly stated in the public materials. 
-- The site invites engagement (newsletter signup, donor information, and volunteer opportunities) and emphasizes a family-oriented environment (e.g., testimonials from families, prayerful community, and invitations to engage). These signals align with the general “partnership with families” and community formation ideals in classical education. fileciteturn0file6turn0file7
+- The site invites engagement (newsletter signup, donor information, and volunteer opportunities) and emphasizes a family-oriented environment (e.g., testimonials from families, prayerful community, and invitations to engage). These signals align with the general “partnership with families” and community formation ideals in classical education. 
 - The Six Elements document highlights Parent-Family partnership as a core positive indicator; HFCA demonstrates familial engagement and the visible role of families in the school community through testimonials and philanthropic involvement (though not always explicitly framed as “co-teaching”). 
 
 Positive/Negative keyword analysis

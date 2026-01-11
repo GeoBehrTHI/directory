@@ -1,6 +1,6 @@
 ## ABSTRACT
 
-Martin Luther Grammar School Wy 82801 demonstrates a comprehensive CLASSICAL alignment across all six classical-education categories:
+Martin Luther Grammar School (Sheridan, WY, 82801) demonstrates a comprehensive CLASSICAL alignment across all six classical-education categories:
 
 - Religious and Metaphysical Foundations: strong Lutheran confessional framing, liturgical life, and gospel-centered formation.
 - School Purpose and Goal: formation-oriented aims emphasizing virtue, wisdom, and a teleological pursuit of truth, goodness, and beauty within a Christian classical framework.

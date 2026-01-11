@@ -13,7 +13,7 @@ Categories in detail (with keyword analysis and ratings)
 
 ---
 
-### Category 1: Religious and Metaphysical Foundations — CLASSICAL
+### Element 1: Religious and Metaphysical Foundations — CLASSICAL
 
 Evidence
 - Public materials frame Bear Creek as a Christian liberal arts institution, with explicit statements of Christian identity and theology integrated into education (e.g., “distinctively Christian,” “Christian worldview,” and “God intends” the individual) fileciteturn0file7turn0file0
@@ -29,7 +29,7 @@ Why this rating
 
 ---
 
-### Category 2: School Purpose and Goal — CLASSICAL
+### Element 2: School Purpose and Goal — CLASSICAL
 
 Evidence
 - The mission centers on forming persons who embody virtue, wisdom, and courage, through a Christian liberal arts education—“the individual God intends.” This highlights formation over mere information or job preparation. 
@@ -45,7 +45,7 @@ Why this rating
 
 ---
 
-### Category 3: School Curriculum — SOMEWHAT CLASSICAL
+### Element 3: School Curriculum — SOMEWHAT CLASSICAL
 
 Evidence
 - Explicit reference to the trivium: grammar, logic, rhetoric, and the liberal-arts framing appear in the public materials (e.g., “follows the trivium model of classical education”). 
@@ -61,7 +61,7 @@ Why this rating
 
 ---
 
-### Category 4: Pedagogy or Teaching Methods — SOMEWHAT CLASSICAL
+### Element 4: Pedagogy or Teaching Methods — SOMEWHAT CLASSICAL
 
 Evidence
 - The public materials describe a classical orientation and emphasize a pedagogy aligned with the liberal arts tradition, including the nurture of mind and heart within a Christian framework. The “ancient liberal arts tradition” framing appears in statements about the Bear Creek approach. 
@@ -84,7 +84,7 @@ What would move the needle
 
 ---
 
-### Category 5: School Faculty — CLASSICAL
+### Element 5: School Faculty — CLASSICAL
 
 Evidence
 - Bear Creek materials describe faculty as mentors and living curriculum, with a focus on character formation and relationship-building. The Headmaster’s communications emphasize teachers who challenge minds and nurture hearts, and the faculty–student relationship is framed as central to education. 
@@ -96,11 +96,11 @@ Positive keyword analysis
 - Negative keyword indicators: None evident; the crawl consistently presents a teacher-centric, virtue-led, relational approach consistent with classical tradition. 
 
 Why this rating
-- The faculty descriptions align with standard classical expectations about the teacher as exemplar and living curriculum, with a strong emphasis on virtue, character, mentorship, and collegiality. This supports CLASSICAL for Category 5.
+- The faculty descriptions align with standard classical expectations about the teacher as exemplar and living curriculum, with a strong emphasis on virtue, character, mentorship, and collegiality. This supports CLASSICAL for Element 5.
 
 ---
 
-### Category 6: School Parents and Community — CLASSICAL
+### Element 6: School Parents and Community — CLASSICAL
 
 Evidence
 - The Bear Creek site emphasizes partnership with parents and views parents as co-teachers in the educational process, including explicit language about imago Dei and in loco parentis, and a formal commitment to parent education and involvement (e.g., parent formation, Inside Bear Creek, state-of-school events). 
@@ -118,9 +118,9 @@ Why this rating
 
 ## What Would Move the Needle (Summary of “Somewhat Classical” Categories)
 
-- Category 3 (Curriculum): Introduce explicit Great Books/Great Conversation components and clearly articulate history across the curriculum (beyond social-studies framing). Publicly document wonder-centered experiences within the curriculum.
-- Category 4 (Pedagogy): Publicly commit to and describe upper-school Socratic seminars, formal debates, and a structured rhetoric program with opportunities for student orations and public speaking. Emphasize memory work or recitation in lower grades in line with classical pedagogy.
-- Category 1 & 2 (Foundations and Purpose) and Category 6 (Parents & Community) already exhibit strong classical alignment; minor enhancements could include more explicit liturgical/communal practice signals and a more explicit articulation of the interplay between formation, transcendentals, and daily classroom practice.
+- Element 3 (Curriculum): Introduce explicit Great Books/Great Conversation components and clearly articulate history across the curriculum (beyond social-studies framing). Publicly document wonder-centered experiences within the curriculum.
+- Element 4 (Pedagogy): Publicly commit to and describe upper-school Socratic seminars, formal debates, and a structured rhetoric program with opportunities for student orations and public speaking. Emphasize memory work or recitation in lower grades in line with classical pedagogy.
+- Element 1 & 2 (Foundations and Purpose) and Element 6 (Parents & Community) already exhibit strong classical alignment; minor enhancements could include more explicit liturgical/communal practice signals and a more explicit articulation of the interplay between formation, transcendentals, and daily classroom practice.
 
 ---
 

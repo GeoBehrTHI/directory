@@ -26,22 +26,22 @@ Note: All keyword indicators and rubric alignment are informed by the knowledge 
 
 EXECUTIVE SUMMARY — CATEGORY-BY-CATEGORY SNAPSHOT
 
-- Category 1: Religious and Metaphysical Foundations — CLASSICAL
+- Element 1: Religious and Metaphysical Foundations — CLASSICAL
   Evidence: liturgical practices, theology-integrated worldview, Biblical faith framing. Positive keywords present: worship, liturgy, truth, virtue, Logos, sacred tradition; Negative keywords: not evidenced. Overall: CLASSICAL.
 
-- Category 2: School Purpose and Goal — CLASSICAL
+- Element 2: School Purpose and Goal — CLASSICAL
   Evidence: formation-focused mission, virtue, wisdom; telos; humane education framing. Positive keywords: formation, virtue, wisdom, love of learning, human flourishing. Overall: CLASSICAL.
 
-- Category 3: Curriculum — CLASSICAL
+- Element 3: Curriculum — CLASSICAL
   Evidence: Trivium/Quadrivium framing; Memoria Press; Great Books; integration of history/literature/philosophy/science. Positive keywords: grammar, logic, rhetoric, Great Books, primary sources, Seven Liberal Arts. Overall: CLASSICAL.
 
-- Category 4: Pedagogy — CLASSICAL
+- Element 4: Pedagogy — CLASSICAL
   Evidence: lower-grade memorization/recitation; upper-grade Socratic/seminar; rhetoric training. Positive keywords: recitation, memory work, Socratic, seminars, rhetoric; Negative signals: not evident. Overall: CLASSICAL.
 
-- Category 5: Faculty — CLASSICAL
+- Element 5: Faculty — CLASSICAL
   Evidence: living curriculum; mentor-model faculty; focus on virtue formation. Positive keywords: living curriculum, mentors, model teachers, faculty as core. Overall: CLASSICAL.
 
-- Category 6: Parents & Community — CLASSICAL
+- Element 6: Parents & Community — CLASSICAL
   Evidence: partnership with families; open campus; parent formation and education; community involvement. Positive keywords: partnership with families, co-teachers, parental engagement, open campus. Overall: CLASSICAL.
 
 Overall assessment: CLASSICAL

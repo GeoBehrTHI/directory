@@ -1,0 +1,15 @@
+## ABSTRACT
+
+Valor Classical Christian Academy (Wisconsin, 54956) demonstrates a strong CLASSICAL orientation across the six classical elements rubric. The school’s public materials emphasize a Christ-centered, formation-focused mission that seeks wisdom, virtue, and service to Christ, anchored in a Christian theological framework. The curriculum explicitly follows the Trivium (grammar, logic, rhetoric) with age-appropriate articulation into Grammar School and Logic School, and the public materials underscore a Great Books / Great Conversation approach as well as liberal-arts integration. Pedagogy includes lower-school singing/memorization traditions and upper-school logic and rhetoric development, aligning with classical pedagogy. Faculty and governance are oriented around mentors/model teachers and a living-curriculum approach, and there is clear, ongoing parent partnership and community involvement.
+
+- Religious and Metaphysical Foundations: CLASSICAL — explicit Christ-centered formation; fear of the Lord; theology integrated into learning; church/community ties. 
+- School Purpose and Goal: CLASSICAL — formation and wisdom as the telos; transformation through enduring education; Great Conversation framing. 
+- Curriculum: CLASSICAL — Trivium (grammar/logic/rhetoric); Great Books/Great Conversation; liberal arts orientation; primary sources/history/language study. 
+- Pedagogy: SOMEWHAT CLASSICAL — grammar-stage memorization and singing; dialectic/logic development; rhetoric-oriented upper grades; explicit Socratic-style seminars are not uniformly documented in public materials. 
+- Faculty: CLASSICAL — living-curriculum teachers; strong faculty and board orientation to classical formation; mentorship and character formation; classical affiliations. 
+- Parents & Community: CLASSICAL — explicit parent partnership; co-teaching model; formation-focused parent engagement; open campus and family involvement. 
+
+Overall assessment: CLASSICAL. Valor’s materials consistently reflect transcendental aims, Christ-centered formation, Trivium-based curriculum, evidence of Great Books / Great Conversation, and active parent/community involvement. Element 4 is the primary needle-mover and would become CLASSICAL with more explicit documentation of consistent Socratic seminars and higher-level rhetoric pedagogy across all grades.
+
+Executive Summary — Notes on methodology and sources
+- The assessment relies on two data streams: (a) Valor’s public-facing website content and school materials (as retrieved from the Valor crawl store) and (b) the knowledge-base Lexicon of classical education, including the Six Essential Elements of a Classical School (1) and the classical keyword indicators. The public content demonstrates strong alignment with CLASSICAL indicators (virtue, wisdom, Great Conversation, Trivium, Great Books, liturgical context, and parent partnership). The keyword framework (positives and negatives) from the Six Essential Elements document (and the related lexicon) provides a rigorous baseline to compare presence/absence of key terms.

@@ -1,43 +1,43 @@
 ## Executive Summary
 
-New Covenant School Sc 29621 presents a robust classical Christian program that foregrounds the Trivium (grammar, dialectic, rhetoric), Great Books culture, and a covenantal, Scriptural foundation. Public materials consistently emphasize Christ-centered formation, virtue, wisdom, and a dialogic, memory-rich pedagogy that includes chant, narration, and memorization in the lower grades, with Socratic/seminar-style elements implied in the upper grades. The school explicitly frames education as formation within a biblical, classical framework, and it partners with parents as co-educators. Based on the six-element rubric and keyword indicators, the school is overall CLASSICAL, with a couple of categories showing strong classical alignment but incomplete explicit articulation of every pedagogical or faculty explicit criterion. The two categories that show only SOMEWHAT CLASSICAL signals are Pedagogy and Faculty, where the site demonstrates strong elements (memory, chant, Trivium orientation) but less explicit, public articulation of a full living-curriculum faculty model or fully Socratic, seminar-based high-school pedagogy.
+New Covenant School (Anderson, SC, 29621) presents a robust classical Christian program that foregrounds the Trivium (grammar, dialectic, rhetoric), Great Books culture, and a covenantal, Scriptural foundation. Public materials consistently emphasize Christ-centered formation, virtue, wisdom, and a dialogic, memory-rich pedagogy that includes chant, narration, and memorization in the lower grades, with Socratic/seminar-style elements implied in the upper grades. The school explicitly frames education as formation within a biblical, classical framework, and it partners with parents as co-educators. Based on the six-element rubric and keyword indicators, the school is overall CLASSICAL, with a couple of categories showing strong classical alignment but incomplete explicit articulation of every pedagogical or faculty explicit criterion. The two categories that show only SOMEWHAT CLASSICAL signals are Pedagogy and Faculty, where the site demonstrates strong elements (memory, chant, Trivium orientation) but less explicit, public articulation of a full living-curriculum faculty model or fully Socratic, seminar-based high-school pedagogy.
 
 Key insight: New Covenant’s public materials consistently align with classical Christian aims (truth, Scripture, Great Books, formation, covenantal community, and parental partnership). To move from SOMEWHAT CLASSICAL in two categories to fully CLASSICAL, it should more explicitly publicize a living-faculty model and explicit, high-school–level Socratic/seminar pedagogy, along with a clearly articulated teacher portrait and a formal: “faculty as living curriculum” statement.
 
 Executive Summary — Element-by-Element Snapshot
 
 - Element 1: Religious and Metaphysical Foundations — CLASSICAL
-  Evidence shows explicit theological grounding, Scriptural integration, and a covenantal culture oriented toward truth, goodness, and beauty within a Christian framework. Positive keywords (truth, Scripture, theology/Christ-centered, virtue, biblical, Great Conversation) appear across multiple pages. Negative keywords (secularism, relativism) are not present.
-  Positive/Negative keyword analysis: Positive hits dominate (approximately 8–9 explicit indicators found); Negative hits: 0. This strongly supports a CLASSICAL rating.
-  Why this rating: The materials foreground theology, sacred text, covenantal community, and a teleology aligned with virtue and wisdom.
+ Evidence shows explicit theological grounding, Scriptural integration, and a covenantal culture oriented toward truth, goodness, and beauty within a Christian framework. Positive keywords (truth, Scripture, theology/Christ-centered, virtue, biblical, Great Conversation) appear across multiple pages. Negative keywords (secularism, relativism) are not present.
+ Positive/Negative keyword analysis: Positive hits dominate (approximately 8–9 explicit indicators found); Negative hits: 0. This strongly supports a CLASSICAL rating.
+ Why this rating: The materials foreground theology, sacred text, covenantal community, and a teleology aligned with virtue and wisdom.
 
 - Element 2: School Purpose and Goal — CLASSICAL
-  Evidence emphasizes formation, virtue, wisdom, and the true/good/beautiful as ends of education, not mere workforce prep. Statements like “Presenting Every Student Complete in Christ” and “formation” language appear; the curriculum aims at wisdom, virtue, and the development of character.
-  Positive/Negative keyword analysis: Positive hits abundant (formation, virtue, wisdom, telos, true/good/beautiful, Scholé-like restfulness implied). Negative hits: 0. CLASSICAL.
-  Why this rating: Explicit focus on formation and the aims of education beyond mere information aligns with the classical telos.
+ Evidence emphasizes formation, virtue, wisdom, and the true/good/beautiful as ends of education, not mere workforce prep. Statements like “Presenting Every Student Complete in Christ” and “formation” language appear; the curriculum aims at wisdom, virtue, and the development of character.
+ Positive/Negative keyword analysis: Positive hits abundant (formation, virtue, wisdom, telos, true/good/beautiful, Scholé-like restfulness implied). Negative hits: 0. CLASSICAL.
+ Why this rating: Explicit focus on formation and the aims of education beyond mere information aligns with the classical telos.
 
 - Element 3: School Curriculum — CLASSICAL
-  Evidence shows liberal arts orientation (grammar, logic, rhetoric not just in name but embodied via Trivium mention and Latin roots), extensive Great Books engagement, and a curriculum designed to cultivate wonder. We see Greek/Latin roots in elementary, memorization of classic literature, Shakespeare, and living books; Upper School references to Great Books and a Great Conversation.
-  Positive/Negative keyword analysis: Positive hits include Seven Liberal Arts (grammar, logic, rhetoric), Great Books/Great Conversation, Latin roots, living books, memorization, nature of history asWestern civilization, wonder. Negative hits: 0 (no explicit social-studies-centric replacement of history, no over-emphasis on project-based-only pedagogy noted publicly).
-  Why this rating: The curriculum consistently maps to classical content and methods.
+ Evidence shows liberal arts orientation (grammar, logic, rhetoric not just in name but embodied via Trivium mention and Latin roots), extensive Great Books engagement, and a curriculum designed to cultivate wonder. We see Greek/Latin roots in elementary, memorization of classic literature, Shakespeare, and living books; Upper School references to Great Books and a Great Conversation.
+ Positive/Negative keyword analysis: Positive hits include Seven Liberal Arts (grammar, logic, rhetoric), Great Books/Great Conversation, Latin roots, living books, memorization, nature of history asWestern civilization, wonder. Negative hits: 0 (no explicit social-studies-centric replacement of history, no over-emphasis on project-based-only pedagogy noted publicly).
+ Why this rating: The curriculum consistently maps to classical content and methods.
 
 - Element 4: Pedagogy or Teaching Methods — SOMEWHAT CLASSICAL
-  Evidence shows lower-school pedagogy with memory work, singing, chanting, narration, and an atmosphere of virtue; upper-school methods are described in broader terms (classical, seminar-oriented possibilities) but explicit high-school Socratic/seminar pedagogy is not clearly documented publicly. There is explicit emphasis on memory-based practices, chant, and living books in the lower grades; upper grades imply Socratic elements but without explicit, public articulation of a formal program.
-  Positive keyword analysis: Positive hits include singing/chanting, memory, narration; some elements of Socratic/seminar pedagogy are implied but not explicitly stated in high school. Negative hits: 0 explicit. CLASSICAL would require explicit high-school Socratic/seminar pedagogy, which is not publicly and clearly stated.
-  Why this rating: The presence of memory-based and contemplative elements is strong (Scholé-like), but the lack of explicit, publicized high-school Socratic seminars and formal upper-school rhetoric/seminar programs keeps this at SOMEWHAT CLASSICAL.
+ Evidence shows lower-school pedagogy with memory work, singing, chanting, narration, and an atmosphere of virtue; upper-school methods are described in broader terms (classical, seminar-oriented possibilities) but explicit high-school Socratic/seminar pedagogy is not clearly documented publicly. There is explicit emphasis on memory-based practices, chant, and living books in the lower grades; upper grades imply Socratic elements but without explicit, public articulation of a formal program.
+ Positive keyword analysis: Positive hits include singing/chanting, memory, narration; some elements of Socratic/seminar pedagogy are implied but not explicitly stated in high school. Negative hits: 0 explicit. CLASSICAL would require explicit high-school Socratic/seminar pedagogy, which is not publicly and clearly stated.
+ Why this rating: The presence of memory-based and contemplative elements is strong (Scholé-like), but the lack of explicit, publicized high-school Socratic seminars and formal upper-school rhetoric/seminar programs keeps this at SOMEWHAT CLASSICAL.
 
 - Element 5: Faculty — SOMEWHAT CLASSICAL
-  Evidence suggests teacher excellence and virtue are valued, with a culture described as covenantal and virtuous, and a “living curriculum” concept appears in the classical discourse. However, explicit public articulation of a formal “portrait of a teacher” and a “faculty as living curriculum” with standardized mentor/teacher-formation expectations is not strongly documented in the public materials.
-  Positive keyword analysis: Positive signals include teacher mentorship, virtuous modeling, “culture matters,” Trivium orientation, and covenantal teacher-student relationships. Negative hits: 0 explicit. However, the absence of a clearly articulated “living curriculum portrait of a teacher” reduces the certainty of CLASSICAL. SOMEWHAT CLASSICAL due to partial alignment.
-  Why this rating: Strong alignment with virtue-centered, mentor-like teaching, but the public materials do not explicitly present the full living-curriculum or faculty portrait language in a rigorous formal way.
+ Evidence suggests teacher excellence and virtue are valued, with a culture described as covenantal and virtuous, and a “living curriculum” concept appears in the classical discourse. However, explicit public articulation of a formal “portrait of a teacher” and a “faculty as living curriculum” with standardized mentor/teacher-formation expectations is not strongly documented in the public materials.
+ Positive keyword analysis: Positive signals include teacher mentorship, virtuous modeling, “culture matters,” Trivium orientation, and covenantal teacher-student relationships. Negative hits: 0 explicit. However, the absence of a clearly articulated “living curriculum portrait of a teacher” reduces the certainty of CLASSICAL. SOMEWHAT CLASSICAL due to partial alignment.
+ Why this rating: Strong alignment with virtue-centered, mentor-like teaching, but the public materials do not explicitly present the full living-curriculum or faculty portrait language in a rigorous formal way.
 
 - Element 6: Parents & Community — CLASSICAL
-  Evidence shows explicit partnership with families as co-educators, parent formation through book lists and gatherings, and open-campus/offers to visit; the site emphasizes parent engagement and covenantal relationships with the church and family life as integral to classical education.
-  Positive keyword analysis: Positive hits include "Partnership with Families," "co-teachers," "parent formation," "open campus," "classical book clubs," "book lists," and explicit family engagement. Negative hits: 0. CLASSICAL.
-  Why this rating: The materials demonstrate a robust, explicit model of parent partnership and community involvement aligned with classical education.
+ Evidence shows explicit partnership with families as co-educators, parent formation through book lists and gatherings, and open-campus/offers to visit; the site emphasizes parent engagement and covenantal relationships with the church and family life as integral to classical education.
+ Positive keyword analysis: Positive hits include "Partnership with Families," "co-teachers," "parent formation," "open campus," "classical book clubs," "book lists," and explicit family engagement. Negative hits: 0. CLASSICAL.
+ Why this rating: The materials demonstrate a robust, explicit model of parent partnership and community involvement aligned with classical education.
 
 Aggregate Ranking: CLASSICAL
-Overall, New Covenant School Sc 29621 demonstrates a strong classical orientation across most categories, with Pedagogy and Faculty showing meaningful classical signals but not fully public articulation of all required elements to be deemed fully CLASSICAL in those categories. The aggregate assessment is CLASSICAL.
+Overall, New Covenant School (Anderson, SC, 29621) demonstrates a strong classical orientation across most categories, with Pedagogy and Faculty showing meaningful classical signals but not fully public articulation of all required elements to be deemed fully CLASSICAL in those categories. The aggregate assessment is CLASSICAL.
 
 What would move the needle
 - For Pedagogy (Element 4): Publicly codify and advertise a full high-school Socratic/seminar program (e.g., regular Paideia/Socratic seminars, seminars, and debates in 9–12) and explicitly document the upper-school rhetorical training, with student speeches and capstone oration opportunities. Also prominently display a Scholé/restful learning philosophy in practice (explicit class rhythms and contemplative days).
@@ -55,7 +55,7 @@ Evidence
 - “What is Classical Christian Education? … classical tradition; Christian worldview” (context from the school’s materials and related pages). 
 
 Positive/Negative keyword analysis
-- Positive hits: truth, Scripture, theology, Christ-centered, biblical, virtue, wisdom, Great Conversation, covenantal, Trivium. Approximately 8–9 explicit indicators found across pages. fileciteturn0file6turn0file16turn0file13turn0file11
+- Positive hits: truth, Scripture, theology, Christ-centered, biblical, virtue, wisdom, Great Conversation, covenantal, Trivium. Approximately 8–9 explicit indicators found across pages. 
 - Negative hits: None evident (no public signaling of secularism, relativism, or values-neutral approaches). 
 
 Why this rating
@@ -71,7 +71,7 @@ Evidence
 - The culture emphasizes forming character (virtue, wisdom) rather than mere information or work-force training. 
 
 Positive/Negative keyword analysis
-- Positive hits: formation, virtue, wisdom, telos, true/good/beautiful, Scholé, great conversation, living books, classical mission, a faith-centered future. Roughly 7–9 explicit indicators across materials. fileciteturn0file0turn0file3turn0file11
+- Positive hits: formation, virtue, wisdom, telos, true/good/beautiful, Scholé, great conversation, living books, classical mission, a faith-centered future. Roughly 7–9 explicit indicators across materials. 
 - Negative hits: None evident (no strong signals of career-readiness or skills-first framing). 
 
 Why this rating
@@ -87,7 +87,7 @@ Evidence
 - Humane Letters and graded reading lists appear as public resources for reading across grades. 
 
 Positive/Negative keyword analysis
-- Positive hits include liberal arts framework (grammar, logic, rhetoric), Great Books, Great Conversation, Latin/Greek, narration, living books, poetry, history as Western civilization, and classical literature. Approximately 9–12 explicit indicators found across pages. fileciteturn0file3turn0file0turn0file11
+- Positive hits include liberal arts framework (grammar, logic, rhetoric), Great Books, Great Conversation, Latin/Greek, narration, living books, poetry, history as Western civilization, and classical literature. Approximately 9–12 explicit indicators found across pages. 
 - Negative hits: None (no prominent project-based-only or social-studies-as-history substitution signals in public materials). 
 
 Why this rating

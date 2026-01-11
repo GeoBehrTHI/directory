@@ -1,14 +1,14 @@
 ## Executive Summary
 
-Holy Family Academy Mn 55416 (HFAMN) presents a robust Catholic classical-leaning program that intertwines Montessori beginnings with a traditional Trivium-inspired curriculum. Public-facing materials emphasize virtue formation, spiritual development, liturgical life, and a Great-Books oriented pedagogy, anchored in Catholic theology and liturgy. The school explicitly frames its mission around forming body, soul, and mind, with a stated ultimate goal of salvation in Jesus Christ. Taken together with Montessori roots and a clearly stated classical curriculum (grammar, logic, rhetoric; Latin; great books; history), HFAMN demonstrates substantial alignment with classical education values, though some aspects of pedagogy and faculty articulation remain less explicit in the public materials. Overall, HFAMN is best characterized as SOMEWHAT CLASSICAL, with strong Classical cues, particularly in curriculum and religious foundations, and with room to more fully document some classical-fidelity elements in pedagogy and faculty articulation.
+Holy Family Academy (Minneapolis, MN, 55416) (HFAMN) presents a robust Catholic classical-leaning program that intertwines Montessori beginnings with a traditional Trivium-inspired curriculum. Public-facing materials emphasize virtue formation, spiritual development, liturgical life, and a Great-Books oriented pedagogy, anchored in Catholic theology and liturgy. The school explicitly frames its mission around forming body, soul, and mind, with a stated ultimate goal of salvation in Jesus Christ. Taken together with Montessori roots and a clearly stated classical curriculum (grammar, logic, rhetoric; Latin; great books; history), HFAMN demonstrates substantial alignment with classical education values, though some aspects of pedagogy and faculty articulation remain less explicit in the public materials. Overall, HFAMN is best characterized as SOMEWHAT CLASSICAL, with strong Classical cues, particularly in curriculum and religious foundations, and with room to more fully document some classical-fidelity elements in pedagogy and faculty articulation.
 
 Key observations driving the overall rating
-- Religious and Metaphysical Foundations: The school is explicitly Catholic, integrates liturgy and calendar life, and emphasizes truth, goodness, and beauty as intelligible and knowable ideals. The liturgical life (Mass; liturgical calendar) and Catholic formation pervade the public materials. Evidence includes explicit statements about Catholic identity, spiritual formation, and the Incarnation framework.   
+- Religious and Metaphysical Foundations: The school is explicitly Catholic, integrates liturgy and calendar life, and emphasizes truth, goodness, and beauty as intelligible and knowable ideals. The liturgical life (Mass; liturgical calendar) and Catholic formation pervade the public materials. Evidence includes explicit statements about Catholic identity, spiritual formation, and the Incarnation framework. 
 - Purpose and Goal: The program centers formation, virtue, wisdom, and human flourishing, with a Catholic telos and a clear emphasis on moral and intellectual formation rather than mere information. The materials repeatedly tie education to virtue and the transcendent aims of Catholic formation. 
 - Curriculum: The Trivium (grammar, logic, rhetoric), Latin, Great Books, history, and a strong historical/cultural frame are explicit parts of the curriculum. The Great-Books orientation and Trivium framing are well documented on HFAMN materials. 
 - Pedagogy: Public materials emphasize memorization, recitation, language development, and liturgical integration as core practices; some evidence of discussive/Socratic elements appears less explicit in K–8 materials. The presence of memorization, recitation, and ritual life is clear, with less explicit documentation of Socratic seminars in upper grades. 
 - Faculty: Public statements highlight capable, faith-aligned teaching, with parent quotes praising teacher expertise and the integration of faith, academics, and moral development; however, explicit “living curriculum” portrayals or detailed faculty-formation language are not strongly evident in the public materials. 
-- Parents & Community: The school emphasizes partnership with parents, parent formation activities, frequent events, and open campus-style enrollment for family engagement, including Parent Enrichment Night and Catholic School Week activities. This indicates a strong classical-community orientation.  
+- Parents & Community: The school emphasizes partnership with parents, parent formation activities, frequent events, and open campus-style enrollment for family engagement, including Parent Enrichment Night and Catholic School Week activities. This indicates a strong classical-community orientation. 
 
 Executive Summary — Element-by-Element Snapshot
 
@@ -16,12 +16,12 @@ Executive Summary — Element-by-Element Snapshot
 
 Evidence
 - Clear Catholic identification and mission (Catholic classical curriculum; emphasis on spiritual formation; Incarnation language). 
-- Liturgical life documented (liturgical calendar; Mass; liturgy references).  
-- Theological framing around truth, goodness, and beauty in Catholic context (truth/goodness/beauty; salvation in Jesus Christ).  
+- Liturgical life documented (liturgical calendar; Mass; liturgy references). 
+- Theological framing around truth, goodness, and beauty in Catholic context (truth/goodness/beauty; salvation in Jesus Christ). 
 - Montessori + Catholic classical synthesis reflects a transcendental, sacred frame for education (Incarnation, sacredness of truth/beauty). 
 
 Positive/Negative keyword analysis
-- Positive keywords observed: truth, goodness, beauty; virtue; theology (Catholic theological framing); liturgy, Mass; liturgical calendar; sacred/Incarnation language; Catholic heritage. Recurrent phrases explicitly connect education to transcendent ideals and sacred life.   
+- Positive keywords observed: truth, goodness, beauty; virtue; theology (Catholic theological framing); liturgy, Mass; liturgical calendar; sacred/Incarnation language; Catholic heritage. Recurrent phrases explicitly connect education to transcendent ideals and sacred life. 
 - Negative keywords: None evident in the public materials.
 
 Why this rating
@@ -46,7 +46,7 @@ Why this rating
 Evidence
 - Explicit mention of the liberal arts framework via the Trivium: grammar, logic, rhetoric. 
 - Study of Latin; emphasis on great stories and great books; systematic historical study across epochs; integration with math, language arts, and thinking skills. 
-- History integrated throughout the curriculum (history among core subjects) and a robust Great Books orientation; Montessorian foundation with classical core.  
+- History integrated throughout the curriculum (history among core subjects) and a robust Great Books orientation; Montessorian foundation with classical core. 
 
 Positive/Negative keyword analysis
 - Positive keywords observed: grammar, logic, rhetoric; great books; Latin; history; Western civilization (implied by “major historical epochs”); primary sources; classics; recitation; narration. 
@@ -86,7 +86,7 @@ Why this rating
 ### Element 6: Parents & Community — CLASSICAL
 
 Evidence
-- Public materials emphasize partnerships with parents and co-teacher-like involvement; parent formation activities and classical book group opportunities are described (Parent Enrichment Night; Catholic Schools Week; family liturgy alignment).  
+- Public materials emphasize partnerships with parents and co-teacher-like involvement; parent formation activities and classical book group opportunities are described (Parent Enrichment Night; Catholic Schools Week; family liturgy alignment). 
 - Open campus and parent involvement language is present; families are encouraged to tour and engage with the school’s mission. The Welcome materials and parent testimonials further support family engagement as a core element. 
 
 Positive/Negative keyword analysis

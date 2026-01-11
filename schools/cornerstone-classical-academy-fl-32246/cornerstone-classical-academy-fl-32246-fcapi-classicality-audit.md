@@ -7,9 +7,9 @@ However, the materials consistently describe CCA as nonsectarian and not religio
 Aggregate classification: CLASSICAL
 
 Key insights:
-- Strong curricular core: Trivium-focused elements (grammar, logic, rhetoric), Latin study, Great Books, primary sources, and history anchored in Western civilization. Evidence includes curriculum and high school sequencing, with emphasis on reading classical works and forming human excellence.  
+- Strong curricular core: Trivium-focused elements (grammar, logic, rhetoric), Latin study, Great Books, primary sources, and history anchored in Western civilization. Evidence includes curriculum and high school sequencing, with emphasis on reading classical works and forming human excellence. 
 - Pedagogy aligns with classical norms: Socratic dialogue in upper grades; memory-driven, chant-based reinforcement in lower grades; a focus on formation through models of excellence. 
-- Virtue- and truth-centered mission: Public statements foreground moral character, civic virtue, and knowledge of truth; motto explicitly invokes truth, goodness, and beauty. This supports a robust classical aim toward formation and transcendentals, though without explicit theology.  
+- Virtue- and truth-centered mission: Public statements foreground moral character, civic virtue, and knowledge of truth; motto explicitly invokes truth, goodness, and beauty. This supports a robust classical aim toward formation and transcendentals, though without explicit theology. 
 - Community and family engagement: Active parent engagement, admissions information, and parent groups indicate strong partnership with families, aligning with classical education norms in Element 6. 
 
 Note: Where relevant, the analysis below compares school materials to the positive/negative keyword indicators drawn from the Six Essential Elements of a Classical School (1) rubric (as refined in the knowledge base), and then assigns a star-rating style category (CLASSICAL / SOMEWHAT CLASSICAL / NOT CLASSICAL) per category. Citations point to the exact materials found in the crawl and knowledge baselines.
@@ -21,7 +21,7 @@ Note: Where relevant, the analysis below compares school materials to the positi
 ### Element 1: Religious and Metaphysical Foundations — SOMEWHAT CLASSICAL
 
 Evidence
-- Public materials identify virtue, truth, and beauty as overarching ideals and emphasize formation of character and civic virtue. The motto explicitly states “Learn the truth. Do the good. Love the beautiful,” and materials describe virtue and moral formation as central aims.  
+- Public materials identify virtue, truth, and beauty as overarching ideals and emphasize formation of character and civic virtue. The motto explicitly states “Learn the truth. Do the good. Love the beautiful,” and materials describe virtue and moral formation as central aims. 
 - There is no explicit grounding in Theology or liturgical/communal worship in the public materials; the school is described as nonsectarian and not religious, which suggests a lack of theological grounding in the program. 
 
 Positive/Negative Keyword Analysis
@@ -36,16 +36,13 @@ What would move the needle (for a fully CLASSICAL posture)
 - Introduce liturgical or communal practices that still respect nonsectarian status but cultivate sacramental or ritual/worship elements within the school culture.
 
 Citations
-- Motto and virtue language: turn0file17; turn0file14
-- Nonsectarian/not religious explicit statement: turn0file4
-- Virtue-focused formation language (moral character, civic virtue, truth): turn0file12
-
+- Motto and virtue language: turn0file17;- Nonsectarian/not religious explicit statement:- Virtue-focused formation language (moral character, civic virtue, truth):
 ---
 
 ### Element 2: School Purpose and Goal — CLASSICAL
 
 Evidence
-- The mission and public materials emphasize forming virtuous, well-rounded students rather than purely job-prep outcomes. The mission statement explicitly frames virtuous living, civic responsibility, and knowledge of truth as core aims. The motto reinforces virtue and the beauty of learning.  
+- The mission and public materials emphasize forming virtuous, well-rounded students rather than purely job-prep outcomes. The mission statement explicitly frames virtuous living, civic responsibility, and knowledge of truth as core aims. The motto reinforces virtue and the beauty of learning. 
 - The emphasis on truth, virtue, and the classical heritage suggests formation (paideia) and human excellence, consistent with Classical aims rather than merely information transfer or workforce preparation. The materials describe “classical education” with a focus on moral and intellectual formation. 
 
 Positive/Negative Keyword Analysis
@@ -56,16 +53,13 @@ How this rating is justified
 - The school’s stated purpose aligns with Classical aims: formation of virtue and wisdom, not just job-readiness; emphasis on virtue, truth, and beauty as enduring goods; and engagement with a classical heritage (Western civilization). This supports a CLASSICAL designation for Element 2.
 
 Citations
-- Mission emphasizing virtue, truth, civic virtue: turn0file12
-- Public motto and formation language: turn0file17
-- Curriculum/Great Books orientation (context for formation): turn0file6
-
+- Mission emphasizing virtue, truth, civic virtue:- Public motto and formation language:- Curriculum/Great Books orientation (context for formation):
 ---
 
 ### Element 3: School Curriculum — CLASSICAL
 
 Evidence
-- The curriculum is explicitly described as liberal-arts-focused with grammar, logic, rhetoric, and classical study. The school references formal grammar instruction, reading great classical works, and connecting literature to virtue and Western civilization. Latin is taught beginning early (K5) with continued study; high school sequencing includes literature, history, math, science, and moral philosophy. This aligns with the classical curriculum architecture.  
+- The curriculum is explicitly described as liberal-arts-focused with grammar, logic, rhetoric, and classical study. The school references formal grammar instruction, reading great classical works, and connecting literature to virtue and Western civilization. Latin is taught beginning early (K5) with continued study; high school sequencing includes literature, history, math, science, and moral philosophy. This aligns with the classical curriculum architecture. 
 - The school uses primary sources/history-driven organizing principles, and emphasizes art and music as core subjects to cultivate beauty, which is consistent with a classical curriculum model. The materials describe a classical course sequence in high school and a strong emphasis on the Great Books approach. 
 
 Positive/Negative Keyword Analysis
@@ -76,10 +70,7 @@ How this rating is justified
 - The explicit focus on grammar/logic/rhetoric, Latin, Great Books and primary sources, and a history-centered, integrated humanities approach strongly matches the classical curriculum indicators. The presence of Great Books and a full liberal-arts sequence places this category firmly in CLASSICAL.
 
 Citations
-- Grammar/logic/rhetoric and Great Books emphasis: turn0file6
-- Latin from early grades; high school sequencing; moral philosophy: turn0file9
-- Western civilization emphasis and primary sources: turn0file12
-
+- Grammar/logic/rhetoric and Great Books emphasis:- Latin from early grades; high school sequencing; moral philosophy:- Western civilization emphasis and primary sources:
 ---
 
 ### Element 4: Pedagogy or Teaching Methods — CLASSICAL
@@ -91,17 +82,14 @@ Evidence
 
 Positive/Negative Keyword Analysis
 - Positive keywords present: Socratic dialogue, dialectic, great conversation, memorization/recitation, chanting, scholé (restful learning), formation through imitation/practice, master-teacher model, rhetoric and oratory, structured dialogue, civil discourse.
-  These keywords map to the Positive Keywords in the Classical Lexicon. 
+ These keywords map to the Positive Keywords in the Classical Lexicon. 
 - Negative keywords present: The site materials do not emphasize a project-based-only or experiential-learning-dominant approach; the classical pedagogy described aligns with the expected traditional methods. Some Lexicon negative indicators include “experiential learning focus” or “project-based only” in lieu of Socratic dialogue; those are not dominant in the materials. Thus negative indicators are minimal.
 
 How this rating is justified
 - The explicit inclusion of Socratic dialogue in upper grades, memorization/recitation in lower grades, and a rhetoric-focused upper-school pathway supports CLASSICAL pedagogy. The mix of contemplative/restful elements (Scholé) with Socratic seminars demonstrates a balanced, classical pedagogy rather than purely project-based or constructivist approaches.
 
 Citations
-- Socratic discussion and rhetoric in curriculum: turn0file6
-- Lower-school chanting/memory work (recitation, chant): turn0file6
-- Master-teacher models and living curriculum language (faculty-focused formation signals): turn0file4
-
+- Socratic discussion and rhetoric in curriculum:- Lower-school chanting/memory work (recitation, chant):- Master-teacher models and living curriculum language (faculty-focused formation signals):
 ---
 
 ### Element 5: School Faculty — CLASSICAL
@@ -118,9 +106,7 @@ How this rating is justified
 - The presence of teacher-model language, living curriculum concepts, and explicit commitment to virtue and mastery indicators supports CLASSICAL for Element 5.
 
 Citations
-- Living curriculum, teacher as model/mentor language: turn0file4
-- Faculty certification and professional standards (Executive leadership, Careers page): turn0file18
-
+- Living curriculum, teacher as model/mentor language:- Faculty certification and professional standards (Executive leadership, Careers page):
 ---
 
 ### Element 6: School Parents and Community — CLASSICAL
@@ -137,20 +123,18 @@ How this rating is justified
 - The school demonstrates robust parent and community engagement consistent with classical education norms (Element 6).
 
 Citations
-- Parent partnership and engagement; PTO; open-campus language: turn1file12 and turn1file7
-- Family formation and Western-civilization content signals: turn1file2
-
+- Parent partnership and engagement; PTO; open-campus language:and- Family formation and Western-civilization content signals:
 ---
 
 ## What Would Move the Needle
 
 - If the school sought to push from SOMEWHAT CLASSICAL in Element 1 to CLASSICAL, adding explicit theological and liturgical/communal practices in a way that respects a nonsectarian public model would move the needle. Concrete steps:
-  - Introduce a formal, school-wide liturgical calendar or structured chapel-like experiences that are ecumenical and respectful of multiple faith traditions, while preserving public status.
-  - Add a stand-alone Theology/Philosophy of Education module or a capstone course that explicitly discusses truth, goodness, and beauty within a classical framework, rooted in the Logos/metaphysical framing of liberal arts education.
+ - Introduce a formal, school-wide liturgical calendar or structured chapel-like experiences that are ecumenical and respectful of multiple faith traditions, while preserving public status.
+ - Add a stand-alone Theology/Philosophy of Education module or a capstone course that explicitly discusses truth, goodness, and beauty within a classical framework, rooted in the Logos/metaphysical framing of liberal arts education.
 
 - To further strengthen Element 3 (Curriculum) and Element 4 (Pedagogy), the school could:
-  - Expand exposure to more Great Books with teacher-led seminars across more grades, increasing cross-disciplinary integration and continuing emphasis on the Great Conversation as a school-wide throughline.
-  - Balance memory/recitation with guided inquiry and more student-led dialectic in lower grades where appropriate, ensuring a seamless transition from scholé-restful pacing to Socratic inquiry across as many grade levels as feasible.
+ - Expand exposure to more Great Books with teacher-led seminars across more grades, increasing cross-disciplinary integration and continuing emphasis on the Great Conversation as a school-wide throughline.
+ - Balance memory/recitation with guided inquiry and more student-led dialectic in lower grades where appropriate, ensuring a seamless transition from scholé-restful pacing to Socratic inquiry across as many grade levels as feasible.
 
 - For Element 5 (Faculty) and Element 6 (Parents & Community), consolidate and publish a formal faculty-formation plan (history of the living curriculum, teacher development in classical pedagogy, and mentorship pathways) and broaden parent-education programs (book studies, lectures) to deepen the home-school partnership as a core institutional practice.
 

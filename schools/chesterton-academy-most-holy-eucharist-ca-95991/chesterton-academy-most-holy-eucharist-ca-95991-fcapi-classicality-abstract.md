@@ -1,3 +1,5 @@
+Overall Classification: CLASSICAL
+
 ## ABSTRACT
 
 Chesterton Academy of the Most Holy Eucharist (CAMHE) demonstrates CLASSICAL alignment across all six rubric categories. Religious and Metaphysical Foundations are evidenced by a clearly Catholic, liturgical identity and a theologically oriented outlook integrated into a classical formation. The School Purpose and Goal center on formation, virtue, and the pursuit of truth, goodness, and beauty, not merely job preparation. The Curriculum emphasizes liberal arts, Great Books, and the Great Conversation, with an integrated historical-philosophical-theological humanities sequence. Pedagogy blends Socratic discussion, Scholé/restful learning, memorization/recitation, and rhetorical training, aligned with traditional classical practices. Faculty are depicted as the living curriculum and mentors within a collegial, formation-focused culture. Parents & Community are central through the Chesterton Schools Network, which mobilizes parent-led Catholic schooling and family engagement as core to the school’s ecosystem.

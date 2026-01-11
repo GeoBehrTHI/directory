@@ -24,7 +24,7 @@ Overall: CLASSICAL
 
 Notes on sources
 - Core public-facing material confirming Christ-centered, biblically integrated learning and weekly chapel is evidenced in Faith West Academy’s pages and identifies theological commitments and spiritual formation as central to education. 
-- Doctrinal statements and faith commitments are explicitly stated in the school’s Statement of Faith, reinforcing the religious-structural basis for the CLASSICAL classification in Category 1. 
+- Doctrinal statements and faith commitments are explicitly stated in the school’s Statement of Faith, reinforcing the religious-structural basis for the CLASSICAL classification in Element 1. 
 - The Six Essential Elements of a Classical School (1) document provides the keyword framework used for the category mappings and the “Positive/Negative keyword indicators” used in this analysis. The positive keywords include formation, wisdom, virtue, true/beautiful, great conversation, and liturgy, while negative signals include secularism and market-driven approaches. The primary reference for this rubric is the document itself. 
 
 ABSTRACT

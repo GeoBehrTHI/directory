@@ -9,34 +9,34 @@ Aliso Viejo Christian School CA 92656 presents public materials that align close
 - Faculty: CLASSICAL. Evidence includes “living curriculum,” virtuous mentors, and formation-centered faculty culture. 
 - Parents & Community: CLASSICAL. Evidence includes partnership with families and parent formation; open engagement. 
 
-Executive Summary — Category-by-Category Snapshot (Detailed)
+Executive Summary — Element-by-Element Snapshot (Detailed)
 
-- Category 1: Religious and Metaphysical Foundations — CLASSICAL
+- Element 1: Religious and Metaphysical Foundations — CLASSICAL
   Evidence: Judeo-Christian grounding; weekly chapel; Scripture-based formation; theology as authoritative frame. 
   Positive/Negative keyword analysis: Positive keywords (truth, goodness, beauty, virtue, theology, liturgy, reverence, wonder, Logos, wisdom); Negative signals minimal. Estimated strong positive signal, aligning with Classical. 
   Why this rating: The school’s materials present a transcendent moral realism and liturgical life central to education, consistent with classical religious foundations. 
 
-- Category 2: School Purpose and Goal — CLASSICAL
+- Element 2: School Purpose and Goal — CLASSICAL
   Evidence: Formation and virtue as aims; education for life and wisdom; not solely job prep. 
   Positive/Negative keyword analysis: Positive signals include formation, virtue, wisdom, contemplation; minimal explicit workforce-teleology; essentially no negative signals in the public materials. CLASSICAL alignment. 
   Why this rating: The telos is virtue-and-wisdom formation rather than vocational training alone. 
 
-- Category 3: Curriculum — SOMEWHAT CLASSICAL
+- Element 3: Curriculum — SOMEWHAT CLASSICAL
   Evidence: Liberal-arts orientation present; emphasis on formation; less explicit Great Books/Great Conversation in public site. 
   Positive/Negative keyword analysis: Positive signals include “liberal arts,” formation, and curiosity; negative signals include lack of explicit Great Books/Quadrivium signaling on public pages. Mixed but leaning toward partial classical alignment. 
   Why this rating: The curriculum is framed in liberal-arts terms and formation, but public signals of canonical Great Books/Seven Liberal Arts are not consistently explicit. 
 
-- Category 4: Pedagogy — SOMEWHAT CLASSICAL
+- Element 4: Pedagogy — SOMEWHAT CLASSICAL
   Evidence: Focus on asking good questions, curiosity-driven conversation, and contemplative elements; presence of formation through practice. 
   Positive/Negative keyword analysis: Positive indicators include Socratic dialogue, guided discussion, contemplation, and memory-based practices; negative signals limited on public pages. Moderate classical alignment. 
   Why this rating: Pedagogy signals align with classical methods in spirit (dialogue, contemplation) but lack of explicit, wide-scale Socratic seminars or formal rhetoric training on public pages yields a partial alignment. 
 
-- Category 5: Faculty — CLASSICAL
+- Element 5: Faculty — CLASSICAL
   Evidence: Faculty described as mentors and living curriculum; core to school ethos. 
   Positive/Negative keyword analysis: Strong positive signals (living curriculum, mentors, virtue, formation). Negatives none evident in public materials. CLASSICAL. 
   Why this rating: The faculty model emphasizes character, virtue, and mentorship as the core of the educational enterprise. 
 
-- Category 6: Parents & Community — CLASSICAL
+- Element 6: Parents & Community — CLASSICAL
   Evidence: Clear partnership with families; parent formation; open campus/visitation culture. 
   Positive/Negative keyword analysis: Positive signals include partnership with families, parent formation, shared mission; negatives absent in public materials. CLASSICAL. 
   Why this rating: The school positions parents as co-educators and emphasizes ongoing parent engagement—central to classical education's community dimension. 
@@ -61,6 +61,6 @@ Notes on sources and signals
 
 - Public materials emphasize a Christian formation framework with liturgical practice and a biblical-theological grounding. This is evidenced by explicit statements of faith and weekly chapel, and the characterization of education as formation in a Christian worldview. 
 - The “Is Formed in Practice” framework for Pacifica OC highlights five beliefs central to their classical formation approach (liberal arts, relationships, curiosity, service, and dynamic spaces). This aligns with a classical orientation in several categories and provides a shared basis for the school’s practices. 
-- The public materials also emphasize partnership with families and parent formation as a core principle, which strongly supports the Category 6 signal. 
+- The public materials also emphasize partnership with families and parent formation as a core principle, which strongly supports the Element 6 signal. 
 
 END OF REPORT

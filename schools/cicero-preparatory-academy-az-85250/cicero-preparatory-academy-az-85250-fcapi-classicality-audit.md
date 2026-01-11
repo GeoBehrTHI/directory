@@ -1,6 +1,6 @@
 ## Executive Summary
 
-Cicero Preparatory Academy Az 85250 (Cicero Prep) presents a robust classical education profile aligned closely with the Six Essential Elements of a Classical School as expressed in the knowledge-base rubric. Public-facing materials on the Great Hearts Cicero Prep site foreground a classical liberal arts curriculum, Great Books, Socratic dialogue, and a formation-centric aim (virtue and moral education) rather than mere job-readiness. The school frequently references the Western canon, liberal arts disciplines, and the cultivation of truth, goodness, and beauty through a unified curriculum and Socratic pedagogy. Family engagement and community partnerships are emphasized (parents as co-educators, open campus culture, and mentorship structures). Across curriculum, pedagogy, faculty portrayal, and community alignment, Cicero Prep demonstrates a strong Classical orientation, with all six categories trending toward CLASSICAL rather than SOMEWHAT CLASSICAL or NOT CLASSICAL.
+Cicero Preparatory Academy (Scottsdale, AZ, 85250) (Cicero Prep) presents a robust classical education profile aligned closely with the Six Essential Elements of a Classical School as expressed in the knowledge-base rubric. Public-facing materials on the Great Hearts Cicero Prep site foreground a classical liberal arts curriculum, Great Books, Socratic dialogue, and a formation-centric aim (virtue and moral education) rather than mere job-readiness. The school frequently references the Western canon, liberal arts disciplines, and the cultivation of truth, goodness, and beauty through a unified curriculum and Socratic pedagogy. Family engagement and community partnerships are emphasized (parents as co-educators, open campus culture, and mentorship structures). Across curriculum, pedagogy, faculty portrayal, and community alignment, Cicero Prep demonstrates a strong Classical orientation, with all six categories trending toward CLASSICAL rather than SOMEWHAT CLASSICAL or NOT CLASSICAL.
 
 Overall classification: CLASSICAL.
 
@@ -25,11 +25,11 @@ Evidence
 - Acknowledgments of sacred tradition and theological integration appear in the classical-education framework described by Great Hearts (the “Mistress Science” and the integration of theology with the liberal arts). 
 
 Positive/Negative keyword analysis
-- Positive keywords present (selected): theology, virtue, truth, beauty, sacred tradition, transcendentals, wonder, liturgy, worship, Logos, contemplation, moral imagination, great books, moral order, sacred tradition, reverence.  
+- Positive keywords present (selected): theology, virtue, truth, beauty, sacred tradition, transcendentals, wonder, liturgy, worship, Logos, contemplation, moral imagination, great books, moral order, sacred tradition, reverence. 
 - Negative keywords present: none observed in public materials (no explicit relativism, secularism, or value-neutral framing detected in the accessible Cicero public materials). The Six Elements lexicon notes potential negative signals; none appear prominently in Cicero Prep public content.
 
 Why this rating
-- The public materials consistently emphasize a transcendent aim (truth, goodness, beauty), moral formation, and theological grounding, which align with Transcendental moral realism and Grounded in Theology as defined by the Six Essentials. The presence of a liturgical/cultural-piety orientation (embedded in the broader classical framework) further supports CLASSICAL rather than NOT CLASSICAL. The strong emphasis on virtue, sacred tradition, and the Logos, as well as the Great Books and classical canon, supports the CLASSICAL designation. Evidence from Great Hearts materials confirms this alignment.  
+- The public materials consistently emphasize a transcendent aim (truth, goodness, beauty), moral formation, and theological grounding, which align with Transcendental moral realism and Grounded in Theology as defined by the Six Essentials. The presence of a liturgical/cultural-piety orientation (embedded in the broader classical framework) further supports CLASSICAL rather than NOT CLASSICAL. The strong emphasis on virtue, sacred tradition, and the Logos, as well as the Great Books and classical canon, supports the CLASSICAL designation. Evidence from Great Hearts materials confirms this alignment. 
 
 What would move the needle
 - If the school wishes to push toward a higher CLEARNESS of liturgical practice within the campus, signaling explicit communal worship or chapel rhythms on the public site, it could document a formal liturgical/programmatic rhythm (e.g., daily or weekly liturgical practices) in public-facing materials. This would strengthen Liturgical and Communal Practices as a more explicit public signal.
@@ -44,11 +44,11 @@ Evidence
 - The public materials articulate a formation-first aim (formation over information) through the Great Hearts approach and emphasize “the highest goal of education is to become good, intellectually and morally.” 
 
 Positive/Negative keyword analysis
-- Positive keywords present: formation, virtue, human flourishing, wisdom, beauty, truth, goodness, moral imagination, contemplation, great conversation, human excellence, moral education, transcendentals, classical mission, liberal education, Logos.  
+- Positive keywords present: formation, virtue, human flourishing, wisdom, beauty, truth, goodness, moral imagination, contemplation, great conversation, human excellence, moral education, transcendentals, classical mission, liberal education, Logos. 
 - Negative keywords present: none observed in public site content (no emphasis on mere workforce-readiness or 21st-century skills as the primary aim).
 
 Why this rating
-- The public-facing materials consistently articulate formation as the core objective, with virtue and wisdom highlighted as central goals. The Great Books/Western canon and the classical mission further anchor a purpose oriented to human excellence rather than purely vocational outcomes, aligning with CLASSICAL. The materials from the public site and the Great Hearts framework corroborate formation-focused aims.  
+- The public-facing materials consistently articulate formation as the core objective, with virtue and wisdom highlighted as central goals. The Great Books/Western canon and the classical mission further anchor a purpose oriented to human excellence rather than purely vocational outcomes, aligning with CLASSICAL. The materials from the public site and the Great Hearts framework corroborate formation-focused aims. 
 
 What would move the needle
 - To move toward FULLER CLASSICAL status in this category, explicit articulation of the telos (the ultimate purpose) as formation toward a moral and civic order in a school charter or mission statement would strengthen the public narrative. Also, adding a short, explicit statement about permanence of truth, goodness, and beauty as real, knowable ideals in site copy would reinforce the transcendental aims.
@@ -58,16 +58,16 @@ What would move the needle
 ### Element 3: Curriculum — CLASSICAL
 
 Evidence
-- The site and Great Hearts messaging explicitly describe a classical liberal arts curriculum (grammar, logic, rhetoric; liberal arts; Great Books; Western canon) and a continuum from foundational literacy through higher-order thinking. The public materials emphasize a liberal arts core with Great Books and Western tradition, aligning with the Trivium/Quadrivium and Great Books framework.  
+- The site and Great Hearts messaging explicitly describe a classical liberal arts curriculum (grammar, logic, rhetoric; liberal arts; Great Books; Western canon) and a continuum from foundational literacy through higher-order thinking. The public materials emphasize a liberal arts core with Great Books and Western tradition, aligning with the Trivium/Quadrivium and Great Books framework. 
 - The knowledge-base materials explicitly reference the Great Books and Western canon and the aim to engage with timeless texts as part of a cohesive curriculum. The Great Hearts articulation highlights a curriculum designed to cultivate critical inquiry across disciplines in the liberal arts tradition. 
 - The knowledge-base ICE pamphlet (Classical curriculum details) notes the Seven Liberal Arts (grammar, logic, rhetoric; plus Quadrivium elements in some classical curricula) and the role of Great Books and sacred tradition as part of the classical curriculum. 
 
 Positive/Negative keyword analysis
-- Positive keywords present: liberal arts curriculum, Great Books, Western canon, grammar, logic, rhetoric, primary sources/original texts, Great Conversations, memory/wonder, number of disciplines (language, literature, math, history/government, sciences, music, art).  
+- Positive keywords present: liberal arts curriculum, Great Books, Western canon, grammar, logic, rhetoric, primary sources/original texts, Great Conversations, memory/wonder, number of disciplines (language, literature, math, history/government, sciences, music, art). 
 - Negative keywords present: minimal (no explicit social-studies-centric history replacement, no heavy emphasis on project-based or skills-first framing in the public narrative). The Six Essentials negative signals listed in the knowledge-base do not appear as strategic public signals for Cicero Prep.
 
 Why this rating
-- The curriculum is clearly framed as classical liberal arts with Great Books, Western canon, and the Trivium/Quadrivium pathway in the knowledge-base, and the public site reiterates that classical liberal arts emphasis. The explicit Great Books emphasis and the integrated, historically anchored curriculum align with CLASSICAL. The presence of a full Great Books-centric approach and a coherent classical curriculum is well-supported by the sources.  
+- The curriculum is clearly framed as classical liberal arts with Great Books, Western canon, and the Trivium/Quadrivium pathway in the knowledge-base, and the public site reiterates that classical liberal arts emphasis. The explicit Great Books emphasis and the integrated, historically anchored curriculum align with CLASSICAL. The presence of a full Great Books-centric approach and a coherent classical curriculum is well-supported by the sources. 
 
 What would move the needle
 - To further strengthen CLASSICAL status in Curriculum, the site could more explicitly document a formal Great Conversation/Great Books program with a defined reading list, primary sources, and discussion structures, including an explicit cadence for the Trivium/Quadrivium progression in early grades. Explicitly naming Latin/Greek study and a more detailed Great Books sequence would reinforce the Seven Liberal Arts emphasis.
@@ -77,12 +77,12 @@ What would move the needle
 ### Element 4: Pedagogy or Teaching Methods — CLASSICAL
 
 Evidence
-- Pedagogical signals on the site emphasize Socratic dialogue, seminars, debates, and rhetoric training as identifying features of upper-school pedagogy; lower-school experiences are described as memorable and often contemplative, with memory-work and recitation elements (in the knowledge-base literature about classic pedagogy, and in related Great Hearts materials). The Great Hearts materials describe a progression from lower-school memory/chanting to upper-school Socratic dialogues and rhetorical training.  
+- Pedagogical signals on the site emphasize Socratic dialogue, seminars, debates, and rhetoric training as identifying features of upper-school pedagogy; lower-school experiences are described as memorable and often contemplative, with memory-work and recitation elements (in the knowledge-base literature about classic pedagogy, and in related Great Hearts materials). The Great Hearts materials describe a progression from lower-school memory/chanting to upper-school Socratic dialogues and rhetorical training. 
 - The site references mentorship and a relational educational model (Mentor Program, Lyceum, open communications with parents) consistent with a formation-oriented pedagogy. 
 - The public materials reflect a contemplative/restful aspect (Scholé-like pace in places, and emphasis on memory and recitation in classical pedagogy as described in the Six Essentials). While these exact terms may appear more in the knowledge-base lexicon, the Great Hearts materials consistently describe contemplative, rigorous, and dialogic pedagogy. 
 
 Positive/Negative keyword analysis
-- Positive keywords present: Socratic dialogue, seminars, debates, rhetoric, memory work, recitation, chant, grande conversation, living curriculum, teacher as mentor, mentorship, lyceum.  
+- Positive keywords present: Socratic dialogue, seminars, debates, rhetoric, memory work, recitation, chant, grande conversation, living curriculum, teacher as mentor, mentorship, lyceum. 
 - Negative keywords present: None observed in public site content (no exclusive reliance on project-based learning, no heavy emphasis on inquiry-based only without dialogue). The Six Essentials negative signals include anti-lingering signals, but Cicero Prep’s public materials do not emphasize those. The knowledge-base lexicon notes potential negative signals for non-classical approaches; none appear as the public-facing pedagogy signals.
 
 Why this rating

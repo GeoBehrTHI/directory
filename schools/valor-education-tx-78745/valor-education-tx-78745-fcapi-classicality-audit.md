@@ -1,6 +1,6 @@
 ## Executive Summary
 
-Valor Education Tx 78745 presents a clear alignment with classical education through explicit use of classical elements such as Great Books, Socratic teaching, and a formation-focused mission. Public-facing materials emphasize educating the whole person, forming wisdom and virtue, and engaging students in a classical liberal arts tradition. However, the materials examined do not present an explicit religious or theological foundation, liturgical practices, or a formally stated theological grounding. This combination yields a robust classical orientation, but not a fully religious-metaphysical foundation as defined in the most stringent interpretations of the Six Essential Elements rubric.
+Valor Education (Austin, TX, 78745) presents a clear alignment with classical education through explicit use of classical elements such as Great Books, Socratic teaching, and a formation-focused mission. Public-facing materials emphasize educating the whole person, forming wisdom and virtue, and engaging students in a classical liberal arts tradition. However, the materials examined do not present an explicit religious or theological foundation, liturgical practices, or a formally stated theological grounding. This combination yields a robust classical orientation, but not a fully religious-metaphysical foundation as defined in the most stringent interpretations of the Six Essential Elements rubric.
 
 Overall classification: SOMEWHAT CLASSICAL
 

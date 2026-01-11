@@ -9,13 +9,13 @@ Beacon Hill Classical Academy CA 93010 demonstrates a CLASSICAL profile across a
 - Faculty: Administration and faculty pages highlight mentors and “living curriculum” dynamics with biographical context. 
 - Parents & Community: Explicit parental partnership, co-teaching possibilities, and family involvement through book studies and community engagement. 
 
-Executive Summary — Category-by-Category Snapshot
-- Category 1: CLASSICAL
-- Category 2: CLASSICAL
-- Category 3: CLASSICAL
-- Category 4: CLASSICAL
-- Category 5: CLASSICAL
-- Category 6: CLASSICAL
+Executive Summary — Element-by-Element Snapshot
+- Element 1: CLASSICAL
+- Element 2: CLASSICAL
+- Element 3: CLASSICAL
+- Element 4: CLASSICAL
+- Element 5: CLASSICAL
+- Element 6: CLASSICAL
 
 Overall Ranking: CLASSICAL
 

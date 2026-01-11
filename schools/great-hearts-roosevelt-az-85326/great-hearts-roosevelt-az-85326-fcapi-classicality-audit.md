@@ -10,7 +10,7 @@ Key insights:
 - Curriculum: Strong alignment with liberal arts orientation, Great Books, and a coherent, integrated program. Public materials reference Great Books and a library of Western tradition texts, along with a structured curriculum. 
 - Pedagogy: Emphasis on Socratic instruction, disciplined inquiry, and memory- and recitation-based elements within a rest-filled, contemplative framework; elements of Scholé are present in the language and descriptions. 
 - Faculty: Descriptions imply teachers as virtuous mentors and as part of a living curriculum; leadership materials indicate a centralized teacher-centered, virtue-oriented educational culture. 
-- Parents & Community: Clear commitment to partnership with families, involvement of parents via PSO, and open pathways for engagement. fileciteturn0file7turn1file16
+- Parents & Community: Clear commitment to partnership with families, involvement of parents via PSO, and open pathways for engagement. 
 
 Executive Summary — Element-by-Element Snapshot
 
@@ -22,7 +22,7 @@ Evidence
 - References to a holistic, virtue-centered formation align with classical aims of moral realism and universal goods. 
 
 Positive/Negative keyword analysis
-- Positive keywords present (approximate count): truth, goodness, beauty, virtue, moral formation, great conversation, contemplation, formation of the soul. (Cited materials include Verum/Pulchrum/Bonum language and virtue-focused aims.) fileciteturn0file3turn0file13
+- Positive keywords present (approximate count): truth, goodness, beauty, virtue, moral formation, great conversation, contemplation, formation of the soul. (Cited materials include Verum/Pulchrum/Bonum language and virtue-focused aims.) 
 - Negative keywords present: none clearly evident in public materials (no explicit values-neutral, relativistic, or secular ethics terminology). 
 
 Why this rating
@@ -36,7 +36,7 @@ Evidence
 - Parental/community statements emphasize enduring formation and virtue rather than solely workforce preparation. 
 
 Positive/Negative keyword analysis
-- Positive keywords present (approximate count): formation, virtue, wisdom, telos, liberal education, moral imagination, great conversation, formation of the soul, human flourishing. fileciteturn0file3turn1file16
+- Positive keywords present (approximate count): formation, virtue, wisdom, telos, liberal education, moral imagination, great conversation, formation of the soul, human flourishing. 
 - Negative keywords present: none clearly evident (no explicit focus on 21st-century workforce readiness or career-readiness phrases). 
 
 Why this rating
@@ -45,16 +45,16 @@ Why this rating
 ### Element 3: Curriculum — CLASSICAL (leaning toward SOMEWHAT CLASSICAL in edge cases)
 
 Evidence
-- Curricular emphasis on a liberal-arts framework and a coherent, common curriculum is stated; there is explicit mention of Great Books and Western tradition as a curricular anchor. fileciteturn0file6turn1file18
+- Curricular emphasis on a liberal-arts framework and a coherent, common curriculum is stated; there is explicit mention of Great Books and Western tradition as a curricular anchor. 
 - References to reading lists, curriculum sequences, and a focus on a classical curriculum align with Great Books/Great Conversation traditions. 
 - Socratic inquiry and preparation for strong inquiry through shared inquiry and honest discussion are described in the philosophy materials. 
 
 Positive/Negative keyword analysis
-- Positive keywords present (approximate count): Great Books, liberal arts, reading lists, curriculum sequences, Socratic instruction, Great Conversation, Western tradition, memory/recitation practices (as part of a classical pedagogy). fileciteturn1file18turn0file6
+- Positive keywords present (approximate count): Great Books, liberal arts, reading lists, curriculum sequences, Socratic instruction, Great Conversation, Western tradition, memory/recitation practices (as part of a classical pedagogy). 
 - Negative keywords present: minimal evidence of project-based-only, skills-first, or STEM-first framing within the core curriculum language; Singapore Math is referenced as a tool, not a negation of classical aims. Overall negative signals appear low. 
 
 Why this rating
-- The presence of Great Books, liberal arts framing, and Socratic methods demonstrates a strong classical curriculum orientation, with some cross-cutting modern elements (e.g., Singapore Math) that do not override the core classical signals. This supports CLASSICAL in this category, with a note that edge-case modernities could be harmonized more overtly with Trivium/Quadrivium terminology in public materials. fileciteturn0file6turn1file18
+- The presence of Great Books, liberal arts framing, and Socratic methods demonstrates a strong classical curriculum orientation, with some cross-cutting modern elements (e.g., Singapore Math) that do not override the core classical signals. This supports CLASSICAL in this category, with a note that edge-case modernities could be harmonized more overtly with Trivium/Quadrivium terminology in public materials. 
 
 ### Element 4: Pedagogy or Teaching Methods — CLASSICAL
 
@@ -65,11 +65,11 @@ Evidence
 - The school communicates a recognition of the Great Books approach, which typically involves dialogues and classical discussion formats. 
 
 Positive/Negative keyword analysis
-- Positive keywords present (approximate count): Socratic instruction, shared inquiry, memory/recitation (classical memory work), Scholé/restful learning, seminars, rhetoric/debate, dialogue-based instruction. fileciteturn0file3turn1file18
+- Positive keywords present (approximate count): Socratic instruction, shared inquiry, memory/recitation (classical memory work), Scholé/restful learning, seminars, rhetoric/debate, dialogue-based instruction. 
 - Negative keywords present: minimal to none (no explicit emphasis on experiential learning as sole pedagogy; no overt signaling of constructivist-only approaches). 
 
 Why this rating
-- The strongest signals are Socratic dialogue, guided inquiry, and seminar-style discussions, which are hallmark features of classical pedagogy. While some modern tools (Singapore Math) appear, they do not negate the overall classical pedagogy signals in the public materials. This yields CLASSICAL in this category. fileciteturn0file3turn1file12
+- The strongest signals are Socratic dialogue, guided inquiry, and seminar-style discussions, which are hallmark features of classical pedagogy. While some modern tools (Singapore Math) appear, they do not negate the overall classical pedagogy signals in the public materials. This yields CLASSICAL in this category. 
 
 ### Element 5: Faculty — CLASSICAL
 
@@ -78,25 +78,25 @@ Evidence
 - Public materials describe teacher roles in forming character and guiding students within a shared, traditional curriculum; there are explicit references to a classical mission and to formation through the teacher-student relationship. 
 
 Positive/Negative keyword analysis
-- Positive keywords present (approximate count): teachers as models of virtue, mentorship, living curriculum, portrait of a teacher, professionalism, ethical leadership (as suggested by the governance/handbook language and mission statements). fileciteturn0file13turn1file16
+- Positive keywords present (approximate count): teachers as models of virtue, mentorship, living curriculum, portrait of a teacher, professionalism, ethical leadership (as suggested by the governance/handbook language and mission statements). 
 - Negative keywords present: minimal signals of non-classical faculty models (e.g., “facilitator on the side” or purely technician-style roles) in the public materials. 
 
 Why this rating
-- The school materials emphasize virtue, mentorship, and a living curriculum with teachers as core to the classical formation process, aligning with CLASSICAL expectations for this category. fileciteturn0file13turn1file16
+- The school materials emphasize virtue, mentorship, and a living curriculum with teachers as core to the classical formation process, aligning with CLASSICAL expectations for this category. 
 
 ### Element 6: Parents & Community — CLASSICAL
 
 Evidence
 - There is a clearly stated partnership with families and a high level of parental engagement; a Parent Service Organization (PSO) exists to involve families in school life. 
-- Public materials emphasize parent formation and ongoing parent education, with visible opportunities for visits and involvement (e.g., tours, information nights, interest lists). fileciteturn0file7turn1file16
+- Public materials emphasize parent formation and ongoing parent education, with visible opportunities for visits and involvement (e.g., tours, information nights, interest lists). 
 - The handbook language and statements about school-parent collaboration suggest a culture of co-education and home-school partnership. 
 
 Positive/Negative keyword analysis
-- Positive keywords present (approximate count): partnership with families, co-teachers, parental engagement, parent formation, home-school collaboration, open campus, parent involvement, community of learners. fileciteturn0file7turn1file16
+- Positive keywords present (approximate count): partnership with families, co-teachers, parental engagement, parent formation, home-school collaboration, open campus, parent involvement, community of learners. 
 - Negative keywords present: limited signals of consumer- or customer-only framing; the materials emphasize active involvement rather than passivity. (Not evident in the cited content.) 
 
 Why this rating
-- The school clearly articulates a classical-community orientation with strong parent involvement and family formation, which aligns with CLASSICAL expectations for this category. fileciteturn0file7turn1file16
+- The school clearly articulates a classical-community orientation with strong parent involvement and family formation, which aligns with CLASSICAL expectations for this category. 
 
 Aggregate assessment
 - Category scores: 1) CLASSICAL, 2) CLASSICAL, 3) CLASSICAL, 4) CLASSICAL, 5) CLASSICAL, 6) CLASSICAL

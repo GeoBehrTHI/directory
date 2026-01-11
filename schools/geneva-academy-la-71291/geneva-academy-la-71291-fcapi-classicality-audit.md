@@ -1,11 +1,11 @@
 ## Executive Summary
 
-Geneva Academy La 71291 (Geneva Academy) presents a distinctly classical Christian program centered on the Trivium (grammar, logic, rhetoric), robust theology, liturgical life, and a formation-focused mission. Public materials portray the school as a Christian ministry dedicated to forming virtuous, thoughtful, and wise students who pursue truth, goodness, and beauty within a reformational classical framework. The rhetoric and evidence point toward a CLASSICAL orientation in most categories, with Category 4 (Pedagogy) demonstrating strong classical methods (memoration, singing/chanting, and grammar-logic-rhetoric) but less explicit evidence of certain traditional classical practices (e.g., Socratic seminars or scholé language) in published public materials. Overall, Geneva Academy aligns with CLASSICAL education, with Category 4 as the most notable area for potential further alignment toward a fuller classical pedagogy.
+Geneva Academy (West Monroe, LA, 71291) (Geneva Academy) presents a distinctly classical Christian program centered on the Trivium (grammar, logic, rhetoric), robust theology, liturgical life, and a formation-focused mission. Public materials portray the school as a Christian ministry dedicated to forming virtuous, thoughtful, and wise students who pursue truth, goodness, and beauty within a reformational classical framework. The rhetoric and evidence point toward a CLASSICAL orientation in most categories, with Category 4 (Pedagogy) demonstrating strong classical methods (memoration, singing/chanting, and grammar-logic-rhetoric) but less explicit evidence of certain traditional classical practices (e.g., Socratic seminars or scholé language) in published public materials. Overall, Geneva Academy aligns with CLASSICAL education, with Category 4 as the most notable area for potential further alignment toward a fuller classical pedagogy.
 
 Key insights:
 - Religious and metaphysical foundations are explicit and foundational (Triune God, worship, liturgical life). This anchors the school in theology and sacramental imagination as central to education. 
-- The school foregrounds formation over mere information, and emphasizes formation of character, virtue, and wisdom in its mission and vision statements. fileciteturn0file6turn0file3
-- The curriculum is clearly framed around the classical Trivium (grammar, logic, rhetoric) with references to Latin and rhetoric; the school presents a Trivium-based methodology as central. fileciteturn0file12turn0file6
+- The school foregrounds formation over mere information, and emphasizes formation of character, virtue, and wisdom in its mission and vision statements. 
+- The curriculum is clearly framed around the classical Trivium (grammar, logic, rhetoric) with references to Latin and rhetoric; the school presents a Trivium-based methodology as central. 
 - Pedagogy includes memorization and recitation, chant, and singing in lower grades, consistent with classical pedagogy, though explicit mention of Socratic seminars or scholé in public pages is less evident. 
 - Faculty and governance reflect classical-mentorship ethos (faculty as living curriculum, mentorship; evidence of named teachers and a culture of training and formation). 
 - Parent and community partnership is strong, with explicit calls for parental formation, open campus ethos, and co-teaching partnerships. 
@@ -31,7 +31,7 @@ Why this rating
 ### Category 2: School Purpose and Goal — CLASSICAL
 
 Evidence
-- The mission/vision emphasizes formation of virtuous, mature, and wise students who live according to Christian truth (formation of character and affections as primary aims). The Vision section specifically describes graduates who think clearly, discern, reason persuasively, and live truthfully in submission to God. This signals formation over job-prep or mere information-transfer. fileciteturn0file3turn0file6
+- The mission/vision emphasizes formation of virtuous, mature, and wise students who live according to Christian truth (formation of character and affections as primary aims). The Vision section specifically describes graduates who think clearly, discern, reason persuasively, and live truthfully in submission to God. This signals formation over job-prep or mere information-transfer. 
 - The school frames education as forming students in virtue and truth, with direct language about forming “tough minds and soft hearts” and a cruciform life of service to God and others. 
 
 Positive/Negative Keyword Analysis
@@ -40,7 +40,7 @@ Positive/Negative Keyword Analysis
 - Quantitative impression: High presence of Positive keywords with minimal or no Negative keyword signals.
 
 Why this rating
-- The overarching goals center on character formation, virtue, wisdom, and eternal truths, not merely job-readiness or information delivery. This aligns with the classical criteria for School Purpose and Goal as CLASSICAL. fileciteturn0file6turn0file3
+- The overarching goals center on character formation, virtue, wisdom, and eternal truths, not merely job-readiness or information delivery. This aligns with the classical criteria for School Purpose and Goal as CLASSICAL. 
 
 ### Category 3: School Curriculum — CLASSICAL
 
@@ -56,7 +56,7 @@ Positive/Negative Keyword Analysis
 - Quantitative impression: Multiple positive indicators; no explicit negative signals in the public materials.
 
 Why this rating
-- The explicit emphasis on the Trivium (grammar, logic, rhetoric), Latin, and a historically anchored curriculum, plus the integration of beauty and sacred tradition, aligns strongly with CLASSICAL curriculum criteria. The absence of explicit “Great Books” phrasing in the public pages does not substantially detract given the clear Trivium-centric and historical framework. Therefore, Category 3 is CLASSICAL. fileciteturn0file12turn0file6
+- The explicit emphasis on the Trivium (grammar, logic, rhetoric), Latin, and a historically anchored curriculum, plus the integration of beauty and sacred tradition, aligns strongly with CLASSICAL curriculum criteria. The absence of explicit “Great Books” phrasing in the public pages does not substantially detract given the clear Trivium-centric and historical framework. Therefore, Category 3 is CLASSICAL. 
 
 ### Category 4: School Pedagogy or Teaching Methods — SOMEWHAT CLASSICAL
 
@@ -72,7 +72,7 @@ Positive/Negative Keyword Analysis
 - Net: A solid classical pedagogy core is present (grammar–logic–rhetoric, memorization, chant) but with less explicit evidence of full Socratic/Scholé-based upper-school pedagogy in published pages.
 
 Why this rating
-- The school clearly embraces classical pedagogy fundamentals (grammar-logic-rhetoric; memory work; liturgical/aftermath approach). However, the public materials do not consistently demonstrate explicit Socratic seminars or a fully articulated scholé framework across the upper grades. This places Category 4 at SOMEWHAT CLASSICAL, reflecting strong classical elements with room for fuller explicit Socratic/Scholé articulation in public communications. fileciteturn0file12turn0file8
+- The school clearly embraces classical pedagogy fundamentals (grammar-logic-rhetoric; memory work; liturgical/aftermath approach). However, the public materials do not consistently demonstrate explicit Socratic seminars or a fully articulated scholé framework across the upper grades. This places Category 4 at SOMEWHAT CLASSICAL, reflecting strong classical elements with room for fuller explicit Socratic/Scholé articulation in public communications. 
 
 ### Category 5: School Faculty — CLASSICAL
 
@@ -113,7 +113,7 @@ Why this rating
 - Category 5: CLASSICAL
 - Category 6: CLASSICAL
 
-Overall, Geneva Academy La 71291 is CLASSICAL. The strongest alignments are in Religious/Metaphysical Foundations, School Purpose/Goal, Curriculum (Trivium, Latin, history integration), Faculty, and Parents & Community. The Pedagogy category shows a robust classical core (recitation/chant/memory, Trivium) but lacks explicit public documentation of fully articulated Socratic seminars scholé language across all grades, hence the one area with a partial alignment (SOMEWHAT CLASSICAL).
+Overall, Geneva Academy (West Monroe, LA, 71291) is CLASSICAL. The strongest alignments are in Religious/Metaphysical Foundations, School Purpose/Goal, Curriculum (Trivium, Latin, history integration), Faculty, and Parents & Community. The Pedagogy category shows a robust classical core (recitation/chant/memory, Trivium) but lacks explicit public documentation of fully articulated Socratic seminars scholé language across all grades, hence the one area with a partial alignment (SOMEWHAT CLASSICAL).
 
 What would move the needle (only relevant if SOMEWHAT CLASSICAL)
 - If selected as an explicit public articulation, publish clear language about scholé and contemplative pedagogy (Scholé) across grades, including explicit references to Socratic seminars in upper grades.

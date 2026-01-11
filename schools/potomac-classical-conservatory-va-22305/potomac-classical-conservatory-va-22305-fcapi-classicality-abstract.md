@@ -13,8 +13,8 @@ Category-by-category snapshot:
 Note on evidence sources:
 - Mission, vision, and theology language (Christ-centered, Truth-Goodness-Beauty, covenantal partnership) are evidenced in the school’s public materials. 
 - The Trivium, Great Books, Latin, and Great Conversation language appear in pedagogical and curricular sections. 
-- Public statements about formation, paideia, and Scriptural integration anchor Category 2 and Category 3 signals. 
+- Public statements about formation, paideia, and Scriptural integration anchor Element 2 and Element 3 signals. 
 - Faculty pages and leadership references illustrate the “living curriculum” concept. 
-- Family-partnership language (loco parentis, parent involvement, tours) anchor Category 6 signals. 
+- Family-partnership language (loco parentis, parent involvement, tours) anchor Element 6 signals. 
 
 In sum, Potomac Classical Conservatory fulfills the Six Essential Elements’ criteria for CLASSICAL education with strong alignment across all six categories, anchored by explicit Christian formation, a Trivium-centered curriculum, Great Books engagement, and a robust partnership with families in a collaborative model. The aggregate portrait is that of a fully CLASSICAL institution in the classical education rubric.

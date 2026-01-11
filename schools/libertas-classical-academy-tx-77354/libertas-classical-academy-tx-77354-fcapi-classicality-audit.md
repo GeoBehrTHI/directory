@@ -19,62 +19,62 @@ Executive Summary — Element-by-Element Snapshot
 Element 1: Religious and Metaphysical Foundations — SOMEWHAT CLASSICAL
 
 - Evidence
-  - MCA public materials emphasize a classical education within a Christian worldview, implying theology as a foundational lens for instruction. Evidence: “Classical Christian Education combines the time-tested principles of Classical Education with a distinctly Christian worldview.” 
+ - MCA public materials emphasize a classical education within a Christian worldview, implying theology as a foundational lens for instruction. Evidence: “Classical Christian Education combines the time-tested principles of Classical Education with a distinctly Christian worldview.” 
 - Positive/Negative keyword analysis
-  - Positive: Christian worldview (aligned with Grounded in Theology), classical education phrasing.
-  - Negative: No explicit liturgical practices or detailed transcendental/moral realism language is evident in the public pages sampled; no strong signals of liturgy, sacred ritual, or communal worship beyond Christian framing.
+ - Positive: Christian worldview (aligned with Grounded in Theology), classical education phrasing.
+ - Negative: No explicit liturgical practices or detailed transcendental/moral realism language is evident in the public pages sampled; no strong signals of liturgy, sacred ritual, or communal worship beyond Christian framing.
 - Why this rating
-  - The materials clearly align with religious/theological underpinnings and a transcendent frame through Christian worldview, but lack explicit articulation of liturgical practices or the full set of transcendental Realism signals described in the canonical six-element lexicon. The presence is meaningful but not exhaustive.
+ - The materials clearly align with religious/theological underpinnings and a transcendent frame through Christian worldview, but lack explicit articulation of liturgical practices or the full set of transcendental Realism signals described in the canonical six-element lexicon. The presence is meaningful but not exhaustive.
 
 Element 2: School Purpose and Goal — NOT CLASSICAL
 
 - Evidence
-  - Public MCA pages emphasize classical lineage and Christian worldview, but do not clearly articulate the full classical point of education as formation of virtue and wisdom with a telos of truth, goodness, and beauty in the same explicit language as classical standards. The explicit formation language (formation of virtue, scholé, contemplation) is not overt in the MCA snippets provided. 
+ - Public MCA pages emphasize classical lineage and Christian worldview, but do not clearly articulate the full classical point of education as formation of virtue and wisdom with a telos of truth, goodness, and beauty in the same explicit language as classical standards. The explicit formation language (formation of virtue, scholé, contemplation) is not overt in the MCA snippets provided. 
 - Positive/Negative keyword analysis
-  - Positive: Formation-oriented language is not prominently stated; “formation” and “virtue” terms are not clearly documented on the pages reviewed.
-  - Negative: Absence of explicit phrases like “formation,” “human flourishing,” “telos,” and explicit “pursuit of truth, goodness, and beauty” is notable in the MCA materials.
+ - Positive: Formation-oriented language is not prominently stated; “formation” and “virtue” terms are not clearly documented on the pages reviewed.
+ - Negative: Absence of explicit phrases like “formation,” “human flourishing,” “telos,” and explicit “pursuit of truth, goodness, and beauty” is notable in the MCA materials.
 - Why this rating
-  - While the school leans toward formation-oriented framing through classical education and Christian worldview, the public materials do not showcase the explicit formation-of-character and teleological enrichment language that the classical rubric prescribes. It appears to be a partial fit, hence NOT CLASSICAL.
+ - While the school leans toward formation-oriented framing through classical education and Christian worldview, the public materials do not showcase the explicit formation-of-character and teleological enrichment language that the classical rubric prescribes. It appears to be a partial fit, hence NOT CLASSICAL.
 
 Element 3: School Curriculum — NOT CLASSICAL
 
 - Evidence
-  - The MCA materials reference classical education but do not clearly document the Seven Liberal Arts (grammar, logic, rhetoric; quadrivium), Great Books/Great Conversation, or the explicit integration of Great Books into a “Reading Great Books” framework. The available pages foreground general classical Christian education rather than the explicit universal curriculum map described in canonical criteria. 
+ - The MCA materials reference classical education but do not clearly document the Seven Liberal Arts (grammar, logic, rhetoric; quadrivium), Great Books/Great Conversation, or the explicit integration of Great Books into a “Reading Great Books” framework. The available pages foreground general classical Christian education rather than the explicit universal curriculum map described in canonical criteria. 
 - Positive/Negative keyword analysis
-  - Positive: The phrase “classical education” is present (alignment with Trivium/Quadrivium concept is implied by the label, but not enumerated in the site text).
-  - Negative: No explicit mention of Great Books/Primary sources, no clear “Seven Liberal Arts” curriculum framing visible in the accessible MCA pages; no explicit history-as-core across the curriculum.
+ - Positive: The phrase “classical education” is present (alignment with Trivium/Quadrivium concept is implied by the label, but not enumerated in the site text).
+ - Negative: No explicit mention of Great Books/Primary sources, no clear “Seven Liberal Arts” curriculum framing visible in the accessible MCA pages; no explicit history-as-core across the curriculum.
 - Why this rating
-  - The absence of explicit Great Books, Trivium/Quadrivium, and a cross-curricular Great Conversation framing places MCA’s curriculum outside the fully classical standard as evidenced in the canonical lexicon.
+ - The absence of explicit Great Books, Trivium/Quadrivium, and a cross-curricular Great Conversation framing places MCA’s curriculum outside the fully classical standard as evidenced in the canonical lexicon.
 
 Element 4: Pedagogy or Teaching Methods — NOT CLASSICAL
 
 - Evidence
-  - Public MCA pages do not publish explicit references to Socratic seminars, scholé/restful learning, chanting/memorization, or formation through imitation in the detailed pedagogy language. The content is more promotional and descriptive of a hybrid classical Christian approach than a method-by-method articulation. 
+ - Public MCA pages do not publish explicit references to Socratic seminars, scholé/restful learning, chanting/memorization, or formation through imitation in the detailed pedagogy language. The content is more promotional and descriptive of a hybrid classical Christian approach than a method-by-method articulation. 
 - Positive/Negative keyword analysis
-  - Positive: The label “classical education” can imply some traditional methods, but explicit pedagogy terms are not demonstrated.
-  - Negative: The key canonical pedagogy signals (Socratic dialogue, memorization/recitation, scholé, formation through imitation) are not clearly documented in MCA’s public content.
+ - Positive: The label “classical education” can imply some traditional methods, but explicit pedagogy terms are not demonstrated.
+ - Negative: The key canonical pedagogy signals (Socratic dialogue, memorization/recitation, scholé, formation through imitation) are not clearly documented in MCA’s public content.
 - Why this rating
-  - Without explicit evidence of the core classical pedagogical methods, MCA falls short of “CLASSICAL” pedagogy per the six-element rubric, placing it at NOT CLASSICAL.
+ - Without explicit evidence of the core classical pedagogical methods, MCA falls short of “CLASSICAL” pedagogy per the six-element rubric, placing it at NOT CLASSICAL.
 
 Element 5: Faculty — NOT CLASSICAL
 
 - Evidence
-  - Public MCA materials do not publish a formal “living curriculum,” teacher portraits, or the explicit faculty-as-model-of-virtue language. The materials show class size and general program orientation rather than a detailed faculty ethos. 
+ - Public MCA materials do not publish a formal “living curriculum,” teacher portraits, or the explicit faculty-as-model-of-virtue language. The materials show class size and general program orientation rather than a detailed faculty ethos. 
 - Positive/Negative keyword analysis
-  - Positive: Classical education framing may imply high-commitment faculty, but explicit signals (portrait of teacher, mentor-sovereign teaching model) are not documented.
-  - Negative: No explicit statements about faculty as “models of virtue,” “living curriculum,” or “portrait of teacher” in the accessible MCA content.
+ - Positive: Classical education framing may imply high-commitment faculty, but explicit signals (portrait of teacher, mentor-sovereign teaching model) are not documented.
+ - Negative: No explicit statements about faculty as “models of virtue,” “living curriculum,” or “portrait of teacher” in the accessible MCA content.
 - Why this rating
-  - The absence of explicit faculty-culture language in public pages leads to NOT CLASSICAL in this category, despite the potential for virtuous faculty in practice.
+ - The absence of explicit faculty-culture language in public pages leads to NOT CLASSICAL in this category, despite the potential for virtuous faculty in practice.
 
 Element 6: Parents & Community — SOMEWHAT CLASSICAL
 
 - Evidence
-  - MCA materials reference a hybrid model and parental involvement, with FAQ sections addressing parental support and collaboration as part of classical education with a Christian frame. The presence of parent-facing materials and the stated partnership with families aligns with the “Parents & Community” category’s emphasis on co-teaching and home-school collaboration. 
+ - MCA materials reference a hybrid model and parental involvement, with FAQ sections addressing parental support and collaboration as part of classical education with a Christian frame. The presence of parent-facing materials and the stated partnership with families aligns with the “Parents & Community” category’s emphasis on co-teaching and home-school collaboration. 
 - Positive/Negative keyword analysis
-  - Positive: Partnership with Families; parent involvement; family engagement; shared mission; home-school collaboration; parental formation; family catechesis; classical parent training. These keywords appear in the six-element lexicon and are echoed by MCA’s stated focus on parent involvement. fileciteturn0file4turn0file6
-  - Negative: No consumer-only language or evidence of parent disengagement; however, the publicly visible materials do not show extensive, semester-long parent-education programs beyond initial involvement.
+ - Positive: Partnership with Families; parent involvement; family engagement; shared mission; home-school collaboration; parental formation; family catechesis; classical parent training. These keywords appear in the six-element lexicon and are echoed by MCA’s stated focus on parent involvement. 
+ - Negative: No consumer-only language or evidence of parent disengagement; however, the publicly visible materials do not show extensive, semester-long parent-education programs beyond initial involvement.
 - Why this rating
-  - The public materials demonstrate significant attention to parent involvement and partnership, which aligns with the community dimension, earning SOMEWHAT CLASSICAL.
+ - The public materials demonstrate significant attention to parent involvement and partnership, which aligns with the community dimension, earning SOMEWHAT CLASSICAL.
 
 Overall aggregate assessment (category-by-category):
 - Element 1: SOMEWHAT CLASSICAL

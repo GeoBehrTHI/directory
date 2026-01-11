@@ -1,9 +1,9 @@
 ## Executive Summary
 
-Christ Covenant School La 70808 presents a Christ-centered, play-based, gently classical approach that foregrounds spiritual formation, virtue, and a reverence for truth, goodness, and beauty. Public materials emphasize Christ-centered formation, weekly chapel, Scripture memory, and a liturgical rhythm, alongside a curriculum described as “gently classical” with references to liberal arts and great texts. This yields strong alignment with several elements of classical education—most notably Religious and Metaphysical Foundations, School Purpose and Goal, and Parents & Community—while certain hallmark classical-methods (explicit Trivium/Quadrivium study, robust Socratic pedagogy, and a fully explicit Great Books program across grades) are less clearly demonstrated in the public-facing materials. Overall, the school falls into SOMEWHAT CLASSICAL, with clear directions toward fuller classical coherence through targeted enhancements.
+Christ Covenant School (Baton Rouge, LA, 70808) presents a Christ-centered, play-based, gently classical approach that foregrounds spiritual formation, virtue, and a reverence for truth, goodness, and beauty. Public materials emphasize Christ-centered formation, weekly chapel, Scripture memory, and a liturgical rhythm, alongside a curriculum described as “gently classical” with references to liberal arts and great texts. This yields strong alignment with several elements of classical education—most notably Religious and Metaphysical Foundations, School Purpose and Goal, and Parents & Community—while certain hallmark classical-methods (explicit Trivium/Quadrivium study, robust Socratic pedagogy, and a fully explicit Great Books program across grades) are less clearly demonstrated in the public-facing materials. Overall, the school falls into SOMEWHAT CLASSICAL, with clear directions toward fuller classical coherence through targeted enhancements.
 
 Key takeaways
-- Religious and Metaphysical Foundations strongly align with transcendental realism, theology, liturgy, worship, and communal prayer, anchored in a Christian worldview. Evidence is explicit in mission statements, chapel practices, and catechesis-oriented activities.  
+- Religious and Metaphysical Foundations strongly align with transcendental realism, theology, liturgy, worship, and communal prayer, anchored in a Christian worldview. Evidence is explicit in mission statements, chapel practices, and catechesis-oriented activities. 
 - Purpose and Goal emphasize formation, virtue, and contemplation in the service of truth, goodness, and beauty, with explicit language about affirming the true, pursuing the good, and enjoying the beautiful. 
 - Curriculum signals liberal arts and engagement with great texts, though explicit references to the Trivium/Quadrivium and a full Great Books program are not consistently explicit in the publicly visible materials. Still, the presence of “great texts” and “great books” plus liberal-arts framing keeps Element 3 at a SOMEWHAT CLASSICAL level. 
 - Pedagogy includes play-based, memory-friendly elements with liturgical rhythm and Scripture memory, but explicit Socratic/seminar methods and high-school rhetoric seminars are not clearly evidenced in the public site. Element 4 is therefore SOMEWHAT CLASSICAL. 
@@ -58,7 +58,7 @@ Why this rating
 ### Element 4: Pedagogy or Teaching Methods — SOMEWHAT CLASSICAL
 
 Evidence
-- The school is described as “play-based” and “gently classical,” with attention to wonder, delight, and memory-based practices (Scripture memory, singing, and formation).  
+- The school is described as “play-based” and “gently classical,” with attention to wonder, delight, and memory-based practices (Scripture memory, singing, and formation). 
 - Public materials emphasize a contemplative, joyful pace, and a pedagogy that integrates spiritual formation with learning (e.g., Scripture memory, weekly chapel, liturgical rhythm). 
 - There is explicit emphasis on the “work of childhood is play” and on wonder as a core driver, with a focus on delight in learning and moral formation. 
 

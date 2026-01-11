@@ -1,18 +1,18 @@
 ## Executive Summary
 
-Providence Classical Academy (La 71111, Bossier City) presents a robust classical Christian program that aligns strongly with the core propositions of classical education as defined in the Six Essential Elements framework. The school explicitly foregrounds Christ-centered discipleship, a Biblical worldview, the pursuit of Truth, Goodness, and Beauty, and a Trivium-inspired curriculum (grammar, logic, rhetoric) with a clearly articulated Great Books / Great Conversation orientation. Public materials emphasize formation of character and virtue in service to God, a lifelong devotion to learning, and a pedagogy that blends contemplative (Scholé) elements with Socratic discussion and rhetoric in the upper grades. Faculty imagery emphasizes caring, virtuous teaching; parent partnership is positioned as foundational; and the school presents a coherent, integrated program that weaves theology, philosophy, history, and the arts into a unified classical vision. Taken together, the evidence supports CLASSICAL across all six categories, with no obvious negative signals that would undermine classical aims. This is reinforced by explicit statements about a Biblical worldview, a commitment to the Great Books / Great Conversation, the Trivium sequence, and a clear partnership with families in the formation of character and intellect.   
+Providence Classical Academy (La 71111, Bossier City) presents a robust classical Christian program that aligns strongly with the core propositions of classical education as defined in the Six Essential Elements framework. The school explicitly foregrounds Christ-centered discipleship, a Biblical worldview, the pursuit of Truth, Goodness, and Beauty, and a Trivium-inspired curriculum (grammar, logic, rhetoric) with a clearly articulated Great Books / Great Conversation orientation. Public materials emphasize formation of character and virtue in service to God, a lifelong devotion to learning, and a pedagogy that blends contemplative (Scholé) elements with Socratic discussion and rhetoric in the upper grades. Faculty imagery emphasizes caring, virtuous teaching; parent partnership is positioned as foundational; and the school presents a coherent, integrated program that weaves theology, philosophy, history, and the arts into a unified classical vision. Taken together, the evidence supports CLASSICAL across all six categories, with no obvious negative signals that would undermine classical aims. This is reinforced by explicit statements about a Biblical worldview, a commitment to the Great Books / Great Conversation, the Trivium sequence, and a clear partnership with families in the formation of character and intellect. 
 
 Key insights by category:
-- Religious and Metaphysical Foundations: Explicit Christ-centered, Biblical worldview, and focus on Truth, God, and the glory of God are repeatedly stated; liturgical and communal practice is implied through mission, discipleship language, and occasional references to worship/chapel-like rhythms. Positive indicators vastly outweigh any negative signals.  
-- Purpose and Goal: The school emphasizes formation (virtue, wisdom, character) over mere job-readiness, with aims to cultivate the true, good, and beautiful through a classical framework and Christian formation.  
-- Curriculum: The program centers the Trivium (grammar, logic, rhetoric) and the Great Books / Great Conversation, with history woven throughout and a clear emphasis on wonder and integration.  
-- Pedagogy: A blended pedagogy includes contemplative, memory-friendly lower-school practices and Socratic/seminar-style work in the upper grades, plus opportunities in rhetoric and public speaking.  
-- Faculty: The site foregrounds Caring Teachers, gifted instructors, and a living curriculum with teacher as mentors, supported by leadership and defined faculty roles.  
+- Religious and Metaphysical Foundations: Explicit Christ-centered, Biblical worldview, and focus on Truth, God, and the glory of God are repeatedly stated; liturgical and communal practice is implied through mission, discipleship language, and occasional references to worship/chapel-like rhythms. Positive indicators vastly outweigh any negative signals. 
+- Purpose and Goal: The school emphasizes formation (virtue, wisdom, character) over mere job-readiness, with aims to cultivate the true, good, and beautiful through a classical framework and Christian formation. 
+- Curriculum: The program centers the Trivium (grammar, logic, rhetoric) and the Great Books / Great Conversation, with history woven throughout and a clear emphasis on wonder and integration. 
+- Pedagogy: A blended pedagogy includes contemplative, memory-friendly lower-school practices and Socratic/seminar-style work in the upper grades, plus opportunities in rhetoric and public speaking. 
+- Faculty: The site foregrounds Caring Teachers, gifted instructors, and a living curriculum with teacher as mentors, supported by leadership and defined faculty roles. 
 - Parents & Community: Strong emphasis on partnership with families, parental formation, and openness to visits and involvement in the life of the school. 
 
 Overall classification: CLASSICAL.
 
-Note: Where relevant, the analysis integrates the keyword lexicon from the Six Essential Elements framework to ground the scoring in explicit positive/negative indicators. Positive signals from the school’s materials align with terms such as truth, virtue, formational aims, Great Books, Great Conversation, the Trivium, liturgy/worship, and parent partnership; negative signals typically associated with a non-classical approach (e.g., secularism, relativism, project-based-centric pedagogy) are not evident in Providence Classical Academy’s public materials. The core lexicon-based indicators identify robust alignment with the Classical ideal across all six categories. For reference to the keyword framework, see the Six Essential Elements lexicon (Positive keywords like wisdom, virtue, truth, beauty, formation; Negative signals like secularism, relativism, value-neutrality) and the associated document excerpts.  
+Note: Where relevant, the analysis integrates the keyword lexicon from the Six Essential Elements framework to ground the scoring in explicit positive/negative indicators. Positive signals from the school’s materials align with terms such as truth, virtue, formational aims, Great Books, Great Conversation, the Trivium, liturgy/worship, and parent partnership; negative signals typically associated with a non-classical approach (e.g., secularism, relativism, project-based-centric pedagogy) are not evident in Providence Classical Academy’s public materials. The core lexicon-based indicators identify robust alignment with the Classical ideal across all six categories. For reference to the keyword framework, see the Six Essential Elements lexicon (Positive keywords like wisdom, virtue, truth, beauty, formation; Negative signals like secularism, relativism, value-neutrality) and the associated document excerpts. 
 
 ## Executive Summary — Element-by-Element Snapshot
 
@@ -29,7 +29,7 @@ Positive/Negative keyword analysis
 - Negative keywords present: none detected in public materials (no explicit secularism, relativism, or value-neutral language in key mission statements). Estimated occurrences: 0.
 
 Why this rating
-- Providence explicitly anchors education in Christian theology and metaphysical aims (Truth, Goodness, Beauty as real in Christian frame; formation in faith; communal liturgical rhythm). This is a strong fit with CLASSICAL criteria in this category, supported by mission, vision, and graduate-profile language.   
+- Providence explicitly anchors education in Christian theology and metaphysical aims (Truth, Goodness, Beauty as real in Christian frame; formation in faith; communal liturgical rhythm). This is a strong fit with CLASSICAL criteria in this category, supported by mission, vision, and graduate-profile language. 
 
 ### Element 2: School Purpose and Goal — CLASSICAL
 
@@ -44,7 +44,7 @@ Positive/Negative keyword analysis
 - Negative keywords present: none observed (no values-neutral or purely vocational framing). Approx. 0.
 
 Why this rating
-- Public materials stress formation, virtue, wisdom, and a transcendent telos rooted in Christian truth, aligning with CLASSICAL. The absence of vocational- or secular-leaning framing strengthens this placement.  
+- Public materials stress formation, virtue, wisdom, and a transcendent telos rooted in Christian truth, aligning with CLASSICAL. The absence of vocational- or secular-leaning framing strengthens this placement. 
 
 ### Element 3: School Curriculum — CLASSICAL
 
@@ -59,7 +59,7 @@ Positive/Negative keyword analysis
 - Negative keywords present: minimal (no explicit emphasis on social studies framing or project-based, non-traditional curricula that would signal a break from classical structure). Approx. 0.
 
 Why this rating
-- The explicit Trivium progression, Great Books orientation, integrated history, and liberal-arts breadth align strongly with CLASSICAL curricular criteria. The public materials leave little to no indication of a non-classical shift (e.g., a project-based, STEM-first, or purely social-studies emphasis).  
+- The explicit Trivium progression, Great Books orientation, integrated history, and liberal-arts breadth align strongly with CLASSICAL curricular criteria. The public materials leave little to no indication of a non-classical shift (e.g., a project-based, STEM-first, or purely social-studies emphasis). 
 
 ### Element 4: School Pedagogy or Teaching Methods — CLASSICAL
 
@@ -74,7 +74,7 @@ Positive/Negative keyword analysis
 - Negative keywords present: Minimal (no reliance on exclusively project-based or experiential-only pedagogy; rather a mix that includes memory and recitation alongside dialogue). Estimated matches: 0.
 
 Why this rating
-- The school’s public-facing pedagogy aligns with classical teaching methods across age bands, combining contemplative and dialogic approaches with rhetoric and public speaking skills. This is a textbook CLASSICAL pedagogy profile.  
+- The school’s public-facing pedagogy aligns with classical teaching methods across age bands, combining contemplative and dialogic approaches with rhetoric and public speaking skills. This is a textbook CLASSICAL pedagogy profile. 
 
 ### Element 5: School Faculty — CLASSICAL
 
@@ -88,7 +88,7 @@ Positive/Negative keyword analysis
 - Negative keywords present: None detected (no signals of instrumentalized, secularized or de-professionalized staff framing). Approx. 0.
 
 Why this rating
-- The materials consistently elevate teacher quality, virtue, mentorship, and the teacher as the central carrier of the curriculum, which is squarely CLASSICAL in this dimension.  
+- The materials consistently elevate teacher quality, virtue, mentorship, and the teacher as the central carrier of the curriculum, which is squarely CLASSICAL in this dimension. 
 
 ### Element 6: School Parents and Community — CLASSICAL
 
@@ -105,7 +105,7 @@ Why this rating
 - Providence Classical Academy’s public materials consistently articulate a model of parents as co-teachers and active participants in a classical, faith-informed formation process, aligning with CLASSICAL expectations for parent-community partnership. 
 
 Aggregate assessment
-- Across all six categories, Providence Classical Academy La 71111 demonstrates a consistent CLASSICAL orientation, with explicit evidence of Christian metaphysical foundations, formation-focused purposes, Trivium-based curriculum with Great Books, a pedagogy blending contemplative and Socratic methods, a freight of “living curriculum” faculty, and strong parent/community partnership.
+- Across all six categories, Providence Classical Academy (Bossier City, LA, 71111) demonstrates a consistent CLASSICAL orientation, with explicit evidence of Christian metaphysical foundations, formation-focused purposes, Trivium-based curriculum with Great Books, a pedagogy blending contemplative and Socratic methods, a freight of “living curriculum” faculty, and strong parent/community partnership.
 
 What would move the needle
 - Not applicable, as the school already presents a coherent CLASSICAL model with no identified category requiring improvement to reach CLASSICAL.

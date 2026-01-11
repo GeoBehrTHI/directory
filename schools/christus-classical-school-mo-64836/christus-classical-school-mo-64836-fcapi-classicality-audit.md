@@ -1,6 +1,6 @@
 ## Executive Summary
 
-Christus Classical School Mo 64836 presents a public-facing program that aligns strongly with classical Christian schooling norms. Text from the school’s materials repeatedly emphasizes reading classic books, embracing the seven liberal arts, and forming virtue within a biblical framework. The school foregrounds truth, goodness, and beauty as transcendent aims, and it anchors education in Scripture, covenantal commitment, and parental partnership. Taken together, these signals map primarily to CLASSICAL across the six rubric categories, with some elements that are less fully developed in public materials (notably some explicit pedagogy signals like Socratic seminars and a broader “liturgical” or communal worship practice). Absolute religious language is present, but the school also notes non-denominational alignment and covenantal aims, which creates a nuanced posture around theology and community.
+Christus Classical School (Carthage, MO, 64836) presents a public-facing program that aligns strongly with classical Christian schooling norms. Text from the school’s materials repeatedly emphasizes reading classic books, embracing the seven liberal arts, and forming virtue within a biblical framework. The school foregrounds truth, goodness, and beauty as transcendent aims, and it anchors education in Scripture, covenantal commitment, and parental partnership. Taken together, these signals map primarily to CLASSICAL across the six rubric categories, with some elements that are less fully developed in public materials (notably some explicit pedagogy signals like Socratic seminars and a broader “liturgical” or communal worship practice). Absolute religious language is present, but the school also notes non-denominational alignment and covenantal aims, which creates a nuanced posture around theology and community.
 
 - Overall classification: CLASSICAL
 - Notable strengths: explicit commitment to the seven liberal arts (grammar, logic, rhetoric), Great Books / Great Conversation framing, formation of virtue, Scripture-centered worldview, and strong parental partnership signals.
@@ -11,12 +11,12 @@ Executive Summary — Element-by-Element Snapshot
 ### Element 1: Religious and Metaphysical Foundations — CLASSICAL
 
 Evidence
-- The school’s public materials frame education through Scripture and a biblically oriented worldview: “the foundational truths of the Holy Bible,” “the Word of God is sufficient and supreme for faith and practice,” and “Canon of Scripture” as a guiding authority. This language appears in multiple posts and pages, including mentions of Scripture-centric identity and theological framing.   
+- The school’s public materials frame education through Scripture and a biblically oriented worldview: “the foundational truths of the Holy Bible,” “the Word of God is sufficient and supreme for faith and practice,” and “Canon of Scripture” as a guiding authority. This language appears in multiple posts and pages, including mentions of Scripture-centric identity and theological framing. 
 - The school identifies itself as classical and Christian, with explicit references to a covenantal framework and to teaching from a biblical worldview. 
 - The school emphasizes “truth, goodness, and beauty” as core transcendentals woven through curriculum and life (a hallmark of the transcendental-based classical rubric). 
 
 Positive/Negative Keyword Analysis
-- Positive keywords present: truth, goodness, beauty; Word of God; Canon of Scripture; theology; covenantal; sacred tradition (present in curriculum orientation and worldview statements). Estimated positive keyword presence: high (multiple explicit uses across separate pages).   
+- Positive keywords present: truth, goodness, beauty; Word of God; Canon of Scripture; theology; covenantal; sacred tradition (present in curriculum orientation and worldview statements). Estimated positive keyword presence: high (multiple explicit uses across separate pages). 
 - Negative keywords observed: references to being non-denominational or not affiliated with a single church (potential signaling of a broad theological stance rather than a narrowly defined liturgical practice). This is a mixed signal within a strongly biblical framing. 
 
 Why this rating

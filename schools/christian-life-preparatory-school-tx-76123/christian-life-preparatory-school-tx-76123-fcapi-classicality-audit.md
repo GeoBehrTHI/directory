@@ -23,7 +23,7 @@ Evidence
 - Public materials assert classical instruction within a Christian framework, e.g., “embraces classical instructional methods within a normative Christian worldview.” 
 
 Positive/Negative Keyword Analysis
-- Positive keywords present: theology, sacred scripture, creed, Christ-centered, Bible, biblical principles, worship/contemplation motifs, Logos, divine order, sacred tradition, spiritual formation. These align with the Positive Keyword indicators for Religious and Metaphysical Foundations (Transcendental Moral Realism; Grounded in Theology; Liturgical and Communal Practices). CLPS demonstrates transcendental moral realism via explicit theological authority and Christian formation; it also shows Grounded in Theology via explicit Biblical integration. The text references Christ-centered formation and a biblical worldview, corroborating liturgical/community themes (though explicit liturgical acts are not exhaustively documented in all pages). fileciteturn0file10turn1file9turn1file0
+- Positive keywords present: theology, sacred scripture, creed, Christ-centered, Bible, biblical principles, worship/contemplation motifs, Logos, divine order, sacred tradition, spiritual formation. These align with the Positive Keyword indicators for Religious and Metaphysical Foundations (Transcendental Moral Realism; Grounded in Theology; Liturgical and Communal Practices). CLPS demonstrates transcendental moral realism via explicit theological authority and Christian formation; it also shows Grounded in Theology via explicit Biblical integration. The text references Christ-centered formation and a biblical worldview, corroborating liturgical/community themes (though explicit liturgical acts are not exhaustively documented in all pages). 
 - Negative keywords: None of the typical secularizing signs (values-neutrality, relativism, secular humanism) appear in the public materials. The content is squarely theistic and doctrinal.
 
 Why this rating
@@ -34,12 +34,12 @@ Why this rating
 ### Element 2: School Purpose and Goal — CLASSICAL
 
 Evidence
-- The school foregrounds formation and virtue: the mission states formation of “heart, soul, mind, and body,” and the Profile of a Graduate ties formation to Christian character and lifelong growth. fileciteturn1file0turn1file9
+- The school foregrounds formation and virtue: the mission states formation of “heart, soul, mind, and body,” and the Profile of a Graduate ties formation to Christian character and lifelong growth. 
 - There is explicit language about formation over mere information and the aim toward virtue and wisdom, with references to serving God and living out the Great Commandments. 
 - The plan emphasizes that academe should form students to be “critical thinkers” within a Christian framework, not solely workforce-centric outcomes. 
 
 Positive/Negative Keyword Analysis
-- Positive keywords present: formation, virtue, wisdom, liberal education/paideia (implicit in “classical methods”), telos, contemplation (Scholé concepts appear in the classical lexicon though not always named as such on-site), great conversation (as a classical ideal), moral imagination, character development, love of learning. The CLPS materials reference formation and virtue explicitly, aligning with Positive keywords for School Purpose and Goal. fileciteturn0file4turn1file0
+- Positive keywords present: formation, virtue, wisdom, liberal education/paideia (implicit in “classical methods”), telos, contemplation (Scholé concepts appear in the classical lexicon though not always named as such on-site), great conversation (as a classical ideal), moral imagination, character development, love of learning. The CLPS materials reference formation and virtue explicitly, aligning with Positive keywords for School Purpose and Goal. 
 - Negative keywords: There is no explicit emphasis on college/career readiness or 21st-century workforce primacy in a way that would elicit negative signals for this category; the emphasis remains on formation first, with workforce implications acknowledged only as a broader life outcome.
 
 Why this rating
@@ -54,7 +54,7 @@ Evidence
 - Public materials describe a structure that supports classical pedagogy through unified, integrated instruction and a focus on formation (as part of a classical framework). The presence of “satellite work” and a formation-oriented approach aligns with a classical, liberal-arts-inspired curriculum, albeit without explicit public confirmation of Great Books engagement or a full Great Conversation mandate. 
 
 Positive/Negative Keyword Analysis
-- Positive keywords present: Seven Liberal Arts (Trivium), grammar/logical/rhetoric, classical methods, great conversation (implied by classical pedagogy), interdisciplinary/harmony of subjects (integration motif). The school’s stated Trivium-based approach and classical methods align with Positive indicators for Curriculum in the Six Essential Elements lexicon. fileciteturn0file4turn0file6
+- Positive keywords present: Seven Liberal Arts (Trivium), grammar/logical/rhetoric, classical methods, great conversation (implied by classical pedagogy), interdisciplinary/harmony of subjects (integration motif). The school’s stated Trivium-based approach and classical methods align with Positive indicators for Curriculum in the Six Essential Elements lexicon. 
 - Negative keywords present: Absence of explicit Great Books engagement in the available public materials; lack of direct emphasis on the Quadrivium or primary-source “Great Books” canon in CLPS’s public statements. The “Great Books” and “Great Conversation” content is not clearly documented on the school site, though it appears in the general classical canon in the knowledge-base lexicon. This reduces the Curriculum to SOMEWHAT CLASSICAL rather than CLASSICAL.
 
 Why this rating
@@ -65,7 +65,7 @@ Why this rating
 ### Element 4: Pedagogy or Teaching Methods — SOMEWHAT CLASSICAL
 
 Evidence
-- CLPS describes itself as embracing classical instructional methods within a Christian framework, and it references formation and memory-work via a classroom approach, including structured memory and collaboration with parents, with satellite work and formation-oriented activities. This indicates a classical influence in pedagogy, even if explicit practice details (e.g., Socratic seminars) are not ubiquitous across public materials. fileciteturn0file0turn1file2
+- CLPS describes itself as embracing classical instructional methods within a Christian framework, and it references formation and memory-work via a classroom approach, including structured memory and collaboration with parents, with satellite work and formation-oriented activities. This indicates a classical influence in pedagogy, even if explicit practice details (e.g., Socratic seminars) are not ubiquitous across public materials. 
 - The school’s approach emphasizes active, formation-focused environments, and the use of “satellite work” to deepen understanding, which aligns with some classical pedagogy tenets (memory, recitation, catechesis, etc.) but lacks consistent on-site evidence of sustained Socratic seminars or explicit Scholé-like contemplative rhythms in public pages. 
 
 Positive/Negative Keyword Analysis
@@ -95,7 +95,7 @@ Why this rating
 ### Element 6: Parents & Community — CLASSICAL
 
 Evidence
-- CLPS emphasizes partnering with parents as co-educators and places parents at the center of education, including statements about parental primacy, parental formation, and home-school partnerships. The school explicitly frames itself around a family-centered model, including parent participation in information meetings and ongoing engagement. fileciteturn1file9turn1file0
+- CLPS emphasizes partnering with parents as co-educators and places parents at the center of education, including statements about parental primacy, parental formation, and home-school partnerships. The school explicitly frames itself around a family-centered model, including parent participation in information meetings and ongoing engagement. 
 - The school’s communications discuss family involvement as essential to formation, shared mission, and the partnership with church communities; this aligns with the lexicon’s Positive keywords for Partnership with Families, Family formation, and Home-centered learning. 
 - The school provides access points and visits for parents (e.g., public information sessions, family information meetings) and maintains a calendar of events that invites parental involvement, consistent with community engagement as a core feature. 
 

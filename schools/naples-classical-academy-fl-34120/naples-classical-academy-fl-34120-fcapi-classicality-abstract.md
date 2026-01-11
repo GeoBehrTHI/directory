@@ -2,12 +2,12 @@
 
 Naples Classical Academy demonstrates a robust CLASSICAL orientation, with explicit emphasis on virtue, Great Books, liberal arts, Socratic pedagogy, and community involvement. Category-by-category assessment yields:
 
-- Category 1: Religious and Metaphysical Foundations — SOMEWHAT CLASSICAL (clear transcendental aims around truth, goodness, beauty and virtue; but explicit theology-liturgical grounding is not foregrounded in public materials).
-- Category 2: School Purpose and Goal — CLASSICAL (formation and virtue-centered telos; formation over job-preparation)
-- Category 3: Curriculum — SOMEWHAT CLASSICAL (strong liberal-arts and Great Books orientation; greater explicit articulation of the Seven Liberal Arts and universal Great-Books integration would move this to CLASSICAL)
-- Category 4: Pedagogy — CLASSICAL (Socratic seminars, direct instruction, memory work, scholé rhythms)
-- Category 5: Faculty — CLASSICAL (living curriculum, mentoring, exemplary teachers)
-- Category 6: Parents & Community — CLASSICAL (active parent involvement, PTC, open houses)
+- Element 1: Religious and Metaphysical Foundations — SOMEWHAT CLASSICAL (clear transcendental aims around truth, goodness, beauty and virtue; but explicit theology-liturgical grounding is not foregrounded in public materials).
+- Element 2: School Purpose and Goal — CLASSICAL (formation and virtue-centered telos; formation over job-preparation)
+- Element 3: Curriculum — SOMEWHAT CLASSICAL (strong liberal-arts and Great Books orientation; greater explicit articulation of the Seven Liberal Arts and universal Great-Books integration would move this to CLASSICAL)
+- Element 4: Pedagogy — CLASSICAL (Socratic seminars, direct instruction, memory work, scholé rhythms)
+- Element 5: Faculty — CLASSICAL (living curriculum, mentoring, exemplary teachers)
+- Element 6: Parents & Community — CLASSICAL (active parent involvement, PTC, open houses)
 
 Aggregate classification: CLASSICAL
 

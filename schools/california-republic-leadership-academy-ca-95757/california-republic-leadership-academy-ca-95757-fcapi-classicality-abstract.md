@@ -1,14 +1,14 @@
 ## Abstract
 
-This CRLA Capistrano evaluation applies the Six Essential Elements framework and a robust keyword analysis to six categories of classical education. The school demonstrates strong Classical signals in Curriculum and Pedagogy (Categories 3 and 4), and solidly supports School Purpose and Goal (Category 2). Religious and Metaphysical Foundations (Category 1) are present in virtue/truth/beauty language but lack explicit theology or liturgy in public materials. Faculty (Category 5) and Parents & Community (Category 6) are present but not consistently framed as fully “living curriculum” and deeply institutionalized family partnerships, respectively. Overall, the school is BEST characterized as SOMEWHAT CLASSICAL, with strong movement toward classical norms in curriculum and pedagogy, and room for more explicit articulation of religious-metaphysical foundations, faculty-portrait framing, and parent-community partnerships.
+This CRLA Capistrano evaluation applies the Six Essential Elements framework and a robust keyword analysis to six categories of classical education. The school demonstrates strong Classical signals in Curriculum and Pedagogy (Categories 3 and 4), and solidly supports School Purpose and Goal (Element 2). Religious and Metaphysical Foundations (Element 1) are present in virtue/truth/beauty language but lack explicit theology or liturgy in public materials. Faculty (Element 5) and Parents & Community (Element 6) are present but not consistently framed as fully “living curriculum” and deeply institutionalized family partnerships, respectively. Overall, the school is BEST characterized as SOMEWHAT CLASSICAL, with strong movement toward classical norms in curriculum and pedagogy, and room for more explicit articulation of religious-metaphysical foundations, faculty-portrait framing, and parent-community partnerships.
 
 - Categories and quick scores:
-  - Category 1: SOMEWHAT CLASSICAL
-  - Category 2: CLASSICAL
-  - Category 3: CLASSICAL
-  - Category 4: CLASSICAL
-  - Category 5: SOMEWHAT CLASSICAL
-  - Category 6: SOMEWHAT CLASSICAL
+  - Element 1: SOMEWHAT CLASSICAL
+  - Element 2: CLASSICAL
+  - Element 3: CLASSICAL
+  - Element 4: CLASSICAL
+  - Element 5: SOMEWHAT CLASSICAL
+  - Element 6: SOMEWHAT CLASSICAL
 
 - Aggregate: SOMEWHAT CLASSICAL
 

@@ -1,13 +1,13 @@
 ## ABSTRACT
 
-Agape Montessori Christian Academy (AMCA), in Vicksburg, MS 39183, presents a mixed classical signal across six canonical categories. The school’s public materials underscore a Classical Christian identity and Christian-worldview integration, particularly in Category 1 (Religious and Metaphysical Foundations) and Category 6 (Parents & Community), where strong signals of a Christ-centered environment and parent partnership are evident. This yields CLASSICAL signals in those areas.
+Agape Montessori Christian Academy (AMCA), in Vicksburg, MS 39183, presents a mixed classical signal across six canonical categories. The school’s public materials underscore a Classical Christian identity and Christian-worldview integration, particularly in Element 1 (Religious and Metaphysical Foundations) and Element 6 (Parents & Community), where strong signals of a Christ-centered environment and parent partnership are evident. This yields CLASSICAL signals in those areas.
 
-- Category 1 (Religious and Metaphysical Foundations): CLASSICAL, due to explicit Christ-centered language, Christian instruction, and Biblical study orientation. Evidence includes “Classical Christian Environment” and explicit Christ-centered language across AMCA’s public pages.  
-- Category 2 (School Purpose and Goal): SOMEWHAT CLASSICAL, as formation/virtue signals exist but are interwoven with a college-prep/continuation language and Montessori/A Beka blends that reduce a fully pure classical telos. Evidence includes the formation/virtue framing and the dual aims (virtue formation with progression). 
-- Category 3 (Curriculum): NOT CLASSICAL, because the curriculum signals primarily show Montessori practices plus the A Beka Christian curriculum, with no explicit Great Books, Trivium/Quadrivium, or Great Conversation canon. 
-- Category 4 (Pedagogy): SOMEWHAT CLASSICAL, due to Montessori-based pedagogy and memory-based elements (Shurley English), but lacking explicit Socratic seminars or scholé language across all grades. 
-- Category 5 (Faculty): SOMEWHAT CLASSICAL, with indicators like small class sizes and teacher-as-guide signals, but lacking a publicly stated “living curriculum” portrait and full classical-faculty articulation. 
-- Category 6 (Parents & Community): CLASSICAL, given strong partner-parents language, parent formation, and a culture of parental involvement and home-school partnership. 
+- Element 1 (Religious and Metaphysical Foundations): CLASSICAL, due to explicit Christ-centered language, Christian instruction, and Biblical study orientation. Evidence includes “Classical Christian Environment” and explicit Christ-centered language across AMCA’s public pages.  
+- Element 2 (School Purpose and Goal): SOMEWHAT CLASSICAL, as formation/virtue signals exist but are interwoven with a college-prep/continuation language and Montessori/A Beka blends that reduce a fully pure classical telos. Evidence includes the formation/virtue framing and the dual aims (virtue formation with progression). 
+- Element 3 (Curriculum): NOT CLASSICAL, because the curriculum signals primarily show Montessori practices plus the A Beka Christian curriculum, with no explicit Great Books, Trivium/Quadrivium, or Great Conversation canon. 
+- Element 4 (Pedagogy): SOMEWHAT CLASSICAL, due to Montessori-based pedagogy and memory-based elements (Shurley English), but lacking explicit Socratic seminars or scholé language across all grades. 
+- Element 5 (Faculty): SOMEWHAT CLASSICAL, with indicators like small class sizes and teacher-as-guide signals, but lacking a publicly stated “living curriculum” portrait and full classical-faculty articulation. 
+- Element 6 (Parents & Community): CLASSICAL, given strong partner-parents language, parent formation, and a culture of parental involvement and home-school partnership. 
 
 Aggregate rating: SOMEWHAT CLASSICAL
 

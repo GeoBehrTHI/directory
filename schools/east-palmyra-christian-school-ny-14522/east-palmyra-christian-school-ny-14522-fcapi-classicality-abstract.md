@@ -18,19 +18,19 @@ Notes on sources used (examples of evidence embedded in the narrative above):
 - Mission language and “Learn, Grow, Serve” + visitation and parent engagement elements. 
 - Specific pages: About/Empower Faith & Learning, Academic/program pages showing curriculum. 
 
-Executive Summary — Category-by-Category Snapshot (reiterated)
+Executive Summary — Element-by-Element Snapshot (reiterated)
 
-- Category 1 — Religious and Metaphysical Foundations: CLASSICAL
+- Element 1 — Religious and Metaphysical Foundations: CLASSICAL
   Evidence: Christian/theological framing, creeds/confessions, biblical worldview. Positive keywords present; no clear negatives. Rationale: The theological grounding and liturgical/communal direction fit Classical indicators. 
-- Category 2 — School Purpose and Goal: CLASSICAL
+- Element 2 — School Purpose and Goal: CLASSICAL
   Evidence: Formation through classical curriculum; Christian worldview; Great Books emphasis. Positive keywords; no explicit anti-classical signals evident. Rationale: Formation-centered, timeless-knowledge orientation aligns with Classical aims. 
-- Category 3 — Curriculum: CLASSICAL
+- Element 3 — Curriculum: CLASSICAL
   Evidence: Explicit Great Books/grammar/logic/rhetoric/Latin; Western-tradition orientation; liberal-arts framing. Rationale: Clear classical-curriculum alignment. 
-- Category 4 — Pedagogy: SOMEWHAT CLASSICAL
+- Element 4 — Pedagogy: SOMEWHAT CLASSICAL
   Evidence: Classical content present; explicit pedagogical methods are not consistently spelled out on public pages (e.g., Socratic seminars, Scholé). Rationale: Classical signals exist, but explicit pedagogy documentation is incomplete publicly. 
-- Category 5 — Faculty: SOMEWHAT CLASSICAL
+- Element 5 — Faculty: SOMEWHAT CLASSICAL
   Evidence: Faculty presence visible; limited public language about martial virtues, “living curriculum.” Rationale: Real faculty but less explicit “model-virtue living curriculum” language; needs stronger public articulation. 
-- Category 6 — Parents & Community: CLASSICAL
+- Element 6 — Parents & Community: CLASSICAL
   Evidence: Partner/parents as co-teachers; covenantal community; open visits. Rationale: Strong parental engagement and communal formation signals. 
 
 If you’d like, I can convert this analysis into a one-page executive briefing or a slide-ready outline summarizing the six categories, key evidence, and recommended needle-moving actions.

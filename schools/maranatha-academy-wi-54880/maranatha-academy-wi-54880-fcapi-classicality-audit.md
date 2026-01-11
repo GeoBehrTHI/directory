@@ -31,17 +31,17 @@ Evidence
 - Dorothy Sayers is invoked in one of the public-facing pages to anchor the aim of education as learning to learn, a hallmark of transcendental moral realism and the formation of the soul. 
 
 Positive/Negative keyword analysis
-- Positive keywords present: Christ-centered, Christian worldview, discipleship, classical curriculum, Trivium (grammar, logic, rhetoric), formation through education, lifelong learning ethos (as implied by the classical framing). These terms map to the Positive Keyword indicators for Transcendental Moral Realism, Grounded Theology, and Liturgical/Communal Practice in the Six Essential Elements lexicon.  
+- Positive keywords present: Christ-centered, Christian worldview, discipleship, classical curriculum, Trivium (grammar, logic, rhetoric), formation through education, lifelong learning ethos (as implied by the classical framing). These terms map to the Positive Keyword indicators for Transcendental Moral Realism, Grounded Theology, and Liturgical/Communal Practice in the Six Essential Elements lexicon. 
 - Negative keywords: No explicit secular neutrality or values-neutral framing appears in the accessible public-text materials; the content consistently foregrounds theology and Christian formation (no direct secular or value-neutral signaling in the text). (Absence noted rather than explicit citation in text.)
 
 Why this rating
-- The materials emphasize truth, goodness, beauty in a transcendent, knowable way through Christ-centered formation and a theologically integrated classical curriculum. The public materials couple formation with the Trivium, and the Dorothy Sayers reference anchors the transcendental dimension of education. These signals align with Element 1 expectations for a classical school. The presence of theology/discipleship alongside classical content supports the Classical rating here. fileciteturn0file7turn0file4
+- The materials emphasize truth, goodness, beauty in a transcendent, knowable way through Christ-centered formation and a theologically integrated classical curriculum. The public materials couple formation with the Trivium, and the Dorothy Sayers reference anchors the transcendental dimension of education. These signals align with Element 1 expectations for a classical school. The presence of theology/discipleship alongside classical content supports the Classical rating here. 
 
 ### Element 2: School Purpose and Goal — CLASSICAL
 
 Evidence
 - The school identifies formation (character and wisdom) as a primary aim rather than mere information or workforce preparation. The public materials describe preparing students for life in family and community, and life after high school, within a Christian, classical framework. 
-- The mission statements and enrollment/about pages emphasize a Christ-centered education that shapes temperament, virtue, and moral imagination, aligning with the classical aim of forming wholes rather than simply conveying facts. fileciteturn0file7turn0file3
+- The mission statements and enrollment/about pages emphasize a Christ-centered education that shapes temperament, virtue, and moral imagination, aligning with the classical aim of forming wholes rather than simply conveying facts. 
 - The public pages explicitly present classical education methods (Trivium) as the foundation of the curriculum, with an emphasis on forming virtue and intellect. 
 
 Positive/Negative keyword analysis
@@ -49,7 +49,7 @@ Positive/Negative keyword analysis
 - Negative keywords present: No explicit job-readiness or workforce-tilted language is prominent in public-facing content; the emphasis remains formation-focused rather than vocational training. (No explicit negative signals found in the accessible content.)
 
 Why this rating
-- The school explicitly emphasizes formation and a classical mission beyond vocational training. It ties education to moral and spiritual aims (virtue, wisdom, and a Christian telos), and it anchors the curriculum in a Trivium-based liberal-art framework. These align with Element 2’s expectations for a Classical school. fileciteturn0file7turn0file4
+- The school explicitly emphasizes formation and a classical mission beyond vocational training. It ties education to moral and spiritual aims (virtue, wisdom, and a Christian telos), and it anchors the curriculum in a Trivium-based liberal-art framework. These align with Element 2’s expectations for a Classical school. 
 
 ### Element 3: School Curriculum — CLASSICAL
 
@@ -68,7 +68,7 @@ Why this rating
 ### Element 4: Pedagogy or Teaching Methods — SOMEWHAT CLASSICAL
 
 Evidence
-- Pedagogical signals center on a classical approach (The Trivium, disciplinary emphasis) and a discipleship-based pedagogy, but explicit documentation of certain core classical methods (Socratic dialogue/seminars, Scholé/restful learning, memorization/recitation, or formal opportunities for rhetoric at the upper levels) is not consistently visible in the public pages. The site highlights “discipleship,” a Christian formation approach, and the Trivium as core, rather than a full, stated roster of classical methods (Socratic seminars, restfulness, etc.). fileciteturn0file7turn0file4
+- Pedagogical signals center on a classical approach (The Trivium, disciplinary emphasis) and a discipleship-based pedagogy, but explicit documentation of certain core classical methods (Socratic dialogue/seminars, Scholé/restful learning, memorization/recitation, or formal opportunities for rhetoric at the upper levels) is not consistently visible in the public pages. The site highlights “discipleship,” a Christian formation approach, and the Trivium as core, rather than a full, stated roster of classical methods (Socratic seminars, restfulness, etc.). 
 - There is a clear emphasis on formation and the classical framework, with a strong emphasis on language, logic, and rhetoric foundations, but without repeated public references to Socratic seminars or Scholé days across the K–12 spectrum (as are sometimes emphasized in more explicit classical schools). 
 
 Positive/Negative keyword analysis

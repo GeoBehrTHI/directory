@@ -1,3 +1,5 @@
+Overall Classification: CLASSICAL
+
 ## ABSTRACT
 
 Chesterton Academy of the St. Croix Valley (Stillwater, MN) presents a CLASSICAL educational program anchored in Catholic tradition and liberal-arts formation. The six-category analysis yields CLASSICAL in all areas:

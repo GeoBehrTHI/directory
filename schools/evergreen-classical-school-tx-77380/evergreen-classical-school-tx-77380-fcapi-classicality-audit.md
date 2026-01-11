@@ -15,7 +15,7 @@ What would move the needle (for SOMEWHAT CLASSICAL cases): provide more explicit
 
 - Abstracted overall classification: CLASSICAL.
 
-Citations drawing on the school's public materials and the classical-rubric references are embedded throughout this report. See specific category evidences from items such as Evergreen’s mission and public descriptions of Christian/Classical/Collaborative framing, Trivium content, and Great Books language. fileciteturn0file0turn0file1turn0file12
+Citations drawing on the school's public materials and the classical-rubric references are embedded throughout this report. See specific category evidences from items such as Evergreen’s mission and public descriptions of Christian/Classical/Collaborative framing, Trivium content, and Great Books language. 
 
 
 ## Executive Summary — Category-by-Category Snapshot
@@ -32,7 +32,7 @@ Positive/Negative keyword analysis
 - Negative indicators: None of the explicit secular/anti-religious indicators appear; no conflict with transcendental realism is stated negatively in public materials.
 
 Why this rating
-- The public-facing content strongly situates the school within a theologically grounded classical frame and uses liturgical/community language (worship, Trinity, Scripture). This aligns with the Transcendental moral realism and Grounded in Theology criteria from the classical rubric. The absence of secular or non-theological framing supports CLASSICAL here. fileciteturn0file0turn0file1
+- The public-facing content strongly situates the school within a theologically grounded classical frame and uses liturgical/community language (worship, Trinity, Scripture). This aligns with the Transcendental moral realism and Grounded in Theology criteria from the classical rubric. The absence of secular or non-theological framing supports CLASSICAL here. 
 
 
 ### Category 2: School Purpose and Goal — [CLASSICAL]
@@ -47,13 +47,13 @@ Positive/Negative keyword analysis
 - Negative indicators: None evident in public materials; no emphasis on technical metrics or job-prep language.
 
 Why this rating
-- The public materials emphasize virtue formation, wisdom formation, and the reality of Truth/Beauty, consistent with CLASSICAL. The absence of a primary job-focused framing reinforces formation as the overarching goal. fileciteturn0file0turn0file12
+- The public materials emphasize virtue formation, wisdom formation, and the reality of Truth/Beauty, consistent with CLASSICAL. The absence of a primary job-focused framing reinforces formation as the overarching goal. 
 
 
 ### Category 3: School Curriculum — [CLASSICAL]
 
 Evidence
-- The curriculum centers on the liberal arts of grammar, logic, and rhetoric (the Trivium). It explicitly references the Trivium and Great Books as part of the curriculum. fileciteturn0file0turn0file1
+- The curriculum centers on the liberal arts of grammar, logic, and rhetoric (the Trivium). It explicitly references the Trivium and Great Books as part of the curriculum. 
 - History is integrated across the curriculum with emphasis on Great Books and Great Conversation, rather than treating history as mere social studies. 
 - There is explicit mention of the liberal arts in preparatory sections (Grammar, Logic, Rhetoric) and a description of the classical curriculum including the Great Books framework. 
 - Primer/Logic/Primer School detail emphasize wonder and development within the classical framework, with a focus on formation through the liberal arts. 
@@ -63,7 +63,7 @@ Positive/Negative keyword analysis
 - Negative indicators: None evident in public materials.
 
 Why this rating
-- The curriculum is explicitly classical and canonical (Trivium; Great Books; history within the curriculum; emphasis on wonder and formation). This supports CLASSICAL. fileciteturn0file0turn0file12
+- The curriculum is explicitly classical and canonical (Trivium; Great Books; history within the curriculum; emphasis on wonder and formation). This supports CLASSICAL. 
 
 
 ### Category 4: School Pedagogy or Teaching Methods — [SOMEWHAT CLASSICAL]
@@ -78,14 +78,14 @@ Positive/Negative keyword analysis
 - Negative indicators: Explicit, public-facing, universal implementation of Socratic seminars across all grades is not consistently shown in the available public content. The presence of a strong contemplative/memory-based pedagogy without consistent explicit public statements of full Socratic method reduces the absolutism of “Socratic” pedagogy in all grades.
 
 Why this rating
-- The school exhibits substantial classical pedagogy elements (restful learning, memorization/chanting, formation through imitation) and indicates high-level Socratic/seminar practices for upper levels, but the public materials do not always present a uniform, fully explicit, grade-wide Socratic approach. This yields SOMEWHAT CLASSICAL rather than full CLASSICAL in Pedagogy. fileciteturn0file12turn0file17
+- The school exhibits substantial classical pedagogy elements (restful learning, memorization/chanting, formation through imitation) and indicates high-level Socratic/seminar practices for upper levels, but the public materials do not always present a uniform, fully explicit, grade-wide Socratic approach. This yields SOMEWHAT CLASSICAL rather than full CLASSICAL in Pedagogy. 
 
 
 ### Category 5: School Faculty — [CLASSICAL]
 
 Evidence
-- Faculty are described as model teachers and mentors who embody virtue, skill, and knowledge; the living curriculum concept is present in the public materials, and faculty/staff profiles exist (e.g., individual faculty bios). The school emphasizes partnerships with faculty and parents as part of the educational approach. fileciteturn0file6turn0file5
-- The school presents a board of directors and named faculty (e.g., Cindy Medema, Carly Meservey, Robyn Bain) with bios and roles; this reflects a community-focused and mentorship-oriented faculty culture. fileciteturn0file5turn0file15
+- Faculty are described as model teachers and mentors who embody virtue, skill, and knowledge; the living curriculum concept is present in the public materials, and faculty/staff profiles exist (e.g., individual faculty bios). The school emphasizes partnerships with faculty and parents as part of the educational approach. 
+- The school presents a board of directors and named faculty (e.g., Cindy Medema, Carly Meservey, Robyn Bain) with bios and roles; this reflects a community-focused and mentorship-oriented faculty culture. 
 - The "Faculty & Staff" and “Board of Directors” sections indicate a formal living-curriculum model in which teachers are central to school culture and pedagogy. 
 
 Positive/Negative keyword analysis
@@ -93,7 +93,7 @@ Positive/Negative keyword analysis
 - Negative indicators: No explicit negative phrases about faculty; no contrasting language found in public materials.
 
 Why this rating
-- The public materials consistently position faculty as core to the school's classical mission and the living curriculum, aligning with CLASSICAL expectations for the Faculty category. fileciteturn0file5turn0file6
+- The public materials consistently position faculty as core to the school's classical mission and the living curriculum, aligning with CLASSICAL expectations for the Faculty category. 
 
 
 ### Category 6: School Parents and Community — [CLASSICAL]
@@ -108,7 +108,7 @@ Positive/Negative keyword analysis
 - Negative indicators: None evident in the public materials.
 
 Why this rating
-- There is robust, explicit emphasis on parents as co-educators and on family engagement, aligning with CLASSICAL expectations for community/parent involvement. The materials consistently present a family-centric, church-linked community model. fileciteturn0file5turn0file15
+- There is robust, explicit emphasis on parents as co-educators and on family engagement, aligning with CLASSICAL expectations for community/parent involvement. The materials consistently present a family-centric, church-linked community model. 
 
 
 ## What Would Move the Needle

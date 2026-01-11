@@ -1,6 +1,6 @@
 ## Executive Summary
 
-Paideia Christian Academy Nm 88210 presents a clearly Christian, classical schooling identity, emphasizing a classically inflected curriculum and a mission oriented toward character formation in a Christian frame. Public materials from the school highlight a private, classical approach with curriculum focus areas including language, mathematics, rhetoric, history, art, and literature, and they underscore formation of students who love the Lord and who are equipped to engage culture with Scripture’s truth. This strongly supports a Religious and Metaphysical Foundations and School Purpose/Goal orientation that aligns with classical aims, while explicit Great Books, Great Conversation, and Socratic pedagogy are not clearly evidenced in the public site materials. The public content demonstrates a coherent classical self-identification and a theology-inflected educational philosophy, but it does not publicly document several hallmark elements often associated with a full classical curriculum (e.g., explicit Great Books reading, Socratic seminars, or a clearly articulated, grade-9–12–level Socratic pedagogy).
+Paideia Christian Academy (Artesia, NM, 88210) presents a clearly Christian, classical schooling identity, emphasizing a classically inflected curriculum and a mission oriented toward character formation in a Christian frame. Public materials from the school highlight a private, classical approach with curriculum focus areas including language, mathematics, rhetoric, history, art, and literature, and they underscore formation of students who love the Lord and who are equipped to engage culture with Scripture’s truth. This strongly supports a Religious and Metaphysical Foundations and School Purpose/Goal orientation that aligns with classical aims, while explicit Great Books, Great Conversation, and Socratic pedagogy are not clearly evidenced in the public site materials. The public content demonstrates a coherent classical self-identification and a theology-inflected educational philosophy, but it does not publicly document several hallmark elements often associated with a full classical curriculum (e.g., explicit Great Books reading, Socratic seminars, or a clearly articulated, grade-9–12–level Socratic pedagogy).
 
 Overall Classification: SOMEWHAT CLASSICAL
 
@@ -25,7 +25,7 @@ Why this rating
 
 Citations
 - About page content and faith-based framing: 
-- Classical/Christian lexicon alignment (positives): see Six Essential Elements lexicon via turn1file1 and related keyword references in turn2file0.
+- Classical/Christian lexicon alignment (positives): see Six Essential Elements lexicon viaand related keyword references in turn2file0.
 
 ### Element 2: School Purpose and Goal — CLASSICAL
 
@@ -41,7 +41,7 @@ Why this rating
 
 Citations
 - About page and mission framing: 
-- Positive keyword sets (formation, virtue, truth, classical mission) via Six Essential Elements lexicon and related guidance: turn1file1, turn2file0.
+- Positive keyword sets (formation, virtue, truth, classical mission) via Six Essential Elements lexicon and related guidance: turn2file0.
 
 ### Element 3: Curriculum — SOMEWHAT CLASSICAL
 
@@ -73,7 +73,7 @@ Why this rating
 
 Citations
 - Pedagogy absence in About text: 
-- Pedagogy keyword framework (Socratic, scholé, chant, memorization) via Six Essentials lexicon: turn2file0, turn1file1.
+- Pedagogy keyword framework (Socratic, scholé, chant, memorization) via Six Essentials lexicon: turn1file1.
 
 ### Element 5: Faculty — NOT CLASSICAL
 
@@ -89,7 +89,7 @@ Why this rating
 
 Citations
 - Faculty absence in About text: 
-- Faculty keyword framework (positive/negative signals) via Six Essentials lexicon: turn1file1, turn2file0.
+- Faculty keyword framework (positive/negative signals) via Six Essentials lexicon: turn2file0.
 
 ### Element 6: Parents & Community — CLASSICAL
 
@@ -105,7 +105,7 @@ Why this rating
 
 Citations
 - Partnership with parents language (About page): 
-- Parents & Community keyword framework via Six Essentials lexicon: turn1file1, turn2file0.
+- Parents & Community keyword framework via Six Essentials lexicon: turn2file0.
 
 Aggregate Assessment (Six Categories)
 
@@ -124,27 +124,25 @@ Rationale
 What Would Move the Needle (for SOMEWHAT CLASSICAL)
 
 - Pedagogy (Element 4)
-  - Publicly articulate and publish the school’s pedagogy in classical terms: include explicit mentions of Scholé/restful learning, memorization/recitation/chanting, and consistent use of Socratic seminars or Paideia-style seminars for appropriate grades. Provide examples from actual classes or sample lesson plans that showcase Socratic discussion and disciplined dialogue. This would move Pedagogy to CLASSICAL.
-  - Include language about liberal arts pedagogy across grades (K–12) and a deliberate progression from grammar-stage memorization to dialectic/rhetoric in upper grades.
+ - Publicly articulate and publish the school’s pedagogy in classical terms: include explicit mentions of Scholé/restful learning, memorization/recitation/chanting, and consistent use of Socratic seminars or Paideia-style seminars for appropriate grades. Provide examples from actual classes or sample lesson plans that showcase Socratic discussion and disciplined dialogue. This would move Pedagogy to CLASSICAL.
+ - Include language about liberal arts pedagogy across grades (K–12) and a deliberate progression from grammar-stage memorization to dialectic/rhetoric in upper grades.
 
 - Curriculum (Element 3)
-  - Clarify and publicize engagement with Great Books and Great Conversation; detail specific works, primary sources, and text-reading expectations across grades.
-  - Provide explicit Trivium/Quadrivium mapping (grammar, logic, rhetoric; arithmetic, geometry, astronomy, music) and show how these disciplines are woven across the curriculum, along with experiential wonder elements tied to the Great Conversation.
+ - Clarify and publicize engagement with Great Books and Great Conversation; detail specific works, primary sources, and text-reading expectations across grades.
+ - Provide explicit Trivium/Quadrivium mapping (grammar, logic, rhetoric; arithmetic, geometry, astronomy, music) and show how these disciplines are woven across the curriculum, along with experiential wonder elements tied to the Great Conversation.
 
 - Faculty (Element 5)
-  - Introduce faculty profiles that emphasize virtuous exemplars, mentoring, and the “living curriculum” concept. Publish a faculty handbook or a section on teacher formation aligned with classical practices (character formation, lifelong learning, and collaboration).
+ - Introduce faculty profiles that emphasize virtuous exemplars, mentoring, and the “living curriculum” concept. Publish a faculty handbook or a section on teacher formation aligned with classical practices (character formation, lifelong learning, and collaboration).
 
 - Religious Foundations (Element 1)
-  - If possible, articulate liturgical or communal practices more explicitly (e.g., chapel schedules, liturgical calendar integration, or communal worship elements) to strengthen the Liturgical/Communal Practices signal, while maintaining a Christian theological framing.
+ - If possible, articulate liturgical or communal practices more explicitly (e.g., chapel schedules, liturgical calendar integration, or communal worship elements) to strengthen the Liturgical/Communal Practices signal, while maintaining a Christian theological framing.
 
 - Curriculum and Great Books alignment (Element 3)
-  - Publish a clear, publicly accessible curriculum map that shows how Great Books, primary sources, and classical texts are integrated with Great Conversation ideas, to strengthen the overall CLASSICAL signal in Curriculum.
+ - Publish a clear, publicly accessible curriculum map that shows how Great Books, primary sources, and classical texts are integrated with Great Conversation ideas, to strengthen the overall CLASSICAL signal in Curriculum.
 
 Citations
 - Foundational statements and evidence (About page text): 
-- Classical elements and keyword framework (Six Essential Elements lexicon): turn1file1, turn2file0
-- Additional context on the classical lexicon and Great Books signals (Six Essential Elements and Lexicon references): turn1file6, turn2file0
-
+- Classical elements and keyword framework (Six Essential Elements lexicon):- Additional context on the classical lexicon and Great Books signals (Six Essential Elements and Lexicon references):
 ## What Would Move the Needle
 
 - Publish concrete, school-wide statements of pedagogy aligned with scholé, Socratic dialogue, memory work, and liturgical learning.

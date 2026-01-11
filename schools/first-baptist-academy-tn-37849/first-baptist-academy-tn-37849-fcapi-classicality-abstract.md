@@ -1,3 +1,5 @@
+Overall Classification: CLASSICAL
+
 ## ABSTRACT
 
 First Baptist Academy TN 37849 demonstrates a robust CLASSICAL alignment across most rubric categories, anchored by explicit Christian formation, a Trivium-centered curriculum, and liturgical/community practices. The school presents a strong religious/metaphysical foundation (biblical worldview, chapel, and Scripture integration) and a clearly outlined curricular framework (grammar, logic, rhetoric; biblical/history integration). It shows substantial CLASSICAL signals in School Purpose and Curriculum and a solid CLASSICAL signal in Parents & Community. Pedagogy and Faculty show strong classical tendencies but not yet with fully explicit, public-facing portraits of a “living curriculum” or full Socratic-seminar articulation; these categories edge toward SOMEWHAT CLASSICAL. The aggregate assessment is CLASSICAL, with identified opportunities to fully illuminate certain pedagogical and faculty dimensions and to deepen explicit Great Books and professional-development articulations.

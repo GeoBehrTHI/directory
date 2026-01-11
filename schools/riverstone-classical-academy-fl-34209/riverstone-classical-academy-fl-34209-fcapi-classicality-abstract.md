@@ -16,34 +16,34 @@ Riverstone Classical Academy demonstrates a robust CLASSICAL alignment across al
 
 Overall, Riverstone Classical Academy meets the Six Essential Elements of a Classical School criteria in a holistic way, based on the presented public materials and the knowledge-base rubric. The school’s approach aligns with both the Positive keyword indicators for each category (truth, virtue, Great Books, Trivium, scholé, living curriculum, parental partnership, liturgy, and community formation) and the absence (or minimal presence) of Negative keyword signals in these public materials.
 
-Executive Summary — Category-by-Category Details
+Executive Summary — Element-by-Element Details
 
-- Category 1: Religious and Metaphysical Foundations — CLASSICAL
+- Element 1: Religious and Metaphysical Foundations — CLASSICAL
   - Evidence: Christ-centered framing, Christian worldview, daily prayer, liturgical/worship motifs; transcendentals (truth, goodness, beauty) anchored in formation. fileciteturn14
   - Positive/Negative keywords: Positive: Christ-centered, Christian worldview, morning prayer, truth, goodness, beauty, liturgy; Negative: none observed.
   - Why: Aligns with transcendental moral realism and theological grounding.
 
-- Category 2: School Purpose and Goal — CLASSICAL
+- Element 2: School Purpose and Goal — CLASSICAL
   - Evidence: Formation of virtue and wisdom; Great Books/Great Conversation; telos; pursuit of truth, goodness, beauty. , 
   - Positive/Negative keywords: Positive: formation, virtue, wisdom, telos, great conversation, liberal education, scholé, truth/goodness/beauty; Negative: none.
   - Why: Formation-focused, classical telos.
 
-- Category 3: Curriculum — CLASSICAL
+- Element 3: Curriculum — CLASSICAL
   - Evidence: Grammar/Logic/Rhetoric; Great Books; Latin; history integrated; Great Conversation; Western Civilization. , 
   - Positive/Negative keywords: Positive: grammar, logic, rhetoric, Great Books, Great Conversation, Latin, history, Western Civilization; Negative: none.
   - Why: Core classical curriculum structure present.
 
-- Category 4: Pedagogy — CLASSICAL
+- Element 4: Pedagogy — CLASSICAL
   - Evidence: Grammar-stage memorization via songs/chanting; potential for Socratic/in-seminar discussion in higher grades; contemplative/restful elements. 
   - Positive/Negative keywords: Positive: scholé, contemplation, wonder, memory work, recitation, chanting, seminar; Negative: not clearly dominant project-based-only pedagogy.
   - Why: Classical pedagogy signals (memory, recitation, seminars, rhetoric).
 
-- Category 5: Faculty — CLASSICAL
+- Element 5: Faculty — CLASSICAL
   - Evidence: Hiring of qualified teachers; classical teaching methods; mentoring relationships; living curriculum/portrait of teacher ideas. , 
   - Positive/Negative keywords: Positive: qualified teachers, classical teaching methods, mentoring, living curriculum, faculty as core; Negative: none observed.
   - Why: Strong, classical-faculty alignment.
 
-- Category 6: Parents & Community — CLASSICAL
+- Element 6: Parents & Community — CLASSICAL
   - Evidence: Parents as co-teachers; collaborative model; formation/gatherings; parent conferences; open campus; covenant-like parent partnership. 
   - Positive/Negative keywords: Positive: partnership with families, co-teachers, parental primacy, parent formation, open campus; Negative: none observed.
   - Why: Clear classical-parent/community alignment.
@@ -62,45 +62,43 @@ ABSTRACT
 
 Riverstone Classical Academy (Bradenton, FL 34209) demonstrates a robust CLASSICAL alignment across all six classical-education categories: Religious and Metaphysical Foundations, School Purpose and Goal, Curriculum, Pedagogy, Faculty, and Parents & Community. The public-facing materials consistently frame education as a Christ-centered formation of virtue and wisdom anchored by truth, goodness, and beauty, with a strong emphasis on the Great Books, the Great Conversation, and the Trivium (grammar, logic, rhetoric). Pedagogy integrates both memory-based, contemplative elements (Scholé) and opportunities for Socratic-style seminars, with a living-faculty model and mentoring relationships. The collaborative-parent model positions parents as co-teachers, with ongoing opportunities for parent formation and open campus access. Across all six categories, the Positive Keyword indicators substantially outpace Negative signals, yielding an overall CLASSICAL evaluation.
 
-- Category 1: CLASSICAL
-- Category 2: CLASSICAL
-- Category 3: CLASSICAL
-- Category 4: CLASSICAL
-- Category 5: CLASSICAL
-- Category 6: CLASSICAL
+- Element 1: CLASSICAL
+- Element 2: CLASSICAL
+- Element 3: CLASSICAL
+- Element 4: CLASSICAL
+- Element 5: CLASSICAL
+- Element 6: CLASSICAL
 
 Overall: CLASSICAL
 
-Executive Summary — Category-by-Category Snapshot (Final)
+Executive Summary — Element-by-Element Snapshot (Final)
 
-- Category 1: Religious and Metaphysical Foundations — CLASSICAL
+- Element 1: Religious and Metaphysical Foundations — CLASSICAL
   - Evidence: Christ-centered, Christian worldview, morning prayer; transcendental goods (truth/goodness/beauty); liturgical/community practices. fileciteturn14
   - Positive keywords: Christ-centered, Christian worldview, morning prayer, liturgy, reverence, wonder, beauty, truth, goodness, sacred. Negative: none.
   - Why: The religious/philosophical groundings are explicit and align with classical metaphysical foundations.
 
-- Category 2: School Purpose and Goal — CLASSICAL
+- Element 2: School Purpose and Goal — CLASSICAL
   - Evidence: Formation of virtue and wisdom; the Great Books/Great Conversation; telos; pursuit of truth, goodness, beauty. , 
   - Positive keywords: formation, virtue, wisdom, telos, Great Conversation, liberal education, scholé, truth/goodness/beauty. Negative: none.
   - Why: Formation-based aims and the Great Books framework reflect classical purpose.
 
-- Category 3: Curriculum — CLASSICAL
+- Element 3: Curriculum — CLASSICAL
   - Evidence: Trivium-centric curriculum; Great Books/Latin/history; integral history and Western civilization. , 
   - Positive keywords: grammar, logic, rhetoric, Great Books, Great Conversation, Latin, history, Western Civilization. Negative: none.
   - Why: Core classical curriculum anchors are present.
 
-- Category 4: Pedagogy — CLASSICAL
+- Element 4: Pedagogy — CLASSICAL
   - Evidence: Grammar-stage memorization; potential for Socratic/seminar pedagogy; contemplative/restful elements (Scholé). 
   - Positive keywords: grammar, logic, rhetoric; memory-work; singing/chanting; scholé; contemplation; seminar; discourse. Negative: none clearly shown as dominant.
   - Why: Pedagogical approach aligns with classical pedagogy.
 
-- Category 5: Faculty — CLASSICAL
+- Element 5: Faculty — CLASSICAL
   - Evidence: Qualified teachers; classical methodologies; mentoring; living curriculum; faculty as core. , 
   - Positive keywords: qualified teachers, classical teaching methods, mentoring, living curriculum, portrait of teacher. Negative: none.
   - Why: Faculty model is strongly classical.
 
-- Category 6: Parents & Community — CLASSICAL
+- Element 6: Parents & Community — CLASSICAL
   - Evidence: Parents as co-teachers; collaborative model; parent formation and open-campus; covenant-like partnership; frequent parent meetings. 
   - Positive keywords: partnership with families, co-teachers, parental primacy, parent formation, open campus, family involvement. Negative: none.
   - Why: Strong parental partnership and community integration.
-
-If you would like, I can extract direct quotes from these sources or provide a side-by-side mapping of additional specific Great Books references, Latin mentions, or more granular quotes from each page to illustrate the keyword matches in greater detail.

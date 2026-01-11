@@ -2,7 +2,7 @@
 
  CLASSICAL
 
-Christian Core Academy Co 80525 (the LatinschoolCo/GMA content mirrored in the crawl) presents a robust classical Christian program that emphasizes formation over information, a Judeo-Christian theological framework, and a curriculum rooted in the liberal arts, Great Books, living books, and the Trivium. Public materials consistently frame the education as God-centered, Christ-focused, and oriented toward virtue, wisdom, and truth. Pedagogy centers on Socratic discussion, logic, rhetoric, and contemplative practice; history and literature are integrated with theology; and families are positioned as partners in formation. Across six categories, the public materials demonstrate strong indicators of CLASSICAL education, with clear affirmations of truth, goodness, and beauty, and a coherent classical pedagogy and community ethos.
+Christian Core Academy (Fort Collins, CO, 80525) (the LatinschoolCo/GMA content mirrored in the crawl) presents a robust classical Christian program that emphasizes formation over information, a Judeo-Christian theological framework, and a curriculum rooted in the liberal arts, Great Books, living books, and the Trivium. Public materials consistently frame the education as God-centered, Christ-focused, and oriented toward virtue, wisdom, and truth. Pedagogy centers on Socratic discussion, logic, rhetoric, and contemplative practice; history and literature are integrated with theology; and families are positioned as partners in formation. Across six categories, the public materials demonstrate strong indicators of CLASSICAL education, with clear affirmations of truth, goodness, and beauty, and a coherent classical pedagogy and community ethos.
 
 Executive Summary — Element-by-Element Snapshot
 

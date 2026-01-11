@@ -1,6 +1,6 @@
 ## ABSTRACT
 
-Liberty Classical Academy Co 81647 demonstrates a robust alignment with classical education tenets, including explicit theological grounding, formation-focused purposes centered on truth/beauty/virtue, a Seven Liberal Arts curriculum with Great Books and The Great Conversation, a public specification of grammar–logic–rhetoric progression, and strong parent/community partnerships. The evaluation across the six categories yields five CLASSICAL rankings (Religious & Metaphysical Foundations; School Purpose & Goal; Curriculum; Faculty; Parents & Community) and one SOMEWHAT CLASSICAL ranking (Pedagogy). The aggregate classification is CLASSICAL.
+Liberty Classical Academy (New Castle, CO, 81647) demonstrates a robust alignment with classical education tenets, including explicit theological grounding, formation-focused purposes centered on truth/beauty/virtue, a Seven Liberal Arts curriculum with Great Books and The Great Conversation, a public specification of grammar–logic–rhetoric progression, and strong parent/community partnerships. The evaluation across the six categories yields five CLASSICAL rankings (Religious & Metaphysical Foundations; School Purpose & Goal; Curriculum; Faculty; Parents & Community) and one SOMEWHAT CLASSICAL ranking (Pedagogy). The aggregate classification is CLASSICAL.
 
 - Religious and Metaphysical Foundations: CLASSICAL
   - Evidence: Statement of Faith, biblical worldview, pursuit of truth/beauty/goodness in faith-informed formation.  

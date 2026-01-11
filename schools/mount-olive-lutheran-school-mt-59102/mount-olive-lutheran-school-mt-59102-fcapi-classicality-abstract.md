@@ -2,22 +2,22 @@
 
 Mount Olive Lutheran School (Billings, MT, 59102) presents a strong CLASSICAL orientation in curriculum and religious formation, with explicit Trivium/Quadrivium content and Latin study, and a Lutheran, liturgical framework. The public materials foreground Christ-centered, theological formation, chapel and liturgical life, and an explicit classical curriculum (grammar/logic/rhetoric; arithmetic/music/geometry/astronomy). While there is evidence of robust faculty presence and active parent/community involvement, explicit articulation of the full classical-pedagogy signals (e.g., Socratic seminars, Great Books/Great Conversation programs) and a fully-developed “living curriculum” narrative for teachers and parents are less clearly documented in public materials.
 
-- Category 1: Religious and Metaphysical Foundations — CLASSICAL
+- Element 1: Religious and Metaphysical Foundations — CLASSICAL
   Evidence: Christ-centered approach; liturgical life; theology; scripture; chapels and hymns; Lutheran formation. Positive keyword signals are strong; negative signals are minimal due to absence of non-religious signals. Theology and liturgy anchor the foundation. 
 
-- Category 2: School Purpose and Goal — SOMEWHAT CLASSICAL
+- Element 2: School Purpose and Goal — SOMEWHAT CLASSICAL
   Evidence: Formation through classical-Lutheran framing; Christ-centered goals; emphasis on formation and virtue in a faith context, but explicit statements about virtue/wisdom as universal goals and Great Books language are not consistently present. Positive signals exist; direct goal-language is less explicit. 
 
-- Category 3: School Curriculum — CLASSICAL
+- Element 3: School Curriculum — CLASSICAL
   Evidence: Seven Liberal Arts; Trivium/Quadrivium; grammar/logic/rhetoric; arithmetic/music/geometry/astronomy; Latin; explicit classical-model framing. 
 
-- Category 4: Pedagogy or Teaching Methods — SOMEWHAT CLASSICAL
+- Element 4: Pedagogy or Teaching Methods — SOMEWHAT CLASSICAL
   Evidence: Classical-model framing and liturgical/contemplative elements; evidence of pedagogy aligned with classical aims but explicit modern-Socratic/seminar practices are not clearly documented in public content. 
 
-- Category 5: Faculty — SOMEWHAT CLASSICAL
+- Element 5: Faculty — SOMEWHAT CLASSICAL
   Evidence: Named faculty, leadership, and theological roles; bios indicate professional, faith-informed staff; absence of a clearly articulated “living curriculum” portrait lowers the categorization. 
 
-- Category 6: Parents and Community — SOMEWHAT CLASSICAL
+- Element 6: Parents and Community — SOMEWHAT CLASSICAL
   Evidence: Active family involvement and events (Crusader Feast, book fairs, family nights); some parent-partnership signals but formalized “co-teaching” or parent-education programs are not clearly documented. 
 
 Overall classification: SOMEWHAT CLASSICAL

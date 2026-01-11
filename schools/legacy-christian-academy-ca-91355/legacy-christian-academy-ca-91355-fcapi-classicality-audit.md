@@ -4,8 +4,8 @@ Legacy Christian Academy CA 91355 (as represented by public materials surfaced i
 
 Overall classification: SOMEWHAT CLASSICAL
 
-- Most clearly classical signals: explicit classical curriculum (grammar/logic/rhetoric), Latin/Classical Studies, use of a traditional model with parental involvement, and a focus on truth, goodness, and beauty in a Christian frame. Evidence sources point to Memoria Press-based offerings, a two-day-per-week structure, and explicit Christian formation language. See public pages describing the HLS Santa Clarita model, two-day enrollment, and the Good/True/Beautiful formulation. fileciteturn0file0turn0file5
-- Notable gaps for full Classical alignment: explicit liturgical practices, sustained Socratic seminars and high-school-level rhetoric coaching explicitly stated on the site, and a fully developed “living curriculum” communicated publicly. The framework exists in ancillary/classical-education literature linked in the knowledge store, but it is not consistently evidenced on the school’s own public materials. fileciteturn0file0turn0file1
+- Most clearly classical signals: explicit classical curriculum (grammar/logic/rhetoric), Latin/Classical Studies, use of a traditional model with parental involvement, and a focus on truth, goodness, and beauty in a Christian frame. Evidence sources point to Memoria Press-based offerings, a two-day-per-week structure, and explicit Christian formation language. See public pages describing the HLS Santa Clarita model, two-day enrollment, and the Good/True/Beautiful formulation. 
+- Notable gaps for full Classical alignment: explicit liturgical practices, sustained Socratic seminars and high-school-level rhetoric coaching explicitly stated on the site, and a fully developed “living curriculum” communicated publicly. The framework exists in ancillary/classical-education literature linked in the knowledge store, but it is not consistently evidenced on the school’s own public materials. 
 
 What would move the needle toward CLASSICAL:
 - Make explicit on-site statements about liturgical/community practices (chapel, worship, seasonal rites) and the role of the church in daily formation.
@@ -31,11 +31,11 @@ Notes on the six-category rubric: The school demonstrates substantial classical 
 ### Element 1: Religious and Metaphysical Foundations — SOMEWHAT CLASSICAL
 
 Evidence
-- Public materials emphasize Christian framing and moral formation: "We are a classical, Christian homeschool support program" and the aim to engender love for the Good, the True, and the Beautiful.  
+- Public materials emphasize Christian framing and moral formation: "We are a classical, Christian homeschool support program" and the aim to engender love for the Good, the True, and the Beautiful. 
 - The program uses a Christian framework (Lord/Faith orientation) and relies on a classical approach to education (Memoria Press materials, classical languages). 
 
 Positive/Negative keyword analysis
-- Positive keywords found: Christian; Good, True, Beautiful; Virtue-related framing (virtue implied through the Good/True/Beautiful triad); Theological framing (explicit Christian formation). fileciteturn0file5turn0file2
+- Positive keywords found: Christian; Good, True, Beautiful; Virtue-related framing (virtue implied through the Good/True/Beautiful triad); Theological framing (explicit Christian formation). 
 - Negative keywords found: None of secular, nonreligious, or secularist signaling appear in the public materials. The absence of secular framing supports a Christian/classical orientation rather than a secular approach. 
 
 Why this rating
@@ -45,7 +45,7 @@ Notes on needle-moving changes
 - Add explicit statements of liturgical practices (chapel, communal worship) and daily/seasonal rites.
 - Provide explicit evidence of theological integration across disciplines (e.g., theology as a "Mistress Science" inside core classes beyond general Christian framing).
 
-Citations: The Christian framing and Good/True/Beautiful language are evidenced in the public pages and admissions/Who We Are areas.  
+Citations: The Christian framing and Good/True/Beautiful language are evidenced in the public pages and admissions/Who We Are areas. 
 
 ---
 
@@ -56,7 +56,7 @@ Evidence
 - The curriculum is described as classical (grammar/logic/rhetoric foundations), with Latin and classical studies as core features, pointing toward formation via classical pedagogy. 
 
 Positive/Negative keyword analysis
-- Positive keywords found: Good, True, Beautiful; virtue-related language (formation of affections implied by classical formation); classical education framing (grammar/logic/rhetoric, Memoria Press).  
+- Positive keywords found: Good, True, Beautiful; virtue-related language (formation of affections implied by classical formation); classical education framing (grammar/logic/rhetoric, Memoria Press). 
 - Negative keywords found: None signaling secular/information-forward/technology-centric education; no explicit “work-prep” or purely vocational framing appears in the public materials. The materials lean toward formation rather than information, aligning with classical aims. 
 
 Why this rating
@@ -113,7 +113,7 @@ Citations: Pedagogical structure and classical-curriculum emphasis drawn from pu
 ### Element 5: Faculty — SOMEWHAT CLASSICAL
 
 Evidence
-- The public materials describe classical education as the framework and reference the HLS Model as a unified approach; however, explicit portrait-language of faculty as “models of virtue” or a formal “living curriculum” communicated on the site is not clearly shown in the accessible public pages. The “Good Teacher” literature (from the knowledge base) provides a model of teacher as mentor and living curriculum in general classical pedagogy; this informs the rubric but is not necessarily a direct site claim.  
+- The public materials describe classical education as the framework and reference the HLS Model as a unified approach; however, explicit portrait-language of faculty as “models of virtue” or a formal “living curriculum” communicated on the site is not clearly shown in the accessible public pages. The “Good Teacher” literature (from the knowledge base) provides a model of teacher as mentor and living curriculum in general classical pedagogy; this informs the rubric but is not necessarily a direct site claim. 
 
 Positive/Negative keyword analysis
 - Positive keywords found: Mentorship, virtue-formation language appears in classical education literature (the Good Teacher text) and is consistent with the classical-pedagogical ethos. While the site itself doesn’t necessarily publish a teacher-portrait, the public materials imply a teacher-guided classical model. 
@@ -126,7 +126,7 @@ Needle-moving changes
 - Publish a concise “Faculty Profile” page describing teacher qualification, virtues, mentorship role, and ongoing professional formation.
 - Articulate how teachers model virtue and how faculty operate as “the living curriculum” in daily practice.
 
-Citations: Public materials mention the HLS Model and classical framework; the Good Teacher document provides a model of how teachers function in classical education.  
+Citations: Public materials mention the HLS Model and classical framework; the Good Teacher document provides a model of how teachers function in classical education. 
 
 ---
 
@@ -147,7 +147,7 @@ Needle-moving changes
 - Maintain and grow the explicit, public articulation of parent education initiatives (book studies, gatherings) to strengthen the “parents as co-educators” claim.
 - Expand opportunities for parent visits and regular engagement forums to deepen the community dimension.
 
-Citations: Public pages describing parental involvement, co-educator framing, and admissions language.  
+Citations: Public pages describing parental involvement, co-educator framing, and admissions language. 
 
 ---
 

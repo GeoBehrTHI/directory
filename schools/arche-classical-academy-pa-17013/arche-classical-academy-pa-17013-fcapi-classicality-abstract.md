@@ -4,7 +4,7 @@ Arche Classical Academy (Carlisle, PA 17013) shows a strong alignment with class
 
 Faculty signals point to a living-curriculum model, mentorship, and kinship with parents, with ACCS affiliation underscoring a broader classical-education network. Parents and community signals emphasize ongoing parental involvement, open campus access, and joint formation with school life.
 
-The sole category that sits slightly below the strongest classical signals is Pedagogy, where public-facing content provides less explicit, uniform articulation of Socratic or Paideia-style pedagogy across all grades. This yields a SOMEWHAT CLASSICAL signal in Category 4, while all other categories land solidly in CLASSICAL. The aggregate ranking remains CLASSICAL.
+The sole category that sits slightly below the strongest classical signals is Pedagogy, where public-facing content provides less explicit, uniform articulation of Socratic or Paideia-style pedagogy across all grades. This yields a SOMEWHAT CLASSICAL signal in Element 4, while all other categories land solidly in CLASSICAL. The aggregate ranking remains CLASSICAL.
 
 Key primary sources and terms supporting the CLASSICAL classification include:
 - Biblical values shaping curriculum and Christ-centered pedagogy (Curriculum; Sola Scriptura framing). fileciteturn0file0turn6file1
@@ -21,11 +21,11 @@ Note on sources used
 - Parent involvement and community signals. 
 
 EXECUTIVE SUMMARY — CATEGORY-BY-CATEGORY SNAPSHOT CONTENT NOTES
-- Category 1: Religious & Metaphysical Foundations — CLASSICAL. Strong biblical-theological framing and liturgical/community practices are evident. fileciteturn0file0turn6file1turn0file7
-- Category 2: School Purpose & Goal — CLASSICAL. Formation-and-virtue orientation with classical telos. 
-- Category 3: Curriculum — CLASSICAL. Seven Liberal Arts, Great Books, Latin; integrated history; explicit classical discipline. 
-- Category 4: Pedagogy — SOMEWHAT CLASSICAL. Classical elements present (grammar/logic/rhetoric, Great Books), but explicit Socratic/Paideia pedagogy is not uniformly documented in public materials. 
-- Category 5: Faculty — CLASSICAL. Faculty as living curriculum with mentorship and partnership signals. 
-- Category 6: Parents & Community — CLASSICAL. Strong parental partnership, open access, and community formation. 
+- Element 1: Religious & Metaphysical Foundations — CLASSICAL. Strong biblical-theological framing and liturgical/community practices are evident. fileciteturn0file0turn6file1turn0file7
+- Element 2: School Purpose & Goal — CLASSICAL. Formation-and-virtue orientation with classical telos. 
+- Element 3: Curriculum — CLASSICAL. Seven Liberal Arts, Great Books, Latin; integrated history; explicit classical discipline. 
+- Element 4: Pedagogy — SOMEWHAT CLASSICAL. Classical elements present (grammar/logic/rhetoric, Great Books), but explicit Socratic/Paideia pedagogy is not uniformly documented in public materials. 
+- Element 5: Faculty — CLASSICAL. Faculty as living curriculum with mentorship and partnership signals. 
+- Element 6: Parents & Community — CLASSICAL. Strong parental partnership, open access, and community formation. 
 
 If you’d like, I can extract direct quotes (with page references) for each category, or provide a concise one-page summary tailored to a specific audience (board, parents, or accreditation bodies).

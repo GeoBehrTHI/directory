@@ -1,3 +1,5 @@
+Overall Classification: CLASSICAL
+
 ## ABSTRACT
 
 Chesterton Academy of St. George (Jackson, MI) demonstrates a comprehensive CLASSICAL orientation across all six classical categories. Religiously, it grounds education in Catholic doctrine and liturgical practice, presenting a Culture of Life and a three-pillar model (Intellect, Character, Spirituality) that integrates faith with learning. Its purpose and goal emphasize formation, virtue, and wisdom, anchored in truth, goodness, and beauty. The curriculum shows classical signals—Latin via Memoria Press, liberal-arts orientation, and engagement with Western thought—while pedagogy blends Socratic dialogue and rhetoric with contemplative elements such as Scholé-like practices. Faculty are presented as mentors within a living-curriculum framework, and parents/community engagement is robust, with a consistent emphasis on partnership with families and opportunities for parent formation and campus visits. In aggregate, Chesterton Academy of St. George aligns strongly with Classical education conventions, indicating a fully CLASSICAL classification.

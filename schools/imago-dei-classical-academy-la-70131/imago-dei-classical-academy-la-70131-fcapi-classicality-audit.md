@@ -1,6 +1,6 @@
 ## Executive Summary
 
-Imago Dei Classical Academy La 70131 presents a Catholic, classical education built around the Mother of Divine Grace (MODG) curriculum, with explicit emphasis on formation of character through a Catholic theological framework and through Socratic, memory-based pedagogy. Public materials show a strong religious grounding (Catholic magisterium, formation, liturgical-infused culture) and a clearly articulated classical orientation via MODG. Pedagogy highlights include Socratic discussion, oral presentations, and a memory-oriented lower school approach. The faculty is framed as a living, virtuous curriculum, and parents are positioned as partners in education, invited to participate and engage with the school. The overall ranking across the six categories lands as CLASSICAL, with Curriculum receiving a notable though not complete alignment due to some explicit Great Books/Paideia signals being less direct in the public content. Category-by-category details follow, with evidence drawn from the school’s website and MODG materials and aligned against the Six Essential Elements of a Classical School rubric.
+Imago Dei Classical Academy (New Orleans, LA, 70131) presents a Catholic, classical education built around the Mother of Divine Grace (MODG) curriculum, with explicit emphasis on formation of character through a Catholic theological framework and through Socratic, memory-based pedagogy. Public materials show a strong religious grounding (Catholic magisterium, formation, liturgical-infused culture) and a clearly articulated classical orientation via MODG. Pedagogy highlights include Socratic discussion, oral presentations, and a memory-oriented lower school approach. The faculty is framed as a living, virtuous curriculum, and parents are positioned as partners in education, invited to participate and engage with the school. The overall ranking across the six categories lands as CLASSICAL, with Curriculum receiving a notable though not complete alignment due to some explicit Great Books/Paideia signals being less direct in the public content. Category-by-category details follow, with evidence drawn from the school’s website and MODG materials and aligned against the Six Essential Elements of a Classical School rubric.
 
 - Overall classification: CLASSICAL
 - Notable needle-mover: The explicit integration of Catholic theology and the living, mentor-like faculty, along with regular Socratic discourse, strongly supports classical aims in ideology, pedagogy, and community; the Curriculum category would move from SOMEWHAT CLASSICAL toward CLASSICAL with more explicit Great Books/Paideia signaling.
@@ -99,7 +99,7 @@ Positive/Negative keyword analysis
 - Positive indicators: Socratic discussion; vernacular for oral presentations; memory work; recitation; rhetoric exercises; seminars; contemplation/wonder as part of pedagogy; both lower- and upper-level engagement in classical tasks.
 - Negative indicators: None observed in the public materials (no explicit “experiential learning-only” or heavy project-based pedagogy signals).
 - Direct keyword matches (from the Six Elements lexicon): Socratic, narration/recitation, chanting/singing to memorize, seminar, colloquy, Paideia seminar, rhetoric, oratory, debate, memory work, liturgical calendar integration, contemplation/wonder; absence of signals like “project-based only” or “experiential learning-first.”
-  
+ 
 Quantitative estimate
 - Positive keywords present: multiple explicit classical pedagogy signals (Socratic discussion, oral presentations, memory work, recitation, seminars, rhetoric, etc.), roughly 6–8 distinct positive indicators.
 - Negative keywords present: 0 explicit negative signals.
@@ -154,10 +154,10 @@ Cited evidence: parent partnerships and open invitation to visits; explicit pare
 ## What Would Move the Needle
 
 - Element 3 (Curriculum) is the only category currently identified as SOMEWHAT CLASSICAL. Concrete steps to move Element 3 toward CLASSICAL:
-  - Explicitly name and foreground Great Books in core curriculum pages and course descriptions (Great Books, Great Conversation).
-  - Present a formal, public-facing articulation of the Trivium (grammar, logic, rhetoric) as a progression across K–12, with clear alignment to memory work and classical pedagogy.
-  - Expand “classical” vocabulary in the curriculum documents to include Paideia-style seminars and explicit referents to primary sources and canonical works within core subject areas.
-  - Publish a short, explicit statement linking the MODG curriculum explicitly to Great Books and primary-source study within the school’s mission pages.
+ - Explicitly name and foreground Great Books in core curriculum pages and course descriptions (Great Books, Great Conversation).
+ - Present a formal, public-facing articulation of the Trivium (grammar, logic, rhetoric) as a progression across K–12, with clear alignment to memory work and classical pedagogy.
+ - Expand “classical” vocabulary in the curriculum documents to include Paideia-style seminars and explicit referents to primary sources and canonical works within core subject areas.
+ - Publish a short, explicit statement linking the MODG curriculum explicitly to Great Books and primary-source study within the school’s mission pages.
 
 Cited context: The public materials clearly reflect MODG-classical framing but lack consistently explicit Great Books/Paideia labeling on all pages for Curriculum; adding these explicit references would push the Curriculum category from SOMEWHAT CLASSICAL to CLASSICAL. 
 

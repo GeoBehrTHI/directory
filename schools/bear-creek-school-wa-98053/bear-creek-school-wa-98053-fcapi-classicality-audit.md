@@ -2,8 +2,8 @@
 
 Bear Creek School (WA 98053) presents a clear and well-articulated classical Christian orientation. Public-facing materials consistently frame the school as a Christian liberal arts institution that embraces a classical pedagogy (notably the trivium) and a formation-focused mission. The public materials emphasize virtue, wisdom, and courage, a Christian worldview, and family partnerships, with explicit references to imago Dei and in loco parentis as foundational commitments. While the school strongly signals classical aims in curriculum and mission, some elements typically associated with a fully classical model (e.g., explicit Great Books/Great Conversation programming, pervasive Socratic seminars at the upper levels, and broad history-as-history rather than social-studies framing) are less explicit in the materials reviewed from Bear Creek’s site crawl. Overall, the school leans CLASSICAL, with some categories demonstrating stronger classical alignment than others.
 
-- Evidence of classical and religious foundations is robust (Christian identity, virtue formation, theological framing, the trivium, liberal arts). fileciteturn0file0turn0file7turn0file12
-- Public materials emphasize formation, virtue, wisdom, and God-intended persons, not mere job preparation. fileciteturn0file0turn0file12
+- Evidence of classical and religious foundations is robust (Christian identity, virtue formation, theological framing, the trivium, liberal arts). 
+- Public materials emphasize formation, virtue, wisdom, and God-intended persons, not mere job preparation. 
 - Clear commitment to parental partnership and community life is present (imago Dei, in loco parentis, parent partnership). 
 - Some classical elements (e.g., Great Books/Great Conversation, explicit upper-school Socratic pedagogy) are not clearly evidenced in the crawl; those areas are flagged as somewhat classical. 
 

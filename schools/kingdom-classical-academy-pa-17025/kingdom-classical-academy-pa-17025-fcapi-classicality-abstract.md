@@ -21,32 +21,32 @@ Citations and textual anchors drawn from the Kingdom Classical Academy materials
 
 Executive Summary — Expanded Category Details
 
-- Category 1: Religious and Metaphysical Foundations — CLASSICAL
+- Element 1: Religious and Metaphysical Foundations — CLASSICAL
   - Evidence: Christ-centered identity; Statement of Faith; Biblical truth integrated across subjects; theology-laden mission statements. 
   - Keyword indicators: Christ-centered, theology, Scripture, truth, goodness, beauty, virtue, wisdom, imago Dei, faith. No explicit negative signals detected in public materials. 
   - Rationale: Strong theological scaffolding with transcendent moral realism via a Christian worldview aligns with Positive Keyword indicators. CLASSICAL.
 
-- Category 2: School Purpose and Goal — CLASSICAL
+- Element 2: School Purpose and Goal — CLASSICAL
   - Evidence: Formation-focused mission; telos toward truth, goodness, beauty; virtue and wisdom as core outcomes; formation over information. 
   - Keyword indicators: formation, virtue, wisdom, telos, true/good/beautiful, classical mission. No workforce-focused language. 
   - Rationale: Aligns with classical purpose criteria emphasizing formation and human-excellence. CLASSICAL.
 
-- Category 3: Curriculum — CLASSICAL
+- Element 3: Curriculum — CLASSICAL
   - Evidence: Explicit classical framework; Trivium (grammar, logic, rhetoric); Great Books; Great Conversation; history integrated through the curriculum; a sense of wonder and lifelong learning. 
   - Keyword indicators: grammar, logic, rhetoric, Great Books, great conversation, history, theology, piety. Positive alignment; no strong negative signals evident in public materials. 
   - Rationale: Strong CLASSICAL alignment across the major curricular markers. CLASSICAL.
 
-- Category 4: Pedagogy — CLASSICAL
+- Element 4: Pedagogy — CLASSICAL
   - Evidence: Blended collaborative schedule; memory/recitation; rhetorical training; higher-grade Socratic-style discussion implied; structured classical pedagogy. 
   - Keyword indicators: recitation, memory, rhetoric, Socratic-style, contemplation, scholé, collaborative pedagogy. Positive indicators dominate; no explicit negative signals noted. 
   - Rationale: Pedagogy reflects classical patterns (memory, recitation, rhetoric) in a collaborative model. CLASSICAL.
 
-- Category 5: Faculty — CLASSICAL
+- Element 5: Faculty — CLASSICAL
   - Evidence: Description of teachers as living curriculum; mentors; portrait of a teacher; collaborative culture; alignment with a Christian worldview. 
   - Keyword indicators: living curriculum, living exemplars, model teachers, collegial culture, mentorship. Positive indicators; no negative signals observed. 
   - Rationale: Faculty model and professional culture align with classical expectations. CLASSICAL.
 
-- Category 6: Parents & Community — CLASSICAL
+- Element 6: Parents & Community — CLASSICAL
   - Evidence: Partnership with parents as co-teachers; parental formation; open campus; family involvement and education; community integration. 
   - Keyword indicators: partnership with parents, co-teachers, parent formation, reading groups, seminars, open campus. Positive indicators; no negative signals observed. 
   - Rationale: Public materials demonstrate robust parental engagement and community integration, a hallmark of classical-community practice. CLASSICAL.

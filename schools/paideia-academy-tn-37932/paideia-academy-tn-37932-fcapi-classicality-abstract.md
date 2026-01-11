@@ -10,5 +10,3 @@ Paideia Academy Knoxville (37932) demonstrates a coherent classical Christian ed
 - Parents & Community: CLASSICAL. Active partnership with parents, parent formation opportunities, and a welcoming environment for parent involvement and visits. 
 
 Overall, Paideia Academy Knoxville is classified as CLASSICAL. The school demonstrates a coherent classical Christian program across all six categories, anchored by a foundational Christian worldview, a liberal-arts curriculum, a Socratic pedagogical framework, and a strong parent-community partnership.
-
-If you would like, I can extract direct quotes, map additional specific Great Books titles or Omnibus course descriptions to the categories, or provide a side-by-side keyword inventory sourced from the site and the Six Elements lexicon.

@@ -10,7 +10,7 @@ Key indicators throughout HTCCS materials include:
 - Faculty: living, mentoring teachers; emphasis on character formation; public portrayal of faculty as part of the school’s “living curriculum.”
 - Parents & Community: explicit partnership with families; parent formation through book groups and gatherings; open campus and inclusive parent involvement (e.g., PAW, admissions guidance).
 
-Evidence from the public HTCCS site and related school materials is cited throughout this report. See the cited sources for direct wording demonstrating mission, curriculum commitments, pedagogy, and community partnerships. (Citations: htccs public pages, mission/vision, distinctively Christian statements, chapel/house community life, upper school pedagogy, Latin/Great Books content, and parental-community materials.) fileciteturn0file0turn1file12turn0file4turn0file16turn0file11turn1file15
+Evidence from the public HTCCS site and related school materials is cited throughout this report. See the cited sources for direct wording demonstrating mission, curriculum commitments, pedagogy, and community partnerships. (Citations: htccs public pages, mission/vision, distinctively Christian statements, chapel/house community life, upper school pedagogy, Latin/Great Books content, and parental-community materials.) 
 
 ---
 
@@ -40,7 +40,7 @@ Cited evidence
 
 Evidence
 - The school’s stated mission commits to “truth, wisdom, scholastic excellence, and the love of learning,” and emphasizes formation of citizens built on faith in Christ. The Vision statement centers on virtuous, wise citizens formed on biblical foundations. 
-- The website emphasizes formation over mere information, with emphasis on virtue, wisdom, and human flourishing within a classical-Christian framework (e.g., “ambassadors of the Kingdom of God,” “formation” through a Biblical worldview). fileciteturn0file0turn0file2
+- The website emphasizes formation over mere information, with emphasis on virtue, wisdom, and human flourishing within a classical-Christian framework (e.g., “ambassadors of the Kingdom of God,” “formation” through a Biblical worldview). 
 
 Positive/Negative keyword analysis
 - Positive keywords present: formation, virtue, wisdom, beauty, teleology, pursuit of truth/beauty/goodness, human flourishing, scholé (conceptual; implicit in restfulness and contemplation language), great conversation.
@@ -120,7 +120,7 @@ Cited evidence
 ### Element 6: Parents & Community — CLASSICAL
 
 Evidence
-- The school presents a clear partnership with parents, with statements about biblical worldview partnership, parent involvement, and as co-teachers in the educational process. The Admissions section frames partnership with parents as foundational, and PAW (Parents At Work) describes organized parent involvement and events. fileciteturn0file2turn0file15
+- The school presents a clear partnership with parents, with statements about biblical worldview partnership, parent involvement, and as co-teachers in the educational process. The Admissions section frames partnership with parents as foundational, and PAW (Parents At Work) describes organized parent involvement and events. 
 - Public materials show formal structures for parent involvement (PAW; open campus; teacher-parent interactions; calendars and events). The school promotes parent formation (book studies, gatherings) and welcomes visits. 
 - The school’s governance docs emphasize parental engagement and communication; the mission explicitly references partnership with parents. 
 

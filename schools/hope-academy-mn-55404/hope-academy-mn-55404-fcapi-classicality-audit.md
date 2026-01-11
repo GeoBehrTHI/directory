@@ -1,6 +1,6 @@
 ## Executive Summary
 
-Hope Academy Mn 55404 presents a robust, clearly articulated classical-Christian model of education rooted in a theology-driven, virtue-formation framework. Public-facing materials consistently emphasize a Christ-centered, God-centered approach that treats truth, goodness, and beauty as real and knowable. The curriculum foregrounds liberal arts, Great Books, Latin/Greek study, and a classical pedagogy that blends contemplative/
+Hope Academy (Minneapolis, MN, 55404-3834) presents a robust, clearly articulated classical-Christian model of education rooted in a theology-driven, virtue-formation framework. Public-facing materials consistently emphasize a Christ-centered, God-centered approach that treats truth, goodness, and beauty as real and knowable. The curriculum foregrounds liberal arts, Great Books, Latin/Greek study, and a classical pedagogy that blends contemplative/
 memory-based lower-school practices with Socratic dialogue, seminars, and rhetoric-focused upper-school work. Parental involvement and community partnership are positioned as foundational to the school’s identity, with explicit practices described for family engagement, home-school collaboration, and shared formation of character.
 
 Overall classification across the six classical-education criteria: CLASSICAL. Evidence from Hope Academy’s public materials aligns with the six-element rubric across all categories—Religious & Metaphysical Foundations; Purpose & Goal; Curriculum; Pedagogy; Faculty; and Parents & Community. Key textual anchors include: God-centered and Bible-centered formation; daily worship and chapel; Great Books, liberal arts, Latin/Greek; Socratic seminars and rhetorical training; teachers described as the “living curriculum” and mentors; and explicit parental involvement as a core expectation. See supporting sources cited in-line below.
@@ -111,7 +111,7 @@ Why this rating
 
 Aggregate assessment
 
-- All six categories are CLASSICAL according to the keyword-anchored rubric. The set of public materials from Hope Academy Mn 55404 demonstrates a consistent classical-Christian orientation, with explicit focus on God-centered formation, truth/goodness/beauty, liberal arts and Great Books, Socratic pedagogy, the living-curriculum faculty, and active parental partnership.
+- All six categories are CLASSICAL according to the keyword-anchored rubric. The set of public materials from Hope Academy (Minneapolis, MN, 55404-3834) demonstrates a consistent classical-Christian orientation, with explicit focus on God-centered formation, truth/goodness/beauty, liberal arts and Great Books, Socratic pedagogy, the living-curriculum faculty, and active parental partnership.
 
 What would move the needle
 

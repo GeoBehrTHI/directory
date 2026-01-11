@@ -1,3 +1,5 @@
+Overall Classification: CLASSICAL
+
 ## ABSTRACT
 
 American Classical Academy Rutherford (ACAR) is CLASSICAL across all six evaluation categories. The school presents a mission and culture centered on forming virtue and wisdom through a definition of education grounded in truth, goodness, and beauty. The curriculum emphasizes the liberal arts (grammar, logic, rhetoric) and a rigorous study of Great Books and Western civilization, with explicit engagement in Socratic dialogue and rhetoric. Pedagogy integrates contemplative, memory-based practices with upper-school seminars and debate. Faculty are described as virtuous mentors who model the living curriculum, and parents are treated as essential partners in the educational mission, with formal opportunities for formation and involvement. These signals align with both the classical elements and the positive keyword indicators in the Six Essential Elements framework.

@@ -11,7 +11,7 @@ Executive impressions by category, with keyword-based analysis and rubric-aligne
 - Faculty: CLASSICAL
 - Parents & Community: CLASSICAL
 
-Key supporting evidence includes mission statements and philosophy stressing Jesus Christ, biblical worldview, and the integration of theology with curriculum; references to the Trivium and Quadrivium; explicit mention of Great Books and Western Civilization in the curriculum; clear Socratic/seminar-style elements in upper grades; and active parent engagement through open houses, prospective parent days, and parent involvement guidelines. See the cited OHCS pages and documents for exact language. fileciteturn0file1turn0file2turn0file5turn0file6turn0file7turn0file9turn0file14
+Key supporting evidence includes mission statements and philosophy stressing Jesus Christ, biblical worldview, and the integration of theology with curriculum; references to the Trivium and Quadrivium; explicit mention of Great Books and Western Civilization in the curriculum; clear Socratic/seminar-style elements in upper grades; and active parent engagement through open houses, prospective parent days, and parent involvement guidelines. See the cited OHCS pages and documents for exact language. 
 
 ## Executive Summary — Element-by-Element Snapshot
 
@@ -30,13 +30,13 @@ Positive/Negative keyword analysis
 Why this rating
 - The school’s public materials center Christology and theology as foundational to education, explicitly linking knowledge with faith and biblical truth. This aligns with the Positive Keywords for Religious and Metaphysical Foundations (truth, theology, liturgy/worship, imago Dei, sacred tradition) and with the Six Essentials framework’s emphasis on formation, virtue, and transcendental realities. The absence of counter-indicators (e.g., relativism or secular humanism) in the visible content supports CLASSICAL here.
 
-Citations: Mission/Philosophy statements; ACCS membership and faith alignment; worship/music and sacred-context language. fileciteturn0file1turn0file3turn0file2
+Citations: Mission/Philosophy statements; ACCS membership and faith alignment; worship/music and sacred-context language. 
 
 ### Element 2: School Purpose and Goal — [CLASSICAL]
 
 Evidence
 - The school states that education is formation (not merely information) and aims to cultivate wisdom and virtue, aligning with the classical aim of forming rather than just informing. The mission emphasizes wisdom, joyful learning, and love for God and others. The philosophy emphasizes formation in Christ and in a biblical worldview as the telos of education. 
-- The public materials articulate that truth, goodness, and beauty are real and knowable, and that human beings can come to know them, aligning with classical telos and paideia ideals. The “What is Classical Education?” framing explicitly ties knowledge to the Trivium and to a worldview anchored in truth. fileciteturn0file5turn0file9
+- The public materials articulate that truth, goodness, and beauty are real and knowable, and that human beings can come to know them, aligning with classical telos and paideia ideals. The “What is Classical Education?” framing explicitly ties knowledge to the Trivium and to a worldview anchored in truth. 
 - Great Books and Western Civilization are positioned as central components of the curriculum, a marker of formation through enduring questions and classical heritage. The Rhetoric School section includes literature such as Confessions, Hamlet, Great Gatsby, indicating a permanent-questions/social-hundreds approach typical of classical education. 
 
 Positive/Negative keyword analysis
@@ -46,7 +46,7 @@ Positive/Negative keyword analysis
 Why this rating
 - The school’s stated goals center formation, virtue, and the pursuit of truth, goodness, and beauty within a classical framework. The public materials reinforce education as formation of character and intellect anchored in faith, not primarily job-prep or technology-centric aims. This aligns with CLASSICAL criteria.
 
-Citations: Mission/Philosophy; Great Books/Western Civilization; Trivium framing; references to classical education as formation. fileciteturn0file1turn0file5turn0file8
+Citations: Mission/Philosophy; Great Books/Western Civilization; Trivium framing; references to classical education as formation. 
 
 ### Element 3: School Curriculum — [CLASSICAL]
 
@@ -63,14 +63,14 @@ Positive/Negative keyword analysis
 Why this rating
 - The curriculum explicitly embraces the liberal arts framework (grammar, logic, rhetoric), the Great Books tradition, Latin, and a historically oriented Western Civilizaton emphasis, with explicit Great Conversation framing. This aligns with CLASSICAL.
 
-Citations: Trivium and curriculum language; Great Books and Great Conversation examples; Latin/Quadrivium; Western Civilization emphasis. fileciteturn0file6turn0file8turn0file7
+Citations: Trivium and curriculum language; Great Books and Great Conversation examples; Latin/Quadrivium; Western Civilization emphasis. 
 
 ### Element 4: School Pedagogy or Teaching Methods — [CLASSICAL]
 
 Evidence
 - Lower-school practices: singing and chanting, memory work, and other contemplative/reminiscent pedagogy appear in the nature of “Scholé” and memory-deepening activities (The Body class and related sub-creator coursework emphasize musical and mnemonic approaches). 
 - Upper-school pedagogy emphasizes Socratic discussion, seminars, debates, and rhetoric training. The Rhetoric School materials describe logic, rhetoric, and a mechanism for public speaking and writing, consistent with Socratic/seminar pedagogy and rhetoric practice. 
-- The public materials also show an intentional blend of contemplative, restful, and rigorous elements (as per classical pedagogy guidelines): “The lower school often engages in singing and chanting; upper school emphasizes Socratic discussion and rhetoric.” The existence of both modes is a hallmark of classical pedagogy. fileciteturn0file2turn0file5
+- The public materials also show an intentional blend of contemplative, restful, and rigorous elements (as per classical pedagogy guidelines): “The lower school often engages in singing and chanting; upper school emphasizes Socratic discussion and rhetoric.” The existence of both modes is a hallmark of classical pedagogy. 
 - The school’s rhetoric program includes opportunities for speeches and rhetorical training, aligning with classical pedagogy expectations. 
 
 Positive/Negative keyword analysis
@@ -80,7 +80,7 @@ Positive/Negative keyword analysis
 Why this rating
 - The pedagogy clearly reflects classical methods: memory-focused lower-school rites and chant-like activities; Socratic seminars and rhetoric training in upper grades; structured integration of Great Books and liberal-arts pedagogy; emphasis on disciplined dialogue and public speaking. This combination supports CLASSICAL.
 
-Citations: Lower- and upper-school pedagogy language; Socratic/seminar references; rhetoric and public speaking emphasis. fileciteturn0file2turn0file4
+Citations: Lower- and upper-school pedagogy language; Socratic/seminar references; rhetoric and public speaking emphasis. 
 
 ### Element 5: School Faculty — [CLASSICAL]
 
@@ -96,7 +96,7 @@ Positive/Negative keyword analysis
 Why this rating
 - The materials frame the faculty as the core of the school’s classical mission and emphasize virtue, mentorship, and classical pedagogy. This aligns with CLASSICAL signals in the faculty category.
 
-Citations: Employment and faculty-focused language; small-class, teacher training emphasis; “living curriculum” and faculty structure language. fileciteturn0file9turn0file15
+Citations: Employment and faculty-focused language; small-class, teacher training emphasis; “living curriculum” and faculty structure language. 
 
 ### Element 6: Parents & Community — [CLASSICAL]
 
@@ -112,7 +112,7 @@ Positive/Negative keyword analysis
 Why this rating
 - The materials demonstrate explicit and ongoing engagement with families and a theology-informed, shared educational mission. This aligns with CLASSICAL signals for Parents & Community.
 
-Citations: Open houses, prospective parent days, parent formation activities, volunteer guidelines, and family-partner language. fileciteturn0file9turn0file14
+Citations: Open houses, prospective parent days, parent formation activities, volunteer guidelines, and family-partner language. 
 
 ## What Would Move the Needle
 
@@ -120,4 +120,4 @@ Not applicable here because all six categories are CLASSICAL based on the curren
 
 If future materials shifted toward a more explicit “career/workforce readiness” emphasis or reduced emphasis on Great Books/Western Civilization or formal Socratic pedagogy, those could be potential needle-movers toward not-classical. Conversely, continued explicit articulation of Great Books, humanities, and the Great Conversation, with continued integration of the Trivium and Quadrivium, will solidify CLASSICAL status.
 
-Note: The Six Essential Elements and the Classical Lexicon provide the framework used here to assess keyword alignment and category signals, including terms like wisdom, virtue, Truth-Goodness-Beauty, formation, Trivium, Great Books, Great Conversation, Socratic pedagogy, scholé, partnership with families, and living curriculum. See the Six Essentials elements doc for the formal keyword sets, and the classical lexicon for the explicit positive/negative indicators. fileciteturn0file17turn0file13
+Note: The Six Essential Elements and the Classical Lexicon provide the framework used here to assess keyword alignment and category signals, including terms like wisdom, virtue, Truth-Goodness-Beauty, formation, Trivium, Great Books, Great Conversation, Socratic pedagogy, scholé, partnership with families, and living curriculum. See the Six Essentials elements doc for the formal keyword sets, and the classical lexicon for the explicit positive/negative indicators. 

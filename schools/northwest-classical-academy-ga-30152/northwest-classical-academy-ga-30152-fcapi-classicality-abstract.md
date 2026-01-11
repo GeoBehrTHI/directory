@@ -10,5 +10,3 @@ Cited evidence from the school’s public materials includes:
 
 Notes on classical keyword framework:
 - The keyword framework (positive/negative indicators) derives from the Six Essential Elements lexical resource (which includes truth, goodness, beauty; virtue; liturgy; great books; Trivium; Paideia; scholé; Socratic pedagogy; living curriculum; partnership with parents; etc.). The NWCA materials align with several positive indicators (truth/goodness/beauty; virtue; Trivium; great poetry; partnership with parents) though they do not publicly foreground liturgical/theological practices. See the Positive/Negative keyword lexicon and its six-category structure for reference. 
-
-If you would like, I can extract direct quotes and build a more granular, line-item appendix of keyword matches for each category, aligned to the exact Positive/Negative keyword indicators from the Six Essential Elements lexical resource.

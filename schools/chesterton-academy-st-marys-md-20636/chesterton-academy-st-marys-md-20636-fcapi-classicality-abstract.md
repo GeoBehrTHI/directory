@@ -1,3 +1,5 @@
+Overall Classification: CLASSICAL
+
 ## ABSTRACT
 
 Chesterton Academy of St. Mary’s (Maryland) presents a CLASSICAL, Catholic, formation-centered program. Across categories, the school emphasizes truth, goodness, beauty; formation over mere information; a liberal-arts curriculum anchored in the Seven Liberal Arts and classical literature/philosophy/theology; Socratic pedagogy with a restful, contemplative dimension; a living-faculty model; and a robust, engaged parents-community culture. Public materials demonstrate a mission to form joyful leaders and saints within a Catholic, classical framework; daily Mass and liturgical life; a Three-Pillars model (Intellect, Character, Spirituality); a coherent graded humanities curriculum; and active parental involvement and school-community events. The aggregate signals indicate a fully CLASSICAL orientation.

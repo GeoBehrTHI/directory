@@ -1,6 +1,6 @@
 ## ABSTRACT
 
-Samuel Fuller School Ma 02346 demonstrates a coherent CLASSICAL orientation across all six categories of the classical rubric:
+Samuel Fuller School (Middleborough, MA, 2346) demonstrates a coherent CLASSICAL orientation across all six categories of the classical rubric:
 
 - Religious and Metaphysical Foundations: Christ-centered, Word of God, formation-focused, and virtue-oriented language align with transcendental realism and theology-based grounding.
 - School Purpose and Goal: Formation of virtue and wisdom as the telos; education as formation rather than workforce training, with a clear Christian telos.

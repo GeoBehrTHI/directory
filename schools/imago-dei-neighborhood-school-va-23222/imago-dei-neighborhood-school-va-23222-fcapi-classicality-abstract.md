@@ -1,14 +1,14 @@
 ## ABSTRACT
 
-Imago Dei Neighborhood School in Richmond, VA displays a strong Christian, liberal-arts orientation, with explicit emphasis on formation, virtue, and a holistic education. It demonstrates classical elements such as virtue formation, cross-curricular integration, memory-based pedagogy (narration/recitation), and a robust family/parent partnership model. However, explicit canonical markers—such as a formal Great Books program, a defined grammar-logic-rhetoric sequence, comprehensive Socratic pedagogy across all grades, and a fully articulated “living curriculum” in teacher practice—are not uniformly documented in public materials. Therefore, the overall evaluation places the school as SOMEWHAT CLASSICAL, with Category 1 (Religious & Metaphysical Foundations), Category 2 (Purpose & Goal), and Category 6 (Parents & Community) leaning CLASSICAL, while Categories 3 (Curriculum), 4 (Pedagogy), and 5 (Faculty) show strong classical tendencies but lack full canonical articulation in the publicly available content.
+Imago Dei Neighborhood School in Richmond, VA displays a strong Christian, liberal-arts orientation, with explicit emphasis on formation, virtue, and a holistic education. It demonstrates classical elements such as virtue formation, cross-curricular integration, memory-based pedagogy (narration/recitation), and a robust family/parent partnership model. However, explicit canonical markers—such as a formal Great Books program, a defined grammar-logic-rhetoric sequence, comprehensive Socratic pedagogy across all grades, and a fully articulated “living curriculum” in teacher practice—are not uniformly documented in public materials. Therefore, the overall evaluation places the school as SOMEWHAT CLASSICAL, with Element 1 (Religious & Metaphysical Foundations), Element 2 (Purpose & Goal), and Element 6 (Parents & Community) leaning CLASSICAL, while Categories 3 (Curriculum), 4 (Pedagogy), and 5 (Faculty) show strong classical tendencies but lack full canonical articulation in the publicly available content.
 
 Executive-style summary of category ratings:
-- Category 1: Religious and Metaphysical Foundations — CLASSICAL
-- Category 2: School Purpose and Goal — CLASSICAL
-- Category 3: School Curriculum — SOMEWHAT CLASSICAL
-- Category 4: School Pedagogy — SOMEWHAT CLASSICAL
-- Category 5: School Faculty — SOMEWHAT CLASSICAL
-- Category 6: Parents & Community — CLASSICAL
+- Element 1: Religious and Metaphysical Foundations — CLASSICAL
+- Element 2: School Purpose and Goal — CLASSICAL
+- Element 3: School Curriculum — SOMEWHAT CLASSICAL
+- Element 4: School Pedagogy — SOMEWHAT CLASSICAL
+- Element 5: School Faculty — SOMEWHAT CLASSICAL
+- Element 6: Parents & Community — CLASSICAL
 
 Aggregate verdict: SOMEWHAT CLASSICAL
 

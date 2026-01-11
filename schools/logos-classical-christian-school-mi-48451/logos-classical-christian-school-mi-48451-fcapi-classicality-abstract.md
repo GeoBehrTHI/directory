@@ -15,5 +15,3 @@ Logos Classical Christian School, Linden, MI (ZIP 48451), demonstrates a strong 
 - Parents & Community: CLASSICAL, with explicit parental partnership, co-educator language, and church/community alignment; open invitation for parent involvement and regular parent engagement. Evidence: Partnering with Parents language; parental formation; open visits and church engagement , .
 
 Overall, Logos Classical Christian School demonstrates a cohesive CLASSICAL profile across all six categories, with public-facing materials consistently aligning with the classical education lexicon (truth/goodness/beauty, formation, liberal arts, Great Books, Trivium, scholé, memory work, Great Conversation, and a living-faculty/parent-partnered community). The aggregate classification is CLASSICAL.
-
-If you would like, I can extract direct quotations for each category to accompany a more granular slide deck or provide a side-by-side mapping of Logos’ language to the Positive/Negative keyword indicators from the Six Essential Elements lexicon for each category.

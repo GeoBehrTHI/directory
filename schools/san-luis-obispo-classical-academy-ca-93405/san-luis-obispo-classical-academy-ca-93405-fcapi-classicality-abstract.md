@@ -2,12 +2,12 @@
 
 SLOCA demonstrates strong CLASSICAL alignment across Curriculum, Pedagogy, and Parents & Community, with meaningful presence of the Trivium, Great Books, Latin, and rhetoric in public-facing materials; rigorous, Socratic-style pedagogy is evidenced; and family involvement is central. The Religious and Metaphysical Foundations category shows virtue and transcendent aims but lacks explicit theology or liturgical language in the public materials, hence a SOMEWHAT CLASSICAL rating for that category. Faculty signals are present (teacher-student-family collaboration) but lack a fully explicit “living curriculum portrait” in public materials, yielding a SOMEWHAT CLASSICAL rating there. The aggregate assessment is CLASSICAL.
 
-- Category 1: SOMEWHAT CLASSICAL
-- Category 2: CLASSICAL
-- Category 3: CLASSICAL
-- Category 4: CLASSICAL
-- Category 5: SOMEWHAT CLASSICAL
-- Category 6: CLASSICAL
+- Element 1: SOMEWHAT CLASSICAL
+- Element 2: CLASSICAL
+- Element 3: CLASSICAL
+- Element 4: CLASSICAL
+- Element 5: SOMEWHAT CLASSICAL
+- Element 6: CLASSICAL
 
 Aggregate: CLASSICAL
 

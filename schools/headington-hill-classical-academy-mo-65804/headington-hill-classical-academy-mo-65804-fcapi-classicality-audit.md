@@ -1,12 +1,12 @@
 ## Executive Summary
 
-Headington Hill Classical Academy Mo 65804 (HHCA) demonstrates a strong classical Christian orientation with explicit commitments to virtuous character formation, a Trivium-based curriculum, and an integrated community model that partners with families. The school foregrounds God-centered learning, Scholé (restful learning), liturgical patterning, and a family-centric mission, while aiming to develop wisdom, virtue, and human flourishing. While HHCA clearly aligns with many core elements of classical education, some components (notably explicit reference to Great Books / Great Conversation and a fully Socratic high-school pedagogy) are less visibly articulated on public materials. Overall, HHCA is CLASSICAL, with room to strengthen a few explicit classical signals to reach a more unambiguous CLASSICAL designation.
+Headington Hill Classical Academy (Springfield, MO, 65804) (HHCA) demonstrates a strong classical Christian orientation with explicit commitments to virtuous character formation, a Trivium-based curriculum, and an integrated community model that partners with families. The school foregrounds God-centered learning, Scholé (restful learning), liturgical patterning, and a family-centric mission, while aiming to develop wisdom, virtue, and human flourishing. While HHCA clearly aligns with many core elements of classical education, some components (notably explicit reference to Great Books / Great Conversation and a fully Socratic high-school pedagogy) are less visibly articulated on public materials. Overall, HHCA is CLASSICAL, with room to strengthen a few explicit classical signals to reach a more unambiguous CLASSICAL designation.
 
 Key insights:
-- Religious and metaphysical foundations are central: theology, liturgy, contemplation, and a Christian worldview anchor the curriculum and pedagogy. Evidence includes statements about living a Christ-centered education, a liturgical/Scholé approach, and a mission to form students in virtue and wisdom. See statements about living an abundant life in Christ, the Trivium, and liturgical learning.   
-- Purpose and goals emphasize formation and the pursuit of wisdom, virtue, and truth in a liberal-arts frame grounded in theology. Public materials repeatedly refer to forming character and reflecting God in learning.  
+- Religious and metaphysical foundations are central: theology, liturgy, contemplation, and a Christian worldview anchor the curriculum and pedagogy. Evidence includes statements about living a Christ-centered education, a liturgical/Scholé approach, and a mission to form students in virtue and wisdom. See statements about living an abundant life in Christ, the Trivium, and liturgical learning. 
+- Purpose and goals emphasize formation and the pursuit of wisdom, virtue, and truth in a liberal-arts frame grounded in theology. Public materials repeatedly refer to forming character and reflecting God in learning. 
 - Curriculum centers the liberal arts (grammar, logic, rhetoric) and Trivium, with explicit emphasis on integrated study and theological orientation. Evidence includes explicit references to the Trivium and a God-centered integration of all subjects. 
-- Pedagogy highlights contemplative/restful learning (Scholé), memorization/recitation patterns, and upper-level rhetoric and debate elements, with explicit mention of Scholé and liturgical pacing. Public materials show Scholé and liturgical framing; upper-school rhetoric and debate are noted in program descriptions.  
+- Pedagogy highlights contemplative/restful learning (Scholé), memorization/recitation patterns, and upper-level rhetoric and debate elements, with explicit mention of Scholé and liturgical pacing. Public materials show Scholé and liturgical framing; upper-school rhetoric and debate are noted in program descriptions. 
 - Faculty portrayal emphasizes trained, virtuous teachers who act as mentors and the living curriculum; the public pages describe classically trained teachers and a teacher-centered, mentorship-oriented approach. 
 - Parents & Community are foregrounded as co-teachers and partners in formation, with transparent openness to parent involvement and family-centered culture. The mission and value statements emphasize partnership with families and a family-centric model. 
 
@@ -30,7 +30,7 @@ Positive/Negative keyword analysis
 - Negative keywords: There is no visible pull toward secular humanism, relativism, or value-neutral ethics in the public materials. The material remains overtly theological and doctrinal. The lexicon’s negative signals (e.g., secularism, relativism) are not evidenced in HHCA’s public statements. 
 
 Why this rating
-- The public materials consistently position religion and metaphysical precepts at the center of education, with liturgical and contemplative practices, and theology integrated into learning. This satisfies the Positive indicators for Religious and Metaphysical Foundations and shows a robust classical orientation in this domain. The absence of negative signals supports CLASSICAL rather than NOT CLASSICAL.  
+- The public materials consistently position religion and metaphysical precepts at the center of education, with liturgical and contemplative practices, and theology integrated into learning. This satisfies the Positive indicators for Religious and Metaphysical Foundations and shows a robust classical orientation in this domain. The absence of negative signals supports CLASSICAL rather than NOT CLASSICAL. 
 
 ### Element 2: School Purpose and Goal — CLASSICAL
 
@@ -102,9 +102,9 @@ Why this rating
 ## What Would Move the Needle
 
 - For Element 3 (Curriculum) and Element 4 (Pedagogy), to shift toward full CLASSICAL, HHCA could:
-  - Explicitly foreground and document in public materials a rigorous Great Books / Great Conversation program, including core readings across grades and a stated plan for textual study and dialogue centered on canonical works within Western civilization and Christian thought.
-  - Expand on a clearly defined, school-wide implementation of Socratic seminars or Harkness-style discussions in upper grades, with teacher training, rubrics, and examples published on the site.
-  - Provide detailed examples of lower-school singing/chanting and memory-work routines, including samples of chants, copybooks, or memorization practices used in class, to demonstrate concrete practices aligned with Six Essential Elements signals.
-  - Publish a public mapping of how the Trivium progression (Grammar → Dialectic → Rhetoric) is implemented across grade bands, including assessment methods consistent with classical education.
+ - Explicitly foreground and document in public materials a rigorous Great Books / Great Conversation program, including core readings across grades and a stated plan for textual study and dialogue centered on canonical works within Western civilization and Christian thought.
+ - Expand on a clearly defined, school-wide implementation of Socratic seminars or Harkness-style discussions in upper grades, with teacher training, rubrics, and examples published on the site.
+ - Provide detailed examples of lower-school singing/chanting and memory-work routines, including samples of chants, copybooks, or memorization practices used in class, to demonstrate concrete practices aligned with Six Essential Elements signals.
+ - Publish a public mapping of how the Trivium progression (Grammar → Dialectic → Rhetoric) is implemented across grade bands, including assessment methods consistent with classical education.
 
 ---

@@ -14,7 +14,7 @@ Cornerstone Classical Academy Kentucky 41022 exhibits a predominantly CLASSICAL 
 
 - Parents & Community: Strong COMMUNITY signals and parent-partnership framing (ICE pamphlet content used to supplement the public site). CLASSICAL.
 
-Overall assessment: CLASSICAL. The aggregate signals across the six categories show a robust classical orientation with significant strengths in Purpose/Goal, Pedagogy, and Community, and solid Curriculum and Faculty cues, tempered by gaps in explicit theological grounding and some public articulation of a living-faculty portrait. Needle-moving steps listed above would strengthen Category 1 (theology/ liturgy) and Category 5 (living-faculty portrait) to push all six categories firmly into CLASSICAL.
+Overall assessment: CLASSICAL. The aggregate signals across the six categories show a robust classical orientation with significant strengths in Purpose/Goal, Pedagogy, and Community, and solid Curriculum and Faculty cues, tempered by gaps in explicit theological grounding and some public articulation of a living-faculty portrait. Needle-moving steps listed above would strengthen Element 1 (theology/ liturgy) and Element 5 (living-faculty portrait) to push all six categories firmly into CLASSICAL.
 
 Citations
 - Motto: Learn the truth. Do the good. Love the beautiful. and Virtues page. 
@@ -38,4 +38,4 @@ Cornerstone Classical Academy Kentucky 41022 is CLASSICAL overall, with the foll
 - Faculty: SOMEWHAT CLASSICAL (virtue formation and teacher accountability present; living-curriculum portrait not explicitly public).
 - Parents & Community: CLASSICAL (strong parent-partnership and formation signals; ICE materials corroborate classical-community alignment).
 
-Overall: CLASSICAL, with needle-moving opportunities in theology-liturgical grounding (Category 1) and a more explicit public articulation of the living-faculty portrait (Category 5) and Trivium/Quadrivium-cadence in Curriculum (Category 3).
+Overall: CLASSICAL, with needle-moving opportunities in theology-liturgical grounding (Element 1) and a more explicit public articulation of the living-faculty portrait (Element 5) and Trivium/Quadrivium-cadence in Curriculum (Element 3).

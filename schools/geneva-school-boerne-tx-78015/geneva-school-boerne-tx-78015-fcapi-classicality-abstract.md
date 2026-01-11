@@ -9,5 +9,3 @@ Key takeaways by category
 - Pedagogy: Socratic dialogue and rhetoric; memory work; narration/recitation; capstone/defenses; alignment with the Positive keywords in the classical lexicon. 
 - Faculty: Living curriculum; deeply invested staff; portrait of a teacher; collaborative culture with parents; strong leadership and team.  
 - Parents & Community: Clear partnership with parents; co-teaching dynamic; openness to visits and parent education; robust community life. 
-
-If you want to pursue more granular, category-specific astute metrics (e.g., a tabulated tally of keyword matches per category, or a side-by-side extraction of Great Books lists and Latin progression benchmarks), I can extract those from the site content and the Six Essential Elements lexicon to further quantify alignment.

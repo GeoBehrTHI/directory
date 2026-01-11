@@ -46,7 +46,7 @@ Positive keyword analysis
 Why this rating
 - The school makes clear that education is about forming virtuous humans rather than merely training for employment. The emphasis on moral/permanent questions and character formation aligns well with classical aims, supporting a CLASSICAL rating for this category.
 
-Citations: Formation and virtue language; “measure success by impact on others” clause. fileciteturn0file1turn0file3
+Citations: Formation and virtue language; “measure success by impact on others” clause. 
 
 ### Element 3: School Curriculum — SOMEWHAT CLASSICAL
 
@@ -63,7 +63,7 @@ Positive keyword analysis
 Why this rating
 - The curriculum is clearly hybrid: Montessori methods and a classical literacy/literary engagement exist side-by-side. While Shakespeare and classical literature are highlighted, and “great books” ideas appear, the explicit, uniform classical curriculum framework (grammar, logic, rhetoric across grades with a defined Great Conversation trajectory) is not consistently stated across the materials. This justifies a SOMEWHAT CLASSICAL rating in this category.
 
-Citations: Montessori-classical branding; five-area Montessori curriculum; Shakespeare emphasis; direct literature engagement. fileciteturn0file4turn0file13
+Citations: Montessori-classical branding; five-area Montessori curriculum; Shakespeare emphasis; direct literature engagement. 
 
 ### Element 4: School Pedagogy or Teaching Methods — SOMEWHAT CLASSICAL
 
@@ -80,7 +80,7 @@ Positive keyword analysis
 Why this rating
 - Pedagogy shows a mix of classical-style practices (memory work, chanting, recitation, seminars, rhetoric in upper grades) with Montessori-influenced, student-centered, and experiential approaches. The evidence supports substantial classical pedagogical signals but not a uniformly explicit, all-grades-Socratic/seminar-centric approach. Thus, SOMEWHAT CLASSICAL is appropriate for Pedagogy.
 
-Citations: Scholé and contemplative language; lower-school chanting/memory; upper-school seminars & rhetoric; overall student-centered language. fileciteturn0file0turn0file7turn0file9
+Citations: Scholé and contemplative language; lower-school chanting/memory; upper-school seminars & rhetoric; overall student-centered language. 
 
 ### Element 5: School Faculty — CLASSICAL
 
@@ -96,7 +96,7 @@ Positive keyword analysis
 Why this rating
 - The explicit emphasis on virtuous teaching, “living curriculum,” and teachers who themselves reflect classical ideals supports CLASSICAL in the Faculty category.
 
-Citations: Faculty language in OLMC materials; teacher preparation and “living curriculum.” fileciteturn0file9turn0file2
+Citations: Faculty language in OLMC materials; teacher preparation and “living curriculum.” 
 
 ### Element 6: School Parents and Community — CLASSICAL
 
@@ -112,30 +112,30 @@ Positive keyword analysis
 Why this rating
 - The public materials demonstrate strong, ongoing parental involvement and community partnership, firmly aligning with CLASSICAL signals for Parents & Community.
 
-Citations: Parent involvement, partnerships, volunteer opportunities, and community events. fileciteturn0file1turn0file19
+Citations: Parent involvement, partnerships, volunteer opportunities, and community events. 
 
 ## What Would Move the Needle
 
 - Curriculum clarity and transparency as a fully classical spine
-  - Explicitly articulate the Trivium (grammar, logic, rhetoric) as a cross-grade framework and connect it to daily activities, assessments, and reading lists.
-  - Build a visible, year-by-year Great Books sequence beyond Shakespeare to demonstrate a continuous Great Conversation across grades (e.g., Homer, Plato, Augustine, Shakespeare, etc.), with corresponding discussion formats.
-  - Ground the curriculum with clear declarations of classical subjects (Latin or classical languages) and a defined history/Western civilization arc, separate from Montessori pedagogy where feasible.
+ - Explicitly articulate the Trivium (grammar, logic, rhetoric) as a cross-grade framework and connect it to daily activities, assessments, and reading lists.
+ - Build a visible, year-by-year Great Books sequence beyond Shakespeare to demonstrate a continuous Great Conversation across grades (e.g., Homer, Plato, Augustine, Shakespeare, etc.), with corresponding discussion formats.
+ - Ground the curriculum with clear declarations of classical subjects (Latin or classical languages) and a defined history/Western civilization arc, separate from Montessori pedagogy where feasible.
 
 - Pedagogy enhancement toward classical methods
-  - Expand explicit Socratic/seminar-based activities across middle and upper grades with documented rubrics, expectations, and outcomes to deepen the classical dialogue model.
-  - Increase opportunities for public speaking and rhetorical exercises (continuous across grades, not only in upper grades) to reinforce rhetoric training as a core habit.
+ - Expand explicit Socratic/seminar-based activities across middle and upper grades with documented rubrics, expectations, and outcomes to deepen the classical dialogue model.
+ - Increase opportunities for public speaking and rhetorical exercises (continuous across grades, not only in upper grades) to reinforce rhetoric training as a core habit.
 
 - Identity strengthening of the classical spine
-  - Integrate language heritage (Latin/Greek options) and formal grammar/logic/rhetoric sequences as a unified scaffold rather than dispersed, ad-hoc references.
-  - Provide explicit alignment between Great Books, Classical Liberal Arts, and classroom activities (memory work, narration, discussions) with tangible outcomes and standards.
+ - Integrate language heritage (Latin/Greek options) and formal grammar/logic/rhetoric sequences as a unified scaffold rather than dispersed, ad-hoc references.
+ - Provide explicit alignment between Great Books, Classical Liberal Arts, and classroom activities (memory work, narration, discussions) with tangible outcomes and standards.
 
 - Documentation of classical signals in public materials
-  - Ensure public pages reliably reflect the Trivium framework, Great Books trajectory, and explicit classical pedagogy (in addition to Montessori elements) to reduce ambiguity and strengthen the CLASSICAL signal in Curriculum and Pedagogy.
+ - Ensure public pages reliably reflect the Trivium framework, Great Books trajectory, and explicit classical pedagogy (in addition to Montessori elements) to reduce ambiguity and strengthen the CLASSICAL signal in Curriculum and Pedagogy.
 
 - Strengthen liturgical and metaphysical coherence
-  - Maintain and deepen liturgical practices while highlighting how these connect to literary, historical, and moral formation across grades. Provide explicit mappings between liturgical life and curricular themes (truth, goodness, beauty) to reinforce transcendental aims.
+ - Maintain and deepen liturgical practices while highlighting how these connect to literary, historical, and moral formation across grades. Provide explicit mappings between liturgical life and curricular themes (truth, goodness, beauty) to reinforce transcendental aims.
 
 Citations for needle-moving items
-- Classroom Great Books evidence and Shakespeare emphasis; explicit textual references to classical approach; Montessori blend noted in curriculum. fileciteturn0file8turn0file13turn0file4
+- Classroom Great Books evidence and Shakespeare emphasis; explicit textual references to classical approach; Montessori blend noted in curriculum. 
 - Socratic/seminar potential and rhetoric emphasis in upper grades. 
 - Parent/Community engagement practices.

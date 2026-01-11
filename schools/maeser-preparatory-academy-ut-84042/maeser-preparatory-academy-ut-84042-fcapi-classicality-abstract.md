@@ -10,7 +10,7 @@ Keyword analysis snapshots:
 - Faculty: SOMEWHAT CLASSICAL; virtue-language and teacher-mentoring themes are present, but explicit statements about faculty as the living curriculum or portraits of ideal teacher archetypes are not consistently published in public pages. 
 - Parents & Community: CLASSICAL; explicit structures for parent involvement, governance participation, and family engagement align with classical-community norms. 
 
-Six-element lexicon anchors (Positive Keywords) support Maeser’s alignment in most categories, with explicit references to Great Books, the Trivium/Quadrivium, Latin, Socratic dialogue, and formation. Negative signals (e.g., lack of Great-Books engagement, lack of liturgical/theological framing) are minimal in public-facing materials, though the theology/liturgy aspect is not publicly foregrounded, which informs the SOMEWHAT Classical rating for Category 1 and Category 5. See the Six Essential Elements lexicon and related keywords for grounding. 
+Six-element lexicon anchors (Positive Keywords) support Maeser’s alignment in most categories, with explicit references to Great Books, the Trivium/Quadrivium, Latin, Socratic dialogue, and formation. Negative signals (e.g., lack of Great-Books engagement, lack of liturgical/theological framing) are minimal in public-facing materials, though the theology/liturgy aspect is not publicly foregrounded, which informs the SOMEWHAT Classical rating for Element 1 and Element 5. See the Six Essential Elements lexicon and related keywords for grounding. 
 
 What would move the needle (synthesis)
 - Explicit theological/thematic framing in public-facing materials (even if ecumenical) to strengthen Religious & Metaphysical Foundations.

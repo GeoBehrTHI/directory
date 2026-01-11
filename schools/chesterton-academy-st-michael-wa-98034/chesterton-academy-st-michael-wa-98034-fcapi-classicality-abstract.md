@@ -1,3 +1,5 @@
+Overall Classification: CLASSICAL
+
 ## ABSTRACT
 
 Chesterton Academy of St. Michael demonstrates a strong CLASSICAL orientation across six core criteria. The school’s public materials emphasize a Catholic incarnational framework, formation through virtue and wisdom, a liberal-arts curriculum, Great Books, and Socratic pedagogy, with a Three Pillars model (Intellect, Character, Spirituality) and a living-faculty emphasis. The curriculum foregrounds Great Books, the Trivium and Quadrivium, and integrated history-liturgy-philosophy-theology within a Western canon frame. Pedagogy includes Socratic seminars, rhetoric, memory work, and a balanced, contemplative/restful approach, consistent with classical norms. Faculty bios and description reinforce mentors and living curriculum. Community activity is evident through admissions processes, events (Galas, open houses), and donor engagement, illustrating meaningful community involvement though with room to strengthen explicit “parents as co-educators” messaging and formal family formation programs.

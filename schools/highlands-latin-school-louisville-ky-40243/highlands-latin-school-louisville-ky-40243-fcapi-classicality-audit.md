@@ -3,9 +3,9 @@
 Highlands Latin School Louisville KY 40243 presents a strong, explicit alignment with classical education as defined by the classical-school rubric. Public-facing materials repeatedly emphasize classical content, Christian formation, and traditional pedagogical approaches (e.g., grammar, logic, rhetoric; Latin as core; memorization and recitation; early exposure to Latin and Greek; and engagement with Western literary/cultural tradition). The school presents itself as a classical, Christian, and traditional institution with a clear mission to form character and wisdom in partnership with parents, guided by the Gospel. The aggregate assessment across the six categories places Highlands Latin Squarely in CLASSICAL territory, with robust signals in Curriculum, Pedagogy, Faculty, and Parents/Community, and clear religious/metaphysical foundations supporting the overall classical orientation.
 
 Key evidence themes include:
-- Public materials frame the school as "classical, Christian, traditional" and emphasize the classical tradition as the aim of education, not merely information transfer.  
+- Public materials frame the school as "classical, Christian, traditional" and emphasize the classical tradition as the aim of education, not merely information transfer. 
 - The curriculum centers Latin (and Greek), with a grammar-logic-rhetoric (trivium) progression, and explicit statements that Latin is core to a classical education. 
-- Pedagogy emphasizes memorization, recitation, and the cultivation of memory in the grammar years, with traditional classrooms, and a music program that anchors within Western/traditional sacred art.   
+- Pedagogy emphasizes memorization, recitation, and the cultivation of memory in the grammar years, with traditional classrooms, and a music program that anchors within Western/traditional sacred art. 
 - The school foregrounds partnership with parents and a Gospel-guided mission, indicating a strong community/parental formation emphasis. 
 - There are explicit references to “the classics,” “reading the classics to develop wisdom and virtue,” and commitments to virtue formation and faith formation as part of the educational telos. 
 
@@ -78,16 +78,16 @@ Evidence
 - Additional curriculum elements referenced include classical studies, English/literature, music, and other subjects under the broader “Academics” umbrella, all framed within the classical/traditional approach (e.g., Grammar School, Latin & Greek, Christian Studies, Classical Studies). 
 
 Positive keyword analysis
-- Positive keywords present: Latin, Greek, grammar, logic, rhetoric, great books (via classical education framing), classics, Western civilization, sacred tradition, catechesis, reading the classics, memorization/recitation, and the trivium (grammar, logic, rhetoric). Evidence examples include explicit language about Latin/Greek curricula and the grammar-logic-rhetoric framework.  
+- Positive keywords present: Latin, Greek, grammar, logic, rhetoric, great books (via classical education framing), classics, Western civilization, sacred tradition, catechesis, reading the classics, memorization/recitation, and the trivium (grammar, logic, rhetoric). Evidence examples include explicit language about Latin/Greek curricula and the grammar-logic-rhetoric framework. 
 - Negative keyword indicators: Not evident in the curriculum materials. The materials emphasize classical content rather than modern, project-based, or strictly STEM-first framing.
 
 Why this rating
 - The curriculum is clearly anchored in the classical liberal-arts tradition with explicit focus on Latin/Greek, Great Books-era sensibilities, and a trivium-driven structure, meeting the CLASSICAL standard for Curriculum.
 
 Cited evidence
-- Latin/Greek emphasis and Grammar School approach: turn0file4, turn0file3.
+- Latin/Greek emphasis and Grammar School approach: turn0file3.
 - Early Latin and Greek as core to the curriculum; Henle texts; translation work: turn0file4.
-- Broad curriculum framed by classical/traditional terms: turn0file5 (course catalog/menu structure).
+- Broad curriculum framed by classical/traditional terms:(course catalog/menu structure).
 
 ---
 
@@ -100,7 +100,7 @@ Evidence
 - The music program and choral activities illustrate an aesthetic dimension of pedagogy aligned with the classical tradition; the language of Western tradition and sacred music as learning tools is explicit. 
 
 Positive keyword analysis
-- Positive keywords present: classical education approach, memorization, recitation, memory, ritual/chant (implied through liturgy-like openings and choral components), rhetoric training, and the use of a living tradition in pedagogy (inferred from the “traditional” framing and emphasis on the trivium). Evidence includes explicit references to memorization/recitation in Latin grammar and the traditional classroom setting, plus the use of singing and choral activities as part of pedagogy.   
+- Positive keywords present: classical education approach, memorization, recitation, memory, ritual/chant (implied through liturgy-like openings and choral components), rhetoric training, and the use of a living tradition in pedagogy (inferred from the “traditional” framing and emphasis on the trivium). Evidence includes explicit references to memorization/recitation in Latin grammar and the traditional classroom setting, plus the use of singing and choral activities as part of pedagogy. 
 - Negative keyword indicators: No explicit signals in the public materials that counter classical pedagogy (e.g., project-based only, student-directed discovery-only, or experiential-learning emphasis to the exclusion of memory/recitation). The sources emphasize memory work and recitation as well as Socratic-type discussions in some classical contexts, but explicit negative signals are not present in the provided materials.
 
 Why this rating
@@ -109,7 +109,7 @@ Why this rating
 Cited evidence
 - Traditional classroom approach: turn0file6.
 - Latin grammar memorization and oral recitation: turn0file3.
-- Classical pedagogy framing and community/music as part of the pedagogy: turn0file13, turn0file18.
+- Classical pedagogy framing and community/music as part of the pedagogy: turn0file18.
 
 ---
 
@@ -128,7 +128,7 @@ Why this rating
 - The presence of founder-led classical pedagogy, the emphasis on teachers as exemplars and core to the curriculum, and the living-curriculum framing align with CLASSICAL.
 
 Cited evidence
-- Founding leadership and Christian/classical framing: turn0file0, turn0file1.
+- Founding leadership and Christian/classical framing: turn0file1.
 - Description of traditional/teacher-centered approach: turn0file6.
 
 ---
@@ -149,7 +149,7 @@ Why this rating
 
 Cited evidence
 - Partnership with families and Gospel-guided mission: turn0file1.
-- Open campus and parent engagement (open houses, visits): turn0file13, turn0file16.
+- Open campus and parent engagement (open houses, visits): turn0file16.
 
 ---
 
@@ -158,9 +158,9 @@ Cited evidence
 - No major needle-moving changes are required. Highlands Latin School Louisville KY 40243 already demonstrates a coherent CLASSICAL orientation across all six categories, with explicit classical and Christian framing, classical curriculum (Latin/Greek; grammar-logic-rhetoric), traditional pedagogy (recitation, memory, disciplined classrooms), and strong faculty/parent/community integration.
 
 - If one sought to push toward an even more manifest Classical Identity, potential areas (not deficiencies) could include:
-  - Explicitly foregrounding “Great Books” and “Great Conversation” language in public pages to align with some classical lexicons more overtly (the public materials already imply this through “reading the classics,” but a distinct Great Books/Great Conversation phrasing would be a value-add).
-  - Strengthening explicit Socratic/seminar terminology in upper grades to showcase a formal transition to dialogic instruction (the current materials emphasize traditional methods and rhetoric; a documented Socratic-seminar framework would strengthen Pedagogy).
-  - Amplifying a formal “Living Books” program catalog or a defined “memory-work” progression mapped to grades to highlight the memory/recollection aspect of the Trivium more explicitly.
+ - Explicitly foregrounding “Great Books” and “Great Conversation” language in public pages to align with some classical lexicons more overtly (the public materials already imply this through “reading the classics,” but a distinct Great Books/Great Conversation phrasing would be a value-add).
+ - Strengthening explicit Socratic/seminar terminology in upper grades to showcase a formal transition to dialogic instruction (the current materials emphasize traditional methods and rhetoric; a documented Socratic-seminar framework would strengthen Pedagogy).
+ - Amplifying a formal “Living Books” program catalog or a defined “memory-work” progression mapped to grades to highlight the memory/recollection aspect of the Trivium more explicitly.
 
 Note: These suggestions are enhancements, not corrections. The school already demonstrates CLASSICAL alignment in all key areas.
 

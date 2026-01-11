@@ -144,7 +144,7 @@ What would move the needle
 
 - Not applicable here since the aggregate ranking is CLASSICAL (the rubric’s needle-moving section is reserved for SOMEWHAT CLASSICAL cases).
 
-ABSTRACT
+# ABSTRACT
 
 - Overall classification: CLASSICAL
 - Core six-element summary:

@@ -2,7 +2,7 @@
 
 Philos Classical Christian School (TN 37034) presents a clearly Christian, classical-leaning educational posture. Public-facing materials emphasize Christ-centered education, biblical worldview formation, Christian virtues, and a partnership model with parents. The school describes a classical approach and foundational emphasis on logic and reasoning, with an explicit aim toward depth and wisdom under a biblical frame. This yields a strong CLASSICAL orientation in several key areas, particularly in Religious and Metaphysical Foundations, and in School Purpose and Goal, as well as in Parents & Community. However, certain hallmark features of a strictly classical program—explicit, full-throated emphasis on Great Books/Great Conversation, extensive Socratic pedagogy across upper grades, and explicit liturgical or scholé-based practices—are not clearly demonstrated in the publicly available materials. Taken together, the school aligns with classical education in many respects but does not (yet) exhibit the complete, textbook breadth of a fully realized Classical program in every category. The overall classification is SOMEWHAT CLASSICAL.
 
-Key evidence includes: explicit Christ-centered articulation and biblical worldview language (Rooted in Christ; glorify God; biblical worldview) in site materials, plus statements about a biblical, classical curriculum and partnership with parents (public content). Foundational materials from the classical education knowledge base grounded the rubric and keyword framework used here (including the Six Essential Elements and a comprehensive keyword lexicon), which we used to gauge match to classical indicators. See sources: PCCS public site content (Rooted in Christ, biblical worldview, partnership with parents) and related materials, and the classical-school rubric and keyword lexicon. fileciteturn0file1turn0file2turn0file12turn0file0
+Key evidence includes: explicit Christ-centered articulation and biblical worldview language (Rooted in Christ; glorify God; biblical worldview) in site materials, plus statements about a biblical, classical curriculum and partnership with parents (public content). Foundational materials from the classical education knowledge base grounded the rubric and keyword framework used here (including the Six Essential Elements and a comprehensive keyword lexicon), which we used to gauge match to classical indicators. See sources: PCCS public site content (Rooted in Christ, biblical worldview, partnership with parents) and related materials, and the classical-school rubric and keyword lexicon. 
 
 Executive Summary — Element-by-Element Snapshot
 
@@ -15,7 +15,7 @@ Evidence
 
 Positive/Negative Keyword Analysis
 - Positive keywords present in public materials: Christ-centered, rooted in Christ, glorify God, biblical worldview, Christian virtues, truth of God, God. (6 explicit instances or strong equivalents.)
-- Negative keywords: Not evident in the public materials reviewed (no explicit signals of secularism or non-theological framing). fileciteturn0file1turn0file2
+- Negative keywords: Not evident in the public materials reviewed (no explicit signals of secularism or non-theological framing). 
 
 Why this rating
 - The school’s public narrative centers on theological grounding and virtue formation within a Christian framework, aligning closely with the Positive Indicators for Grounded Theology, liturgical/community practice, and transcendental moral realism as framed in classical education rubrics. The absence of explicit non-religious or secular signals strengthens the CLASSICAL designation for this category. 
@@ -29,7 +29,7 @@ Evidence
 
 Positive/Negative Keyword Analysis
 - Positive keywords present: formation, wisdom, truth, God, biblical worldview, virtue/Christian virtues, classic learning, human flourishing (concepts aligned with True/Good/Beautiful teleology). (Approximately 5–6 explicit signals in the materials.)
-- Negative keywords: None observed in the materials reviewed (no emphasis on workforce prep, job-readiness, or secular utilitarian goals). fileciteturn0file1turn0file2
+- Negative keywords: None observed in the materials reviewed (no emphasis on workforce prep, job-readiness, or secular utilitarian goals). 
 
 Why this rating
 - The materials foreground formation and virtue within a theology-informed aim, consistent with CLASSICAL expectations for this category, even as direct statements about “Great Books” or “Great Conversation” are not all spelled out in the public materials. The overall goal emphasizes formation and truth/beauty in a theological frame. 
@@ -43,7 +43,7 @@ Evidence
 
 Positive/Negative Keyword Analysis
 - Positive keywords present: logic, reasoning, classical approach, education with a biblical/classical curriculum (implicit Great Books emphasis not stated explicitly). (2–3 clear signals: logic, reasoning, classical approach.)
-- Negative keywords: absence of explicit Great Books/Great Conversation, explicit reference to history as “Great Books,” or explicit mention of the Trivium in the public content. Also no explicit statement about memorizations, chant, or great books readings. fileciteturn0file1turn0file2
+- Negative keywords: absence of explicit Great Books/Great Conversation, explicit reference to history as “Great Books,” or explicit mention of the Trivium in the public content. Also no explicit statement about memorizations, chant, or great books readings. 
 
 Why this rating
 - While the school presents as classical in orientation and mentions logic/reasoning and a classical curriculum lens, the public content does not clearly document the full set of classical curriculum elements (e.g., Great Books, Great Conversation, grammar/logic/rhetoric trio in school-wide language). Therefore, it aligns with SOMEWHAT CLASSICAL rather than fully CLASSICAL in curriculum clarity. 
@@ -64,7 +64,7 @@ Why this rating
 ### Element 5: School Faculty — SOMEWHAT CLASSICAL
 
 Evidence
-- The site references teachers by name (e.g., Mark Bolt as Founder; Mrs. Bolt, Mrs. Bone, and Dr. Susan Kees are cited in a parent remark), indicating a leadership/teacher-centric model. The content implies teachers are central to the school’s identity and pedagogy, consistent with the notion of living curriculum and mentors in classical education. fileciteturn0file1turn0file3
+- The site references teachers by name (e.g., Mark Bolt as Founder; Mrs. Bolt, Mrs. Bone, and Dr. Susan Kees are cited in a parent remark), indicating a leadership/teacher-centric model. The content implies teachers are central to the school’s identity and pedagogy, consistent with the notion of living curriculum and mentors in classical education. 
 - The materials describe a partnership culture and a “classical approach” with teacher leadership, aligning with the classical model’s emphasis on model teachers and mentors. 
 
 Positive/Negative Keyword Analysis
@@ -77,12 +77,12 @@ Why this rating
 ### Element 6: Parents & Community — CLASSICAL
 
 Evidence
-- A strong emphasis on partnering with parents is explicit: “Partnership between parents and teachers” and “We desire to partner with parents by providing students with a biblical, classical and comprehensive curriculum.” These statements demonstrate active parent engagement and a shared formation project. fileciteturn0file1turn0file2
+- A strong emphasis on partnering with parents is explicit: “Partnership between parents and teachers” and “We desire to partner with parents by providing students with a biblical, classical and comprehensive curriculum.” These statements demonstrate active parent engagement and a shared formation project. 
 - The site invites parental involvement through tours, communications, and a family-friendly, faith-aligned community culture, consistent with classical education norms that treat parents as co-teachers or strong partners. 
 
 Positive/Negative Keyword Analysis
 - Positive keywords present: partnership with parents, parent formation/involvement, biblical/classical curriculum, co-teaching potential (implied by “partner with parents”), open invitation to visits (tours, community engagement). (Multiple explicit phrases.)
-- Negative keywords: None identified in the public materials (no customer-as-consumer language, no disengagement language). fileciteturn0file1turn0file2
+- Negative keywords: None identified in the public materials (no customer-as-consumer language, no disengagement language). 
 
 Why this rating
 - The explicit, explicit emphasis on parent partnership and community engagement aligns strongly with CLASSICAL expectations for the Parents & Community category. 
@@ -90,12 +90,12 @@ Why this rating
 Overall assessment (aggregate)
 
 - Category ratings: 
-  - Element 1: CLASSICAL
-  - Element 2: CLASSICAL
-  - Element 3: SOMEWHAT CLASSICAL
-  - Element 4: SOMEWHAT CLASSICAL
-  - Element 5: SOMEWHAT CLASSICAL
-  - Element 6: CLASSICAL
+ - Element 1: CLASSICAL
+ - Element 2: CLASSICAL
+ - Element 3: SOMEWHAT CLASSICAL
+ - Element 4: SOMEWHAT CLASSICAL
+ - Element 5: SOMEWHAT CLASSICAL
+ - Element 6: CLASSICAL
 
 - Aggregate: SOMEWHAT CLASSICAL
 
@@ -109,4 +109,4 @@ What Would Move the Needle
 - Strengthen faculty narrative: Use explicit language about the faculty as mentors and living curriculum; provide a clear teacher profile or portrait language to match classical expectations.
 - Expand parental formation offerings: Offer structured parent education (book studies, courses) and transparent parent-involved pathways to participation, thereby strengthening the co-teacher model.
 
-Citations: The analysis above draws on PCCS public content demonstrating Christ-centered, biblical worldview language, parental partnership, and a classical framing (turn0file1, turn0file2, turn0file3). It maps to the Six Essential Elements framework and keyword lexicon used to benchmark classical indicators (turn0file12; turn0file0). Additional context from the school-firecrawl content confirms explicit language around “Rooted in Christ” and “biblical, classical curriculum” (turn0file1; turn0file2). fileciteturn0file1turn0file2turn0file3turn0file12turn0file0
+Citations: The analysis above draws on PCCS public content demonstrating Christ-centered, biblical worldview language, parental partnership, and a classical framing (turn0file1, turn0file3). It maps to the Six Essential Elements framework and keyword lexicon used to benchmark classical indicators (turn0file12; turn0file0). Additional context from the school-firecrawl content confirms explicit language around “Rooted in Christ” and “biblical, classical curriculum” (turn0file1; turn0file2). 

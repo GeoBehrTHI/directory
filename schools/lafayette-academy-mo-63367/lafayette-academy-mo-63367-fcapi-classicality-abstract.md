@@ -1,13 +1,13 @@
 ## ABSTRACT
 
-Lafayette Academy Mo 63367 demonstrates a consistent CLASSICAL orientation across Curriculum, Pedagogy, and Faculty, with a strong emphasis on virtue, Great Books, primary sources, and Socratic/seminar-style inquiry within a teacher-led, low-tech classroom. The school explicitly frames education as formation of mind and character and positions itself within the classical tradition as a counter to modern educational fads. The Religious and Metaphysical Foundations category shows solid classical formation signals through virtue-centric pedagogy and the canon, but lacks explicit theological grounding in public materials, resulting in a SOMEWHAT CLASSICAL signal in Category 1. Parents & Community engagement is evident through events and admissions communication, but lacks explicit, formal “parents as co-educators” language in public content, yielding a SOMEWHAT CLASSICAL signal for Category 6. The aggregate assessment sits at CLASSICAL, with needle-moving opportunities identified in the areas of theological grounding and formal parental-educator partnership programs.
+Lafayette Academy (Lake St. Louis, MO, 63367) demonstrates a consistent CLASSICAL orientation across Curriculum, Pedagogy, and Faculty, with a strong emphasis on virtue, Great Books, primary sources, and Socratic/seminar-style inquiry within a teacher-led, low-tech classroom. The school explicitly frames education as formation of mind and character and positions itself within the classical tradition as a counter to modern educational fads. The Religious and Metaphysical Foundations category shows solid classical formation signals through virtue-centric pedagogy and the canon, but lacks explicit theological grounding in public materials, resulting in a SOMEWHAT CLASSICAL signal in Element 1. Parents & Community engagement is evident through events and admissions communication, but lacks explicit, formal “parents as co-educators” language in public content, yielding a SOMEWHAT CLASSICAL signal for Element 6. The aggregate assessment sits at CLASSICAL, with needle-moving opportunities identified in the areas of theological grounding and formal parental-educator partnership programs.
 
-- Category 1: SOMEWHAT CLASSICAL (virtue-focused formation, Great Books, primary sources; theology/liturgy not explicit)
-- Category 2: CLASSICAL
-- Category 3: CLASSICAL
-- Category 4: CLASSICAL
-- Category 5: CLASSICAL
-- Category 6: SOMEWHAT CLASSICAL
+- Element 1: SOMEWHAT CLASSICAL (virtue-focused formation, Great Books, primary sources; theology/liturgy not explicit)
+- Element 2: CLASSICAL
+- Element 3: CLASSICAL
+- Element 4: CLASSICAL
+- Element 5: CLASSICAL
+- Element 6: SOMEWHAT CLASSICAL
 
 Overall: CLASSICAL
 

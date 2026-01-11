@@ -12,5 +12,3 @@ Overall Classification: CLASSICAL
 Aggregate assessment: CLASSICAL
 
 - The school demonstrates a robust Classical Christian program with explicit emphasis on Great Books, liberal arts, and Christian formation. While some pedagogical and faculty aspects are not as fully articulated in public-facing materials as one might expect in a fully explicit Classical program (leading to some SOMEWHAT signals in Categories 4 and 5), the overall alignment across the six categories supports a CLASSICAL classification.
-
-If you would like, I can extract concrete lines from the site to expand any category’s Evidence section or re-run the keyword counts with an explicit tally against the Sixth Elements lexicon, but this report already triangulates the public content with the classical-education criteria to produce the six-category assessment and the aggregate CLASSICAL designation.

@@ -12,7 +12,7 @@ Key observations across the six categories:
 - Faculty: Public-facing pages show named faculty and staff, signaling an engaged faculty body; however, the materials do not explicitly describe the faculty as “living curriculum” mentors or portraits of teacher ideals in the way classical rubrics sometimes require. 
 - Parents & Community: The school emphasizes partnership with families and has parent-focused enrollment actions; explicit program for parent formation is not strongly detailed on the site, though there are signals of collaboration with families. 
 
-Note: The knowledge-base sources (Six Essential Elements of a Classical School and Positive/Negative Keyword Lexicon) provide the canonical criteria and vocabulary for a fully classical implementation (e.g., Great Books, Scholé, Socratic pedagogy, liturgy, and a “living curriculum”). These lexicon resources show that true classical fidelity includes explicit theology, liturgical practice, and a full spectrum of classical pedagogy beyond what the FCA Schertz site currently emphasizes. See the lexicon and codebook for reference. fileciteturn0file8turn0file2
+Note: The knowledge-base sources (Six Essential Elements of a Classical School and Positive/Negative Keyword Lexicon) provide the canonical criteria and vocabulary for a fully classical implementation (e.g., Great Books, Scholé, Socratic pedagogy, liturgy, and a “living curriculum”). These lexicon resources show that true classical fidelity includes explicit theology, liturgical practice, and a full spectrum of classical pedagogy beyond what the FCA Schertz site currently emphasizes. See the lexicon and codebook for reference. 
 
 ---
 
@@ -25,7 +25,7 @@ Evidence
 - The explicit grounding in theology, liturgy, and related sacred practices is not evident in the public materials. The absence of explicit theological architecture on the site lowers the category’s alignment relative to a fully scholastic, theology-grounded model. 
 
 Positive/Negative keyword analysis
-- Positive keywords present: truth, beauty, goodness, virtue (and related phrases like virtuous). These align with the Positive Keywords in the Six Essential Elements lexicon for this category. Approximately 4 positive keywords appear in the site copy. No explicit negative signals appear in the accessible text. fileciteturn0file3turn0file2
+- Positive keywords present: truth, beauty, goodness, virtue (and related phrases like virtuous). These align with the Positive Keywords in the Six Essential Elements lexicon for this category. Approximately 4 positive keywords appear in the site copy. No explicit negative signals appear in the accessible text. 
 
 Why this rating
 - The school clearly foregrounds transcendental aims (truth, goodness, beauty) and virtue, which aligns with transcendental moral realism and virtue-centered formation. However, the absence of explicit theological grounding and liturgical/community practices in public materials prevents a full CLASSICAL rating for this category. The rubric’s strongest signals for this category (grounded theology, liturgical practice) are not publicly evidenced on the site. Therefore: SOMEWHAT CLASSICAL.
@@ -37,7 +37,7 @@ Evidence
 - There is language about pursuing truth, goodness, and beauty and a belief in forming humans rather than merely imparting information. The explicit formation language aligns with the classical mission. 
 
 Positive/Negative keyword analysis
-- Positive keywords present: formation, virtue, wisdom (implied by virtue and formation), the true/good/beautiful framing; Great Books and other classical mission terms are not all explicit, but the core formation language is strong. Approximately 3–4 positive keywords observed; negative indicators are not evident in the accessible text. fileciteturn0file0turn0file3
+- Positive keywords present: formation, virtue, wisdom (implied by virtue and formation), the true/good/beautiful framing; Great Books and other classical mission terms are not all explicit, but the core formation language is strong. Approximately 3–4 positive keywords observed; negative indicators are not evident in the accessible text. 
 
 Why this rating
 - The public-facing materials foreground formation, virtue, and a teleological aim (truth, goodness, beauty) that exceed mere information transfer, aligning with classical aims in this category. The absence of explicit work-preparatory language (to some degree) reinforces CLASSICAL, but the lack of explicit references to more explicit classical aims (e.g., rigorous Great Books framing) makes it not fully CLASSICAL. Thus: CLASSICAL.
@@ -69,7 +69,7 @@ Why this rating
 ### Element 5: School Faculty — SOMEWHAT CLASSICAL
 
 Evidence
-- The site lists named faculty (Headmaster, Dean of Students, various teachers), signaling a substantive faculty presence. This supports the expectation of model teachers and mentors in a classical frame. fileciteturn0file3turn0file6
+- The site lists named faculty (Headmaster, Dean of Students, various teachers), signaling a substantive faculty presence. This supports the expectation of model teachers and mentors in a classical frame. 
 - The materials do not, however, explicitly describe the faculty as a “living curriculum,” nor do they provide a formal portrait of teacher ideals or a clearly articulated faculty philosophy in the public copy. 
 
 Positive/Negative keyword analysis

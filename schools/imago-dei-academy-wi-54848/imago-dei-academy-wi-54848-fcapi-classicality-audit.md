@@ -15,12 +15,12 @@ Executive Summary — Element-by-Element Snapshot
 ### Element 1: Religious and Metaphysical Foundations — CLASSICAL
 
 Evidence
-- IDA presents itself as a Classical Christian school with a Christian worldview, chapels, and Bible-centered worship; mentions of liturgical elements and church-based collaboration are evident in multiple public materials.  
+- IDA presents itself as a Classical Christian school with a Christian worldview, chapels, and Bible-centered worship; mentions of liturgical elements and church-based collaboration are evident in multiple public materials. 
 - Public materials describe classical education as the cultivation of wisdom and virtue, with Christian culture and Biblical worldview as a core aim. 
 - Chapel services with pledges to flags and the Bible, including singing and a sermonette, demonstrate liturgical and communal practice. 
 
 Positive/Negative keyword analysis
-- Positive keywords present: Imago Dei; Classical; Christian; chapel; liturgy/worship; Holy Bible; sermonette; virtue; wisdom; truth (implied through Christian teaching); theology (through Christian worldview); Great Books (via classical framework); Memoria Press (curriculum lineage). fileciteturn0file0turn0file4turn0file14
+- Positive keywords present: Imago Dei; Classical; Christian; chapel; liturgy/worship; Holy Bible; sermonette; virtue; wisdom; truth (implied through Christian teaching); theology (through Christian worldview); Great Books (via classical framework); Memoria Press (curriculum lineage). 
 - Negative keywords: none clearly evident (no explicit relativism, secular humanism, or “morally neutral” language detected in public postings). 
 
 Why this rating
@@ -47,7 +47,7 @@ Evidence
 - Great Books and the Great Conversation are referenced as central to education; Memoria Press is used as a curriculum backbone; Latin/Greek studies are part of the core. 
 
 Positive/Negative keyword analysis
-- Positive keywords present: liberal arts; grammar; logic; rhetoric; great books; classical studies; Latin; Greek; history; Western civilization; Bible literacy; music; art; liturgy (via curricular integration). fileciteturn0file16turn0file14
+- Positive keywords present: liberal arts; grammar; logic; rhetoric; great books; classical studies; Latin; Greek; history; Western civilization; Bible literacy; music; art; liturgy (via curricular integration). 
 - Negative keywords: none clearly evident (no “social studies” replacement of history; no “project-based learning dominance” language observed in public postings). 
 
 Why this rating
@@ -61,7 +61,7 @@ Evidence
 - There are clearly liturgical and memory-based elements (chant/sacred music; prayer; catechesis) in daily practice. 
 
 Positive/Negative keyword analysis
-- Positive keywords present: scholé (implied by contemplative rhythm), memory work, recitation/narration, chanting, liturgy, seminar/colloquy (through emphasis on rhetoric and structured discussion); memory-based and liturgical calendar integration (from the lexicon and site). Privately available notes show emphasis on singing and prayer in lower grades; rhetoric and logic in higher grades.  
+- Positive keywords present: scholé (implied by contemplative rhythm), memory work, recitation/narration, chanting, liturgy, seminar/colloquy (through emphasis on rhetoric and structured discussion); memory-based and liturgical calendar integration (from the lexicon and site). Privately available notes show emphasis on singing and prayer in lower grades; rhetoric and logic in higher grades. 
 - Negative keywords present: minimal explicit mention of experiential-only or project-based learning as the sole method; the site does not emphasize student-directed, constructivist approaches as the sole method. However, explicit Socratic seminar language is not strongly present in public postings, which reduces the strength of a full Socratic pedagogy signal. 
 
 Why this rating
@@ -84,7 +84,7 @@ Why this rating
 ### Element 6: School Parents & Community — CLASSICAL
 
 Evidence
-- The school foregrounds partnership with parents and presents opportunities for parent involvement (open houses, tours, admissions interviews; parent events; newsletters; and “Connect” page inviting parental engagement). fileciteturn0file3turn0file7
+- The school foregrounds partnership with parents and presents opportunities for parent involvement (open houses, tours, admissions interviews; parent events; newsletters; and “Connect” page inviting parental engagement). 
 - Public materials describe parent formation and classical book clubs/book-study style opportunities and family engagement (parent/teacher conferences; family-based activities; newsletters). 
 - The school’s communications indicate an open-campus philosophy and frequent parental access (calendar items, open houses, and communications that welcome parent involvement). 
 

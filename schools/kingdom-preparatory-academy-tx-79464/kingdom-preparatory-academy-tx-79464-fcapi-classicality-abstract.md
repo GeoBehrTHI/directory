@@ -9,22 +9,22 @@ Kingdom Preparatory Academy (KPA) demonstrates a robust classical orientation an
 
 Category-level Details
 
-- Category 1 — CLASSICAL
+- Element 1 — CLASSICAL
   - Evidence centers on Christian worldview, virtue formation, and theological framing. Positive keywords include Christian, biblical worldview, virtue, truth/goodness/beauty, and gospel. (Cited from Home, Mission/ Vision, and Portrait of a Warrior materials.) fileciteturn0file0turn0file9turn0file16
 
-- Category 2 — CLASSICAL
+- Element 2 — CLASSICAL
   - Evidence centers on formation, virtue, human flourishing, and the liberal-arts telos; mission emphasizes Godly character. 
 
-- Category 3 — CLASSICAL
+- Element 3 — CLASSICAL
   - Evidence centers on Great Books, Western civilization, grammar/logic/rhetoric, Latin, and senior-thesis rhetoric training. fileciteturn0file1turn0file4
 
-- Category 4 — SOMEWHAT CLASSICAL
+- Element 4 — SOMEWHAT CLASSICAL
   - Evidence shows Trivium-based pedagogy and senior-thesis rhetoric, but explicit Socratic/Scholé articulations are not strongly foregrounded in public content. fileciteturn0file1turn0file4
 
-- Category 5 — SOMEWHAT CLASSICAL
+- Element 5 — SOMEWHAT CLASSICAL
   - Evidence points to a faculty culture anchored in formation and collaborative community, with “living curriculum” and teacher exemplars implied, but not always explicitly described in public pages. 
 
-- Category 6 — CLASSICAL
+- Element 6 — CLASSICAL
   - Evidence shows strong parent partnership, co-teaching language, and parent-education resources. fileciteturn0file9turn0file14
 
 Notes on Word-usage and Keywords
@@ -34,8 +34,8 @@ Notes on Word-usage and Keywords
 What would move the needle (for SOMEWHAT CLASSICAL categories)
 
 - Make explicit, public-facing commitments to:
-  - Socratic Seminar and Scholé language in pedagogy (Category 4).
-  - The faculty as the living curriculum with explicit teacher-formation language (Category 5).
+  - Socratic Seminar and Scholé language in pedagogy (Element 4).
+  - The faculty as the living curriculum with explicit teacher-formation language (Element 5).
   - Increased demonstration of contemplative/restful learning in daily practice (Scholé) alongside rigorous work.
 
 Final note: This evaluation used the dual vector stores as required to ground the assessment in both canonical classical criteria (Six Essential Elements) and the school’s public materials. The public materials clearly align with classical aims across the first three categories and the sixth, with more implicit or evolving alignment in pedagogy and faculty that would be sharpened by explicit articulation of Socratic methods, scholé, and teacher-as-living-curriculum language.

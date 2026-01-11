@@ -1,0 +1,3 @@
+# ABSTRACT (Final section)
+
+Elijah House Academy is assessed as CLASSICAL across all six categories, reflecting a coherent classical-education framework anchored in Christian formation and a liberal-arts curriculum. The evidence from the school’s public materials demonstrates a strong theological foundation, formation-centric aims, a Trivium-focused curriculum with engagement in Great Books and classical literature, pedagogical methods rooted in Socratic dialogue and memory work, a culture of mentor-faculty, and an explicit partnership with families. The keyword analysis aligns with Positive Keyword Indicators across all six elements, with minimal presence of Negative Signals, supporting a robust CLASSICAL classification.

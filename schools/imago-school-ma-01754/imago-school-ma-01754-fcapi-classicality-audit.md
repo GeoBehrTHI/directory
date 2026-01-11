@@ -1,6 +1,6 @@
 ## Executive Summary
 
-Imago School Ma 01754 presents a strong, clearly classical-leaning profile within a Christian, classical tradition. Public materials emphasize formation of character, virtue, and wisdom through a curriculum anchored in Christian ideals, liberal arts orientation, and a structured classical pedagogy. There is explicit mention of Goodness, Truth, and Beauty, liturgical practices (Chapel), and a curriculum that includes Latin and a Great-Books-leaning sensibility, alongside robust arts integration. The school also foregrounds a close partnership with parents and a community ethos, with open houses and a living faculty model. Overall, the six-category assessment places Imago as CLASSICAL with nuanced strengths in several domains and some areas where explicit classical markers could be named more directly in public-facing materials.
+The IMAGO School (Maynard, MA, 1754) presents a strong, clearly classical-leaning profile within a Christian, classical tradition. Public materials emphasize formation of character, virtue, and wisdom through a curriculum anchored in Christian ideals, liberal arts orientation, and a structured classical pedagogy. There is explicit mention of Goodness, Truth, and Beauty, liturgical practices (Chapel), and a curriculum that includes Latin and a Great-Books-leaning sensibility, alongside robust arts integration. The school also foregrounds a close partnership with parents and a community ethos, with open houses and a living faculty model. Overall, the six-category assessment places Imago as CLASSICAL with nuanced strengths in several domains and some areas where explicit classical markers could be named more directly in public-facing materials.
 
 - Strong CLASSICAL alignment in Religious and Metaphysical Foundations, School Purpose & Goal, Faculty, and Parents & Community.
 - Mixed but positive alignment in Curriculum and Pedagogy, with explicit classical elements (Latin, Great Books-leaning references, and forms of contemplative learning) present, yet with less explicit articulation of all canonical classical methods (e.g., explicit grammar/logic/rhetoric sequencing or Socratic seminars in public materials).
@@ -18,7 +18,7 @@ Executive Summary — Element-by-Element Snapshot
 
 Evidence
 - Public materials identify Imago as “A private Christian school in the classical tradition.” 
-- Texts describe the school as rooted in a Christian Classical tradition and God’s Word, with emphasis on a transcendent moral framework.  
+- Texts describe the school as rooted in a Christian Classical tradition and God’s Word, with emphasis on a transcendent moral framework. 
 - Liturgical/communal practices appear via Chapel and liturgical language in campus life (e.g., Chapel at 8:15 a.m.). 
 - The triad of Goodness, Beauty, and Truth is invoked as guiding ideals. 
 - The arts and beauty as a conduit to sacred aims are highlighted (arts integration, music, drama). 

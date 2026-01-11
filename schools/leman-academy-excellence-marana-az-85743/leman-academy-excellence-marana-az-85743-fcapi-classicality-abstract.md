@@ -1,7 +1,7 @@
 ## Abstract
 Leman Academy Excellence Marana AZ 85743 presents a publicly stated mission and public-facing materials that align with many classical education ideals, notably a focus on formation of knowledge, virtue, and character, as well as strong parental partnership and a lively faculty/community environment. However, explicit commitments to core metaphysical foundations (theology, liturgical practices) and demonstrable use of classical pedagogy (Socratic seminars, scholé, Great Books, and the Great Conversation) are not clearly documented in the accessible public materials. As a result, the school sits in the Somewhat Classical tier overall, with stronger alignment in Purpose & Goal, Faculty, and Parents & Community, and more modest alignment in Religious & Metaphysical Foundations, and Pedagogy. To move toward full CLASSICAL, the school would benefit from more explicit articulation of theology and liturgy, a documented Great Books program, and a more explicit adoption of Socratic/seminar-based pedagogy and memory-oriented recitation components in line with the classical canon.
 
-ABSTRACT — Category-by-Category Summary
+ABSTRACT — Element-by-Element Summary
 - Religious and Metaphysical Foundations: NOT CLASSICAL
 - Purpose and Goal: CLASSICAL
 - Curriculum: SOMEWHAT CLASSICAL

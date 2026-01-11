@@ -1,11 +1,11 @@
 ## Executive Summary
 
-Holy Spirit Academy Mn 55362 (HSA) demonstrates a robust CLASSICAL orientation across all six categories of the classical education rubric. The public materials clearly foreground Catholic theology and liturgical life integrated with an academically rigorous, formation-forward program. The curriculum emphasizes liberal arts foundations, a cross-disciplinary approach, and Great Books/Natural Law-inflected inquiry, while pedagogy centers on Socratic discussion, memory work, and contemplation. Faculty are described as virtuous exemplars who embody the living curriculum, and parents are positioned as co-educators with ongoing opportunities for engagement through formal structures like a Parent Guild and regular visits. Collectively, these elements support a classical framework that prioritizes truth, goodness, and beauty as knowable realities and aims at formation of character in a Catholic context.
+Holy Spirit Academy (Monticello, MN, 55362) (HSA) demonstrates a robust CLASSICAL orientation across all six categories of the classical education rubric. The public materials clearly foreground Catholic theology and liturgical life integrated with an academically rigorous, formation-forward program. The curriculum emphasizes liberal arts foundations, a cross-disciplinary approach, and Great Books/Natural Law-inflected inquiry, while pedagogy centers on Socratic discussion, memory work, and contemplation. Faculty are described as virtuous exemplars who embody the living curriculum, and parents are positioned as co-educators with ongoing opportunities for engagement through formal structures like a Parent Guild and regular visits. Collectively, these elements support a classical framework that prioritizes truth, goodness, and beauty as knowable realities and aims at formation of character in a Catholic context.
 
 Key strengths across categories include:
-- Religious and metaphysical foundations integrated throughout coursework, liturgical life, and school culture (Mass, adoration, Divine Office, Catholic worldview).  
+- Religious and metaphysical foundations integrated throughout coursework, liturgical life, and school culture (Mass, adoration, Divine Office, Catholic worldview). 
 - A formation-centered purpose emphasizing virtue, wisdom, and perennial truths rather than mere job-readiness. 
-- A curriculum aligned with classical liberal arts (grammar, logic, rhetoric; Quadrivium elements), with Humane Letters and Latin, and explicit emphasis on Great Books/historical engagement.  
+- A curriculum aligned with classical liberal arts (grammar, logic, rhetoric; Quadrivium elements), with Humane Letters and Latin, and explicit emphasis on Great Books/historical engagement. 
 - Pedagogical practices that incorporate Socratic seminars for humanities/theology, with contemplative and memory-focused approaches in lower grades and rhetoric/seminars in upper grades. 
 - A faculty culture described as virtuous, mentorship-driven, and living the curriculum, including an oath of fidelity to Magisterium and commitment to faith formation. 
 - A strong, active parent/community partnership with open campus visits, a Parent Guild, and family involvement in school life. 
@@ -26,7 +26,7 @@ Positive/Negative keyword analysis
 - Negative keywords: essentially none observed in public materials.
 
 Why this rating
-- The materials consistently align with transcendentals (truth, goodness, beauty) and a Catholic theological grounding, with liturgical life and a sacramental worldview evident throughout. This is a strong match to the Positive Keyword indicators for Element 1 and minimal-to-no presence of Negative indicators. The alignment is reinforced by explicit Catholic liturgical practices and theology integrated across the curriculum.  
+- The materials consistently align with transcendentals (truth, goodness, beauty) and a Catholic theological grounding, with liturgical life and a sacramental worldview evident throughout. This is a strong match to the Positive Keyword indicators for Element 1 and minimal-to-no presence of Negative indicators. The alignment is reinforced by explicit Catholic liturgical practices and theology integrated across the curriculum. 
 
 ### Element 2: School Purpose and Goal — CLASSICAL
 
@@ -45,7 +45,7 @@ Why this rating
 ### Element 3: School Curriculum — CLASSICAL
 
 Evidence
-- The curriculum is described as integrated, with emphasis on liberal arts and the Great Books tradition within a Catholic framework. The school highlights Humane Letters (Writing & Speaking), Latin, and a sequence of theology, humanities, science, mathematics, and languages. The program is framed as liberal-arts-based, with explicit cross-disciplinary integration and a respect for the order of learning (theology in pride of place).  
+- The curriculum is described as integrated, with emphasis on liberal arts and the Great Books tradition within a Catholic framework. The school highlights Humane Letters (Writing & Speaking), Latin, and a sequence of theology, humanities, science, mathematics, and languages. The program is framed as liberal-arts-based, with explicit cross-disciplinary integration and a respect for the order of learning (theology in pride of place). 
 - The Seven Liberal Arts are referenced in the school’s literature about classical education (Trivium and Quadrivium), and there is explicit emphasis on Great Books/primary texts and the Great Conversation in the classical education lexicon reflected in the knowledge-base materials. The site describes an integrated curriculum and humane letters; Latin language study; and a history across years that integrates humanities, theology, and sciences. 
 - Choir and the arts are included (sacred music, Gregorian chant, etc.) as part of a holistic curriculum, aligning with the liberal arts tradition. 
 
@@ -54,12 +54,12 @@ Positive/Negative keyword analysis
 - Negative keywords present: minimal to none; the public materials do not foreground social studies substitution for history or project-based learning as primary modalities; some elements of modernity (tech used sparingly) are noted, but not as a curriculum critique.
 
 Why this rating
-- The public descriptions clearly align with classical curriculum tenets: liberal arts core (grammar, logic, rhetoric; Quadrivium), Great Books/historic-text engagement, integration across disciplines, and an explicit aim to cultivate wonder and moral formation. The presence of humane letters, Latin, and a cross-disciplinary structure supports CLASSICAL rather than SOMEWHAT or NOT CLASSICAL.  
+- The public descriptions clearly align with classical curriculum tenets: liberal arts core (grammar, logic, rhetoric; Quadrivium), Great Books/historic-text engagement, integration across disciplines, and an explicit aim to cultivate wonder and moral formation. The presence of humane letters, Latin, and a cross-disciplinary structure supports CLASSICAL rather than SOMEWHAT or NOT CLASSICAL. 
 
 ### Element 4: School Pedagogy or Teaching Methods — CLASSICAL
 
 Evidence
-- Pedagogy features contemplative and restful elements (scholé-like restraint) alongside rigorous engagement in upper grades via Socratic seminar/discussion and rhetoric/eloquence training. The public materials explicitly mention Socratic method in humanities/theology, small class sizes, and opportunities for students to present and argue (speeches, capstone work). Lower- and upper-school approaches include singing, memory work, and disciplined study to deepen memory and delight.  
+- Pedagogy features contemplative and restful elements (scholé-like restraint) alongside rigorous engagement in upper grades via Socratic seminar/discussion and rhetoric/eloquence training. The public materials explicitly mention Socratic method in humanities/theology, small class sizes, and opportunities for students to present and argue (speeches, capstone work). Lower- and upper-school approaches include singing, memory work, and disciplined study to deepen memory and delight. 
 - The curriculum emphasizes cross-disciplinary integration and the cross-subject discussion that fosters a classical “great conversation” approach, with a strong emphasis on memory work and recitation in pedagogy. The presence of daily examen, choral singing, and a capstone project are consistent with memory, rhetoric, and moral formation. 
 
 Positive/Negative keyword analysis
@@ -85,7 +85,7 @@ Why this rating
 ### Element 6: School Parents & Community — CLASSICAL
 
 Evidence
-- The school emphasizes partnership with families as co-educators, parent formation, and community involvement. There is explicit promotion of parent participation in lectures, events, and book studies, along with an open-campus philosophy and frequent opportunities for visits. The existence of a Parent Guild and emphasis on family engagement are explicit signals of a classical parental-community orientation.  
+- The school emphasizes partnership with families as co-educators, parent formation, and community involvement. There is explicit promotion of parent participation in lectures, events, and book studies, along with an open-campus philosophy and frequent opportunities for visits. The existence of a Parent Guild and emphasis on family engagement are explicit signals of a classical parental-community orientation. 
 - The culture highlights the home-school connection and classical formation extended to families (family catechesis, living tradition in the family, etc.). This aligns with classical expectations for a strong partnership with parents. 
 
 Positive/Negative keyword analysis

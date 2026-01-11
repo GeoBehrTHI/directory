@@ -15,7 +15,7 @@ Overall Classification: CLASSICAL
 - Parents & Community: SOMEWHAT CLASSICAL. Active community engagement is visible (family retreats, newsletters, book clubs, podcasts), but explicit statements about parents as co-teachers or direct curricular co-instruction are not clearly demonstrated in the public materials examined. 
 
 Overall synthesis
-- The Schaeffer Academy Mn 55902 materials (as reflected in the crawl store) align closely with classical education theory across categories 1–5, with category 6 showing solid, but not full, alignment due to less explicit co-teaching language. The aggregate result remains CLASSICAL, with a recommended focus for future communications to elevate category 6 to a full CLASSICAL rating.
+- The Schaeffer Academy (Rochester, MN, 55902) materials (as reflected in the crawl store) align closely with classical education theory across categories 1–5, with category 6 showing solid, but not full, alignment due to less explicit co-teaching language. The aggregate result remains CLASSICAL, with a recommended focus for future communications to elevate category 6 to a full CLASSICAL rating.
 
 Note on sources used
 - Religious, curricular, pedagogical, and community elements are drawn from the school’s public materials in the crawl store, including explicit references to catechesis, liberal arts, Trivium/Quadrivium, memorization, Socratic/dialectic methods, and community activities. See examples such as catechesis and liturgy, the Liberal Arts framework, Trivium/Quadrivium, Progymnasmata, memorization and rhetoric, and community events and communications. fileciteturn0file0turn0file7turn0file3turn0file8

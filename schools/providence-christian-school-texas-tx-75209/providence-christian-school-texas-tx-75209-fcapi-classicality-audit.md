@@ -5,34 +5,34 @@ Providence Christian School of Texas (Dallas area) presents a coherent classical
 Executive Summary — Element-by-Element Snapshot
 
 - Element 1: Religious and Metaphysical Foundations — CLASSICAL
-  - Evidence: Clear articulation of Christian faith as foundational; statements that faith informs operations; explicit references to Scripture as authority; Colossians 2:3 citation; “Rooted in Truth and Tradition” framing.
-  - Positive/Negative keyword analysis: Strong positive signals for truth, theology, worship/communal faith, wisdom, virtue; minimal to no negative signals in public text.
-  - Why this rating: The materials foreground transcendental moral realism through a biblical-theistic frame, with liturgical/community faith practices and a clear metaphysical, theological anchor.
+ - Evidence: Clear articulation of Christian faith as foundational; statements that faith informs operations; explicit references to Scripture as authority; Colossians 2:3 citation; “Rooted in Truth and Tradition” framing.
+ - Positive/Negative keyword analysis: Strong positive signals for truth, theology, worship/communal faith, wisdom, virtue; minimal to no negative signals in public text.
+ - Why this rating: The materials foreground transcendental moral realism through a biblical-theistic frame, with liturgical/community faith practices and a clear metaphysical, theological anchor.
 
 - Element 2: School Purpose and Goal — CLASSICAL
-  - Evidence: Explicit goal of forming virtuous, wise persons; focus on character, habit formation, and lifelong formation over mere information; emphasis on truth, good, beautiful as real and knowable; vision of shaping hearts to serve God and man.
-  - Positive/Negative keyword analysis: Abundant positive indicators such as formation, virtue, wisdom, telos, and scholé-like contemplation; little to no negative signals.
-  - Why this rating: The school prioritizes formation and human flourishing in a classical sense rather than job-prep or purely information transmission.
+ - Evidence: Explicit goal of forming virtuous, wise persons; focus on character, habit formation, and lifelong formation over mere information; emphasis on truth, good, beautiful as real and knowable; vision of shaping hearts to serve God and man.
+ - Positive/Negative keyword analysis: Abundant positive indicators such as formation, virtue, wisdom, telos, and scholé-like contemplation; little to no negative signals.
+ - Why this rating: The school prioritizes formation and human flourishing in a classical sense rather than job-prep or purely information transmission.
 
 - Element 3: School Curriculum — SOMEWHAT CLASSICAL
-  - Evidence: Mentions liberal arts orientation, history as basis for teaching, hands-on science and mathematics, and inclusion of logic, Latin, and art/music within the classical framework.
-  - Positive/Negative keyword analysis: Positive keywords present include liberal arts, logic, Latin, history, Western civilization, and a classical curriculum; explicit Great Books/Great Conversation language is not clearly stated in public pages.
-  - Why this rating: Strong classical lean (liberal arts, logic, Latin, historical emphasis) but lacking explicit public statements about Great Books and the Great Conversation, which slightly tempers the categorical label.
+ - Evidence: Mentions liberal arts orientation, history as basis for teaching, hands-on science and mathematics, and inclusion of logic, Latin, and art/music within the classical framework.
+ - Positive/Negative keyword analysis: Positive keywords present include liberal arts, logic, Latin, history, Western civilization, and a classical curriculum; explicit Great Books/Great Conversation language is not clearly stated in public pages.
+ - Why this rating: Strong classical lean (liberal arts, logic, Latin, historical emphasis) but lacking explicit public statements about Great Books and the Great Conversation, which slightly tempers the categorical label.
 
 - Element 4: School Pedagogy or Teaching Methods — SOMEWHAT CLASSICAL
-  - Evidence: Emphasis on a balanced approach including contemplative/restful aspects and classical instruction; lower-school practices emphasize habit formation and wonder; upper-school mentions of rhetoric and speech training; some elements of Socratic-style discussion are not publicly explicit.
-  - Positive/Negative keyword analysis: Positive signals around scholé/restful learning, wonder, memory work, and rhetoric; limited explicit statements about Socratic seminars or formal seminar-based pedagogy; no strong negative indicators.
-  - Why this rating: The school demonstrates classical pedagogy elements (contested by lack of explicit, public mention of Socratic seminars or explicit scholé-day language) and includes restful, memory-focused elements. Hence Somewhat Classical.
+ - Evidence: Emphasis on a balanced approach including contemplative/restful aspects and classical instruction; lower-school practices emphasize habit formation and wonder; upper-school mentions of rhetoric and speech training; some elements of Socratic-style discussion are not publicly explicit.
+ - Positive/Negative keyword analysis: Positive signals around scholé/restful learning, wonder, memory work, and rhetoric; limited explicit statements about Socratic seminars or formal seminar-based pedagogy; no strong negative indicators.
+ - Why this rating: The school demonstrates classical pedagogy elements (contested by lack of explicit, public mention of Socratic seminars or explicit scholé-day language) and includes restful, memory-focused elements. Hence Somewhat Classical.
 
 - Element 5: School Faculty — CLASSICAL
-  - Evidence: Faculty described as living curriculum, mentors, and masters; long-tenured faculty; emphasis on formation, virtue, and subject mastery; “Profile of a Providence Teacher” and culture of collegiality.
-  - Positive/Negative keyword analysis: Multiple positive signals (living curriculum, mentors, moral exemplars, faculty as core of school); minimal negative indicators.
-  - Why this rating: Strong alignment with classical-faculty norms (model teachers, living curriculum, character formation).
+ - Evidence: Faculty described as living curriculum, mentors, and masters; long-tenured faculty; emphasis on formation, virtue, and subject mastery; “Profile of a Providence Teacher” and culture of collegiality.
+ - Positive/Negative keyword analysis: Multiple positive signals (living curriculum, mentors, moral exemplars, faculty as core of school); minimal negative indicators.
+ - Why this rating: Strong alignment with classical-faculty norms (model teachers, living curriculum, character formation).
 
 - Element 6: School Parents & Community — CLASSICAL
-  - Evidence: Explicit emphasis on partnering with parents as co-teachers, parental formation opportunities, open campus, and frequent parent involvement, including visits and family engagement.
-  - Positive/Negative keyword analysis: Clear positive indicators (partnership with families, parent formation, open campus, family liturgy alignment); no notable negative signals.
-  - Why this rating: The school positions parents as co-educators and actively engages them in the classical project.
+ - Evidence: Explicit emphasis on partnering with parents as co-teachers, parental formation opportunities, open campus, and frequent parent involvement, including visits and family engagement.
+ - Positive/Negative keyword analysis: Clear positive indicators (partnership with families, parent formation, open campus, family liturgy alignment); no notable negative signals.
+ - Why this rating: The school positions parents as co-educators and actively engages them in the classical project.
 
 Aggregate Assessment: CLASSICAL
 
@@ -61,7 +61,7 @@ Positive/Negative keyword analysis
 - The lexicon list (Positive signals) and negative signals guide this comparison. 
 
 Why this rating
-- The school explicitly anchors education in Christian metaphysical aims and aims to cultivate virtue and wisdom within a theological frame. The language around the Word of God, prayer, and a biblically grounded identity aligns strongly with Classical Catholic/Protestant scholastic sensibilities, signaling CLASSICAL in this category. fileciteturn0file0turn0file1
+- The school explicitly anchors education in Christian metaphysical aims and aims to cultivate virtue and wisdom within a theological frame. The language around the Word of God, prayer, and a biblically grounded identity aligns strongly with Classical Catholic/Protestant scholastic sensibilities, signaling CLASSICAL in this category. 
 
 ### Element 2: School Purpose and Goal — CLASSICAL
 

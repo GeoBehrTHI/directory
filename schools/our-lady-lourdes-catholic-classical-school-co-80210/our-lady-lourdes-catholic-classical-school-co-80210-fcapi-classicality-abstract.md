@@ -3,7 +3,7 @@
 Overall Classification: CLASSICAL
 
 Key Insights by Category
-- Religious and Metaphysical Foundations: The school's Catholic identity and liturgical life are central, with explicit references to theology, sacraments, liturgy, and a sacramental worldview. This aligns with the Positive Keyword indicators for Category 1 and yields a CLASSICAL designation. Evidence includes mission statements, liturgical life, and Catholic formation across the curriculum.  
+- Religious and Metaphysical Foundations: The school's Catholic identity and liturgical life are central, with explicit references to theology, sacraments, liturgy, and a sacramental worldview. This aligns with the Positive Keyword indicators for Element 1 and yields a CLASSICAL designation. Evidence includes mission statements, liturgical life, and Catholic formation across the curriculum.  
 - School Purpose and Goal: The aims emphasize formation of virtue and wisdom, true knowledge of truth/goodness/beauty, and formation over information—core classical goals. The mission and language in admissions materials support this. 
 - Curriculum: Trivium is a signature feature; grammar-stage description includes Latin/history/mathematics; Great Books/Great Conversation through integrated curriculum; wonder is foregrounded. This meets CLASSICAL curriculum indicators.  
 - Pedagogy: The pedagogy blends contemplative Scholé elements (lower-grade singing/memory) with Socratic discussion and rhetoric development in upper grades. This combination matches classical pedagogy expectations. 

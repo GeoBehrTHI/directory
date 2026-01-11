@@ -1,3 +1,5 @@
+Overall Classification: CLASSICAL
+
 ## ABSTRACT
 
 Chesterton Academy of Omaha presents a robust CLASSICAL orientation across all six categories, anchored by a clearly Catholic, incarne-national worldview and a formation-focused purpose. The curriculum emphasizes liberal arts and Great Books; pedagogy includes Socratic dialogue, memory work, and rhetoric; faculty are portrayed as virtuous mentors; and parents/community are positioned as co-educators and partners with the Church. The evidence from the school’s public materials (e.g., Our Mission and curriculum pages, references to Great Books and Socratic dialogue, three-pillar model of education) aligns with the Positive Keyword indicators and the absence of Negative Signals across all six categories. The aggregate assessment is CLASSICAL.

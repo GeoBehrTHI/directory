@@ -1,3 +1,5 @@
+Overall Classification: CLASSICAL
+
 ## ABSTRACT
 
 Emet Classical Academy NY 10022 is a Jewish classical school that integrates Torah/sholom and Western civilization within a rigorous liberal-arts framework. Across six classical criteria, the school demonstrates CLASSICAL alignment:

@@ -2,17 +2,17 @@
 
 - Overall classification: SOMEWHAT CLASSICAL
 
-- Category 1: CLASSICAL – FHCA demonstrates a strong religious/metaphysical foundation, with explicit Biblical worldview and Bible coursework embedded in the curriculum. Positive indicators (biblical worldview, Christ-centered education, Bible integration) are evident; no clear negative signals in public materials.  
+- Element 1: CLASSICAL – FHCA demonstrates a strong religious/metaphysical foundation, with explicit Biblical worldview and Bible coursework embedded in the curriculum. Positive indicators (biblical worldview, Christ-centered education, Bible integration) are evident; no clear negative signals in public materials.  
 
-- Category 2: SOMEWHAT CLASSICAL – The school's purpose centers on formation and a Biblical telos, which aligns with classical aims to form virtue, but the public materials do not present the full classical telos vocabulary (truth, goodness, beauty) as explicit, nor a fully classical Great Books orientation. The modern University Prep Diploma signals college-readiness alongside formation.  
+- Element 2: SOMEWHAT CLASSICAL – The school's purpose centers on formation and a Biblical telos, which aligns with classical aims to form virtue, but the public materials do not present the full classical telos vocabulary (truth, goodness, beauty) as explicit, nor a fully classical Great Books orientation. The modern University Prep Diploma signals college-readiness alongside formation.  
 
-- Category 3: NOT CLASSICAL – Curriculum is clearly college-prep with Bible as a core component but lacks explicit classical elements (Great Books program, trivium-focused progression, Latin, explicit Western civ through a classical framework). 
+- Element 3: NOT CLASSICAL – Curriculum is clearly college-prep with Bible as a core component but lacks explicit classical elements (Great Books program, trivium-focused progression, Latin, explicit Western civ through a classical framework). 
 
-- Category 4: NOT CLASSICAL – Pedagogy is not publicly described as classical (no explicit Socratic/seminar/Scholé approach in public materials). 
+- Element 4: NOT CLASSICAL – Pedagogy is not publicly described as classical (no explicit Socratic/seminar/Scholé approach in public materials). 
 
-- Category 5: SOMEWHAT CLASSICAL – Faculty presence is evident (Headmaster and Christian ethos), but there is no explicit public articulation of a formal “living curriculum” or classical-teacher portrait. 
+- Element 5: SOMEWHAT CLASSICAL – Faculty presence is evident (Headmaster and Christian ethos), but there is no explicit public articulation of a formal “living curriculum” or classical-teacher portrait. 
 
-- Category 6: SOMEWHAT CLASSICAL – There is visible parent/community engagement through events, alumni networks, and volunteering, though a fully articulated partnership model (parents as co-teachers) is not consistently stated in public materials. 
+- Element 6: SOMEWHAT CLASSICAL – There is visible parent/community engagement through events, alumni networks, and volunteering, though a fully articulated partnership model (parents as co-teachers) is not consistently stated in public materials. 
 
 - Aggregate assessment: SOMEWHAT CLASSICAL
 

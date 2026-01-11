@@ -15,7 +15,7 @@ Cited public materials include explicit statements about classical Christian aim
 
 ## EXECUTIVE SUMMARY
 
-Overall Classification: CLASSICAL, with Category 4 (Pedagogy) reaching a SOMEWHAT CLASSICAL designation due to less explicit public documentation of Socratic/seminar-based pedagogy in WHA’s web materials. The aggregate mix is weighted toward Classical given the strong signals in Religious Foundations, Formation-focused Purpose, Classical Curriculum, and a clearly community- and family-oriented model of Parents & Community.
+Overall Classification: CLASSICAL, with Element 4 (Pedagogy) reaching a SOMEWHAT CLASSICAL designation due to less explicit public documentation of Socratic/seminar-based pedagogy in WHA’s web materials. The aggregate mix is weighted toward Classical given the strong signals in Religious Foundations, Formation-focused Purpose, Classical Curriculum, and a clearly community- and family-oriented model of Parents & Community.
 
 Key insights:
 - WHA frames education as formation in a Christian, classical tradition and emphasizes truth, goodness, and beauty rooted in Scripture.

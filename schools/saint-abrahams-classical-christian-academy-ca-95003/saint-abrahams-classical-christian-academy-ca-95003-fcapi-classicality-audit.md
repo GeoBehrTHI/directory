@@ -19,7 +19,7 @@ Evidence
 - The school explicitly states education is about virtue and alignment with God’s will, integrating theology with curricular aims.
 
 Positive/Negative keyword analysis
-- Positive keywords present: truth, goodness, beauty, virtue, theology, liturgy, worship, sacred, imago Dei, Word, Triune God, wisdom. The site repeatedly ties virtue formation and worship to learning. fileciteturn0file0turn0file2turn0file16
+- Positive keywords present: truth, goodness, beauty, virtue, theology, liturgy, worship, sacred, imago Dei, Word, Triune God, wisdom. The site repeatedly ties virtue formation and worship to learning. 
 - Negative keywords present: none evident (no signal of relativism, secular humanism, or values-neutral stance). 
 
 Why this rating
@@ -33,7 +33,7 @@ Evidence
 - Public materials reference goals like “formation of virtue and wisdom” and a graduate vision grounded in classical liberal arts, with a regional mission to foster Christian discipleship and classical learning.
 
 Positive/Negative keyword analysis
-- Positive keywords present: formation, virtue, human flourishing, wisdom, liberal education, Great Books/Great Conversation, telos, pursuit of the true/good/beautiful, scholé, classical heritage, soul craft, moral imagination.fileciteturn0file0turn0file11
+- Positive keywords present: formation, virtue, human flourishing, wisdom, liberal education, Great Books/Great Conversation, telos, pursuit of the true/good/beautiful, scholé, classical heritage, soul craft, moral imagination.
 - Negative keywords present: references to “college and career ready” or workforce-prep framing appear only as tension against a job-focused narrative (the public-facing material emphasizes formation over job-training). This aligns with the Negative signal in the lexicon.
 
 Why this rating
@@ -42,7 +42,7 @@ Why this rating
 ### Element 3: School Curriculum — CLASSICAL
 
 Evidence
-- The curriculum is described in terms of liberal arts fundamentals—grammar, logic, rhetoric—and includes Great Books, primary sources, Latin, history, and Western civilization. Students study history through a biblical/Christian framework rather than as “social studies.” The curriculum progression aligns with the Grammar-Logic-Rhetoric model.fileciteturn0file12turn0file11
+- The curriculum is described in terms of liberal arts fundamentals—grammar, logic, rhetoric—and includes Great Books, primary sources, Latin, history, and Western civilization. Students study history through a biblical/Christian framework rather than as “social studies.” The curriculum progression aligns with the Grammar-Logic-Rhetoric model.
 - References to Great Books, the Great Conversation, and the Liberal Arts Tradition are explicit, with emphasis on learning through primary sources and classical texts.
 - The school frames education as formation and wonder, with memory-based and oral/recitation practices as part of the pedagogy. Latin study and classical languages are part of the program.
 
@@ -70,7 +70,7 @@ Why this rating
 ### Element 5: School Faculty — CLASSICAL
 
 Evidence
-- The Headmaster is presented as a central mentor and model of virtue; the school emphasizes a living curriculum and a community of teachers who model virtue, skill, and knowledge. There are explicit references to a portrait or profile of teacher ideals and a “faculty as the living curriculum.” The governance includes a Board of Directors composed of parents, educators, and community leaders.fileciteturn0file8turn0file16
+- The Headmaster is presented as a central mentor and model of virtue; the school emphasizes a living curriculum and a community of teachers who model virtue, skill, and knowledge. There are explicit references to a portrait or profile of teacher ideals and a “faculty as the living curriculum.” The governance includes a Board of Directors composed of parents, educators, and community leaders.
 
 Positive/Negative keyword analysis
 - Positive keywords present: living curriculum, portrait of a teacher, faculty of friends, collegial culture, moral exemplars, mentorship, master/teacher imagery, headmaster leadership.
@@ -82,7 +82,7 @@ Why this rating
 ### Element 6: Parents and Community — CLASSICAL
 
 Evidence
-- The school describes partnerships with parents and a vision that parents are co-teachers or integral partners in the educational project. The governance structure includes parent involvement (Board composition includes parents). The school invites campus visits and engagement (open-door policy for visits; “Plan a visit” calls to action).fileciteturn0file2turn0file16
+- The school describes partnerships with parents and a vision that parents are co-teachers or integral partners in the educational project. The governance structure includes parent involvement (Board composition includes parents). The school invites campus visits and engagement (open-door policy for visits; “Plan a visit” calls to action).
 
 Positive/Negative keyword analysis
 - Positive keywords present: partnership with parents, co-teachers, parental formation, reading groups/seminars/book clubs, open campus, parent involvement, campus visits.
@@ -98,6 +98,6 @@ What Would Move the Needle
 
 - No major needle-moving changes are required given the clearly CLASSICAL orientation across all six categories.
 - If desired as minor refinements (not required for CLASSICAL status), the school could more explicitly spotlight:
-  - A formal, published articulation of parents as co-educators in all communication and a documented “Parent Formation” program (book studies, lectures, or study groups) to strengthen the explicit connector between parent education and classroom formation.
-  - A concise, public-facing overview of the Great Books/Great Conversation components and the canonical texts used in each grade band to enhance transparency for prospective families.
-  - A brief summary of the governance model and teacher-professional development aligned with classical pedagogy to further emphasize “living curriculum” in practice.
+ - A formal, published articulation of parents as co-educators in all communication and a documented “Parent Formation” program (book studies, lectures, or study groups) to strengthen the explicit connector between parent education and classroom formation.
+ - A concise, public-facing overview of the Great Books/Great Conversation components and the canonical texts used in each grade band to enhance transparency for prospective families.
+ - A brief summary of the governance model and teacher-professional development aligned with classical pedagogy to further emphasize “living curriculum” in practice.

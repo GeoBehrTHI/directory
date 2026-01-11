@@ -1,3 +1,5 @@
+Overall Classification: CLASSICAL
+
 ## ABSTRACT
 
 Chesterton Academy of Northern Utah demonstrates a cohesive CLASSICAL profile across all six categories of the classical education rubric. The school’s public materials articulate a Catholic, Incarnational foundation, a formation-centered purpose (culture of life; virtue and wisdom; classical formation), a liberal-arts curriculum, Socratic pedagogy with rhetoric training, a faculty culture grounded in formation and Catholic practice, and a robust parents-and-community partnership. The keywords visible in CANU’s materials align closely with the Positive Keyword Indicators from the Six Essential Elements of a Classical School (1) and the classical lexicon (truth, goodness, beauty; theology; liturgy; Incarnation; Great Books/Conversations; Socratic pedagogy; living curriculum; partnership with families; etc.), while showing no strong negative signals in the public content. Overall, the CANU profile reads as CLASSICAL with clear alignment to traditional classical education norms.

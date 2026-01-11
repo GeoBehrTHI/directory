@@ -1,34 +1,34 @@
 ## ABSTRACT
 
-Detroit Christian School Mi 48208 demonstrates a strong CLASSICAL orientation across most of the classical-education rubric. The public copy positions the school as Christ-centered and classical, with explicit Trivium-based curriculum (grammar, logic, rhetoric) and a humanities-forward program that engages Great Books/Western tradition in a biblically integrated context. The mission centers on formation, virtue, and wisdom—educational aims that prioritize truth, goodness, and beauty as real, knowable ideals grounded in Scripture and Christian theology. Pedagogy emphasizes memorization, recitation, and contemplative/restful elements consistent with scholé, alongside opportunities for rhetoric and public speaking. Public materials also foreground robust parental partnership, with parents viewed as co-teachers and participants in formation, supported by a family-friendly admissions process and accessible tuition options.
+Detroit Christian School (Detroit, MI, 48208) demonstrates a strong CLASSICAL orientation across most of the classical-education rubric. The public copy positions the school as Christ-centered and classical, with explicit Trivium-based curriculum (grammar, logic, rhetoric) and a humanities-forward program that engages Great Books/Western tradition in a biblically integrated context. The mission centers on formation, virtue, and wisdom—educational aims that prioritize truth, goodness, and beauty as real, knowable ideals grounded in Scripture and Christian theology. Pedagogy emphasizes memorization, recitation, and contemplative/restful elements consistent with scholé, alongside opportunities for rhetoric and public speaking. Public materials also foreground robust parental partnership, with parents viewed as co-teachers and participants in formation, supported by a family-friendly admissions process and accessible tuition options.
 
 Category-by-category assessment summary:
-- Category 1: Religious and Metaphysical Foundations — CLASSICAL
+- Element 1: Religious and Metaphysical Foundations — CLASSICAL
   Evidence: Christ-centered, theology/scripture, liturgy/worship language, WCF; evidence of transcendental moral realism and sacred text.
   Keyword indicators: Christ-centered, theology, Scripture, liturgy, wonder, wisdom, imago Dei, WCF.
   Rating rationale: Strong theological grounding and the existence of sacred, transcendentals-like language support CLASSICAL.
 
-- Category 2: School Purpose and Goal — CLASSICAL
+- Element 2: School Purpose and Goal — CLASSICAL
   Evidence: Formation over information; virtue and character emphasis; teleology around truth/goodness/beauty; Great Books framing.
   Keyword indicators: formation, virtue, wisdom, telos, great books/Western tradition, scholé.
   Rating rationale: Clear formation-focused goals with classical philosophical backbone.
 
-- Category 3: Curriculum — CLASSICAL
+- Element 3: Curriculum — CLASSICAL
   Evidence: Trivium; humanities focus; canonical literature; integration of history and Western civilization; classical languages and primary sources.
   Keyword indicators: liberal arts, grammar, logic, rhetoric, great books, primary sources, classics, Homer/Plato/Augustine/Shakespeare, Latin/Greek, history.
   Rating rationale: Classic curriculum blueprint is explicit and thorough.
 
-- Category 4: Pedagogy — CLASSICAL
+- Element 4: Pedagogy — CLASSICAL
   Evidence: Memorization/recitation/imitation; contemplative/restful learning; memory work; rhetoric training; public-speaking elements implied.
   Keyword indicators: memorization, recitation, chanting, scholé, contemplation, wonder, rhetoric, speech, debate.
   Rating rationale: Pedagogy aligns with classical methods and the balance of contemplative/restful and active discourse.
 
-- Category 5: Faculty — SOMEWHAT CLASSICAL
+- Element 5: Faculty — SOMEWHAT CLASSICAL
   Evidence: Public copy notes teachers’ role in content Delivery and formation; no explicit “living curriculum” language or faculty portraits in readily visible text.
   Keyword indicators: teachers/staff impacting content; formation; relationships; but limited explicit faculty-as-core-lesson language.
   Rating rationale: Strong classical ethos evident, but explicit faculty-as-living-curriculum language is not clearly stated in public materials.
 
-- Category 6: Parents & Community — CLASSICAL
+- Element 6: Parents & Community — CLASSICAL
   Evidence: Partners with parents, parents as co-teachers, community/family formation resources; open campus and family involvement; admissions language emphasizing parental role.
   Keyword indicators: partnership with parents, co-teachers, parental formation, home liturgy, family participation.
   Rating rationale: Public materials strongly reflect classical-community alignment.

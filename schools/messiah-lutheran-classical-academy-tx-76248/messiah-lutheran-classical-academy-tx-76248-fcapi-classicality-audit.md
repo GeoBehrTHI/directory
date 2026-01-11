@@ -4,7 +4,7 @@ Messiah Lutheran Classical Academy (MLCA), Keller, TX (MLCA) demonstrates a robu
 
 Overall classification: CLASSICAL.
 
-Key supporting observations include: explicit references to daily chapel, catechesis, liturgical practices, and a Christ-centered worldview; a curriculum that centers the Trivium (grammar, logic, rhetoric) and the Quadrivium and features Great Books/Great Works; pedagogy that spans contemplative (scholé-like) practice in the lower grades and Socratic/seminar/rhetoric work in the upper grades; named faculty roles and visible teacher leadership; and an emphasis on parent involvement and open campus activities (tours, admissions inquiries). These attributes are consistently reflected across MLCA’s admissions pages, curriculum materials, classroom blogs, and social/press communications. See citations for evidence across the MLCA materials: daily chapel, catechesis, and Christian worldview (turn0file6, turn0file7); curriculum details (turn0file8, turn0file4); rhetoric and Socratic pedagogy (turn0file15); teacher profiles (turn0file12); and parental/community engagement (turn0file1, turn0file2, turn0file6).       
+Key supporting observations include: explicit references to daily chapel, catechesis, liturgical practices, and a Christ-centered worldview; a curriculum that centers the Trivium (grammar, logic, rhetoric) and the Quadrivium and features Great Books/Great Works; pedagogy that spans contemplative (scholé-like) practice in the lower grades and Socratic/seminar/rhetoric work in the upper grades; named faculty roles and visible teacher leadership; and an emphasis on parent involvement and open campus activities (tours, admissions inquiries). These attributes are consistently reflected across MLCA’s admissions pages, curriculum materials, classroom blogs, and social/press communications. See citations for evidence across the MLCA materials: daily chapel, catechesis, and Christian worldview (turn0file6, turn0file7); curriculum details (turn0file8, turn0file4); rhetoric and Socratic pedagogy (turn0file15); teacher profiles (turn0file12); and parental/community engagement (turn0file1, turn0file6). 
 
 ## Executive Summary — Element-by-Element Snapshot
 
@@ -12,11 +12,11 @@ Key supporting observations include: explicit references to daily chapel, catech
 
 Evidence
 - MLCA presents its mission as a Christ-centered program rooted in God’s Word, described as a ministry within a church and explicitly aiming to form students "to become what God has created them in Christ to be" and to permeate all daily schooling with a Christian worldview. This is evidenced in admissions and program descriptions highlighting a Christian worldview and church affiliation (LCMS). 
-- Daily chapel and chapel-related activities (e.g., Chapel Buddies for mentoring spiritual growth) are described, signaling liturgical and communal practices integral to the educational experience.  
+- Daily chapel and chapel-related activities (e.g., Chapel Buddies for mentoring spiritual growth) are described, signaling liturgical and communal practices integral to the educational experience. 
 - Lutheran Church–Missouri Synod (LCMS) affiliation is referenced, grounding the school in a defined theological framework. 
 
 Positive/Negative Keyword Analysis
-- Positive keywords found: chapel, catechesis, liturgy, liturgical calendar, Christ-centered worldview, theology (implicit via Word of God and catechesis), LCMS/Christian faith, daily chapel. The public materials consistently invoke sacred practices and theological framing (evident in daily chapel, catechesis, and church affiliation).  
+- Positive keywords found: chapel, catechesis, liturgy, liturgical calendar, Christ-centered worldview, theology (implicit via Word of God and catechesis), LCMS/Christian faith, daily chapel. The public materials consistently invoke sacred practices and theological framing (evident in daily chapel, catechesis, and church affiliation). 
 - Negative keywords found: none evident in public materials (no explicit secular or relativist language appears; the content emphasizes Christian doctrine and worship rather than secular ethics alone). The lexicon’s negative signals (e.g., relativism, secular humanism) are not evident in MLCA’s public pages.
 
 Why this rating
@@ -27,11 +27,11 @@ Citations: daily chapel and Christ-centered mission (turn0file6); Chapel Buddies
 ### Element 2: School Purpose and Goal — CLASSICAL
 
 Evidence
-- The public materials emphasize formation of character and a Christ-centered aim, rather than mere information transfer. The mission states forming students into what God has created them to be, signaling formation and virtue-oriented goals. The “classical education” framing and references to a Great Conversation and the pursuit of timeless truths appear in the site’s discussions of classical education and the school’s mission.  
+- The public materials emphasize formation of character and a Christ-centered aim, rather than mere information transfer. The mission states forming students into what God has created them to be, signaling formation and virtue-oriented goals. The “classical education” framing and references to a Great Conversation and the pursuit of timeless truths appear in the site’s discussions of classical education and the school’s mission. 
 - Blog content and curriculum pages frame education as a path toward wisdom, virtue, and human flourishing within a Christian worldview, rather than a narrow workforce-preparation emphasis. The rhetoric around classical education (as discussed in MLCA’s blogs and curriculum materials) aligns with the classical telos of forming the whole person. 
 
 Positive/Negative Keyword Analysis
-- Positive keywords found: formation, virtue, wisdom, telos, pursuit of truth/goodness/beauty, great conversation, scholé (as a concept), classical mission, human flourishing. The site’s mission and classical framing emphasize formation and enduring truth rather than vocational training alone.  
+- Positive keywords found: formation, virtue, wisdom, telos, pursuit of truth/goodness/beauty, great conversation, scholé (as a concept), classical mission, human flourishing. The site’s mission and classical framing emphasize formation and enduring truth rather than vocational training alone. 
 - Negative keywords found: none evident (no explicit emphasis on “college/career readiness” or 21st-century job skills in the core stated goals on public pages).
 
 Why this rating
@@ -48,7 +48,7 @@ Evidence
 - History and Western civilization are integrated across the curriculum rather than treated as “social studies” only; a historically grounded, canonical approach is visible in the curriculum descriptions. 
 
 Positive/Negative Keyword Analysis
-- Positive keywords found: grammar, logic, rhetoric; Trivium; Quadrivium; Great Books/Great Works; canonical Western Civilization; Latin/Greek/Hebrew; history/chronology; literature; catechesis/two-way text engagement; memorization and recitation (narration, dictation). These map directly to classical curriculum indicators.   
+- Positive keywords found: grammar, logic, rhetoric; Trivium; Quadrivium; Great Books/Great Works; canonical Western Civilization; Latin/Greek/Hebrew; history/chronology; literature; catechesis/two-way text engagement; memorization and recitation (narration, dictation). These map directly to classical curriculum indicators. 
 - Negative keywords found: minimal to none (the site does not emphasize “project-based learning dominance” or Social Studies-centric framing in place of classical history; the lexicon’s negative signals are not evidenced in MLCA’s public curriculum materials). See the lexicon for reference to potential negative signals like project-based learning and social-studies terminology, which MLCA avoids in favor of canonical history. 
 
 Why this rating
@@ -64,7 +64,7 @@ Evidence
 - The public materials describe a path from grammar to logic to rhetoric across grades, with opportunities for memorization, recitation, and rhetorical performance (written and oral). 
 
 Positive/Negative Keyword Analysis
-- Positive keywords found: scholé, contemplation, memory work; chanting; narration/recitation; Socratic seminar; dialectic; disputation; rhetoric; delivery/speeches; capstone orations; tutorials/seminars. The site’s materials include clear references to these classical-teaching methods (lower-school memory/chanting; upper-school Socratic and rhetoric). fileciteturn0file8turn0file15
+- Positive keywords found: scholé, contemplation, memory work; chanting; narration/recitation; Socratic seminar; dialectic; disputation; rhetoric; delivery/speeches; capstone orations; tutorials/seminars. The site’s materials include clear references to these classical-teaching methods (lower-school memory/chanting; upper-school Socratic and rhetoric). 
 - Negative keywords found: none evident in public materials (no explicit emphasis on experiential-only or project-based pedagogy over classical method).
 
 Why this rating
@@ -75,7 +75,7 @@ Citations: Preschool/Kindergarten pedagogy (turn0file8); Rhetoric School descrip
 ### Element 5: School Faculty — CLASSICAL
 
 Evidence
-- Public materials feature named faculty, including Kris Carter (Assistant Principal and 1st Grade teacher) and other profile pages (e.g., Kris Carter, Linda Pinkston as Preschool Director, etc.). This demonstrates visible teacher leadership and involvement in administration and curriculum.  
+- Public materials feature named faculty, including Kris Carter (Assistant Principal and 1st Grade teacher) and other profile pages (e.g., Kris Carter, Linda Pinkston as Preschool Director, etc.). This demonstrates visible teacher leadership and involvement in administration and curriculum. 
 - The school presents “the faculty” as part of the school’s identity (e.g., profiles, and the idea of teachers as mentors/centers of the living curriculum). While explicit phrases like “living curriculum” are not always written verbatim, the presence of named teachers and administrator roles supports the notion of a tightly integrated faculty who embody and deliver the curriculum. 
 - The small class sizes emphasis (e.g., “Small Classes averaging 11 students per class”) and teacher leadership are described in public materials, reinforcing a community of practice among faculty. 
 

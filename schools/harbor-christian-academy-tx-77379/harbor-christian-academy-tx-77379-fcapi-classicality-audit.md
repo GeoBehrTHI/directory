@@ -10,7 +10,7 @@ Key takeaways:
 - Faculty is presented through a Christian, mentoring lens with visible teacher roles and a living-curriculum flavor via a Christian faculty.
 - Parents & Community are integrated through partnerships, parent formation opportunities, and open access to engage with the school.
 
-Evidence is drawn from Harbor Christian Academy’s public materials, including statements about the Trivium, daily worship, Latin and logic study, senior theses, and explicit parent partnerships. See the cited sources throughout for specifics. fileciteturn0file1turn0file2turn0file10turn0file5turn0file9
+Evidence is drawn from Harbor Christian Academy’s public materials, including statements about the Trivium, daily worship, Latin and logic study, senior theses, and explicit parent partnerships. See the cited sources throughout for specifics. 
 
 ---
 
@@ -33,7 +33,7 @@ Quantitative Estimate
 - Negative keywords present: 0 observed.
 
 Why this rating
-- The school explicitly anchors education in transcendentals (truth, goodness, beauty) formed within a Biblical/theological frame, with liturgical practices and worship as part of daily life. This aligns strongly with the Religious and Metaphysical Foundations criteria and yields a CLASSICAL rating. fileciteturn0file1turn0file2turn0file10
+- The school explicitly anchors education in transcendentals (truth, goodness, beauty) formed within a Biblical/theological frame, with liturgical practices and worship as part of daily life. This aligns strongly with the Religious and Metaphysical Foundations criteria and yields a CLASSICAL rating. 
 
 ### Element 2: School Purpose and Goal — CLASSICAL
 
@@ -51,14 +51,14 @@ Quantitative Estimate
 - Negative keywords present: 0 observed.
 
 Why this rating
-- The materials consistently present education as formation and the cultivation of virtue and wisdom, anchored in a transcendent telos and classical mission, rather than solely job-oriented outcomes. This warrants CLASSICAL. fileciteturn0file10turn0file1
+- The materials consistently present education as formation and the cultivation of virtue and wisdom, anchored in a transcendent telos and classical mission, rather than solely job-oriented outcomes. This warrants CLASSICAL. 
 
 ### Element 3: School Curriculum — CLASSICAL
 
 Evidence
 - Trivium emphasis: grammar, logic, rhetoric are central to the classroom (The Trivium in the Classroom). 
 - Explicit curriculum elements: grammar, logic, rhetoric; study of formal logic; rhetoric; memorization; grammar-stage activities; logic-stage debates; rhetoric-stage senior thesis. 
-- History and Great-Books-like engagement: “classic literature” discussion to discern what is true, good, and beautiful; integration of literature with history and geography; emphasis on Latin study; emphasis on Western civilization/history as context. fileciteturn0file1turn0file10
+- History and Great-Books-like engagement: “classic literature” discussion to discern what is true, good, and beautiful; integration of literature with history and geography; emphasis on Latin study; emphasis on Western civilization/history as context. 
 - Latin and classical languages; primary-source-style study; primary literature and classical themes noted in philosophy page. 
 - The program emphasizes a language-rich, literature-and-history-integrated humanities core and a vertical progression through grammar, dialectic, and rhetoric. 
 
@@ -71,7 +71,7 @@ Quantitative Estimate
 - Negative keywords present: 0 observed.
 
 Why this rating
-- The curriculum is explicitly built around the Liberal Arts/Trivium framework, with a strong emphasis on Great Books-style engagement, classical languages, and history-centered study. The presence of grammar–logic–rhetoric and the classical-literature orientation justify CLASSICAL. fileciteturn0file1turn0file10
+- The curriculum is explicitly built around the Liberal Arts/Trivium framework, with a strong emphasis on Great Books-style engagement, classical languages, and history-centered study. The presence of grammar–logic–rhetoric and the classical-literature orientation justify CLASSICAL. 
 
 ### Element 4: Pedagogy or Teaching Methods — CLASSICAL
 
@@ -95,7 +95,7 @@ Why this rating
 ### Element 5: School Faculty — CLASSICAL
 
 Evidence
-- Public-facing statements describe the faculty as Christian teachers guiding students, with small class sizes and a moral-mentoring framing (Our Distinctives; Faculty directory). fileciteturn0file2turn0file4
+- Public-facing statements describe the faculty as Christian teachers guiding students, with small class sizes and a moral-mentoring framing (Our Distinctives; Faculty directory). 
 - The school emphasizes a teacher-centered, virtuous living curriculum through role modeling and mentorship rather than a purely technical credentialing approach. Public materials present teachers as "Christian teachers" and a "caring, Christ-centered community" with a low student-to-teacher ratio (1:14). 
 - Faculty directory shows named teachers and staff across the Grammar/Logic/Rhetoric tracks, emphasizing the teacher as central to student development. 
 
@@ -108,14 +108,14 @@ Quantitative Estimate
 - Negative keywords present: 0 observed.
 
 Why this rating
-- The school presents a teacher-led, mentorship-forward model intertwined with a Christian ethos, with explicit focus on character formation and living exemplars in the faculty. This aligns with CLASSICAL expectations for the Faculty category. fileciteturn0file2turn0file4
+- The school presents a teacher-led, mentorship-forward model intertwined with a Christian ethos, with explicit focus on character formation and living exemplars in the faculty. This aligns with CLASSICAL expectations for the Faculty category. 
 
 ### Element 6: School Parents & Community — CLASSICAL
 
 Evidence
 - Partners and parent involvement emphasized: Harbor Partner Program coordinates donor support to allow low-income urban youth access to classical education; parents are invited to participate, and there is a culture of parental involvement and accountability. 
 - Tuition/policy emphasizes making classical education accessible to families from varied backgrounds; all families receive financial assistance, with ongoing parent engagement through partnerships and donor relationships. 
-- The school positions itself as open to visits and parent participation; there are additional community and family engagement components (e.g., partner funding model, house systems and community life features). fileciteturn0file6turn0file2
+- The school positions itself as open to visits and parent participation; there are additional community and family engagement components (e.g., partner funding model, house systems and community life features). 
 
 Positive/Negative Keyword Analysis
 - Positive keywords present: partnership with parents; co-teachers; parent formation; seminars/book clubs; open campus/visits; parent covenant; family liturgy alignment; community involvement; shared responsibility in governance and funding.
@@ -126,7 +126,7 @@ Quantitative Estimate
 - Negative keywords present: 0 observed.
 
 Why this rating
-- The materials emphasize a strong, explicit partnership with parents and community involvement, aligning with CLASSICAL expectations for Parents & Community. fileciteturn0file5turn0file2
+- The materials emphasize a strong, explicit partnership with parents and community involvement, aligning with CLASSICAL expectations for Parents & Community. 
 
 Aggregate Classification
 - All six categories are CLASSICAL based on keyword signals and evidence from Harbor Christian Academy’s public materials. The aggregate rating is CLASSICAL.

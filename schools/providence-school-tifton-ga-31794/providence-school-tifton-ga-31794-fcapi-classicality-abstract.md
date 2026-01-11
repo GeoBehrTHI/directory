@@ -11,5 +11,3 @@ Category-by-category recap:
 - Parents & Community: CLASSICAL — strong parent partnership ethos, opportunities for family involvement, and community integration signals. 
 
 Aggregate rating: SOMEWHAT CLASSICAL
-
-If you would like, I can extract specific quotes or create a side-by-side rubric matrix comparing each category against the exact Positive/Negative keyword lists from the Six Essential Elements of a Classical School (1) and the lexicon file, with a more granular count of keywords per category.

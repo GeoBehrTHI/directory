@@ -1,6 +1,6 @@
 ## Executive Summary
 
-Cornerstone Christian Academy Va 20117 presents a public materials signal strongly aligned with classical Christian education. Across the most visible materials, the school emphasizes a Trivium-based curriculum (grammar, logic, rhetoric), engagement with Great Books and Western cultural heritage, Latin study, and a Christian worldview integrated into all disciplines. Liturgical and communal practices appear in daily devotions, prayer, and worship rhythms, and faculty are described as credentialed, virtuous guides, with the school presenting itself as a fatherly/motherly living curriculum. The explicit aim is formation of character, virtue, and wisdom within a biblical framework, with a clearly stated goal of classical education alongside college preparation. However, there is less explicit public emphasis on structured parent partnership as co-educators within the available materials, which tempers Element 6 slightly.
+Cornerstone Christian Academy (Middleburg, VA, 20117) presents a public materials signal strongly aligned with classical Christian education. Across the most visible materials, the school emphasizes a Trivium-based curriculum (grammar, logic, rhetoric), engagement with Great Books and Western cultural heritage, Latin study, and a Christian worldview integrated into all disciplines. Liturgical and communal practices appear in daily devotions, prayer, and worship rhythms, and faculty are described as credentialed, virtuous guides, with the school presenting itself as a fatherly/motherly living curriculum. The explicit aim is formation of character, virtue, and wisdom within a biblical framework, with a clearly stated goal of classical education alongside college preparation. However, there is less explicit public emphasis on structured parent partnership as co-educators within the available materials, which tempers Element 6 slightly.
 
 Aggregate ranking: CLASSICAL.
 
@@ -23,8 +23,8 @@ Evidence
 - Public statements consistently frame truth, Gospel, God, and biblical worldview as organizing anchors for learning. 
 
 Positive/Negative keyword analysis
-- Positive keywords present (examples from materials): truth, goodness, beauty; biblical worldview; gospel; theology; prayer; devotions; liturgy/worship; sacred scripture; Christian worldview; Great Conversation; Logos.  
-  Count (illustrative): 8–12 distinct positive terms observed across materials. fileciteturn0file12turn0file11turn0file1
+- Positive keywords present (examples from materials): truth, goodness, beauty; biblical worldview; gospel; theology; prayer; devotions; liturgy/worship; sacred scripture; Christian worldview; Great Conversation; Logos. 
+ Count (illustrative): 8–12 distinct positive terms observed across materials. 
 - Negative keywords: None explicitly found in the public materials (no clear relativism, secularism, or values-neutral framing detected). 
 
 Why this rating
@@ -38,7 +38,7 @@ Evidence
 - References to Great Books/Great Conversation and liberal-arts formation align with classical telos and human flourishing through virtue and wisdom. 
 
 Positive/Negative keyword analysis
-- Positive keywords present: formation, virtue, wisdom, teleology/human flourishing, liberal education, great conversation, true/good/beautiful, formation of affections, contemplation/rest, eternal truths, sacred tradition, Logos. fileciteturn0file0turn0file11turn0file12
+- Positive keywords present: formation, virtue, wisdom, teleology/human flourishing, liberal education, great conversation, true/good/beautiful, formation of affections, contemplation/rest, eternal truths, sacred tradition, Logos. 
 - Negative keywords: Largely absent; the public materials emphasize formation/virtue rather than workforce-forward framing (no strong “career readiness” or “21st-century skills” signals in the materials). 
 
 Why this rating
@@ -54,7 +54,7 @@ Evidence
 - Education aims to cultivate wonder; recitation, memory, and singing support foundational knowledge. 
 
 Positive/Negative keyword analysis
-- Positive keywords present: Seven Liberal Arts (grammar, logic, rhetoric; Latin; quadrivium references), Great Books, Great Conversation, Western civilization, history as narrative, memory work (recitation, chant), wonder. fileciteturn0file10turn0file12
+- Positive keywords present: Seven Liberal Arts (grammar, logic, rhetoric; Latin; quadrivium references), Great Books, Great Conversation, Western civilization, history as narrative, memory work (recitation, chant), wonder. 
 - Negative keywords: None indicating an alternative, non-classical approach; no substitution with contemporary-only project-based or social studies-centric framing evident in the core materials. 
 
 Why this rating
@@ -68,7 +68,7 @@ Evidence
 - The Great Books/Great Conversation framework with dialogic engagement and civil discourse appears in the materials and in the school’s stated pedagogy (e.g., “great conversation,” classical dialogue). 
 
 Positive/Negative keyword analysis
-- Positive keywords present: Scholé, rest, contemplation; singing/chanting/memory work; recitation; Socratic dialogue or dialectic (dialogue-focused pedagogy); seminars; rhetoric; debate; memory-based learning; formation through imitation. fileciteturn0file12turn0file10
+- Positive keywords present: Scholé, rest, contemplation; singing/chanting/memory work; recitation; Socratic dialogue or dialectic (dialogue-focused pedagogy); seminars; rhetoric; debate; memory-based learning; formation through imitation. 
 - Negative keywords: Very few; no strong signals of project-based-only or constructivist dominance; the materials emphasize memory, memorization, and formal discourse more than purely student-driven, non-traditional instruction. (Negative signals are not prominent in the available school materials; the lexicon’s negative indicators are not evidenced in the public materials.) 
 
 Why this rating

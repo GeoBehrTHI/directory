@@ -22,7 +22,7 @@ Notes on keyword analysis: Across all categories, the school’s materials show 
 ### Element 1: Religious and Metaphysical Foundations — CLASSICAL
 
 Evidence
-- Public materials emphasize a Christ-centered, gospel-centered educational aim. Examples include statements such as “NCCA is a Christ-centered school” and “Cultivate faith, wisdom, and character through biblical truth and Christ-centered connection.”  
+- Public materials emphasize a Christ-centered, gospel-centered educational aim. Examples include statements such as “NCCA is a Christ-centered school” and “Cultivate faith, wisdom, and character through biblical truth and Christ-centered connection.” 
 - The school describes itself as “Gospel Centered, Academically Excellent and Classically Informed,” signaling a transcendent moral realism integrated with theological framing. 
 - Weekly chapel services with a local pastor and a time of worship are explicit practices, signaling liturgical/community life as part of formation. 
 - Public materials reference biblical worldview, biblical truth, and theology-oriented framing (Statements of Faith/Vision; biblical wisdom). 
@@ -34,7 +34,7 @@ Positive/Negative Keyword Analysis
 Estimated balance: Strong positive orientation with 8–10 explicit positive keywords identified, 0 negative keywords identified in the NCC materials. This yields a predominantly CLASSICAL alignment for this category.
 
 Why this rating
-- The materials consistently ground education in theological commitments and transcendental ideals (truth, goodness, beauty) within a Christian framework, with liturgical/community life integrated into schooling. This aligns with the Positive Keyword indicators for Grounded in Theology and Liturgical/Communal Practices, and it is reinforced by direct statements about biblical truth and a gospel-centered mission. The presence of chapel, biblical worldview, and Christ-centered framing supports a CLASSICAL rating for this category. fileciteturn0file0turn0file3turn0file12
+- The materials consistently ground education in theological commitments and transcendental ideals (truth, goodness, beauty) within a Christian framework, with liturgical/community life integrated into schooling. This aligns with the Positive Keyword indicators for Grounded in Theology and Liturgical/Communal Practices, and it is reinforced by direct statements about biblical truth and a gospel-centered mission. The presence of chapel, biblical worldview, and Christ-centered framing supports a CLASSICAL rating for this category. 
 
 ### Element 2: School Purpose and Goal — CLASSICAL
 
@@ -51,12 +51,12 @@ Positive/Negative Keyword Analysis
 Estimated balance: Approximately 5–6 positive keywords identified; 0 negative keywords observed in the NCC materials. CLASSICAL.
 
 Why this rating
-- The materials reveal a clear focus on formation, virtue, and human flourishing through a liberal-arts framework, consistent with the classical aim that education is formation rather than mere information. The presence of “Great Conversation” language and “liberal arts” framing further supports a CLASSICAL rating. fileciteturn0file3turn0file12turn1file6
+- The materials reveal a clear focus on formation, virtue, and human flourishing through a liberal-arts framework, consistent with the classical aim that education is formation rather than mere information. The presence of “Great Conversation” language and “liberal arts” framing further supports a CLASSICAL rating. 
 
 ### Element 3: Curriculum — CLASSICAL
 
 Evidence
-- The site explicitly identifies a liberal-arts orientation and classical formation through references to “Classically Informed,” “Liberal Arts curriculum,” and a Trivium-centered structure. The presence of a Trivium Grade Chart (grammar, logic, rhetoric) demonstrates alignment with the Seven Liberal Arts model. fileciteturn0file12turn0file18turn1file19
+- The site explicitly identifies a liberal-arts orientation and classical formation through references to “Classically Informed,” “Liberal Arts curriculum,” and a Trivium-centered structure. The presence of a Trivium Grade Chart (grammar, logic, rhetoric) demonstrates alignment with the Seven Liberal Arts model. 
 - The Trivium is detailed in materials such as Grammar/Logic/Rhetoric progression, with notes on recitation, memory, and a rhythm of learning that aligns with classical curricula. 
 - Positive references to Great Books/Great Conversation and primary sources appear in the broader classical education lexicon and in the school’s recommended reading materials that support a classical canon mindset. 
 
@@ -68,12 +68,12 @@ Positive/Negative Keyword Analysis
 Estimated balance: 4–6 positive keywords identified; 0–1 negative keywords (none explicitly shown in NCC materials). CLASSICAL.
 
 Why this rating
-- The explicit emphasis on liberal arts education, the Trivium structure (grammar/logic/rhetoric), and the presence of a Trivium progression strongly align with classical curriculum criteria. The presence of “Great Conversation” language or canon-based readings, and the focus on history through a Western/canonical lens, supports CLASSICAL status for this category. fileciteturn0file12turn1file19
+- The explicit emphasis on liberal arts education, the Trivium structure (grammar/logic/rhetoric), and the presence of a Trivium progression strongly align with classical curriculum criteria. The presence of “Great Conversation” language or canon-based readings, and the focus on history through a Western/canonical lens, supports CLASSICAL status for this category. 
 
 ### Element 4: Pedagogy or Teaching Methods — CLASSICAL
 
 Evidence
-- The school’s public materials describe a pedagogy that uses contemplative/restful elements (Scholé) and Socratic/Socratic-style discourse at appropriate levels. The Trivium materials describe upper-school Socratic discussion, seminars, debates, and rhetoric training. Lower grades include singing, memory work, chanting, recitation, and regular memory review. fileciteturn0file11turn1file19
+- The school’s public materials describe a pedagogy that uses contemplative/restful elements (Scholé) and Socratic/Socratic-style discourse at appropriate levels. The Trivium materials describe upper-school Socratic discussion, seminars, debates, and rhetoric training. Lower grades include singing, memory work, chanting, recitation, and regular memory review. 
 - There is explicit reference to teaching methods that incorporate guided discovery, debates, and field experiences, alongside recitation and memory work, which map onto classical pedagogical indicators. The “grammar” and “recitation” methods show a strong memory-and-formative approach. 
 - The public materials emphasize the upper-school emphasis on rhetoric, with opportunities to give speeches and develop oratorical skills as part of the program. 
 
@@ -85,7 +85,7 @@ Positive/Negative Keyword Analysis
 Estimated balance: High positive keyword presence (4–7 distinct modalities); 0 negative keywords observed. CLASSICAL.
 
 Why this rating
-- The pedagogical approach aligns with classical expectations: a progression from memory-based, chant/recitation-based learning in the early grades to Socratic/seminar/rhetoric activities in upper grades, complemented by thoughtful, contemplative pacing. The explicit inclusion of "Socratic dialogue," "Scholé," and "memory work" in the NCC materials solidifies CLASSICAL status. fileciteturn0file11turn1file19
+- The pedagogical approach aligns with classical expectations: a progression from memory-based, chant/recitation-based learning in the early grades to Socratic/seminar/rhetoric activities in upper grades, complemented by thoughtful, contemplative pacing. The explicit inclusion of "Socratic dialogue," "Scholé," and "memory work" in the NCC materials solidifies CLASSICAL status. 
 
 ### Element 5: Faculty — CLASSICAL
 
@@ -118,7 +118,7 @@ Positive/Negative Keyword Analysis
 Estimated balance: 4–5 positive keywords present; 0 negative keywords observed. CLASSICAL.
 
 Why this rating
-- The school’s emphasis on partnering with families, parent formation opportunities, and welcoming parental involvement aligns with the classical principle of a strong parent-community partnership and formation of affections through shared tradition. This places Element 6 squarely in CLASSICAL. fileciteturn0file3turn0file5
+- The school’s emphasis on partnering with families, parent formation opportunities, and welcoming parental involvement aligns with the classical principle of a strong parent-community partnership and formation of affections through shared tradition. This places Element 6 squarely in CLASSICAL. 
 
 ---
 

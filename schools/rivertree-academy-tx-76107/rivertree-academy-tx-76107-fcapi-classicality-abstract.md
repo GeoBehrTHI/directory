@@ -4,12 +4,12 @@ Rivertree Academy presents a clearly religious, Christ-centered school with a fo
 
 Final classification: NOT CLASSICAL (overall)
 
-- Category 1: CLASSICAL
-- Category 2: SOMEWHAT CLASSICAL
-- Category 3: NOT CLASSICAL
-- Category 4: NOT CLASSICAL
-- Category 5: NOT CLASSICAL
-- Category 6: SOMEWHAT CLASSICAL
+- Element 1: CLASSICAL
+- Element 2: SOMEWHAT CLASSICAL
+- Element 3: NOT CLASSICAL
+- Element 4: NOT CLASSICAL
+- Element 5: NOT CLASSICAL
+- Element 6: SOMEWHAT CLASSICAL
 
 Overall, Rivertree Academy possesses a Christian formation orientation and community engagement that align with some classical aims, but the publicly documented curriculum and pedagogical methods do not establish a comprehensive classical program.
 

@@ -1,13 +1,15 @@
+Overall Classification: SOMEWHAT CLASSICAL
+
 ## ABSTRACT
 
 Aristoi Classical Academy Cypress demonstrates a CLASSICAL-leaning orientation within a public-charter context, anchored by a strong emphasis on the liberal arts and Trivium-inspired pedagogy (grammar, logic, rhetoric) and formation of virtue. However, public-facing materials do not consistently articulate theology or liturgical practices, and explicit Great Books/Great Conversation framing is not clearly demonstrated in the accessible content. Faculty-focal language and explicit parent-co-teaching models are also not clearly stated. Taken together, ACA Cypress earns a SOMEWHAT CLASSICAL designation overall, with concrete opportunities to advance toward a fully CLASSICAL profile by publicly confirming religious/metaphysical grounding, canonical reading programs, faculty living-curriculum language, and enhanced parent-partnering structures.
 
-- Category 1: SOMEWHAT CLASSICAL
-- Category 2: SOMEWHAT CLASSICAL
-- Category 3: SOMEWHAT CLASSICAL
-- Category 4: SOMEWHAT CLASSICAL
-- Category 5: SOMEWHAT CLASSICAL
-- Category 6: SOMEWHAT CLASSICAL
+- Element 1: SOMEWHAT CLASSICAL
+- Element 2: SOMEWHAT CLASSICAL
+- Element 3: SOMEWHAT CLASSICAL
+- Element 4: SOMEWHAT CLASSICAL
+- Element 5: SOMEWHAT CLASSICAL
+- Element 6: SOMEWHAT CLASSICAL
 
 Aggregate: SOMEWHAT CLASSICAL
 

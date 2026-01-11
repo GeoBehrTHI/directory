@@ -1,12 +1,12 @@
 ## Executive Summary
 
-Classical Academy Ca 92025 presents as a school with a strong emphasis on parental involvement and structured, unit-based instruction typical of many home-education-anchored programs. Based on the school’s public materials, the site evidences a clear commitment to independent study modeled learning with parents as the primary educators, a tracked program structure (Track A/B/C), and campus/community activities (choirs, bands, field trips, and on-campus events). However, the site provides limited explicit articulation of the core Classical framework described in standard classical-literature rubrics, such as explicit reference to the Trivium (grammar, logic, rhetoric), Great Books, or explicit liturgical/theological practices, nor the explicit emphasis on Socratic pedagogy, scholé (restful learning), or the living-teacher as the “living curriculum.” Consequently, while the site demonstrates some elements aligned with classical education (notably parent partnership and a culture of formation through structured units and community life), most of the canonical indicators in the classical rubric are not clearly evidenced in the site’s public messaging. In aggregate, the school aligns with SOMEWHAT CLASSICAL signals in parts (notably Parent/Community engagement and structured, teacher-supported home instruction) but does not meet the dominant criteria across the six categories to be deemed fully CLASSICAL. The aggregate classification is NOT CLASSICAL, with one category (Parents & Community) showing notable alignment with classical ideals.
+The Classical Academy (Escondido, CA, 92025) presents as a school with a strong emphasis on parental involvement and structured, unit-based instruction typical of many home-education-anchored programs. Based on the school’s public materials, the site evidences a clear commitment to independent study modeled learning with parents as the primary educators, a tracked program structure (Track A/B/C), and campus/community activities (choirs, bands, field trips, and on-campus events). However, the site provides limited explicit articulation of the core Classical framework described in standard classical-literature rubrics, such as explicit reference to the Trivium (grammar, logic, rhetoric), Great Books, or explicit liturgical/theological practices, nor the explicit emphasis on Socratic pedagogy, scholé (restful learning), or the living-teacher as the “living curriculum.” Consequently, while the site demonstrates some elements aligned with classical education (notably parent partnership and a culture of formation through structured units and community life), most of the canonical indicators in the classical rubric are not clearly evidenced in the site’s public messaging. In aggregate, the school aligns with SOMEWHAT CLASSICAL signals in parts (notably Parent/Community engagement and structured, teacher-supported home instruction) but does not meet the dominant criteria across the six categories to be deemed fully CLASSICAL. The aggregate classification is NOT CLASSICAL, with one category (Parents & Community) showing notable alignment with classical ideals.
 
 Key evidence driving this assessment includes:
 - Clear presentation of an independent-study model with parents as the primary educators, supported by credentialed teachers. This is documented in The Classical Academy’s public materials, including program descriptions and governance language. 
 - Explicit description of unit-based instruction, multiple program tracks, and home-based instructional options (Track A/B/C; C’lectives; Virtual Academy; Sora), demonstrating a highly structured approach but not a full classical curriculum vocabulary. 
 - Public materials emphasize parent partnerships and community/field experiences (family events, field trips, on-campus activities), which map cleanly to the classical Parents & Community category’s positive indicators. 
-- Limited explicit references to classical curriculum elements (Great Books, Great Conversation, Trivium, Scholé, liturgical practices, or explicit Socratic pedagogy) in the accessible site content; the materials instead highlight California standards alignment and independent study. This reduces alignment with the Curriculum and Pedagogy categories in the classical rubric. fileciteturn0file0turn0file1
+- Limited explicit references to classical curriculum elements (Great Books, Great Conversation, Trivium, Scholé, liturgical practices, or explicit Socratic pedagogy) in the accessible site content; the materials instead highlight California standards alignment and independent study. This reduces alignment with the Curriculum and Pedagogy categories in the classical rubric. 
 
 Executive Summary — Element-by-Element Snapshot
 
@@ -64,13 +64,13 @@ Positive/Negative keyword analysis
 Why this rating
 - The public materials emphasize an independent-study model and track-based scheduling with parent leadership, rather than the classical pedagogical methods (Socratic seminars, memory work, or formal rhetoric training) typically highlighted in classical pedagogy sources.
 
-Evidence: program options, independent study, unit planning, and parent-led instruction. fileciteturn0file1turn0file10
+Evidence: program options, independent study, unit planning, and parent-led instruction. 
 
 ### Element 5: Faculty — NOT CLASSICAL
 
 Evidence
 - Public materials reference credentialed teachers supporting a parent-led instructional model, but there is no explicit articulation of the faculty as a “living curriculum,” mentorship culture, or teacher portraits in the school’s public messaging. The faculty role is described in practical terms (credentialed teachers, support for home instruction) rather than the classical ideal of teachers as moral exemplars and living curriculum. 
-  
+ 
 Positive/Negative keyword analysis
 - Positive keywords: “credentialed teachers” is present, which aligns with a professional teaching staff; but the classical lexicon emphasizes the teacher as a living curriculum and mentor. The public content does not explicitly present those classical portraits or mentorship framing.
 - Negative keywords: absence of explicit “portrait of a teacher,” “teacher as living curriculum,” or a “faculty of friends”—common classical signals.
@@ -107,11 +107,11 @@ Overall classification: NOT CLASSICAL
 What Would Move the Needle
 
 - If the school is aiming to move toward CLASSICAL status, the following concrete steps would provide stronger alignment across multiple categories:
-  - Curriculum: Introduce explicit Great Books and the Great Conversation framework; clearly articulate the Trivium (grammar, logic, rhetoric) and Quadrivium elements in the curriculum; describe integration of liberal arts across history, literature, philosophy, and sciences.
-  - Pedagogy: Adopt a more explicit classical pedagogy (Socratic dialogue, disciplined memory work, chanting or recitation when appropriate, and opportunities for public rhetoric) and embed scholé (restful learning) into daily routines.
-  - Faculty: Develop a “living curriculum” model where teachers embody classical habits of mind and mentor students in virtuous learning; share a teacher-portrait or exemplar profile publicly.
-  - Purpose & Goals: Reframe mission statements to foreground transcendental aims (truth, goodness, beauty) and formation of character and wisdom alongside intellectual achievement.
-  - Religious & Metaphysical Foundations: If appropriate for the school’s ethos, more explicit integration of theological or metaphysical context (liturgical, communal practices, or spirituality that aligns with a classical understanding of education) should be referenced publicly, while respecting pluralism as applicable.
-  - Community & Partnership: Maintain and deepen strong parent partnership but add formal parent-formation programs (readings, seminars) that align with classical education, making explicit the co-educator role.
+ - Curriculum: Introduce explicit Great Books and the Great Conversation framework; clearly articulate the Trivium (grammar, logic, rhetoric) and Quadrivium elements in the curriculum; describe integration of liberal arts across history, literature, philosophy, and sciences.
+ - Pedagogy: Adopt a more explicit classical pedagogy (Socratic dialogue, disciplined memory work, chanting or recitation when appropriate, and opportunities for public rhetoric) and embed scholé (restful learning) into daily routines.
+ - Faculty: Develop a “living curriculum” model where teachers embody classical habits of mind and mentor students in virtuous learning; share a teacher-portrait or exemplar profile publicly.
+ - Purpose & Goals: Reframe mission statements to foreground transcendental aims (truth, goodness, beauty) and formation of character and wisdom alongside intellectual achievement.
+ - Religious & Metaphysical Foundations: If appropriate for the school’s ethos, more explicit integration of theological or metaphysical context (liturgical, communal practices, or spirituality that aligns with a classical understanding of education) should be referenced publicly, while respecting pluralism as applicable.
+ - Community & Partnership: Maintain and deepen strong parent partnership but add formal parent-formation programs (readings, seminars) that align with classical education, making explicit the co-educator role.
 
 Note: The school already demonstrates strong Parents & Community alignment; further steps would primarily target Curriculum, Pedagogy, and explicit articulation of classical aims to elevate the overall CLASSICAL rating.

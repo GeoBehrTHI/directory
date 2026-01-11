@@ -2,17 +2,17 @@
 
 Founders Classical Academy – Prosper, TX presents a clearly articulated classical-education orientation, anchored in a traditional liberal-arts framework and a virtue- and character-formation ethos. Public-facing materials emphasize a formation-focused goal (virtue, wisdom, citizenship) and an orientation toward truth, beauty, and goodness within a classical liberal-arts curriculum. However, explicit, model statements around certain classical pedagogical practices (e.g., Socratic dialogue in the upper grades, Great Books curriculum, living faculty as the curricular core, and robust parent-co-teaching structures) are not uniformly spelled out in the site materials. The school appears to align most strongly with Classical education in its stated mission and goals, with more partial alignment in curriculum specifics, pedagogy details, and faculty/parent-community articulation. Overall classification: SOMEWHAT CLASSICAL.
 
-- Evidence across sources shows a classical frame (classical education, liberal arts focus, virtue formation, truth/beauty/goodness) but with limited explicit reference to several hallmark elements (Great Books, explicit Socratic pedagogy, “living curriculum,” and explicit parent-co-teaching language) in the public materials. The accreditation note (campus of ResponsiveEd; TEA recognition) confirms a formal public-school context rather than a religious or sectarian program. See supporting evidence below. fileciteturn0file0turn0file2
+- Evidence across sources shows a classical frame (classical education, liberal arts focus, virtue formation, truth/beauty/goodness) but with limited explicit reference to several hallmark elements (Great Books, explicit Socratic pedagogy, “living curriculum,” and explicit parent-co-teaching language) in the public materials. The accreditation note (campus of ResponsiveEd; TEA recognition) confirms a formal public-school context rather than a religious or sectarian program. See supporting evidence below. 
 
 - EXECUTIVE SUMMARY — CATEGORY-BY-CATEGORY SNAPSHOT
-  - Element 1: Religious and Metaphysical Foundations — SOMEWHAT CLASSICAL
-  - Element 2: School Purpose and Goal — CLASSICAL
-  - Element 3: Curriculum — SOMEWHAT CLASSICAL
-  - Element 4: Pedagogy — SOMEWHAT CLASSICAL
-  - Element 5: Faculty — NOT CLASSICAL
-  - Element 6: Parents & Community — SOMEWHAT CLASSICAL
+ - Element 1: Religious and Metaphysical Foundations — SOMEWHAT CLASSICAL
+ - Element 2: School Purpose and Goal — CLASSICAL
+ - Element 3: Curriculum — SOMEWHAT CLASSICAL
+ - Element 4: Pedagogy — SOMEWHAT CLASSICAL
+ - Element 5: Faculty — NOT CLASSICAL
+ - Element 6: Parents & Community — SOMEWHAT CLASSICAL
 
-- What would move the needle: Concrete, public-facing additions that would push the school toward full CLASSICAL status include explicit articulation of Great Books/Great Conversation in the curriculum, clear statements about Socratic or seminar-style pedagogy in upper grades, a formal “living curriculum” portrait of the teacher as part of the curriculum, and explicit parent-education/co-teaching initiatives (e.g., parent book studies, regular parent visits, and structured parent participation in learning). See “What would move the needle” section for specifics. fileciteturn0file0turn0file3
+- What would move the needle: Concrete, public-facing additions that would push the school toward full CLASSICAL status include explicit articulation of Great Books/Great Conversation in the curriculum, clear statements about Socratic or seminar-style pedagogy in upper grades, a formal “living curriculum” portrait of the teacher as part of the curriculum, and explicit parent-education/co-teaching initiatives (e.g., parent book studies, regular parent visits, and structured parent participation in learning). See “What would move the needle” section for specifics. 
 
 ## Executive Summary — Element-by-Element Snapshot
 
@@ -20,7 +20,7 @@ Founders Classical Academy – Prosper, TX presents a clearly articulated classi
 
 Evidence
 - Public materials emphasize a formation-oriented frame grounded in virtues, truth, beauty, and goodness. The site speaks of “a distinctive classical education that pursues knowledge, promotes virtue, and prepares students for prosperous lives in a free society,” and notes an orientation toward truth, beauty, and goodness. This reflects transcendental moral realism, at least in stated aims and themes. 
-- There is no explicit statement of theology, liturgical practice, or formal worship within the public content. While virtue and moral formation are foregrounded, theological grounding or liturgical practices are not described in the visible public materials. fileciteturn0file0turn0file6
+- There is no explicit statement of theology, liturgical practice, or formal worship within the public content. While virtue and moral formation are foregrounded, theological grounding or liturgical practices are not described in the visible public materials. 
 
 Positive/Negative keyword analysis
 - Positive keywords present (category-relevant): virtue, virtuous, truth, beauty, goodness, formation (of character), classical, liberal arts, education, citizens. These terms appear in FCA Prosper’s public content. 
@@ -75,8 +75,8 @@ Why this rating
 ### Element 5: Faculty — NOT CLASSICAL
 
 Evidence
-- Public materials provide standard faculty references (e.g., Headmaster, teachers, and staff) but do not present a “living curriculum” concept or a formal faculty-portrait framework. The explicit language required by the Classical rubric (e.g., “the living curriculum,” “model teachers and mentors,” “portrait of what a teacher should be”) is not evident in the public-facing site content. fileciteturn0file0turn0file2
-- Materials highlight a partnership with parents and students and mention specific staff (e.g., Headmaster Brooke Pearson; Alyssa DeLeon as a teacher). However, there is no explicit articulation that teachers themselves embody the curriculum or a formal “teacher portrait” standard. fileciteturn0file0turn0file15
+- Public materials provide standard faculty references (e.g., Headmaster, teachers, and staff) but do not present a “living curriculum” concept or a formal faculty-portrait framework. The explicit language required by the Classical rubric (e.g., “the living curriculum,” “model teachers and mentors,” “portrait of what a teacher should be”) is not evident in the public-facing site content. 
+- Materials highlight a partnership with parents and students and mention specific staff (e.g., Headmaster Brooke Pearson; Alyssa DeLeon as a teacher). However, there is no explicit articulation that teachers themselves embody the curriculum or a formal “teacher portrait” standard. 
 
 Positive/Negative keyword analysis
 - Positive keywords present (in the faculty domain): model teachers, living curriculum, portrait of what a teacher should be — none are explicitly present in public content; thus, none of these category-specific positive terms are evidenced.
@@ -89,7 +89,7 @@ Why this rating
 
 Evidence
 - The site emphasizes partnership with families and “working together for the benefit of each child,” which aligns with classical education’s emphasis on parental involvement and community ties. The About content describes a campus where “parents, faculty, and staff can work together for the benefit of each child,” reflecting co-partnership language. 
-- It communicates an ongoing engagement with families through enrollment, news updates, and events (e.g., announcements and events pages), indicating public-facing avenues for parent involvement. fileciteturn0file0turn0file9
+- It communicates an ongoing engagement with families through enrollment, news updates, and events (e.g., announcements and events pages), indicating public-facing avenues for parent involvement. 
 - The materials do not explicitly present a formal program of parent education (e.g., book studies, parent gatherings as co-teachers) though there are references to partnership and parent participation. 
 
 Positive/Negative keyword analysis

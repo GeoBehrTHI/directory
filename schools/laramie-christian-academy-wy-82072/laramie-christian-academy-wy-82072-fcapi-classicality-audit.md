@@ -22,7 +22,7 @@ Evidence
 - The site explicitly frames education within a Biblical mandate for parental partnership and Christian formation. 
 
 Positive/Negative keyword analysis
-- Positive keywords present: biblical knowledge, values; theology; Biblical worldview; faith-based language; truth/beauty/goodness alignments via “true, good, and beautiful” phrasing in contextual material. fileciteturn0file1turn0file10
+- Positive keywords present: biblical knowledge, values; theology; Biblical worldview; faith-based language; truth/beauty/goodness alignments via “true, good, and beautiful” phrasing in contextual material. 
 - Negative keywords: not evident in public materials (no explicit secular or relativistic framing appears). Evidence of a strongly theological frame dominates. 
 
 Why this rating
@@ -109,7 +109,7 @@ Overall ranking: SOMEWHAT CLASSICAL.
 
 What would move the needle
 
-- Make explicit Great Books / Great Conversation elements a formal part of the curriculum and public messaging. Publicly articulate a Great Books trajectory or reading lists and a daily or yearly structure that reflects the Great Conversation, including references to canonical works. This would move Element 3 toward CLASSICAL and reinforce Element 2’s formation narrative. (Supportive sources on Great Books/great conversation and associated pedagogy exist in the classical education lexicon.) fileciteturn0file3turn0file4
+- Make explicit Great Books / Great Conversation elements a formal part of the curriculum and public messaging. Publicly articulate a Great Books trajectory or reading lists and a daily or yearly structure that reflects the Great Conversation, including references to canonical works. This would move Element 3 toward CLASSICAL and reinforce Element 2’s formation narrative. (Supportive sources on Great Books/great conversation and associated pedagogy exist in the classical education lexicon.) 
 
 - Explicitly publish a formal pedagogy framework that includes Socratic seminars, scholé/restful learning, narration/recitation, and memory work as concrete teaching methods across appropriate grade bands. This would push Element 4 from NOT CLASSICAL toward CLASSICAL. 
 

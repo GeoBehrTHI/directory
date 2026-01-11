@@ -1,6 +1,6 @@
 ## Executive Summary
 
-Chi Rho Classical Academy Ky 40422 presents a coherent classical Christian educational program with clear religious foundations, a stated aim of forming character through wisdom and virtue, and a curriculum that centers the liberal arts (grammar, logic, rhetoric) along with Latin, Great Books/primary texts, and a structured memory-work component. Public materials emphasize a liturgical, communal, and parent-partnered approach to schooling, with explicit mention of the Apostle’s Creed, Catholic tradition, and the Magisterium, alongside a Classical Core Curriculum and trivium-based pedagogy. The school’s public messaging also highlights Socratic/seminal discussion at the upper levels, a memory-based lower-school culture (recitation/memory work), and a faculty model described as mentors and living exemplars, all wrapped within a community that invites parental involvement and transparency (tours, open visits, and homeschool partnerships).
+Chi Rho Classical Academy (Danville, KY, 40422) presents a coherent classical Christian educational program with clear religious foundations, a stated aim of forming character through wisdom and virtue, and a curriculum that centers the liberal arts (grammar, logic, rhetoric) along with Latin, Great Books/primary texts, and a structured memory-work component. Public materials emphasize a liturgical, communal, and parent-partnered approach to schooling, with explicit mention of the Apostle’s Creed, Catholic tradition, and the Magisterium, alongside a Classical Core Curriculum and trivium-based pedagogy. The school’s public messaging also highlights Socratic/seminal discussion at the upper levels, a memory-based lower-school culture (recitation/memory work), and a faculty model described as mentors and living exemplars, all wrapped within a community that invites parental involvement and transparency (tours, open visits, and homeschool partnerships).
 
 Overall classification: CLASSICAL.
 
@@ -11,7 +11,7 @@ Executive Summary — Element-by-Element Snapshot
 Evidence
 - Public materials foreground a Christ-centered framework: “Traditional Education Rooted In Christ” and explicit invocation of a Christian community identity. 
 - The Apostles’ Creed, Holy Scriptures, and Catholic tradition are cited as core beliefs guiding instruction. 
-- Liturgical/memorial practices appear in routines (Morning Assembly with Prayer and Memory Work; Mass on Tuesdays). fileciteturn0file10turn0file9
+- Liturgical/memorial practices appear in routines (Morning Assembly with Prayer and Memory Work; Mass on Tuesdays). 
 
 Positive/Negative keyword analysis
 - Positive indicators present: truth/goodness/beauty language (through the classical Christian framework), theology, liturgy, worship, creed, sacred scripture, and catechesis-like formation. The site explicitly anchors education in the Good, the True, and the Beautiful via Classical Christian framing. 
@@ -47,7 +47,7 @@ Evidence
 - The school’s general description explicitly states a classical curriculum and a Trivium-based model; the mission mentions “liberal arts and humanities” and the “teachings of Christ.” 
 
 Positive/Negative keyword analysis
-- Positive indicators present: Seven Liberal Arts (Trivium: grammar, logic, rhetoric), Latin, Great Books/Great Conversation, memory work/recitation, history integrated with the classical approach, and the integrated/harmonious curriculum. The public materials consistently frame curriculum within classical canon and primary-text engagement. fileciteturn0file7turn0file11
+- Positive indicators present: Seven Liberal Arts (Trivium: grammar, logic, rhetoric), Latin, Great Books/Great Conversation, memory work/recitation, history integrated with the classical approach, and the integrated/harmonious curriculum. The public materials consistently frame curriculum within classical canon and primary-text engagement. 
 - Negative indicators: none evident in public materials (no clear shift toward social studies-centric or strictly project-based modern curricula that would conflict with classical norms).
 
 Why this rating
@@ -64,7 +64,7 @@ Evidence
 - The “What is a Classical School?” narrative and the site’s classical framework signaling that education integrates contemplative/restful elements alongside rigorous exploration. 
 
 Positive/Negative keyword analysis
-- Positive indicators present: scholé/restful learning, memorization/recitation, chanting, Socratic seminars, rhetoric training, lectures/discussions, living curriculum in practice, and hearing memory-work as a core tradition. The site explicitly maps to these methods. fileciteturn0file7turn0file10
+- Positive indicators present: scholé/restful learning, memorization/recitation, chanting, Socratic seminars, rhetoric training, lectures/discussions, living curriculum in practice, and hearing memory-work as a core tradition. The site explicitly maps to these methods. 
 - Negative indicators: minimal; the site does include rigorous elements (Socratic/seminar-based upper-school), which aligns with classical pedagogy rather than signaling a non-classical approach.
 
 Why this rating

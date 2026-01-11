@@ -1,6 +1,6 @@
 ## Executive Summary
 
-Sequitur Classical Academy La 70808 presents a coherent classical Christian program that aligns strongly with core classical education principles. Public-facing materials emphasize a Christ-centered mission, a clear threefold structure of grammar–logic–rhetoric, engagement with classic works, and liturgical/communal practices anchored in Scripture and worship. The school explicitly foregrounds virtue, wisdom, and beauty as aims of education and highlights partnership with families as a foundational principle. Taken together, the evidence indicates a robust CLASSICAL orientation across all six rubric categories, with explicit signals for formation, Great Books orientation, and a living, teacher-led curriculum model integrated with community and parental partnership.  
+Sequitur Classical Academy (Baton Rouge, LA, 70808) presents a coherent classical Christian program that aligns strongly with core classical education principles. Public-facing materials emphasize a Christ-centered mission, a clear threefold structure of grammar–logic–rhetoric, engagement with classic works, and liturgical/communal practices anchored in Scripture and worship. The school explicitly foregrounds virtue, wisdom, and beauty as aims of education and highlights partnership with families as a foundational principle. Taken together, the evidence indicates a robust CLASSICAL orientation across all six rubric categories, with explicit signals for formation, Great Books orientation, and a living, teacher-led curriculum model integrated with community and parental partnership. 
 
 - Evidence of religious and metaphysical foundations includes a Christ-focused mission, a goal of producing wisdom and virtue, and liturgical-style practices (Promptus, Scripture readings, and hymns) woven into daily life. 
 - The school’s stated values foreground Exalt Christ, cultivate wisdom and virtue, and foster delight in learning, with a vision of education that integrates theology, virtue, and the liberal arts. 
@@ -18,7 +18,7 @@ Evidence
 - Core values emphasize Exalting Christ, virtue, order, beauty, and delight in learning, all pointing to transcendentals and metaphysical aims. 
 
 Positive/Negative keyword analysis
-- Positive keywords present: truth, goodness, beauty, virtue, wisdom, formation, liturgy/worship, reverence/wonder, logos (embedded in classical framing), sacred Scripture, and prayer. The public materials repeatedly connect education to virtue, divine truth, and liturgical life.  
+- Positive keywords present: truth, goodness, beauty, virtue, wisdom, formation, liturgy/worship, reverence/wonder, logos (embedded in classical framing), sacred Scripture, and prayer. The public materials repeatedly connect education to virtue, divine truth, and liturgical life. 
 - Negative keywords present: none evident in public materials; no signals of secular relativism or value-neutral education. 
 
 Why this rating
@@ -46,7 +46,7 @@ Evidence
 - The curriculum chart includes formal study of grammar, logic, rhetoric, and a schedule that grounds daily life in Promptus (prayer, hymns, Scripture). 
 
 Positive/Negative keyword analysis
-- Positive keywords present: Seven Liberal Arts (grammar, logic, rhetoric; Quadrivium components like arithmetic, geometry, music, astronomy), great books, Latin, history, Western civilization, Socratic dialogue, recitation, narration, and disciplined study of classics. These appear across curricular descriptions and schedules.  
+- Positive keywords present: Seven Liberal Arts (grammar, logic, rhetoric; Quadrivium components like arithmetic, geometry, music, astronomy), great books, Latin, history, Western civilization, Socratic dialogue, recitation, narration, and disciplined study of classics. These appear across curricular descriptions and schedules. 
 - Negative keywords present: minimal to none; no emphasis on project-based, secularized, or social-studies-as-history replacements in the core curriculum. Some public-facing materials emphasize traditional humanities over purely modern or vocational tracks. 
 
 Why this rating
@@ -61,7 +61,7 @@ Evidence
 - The program includes use of “Art of Letters,” Latin study, and “Story of the World”/history integration, signaling a historically grounded pedagogy that moves from memory work to dialectic and rhetoric. 
 
 Positive/Negative keyword analysis
-- Positive keywords present: Socratic dialogue/seminar, narration/recitation, chanting/memory work, scholé/restful learning, rhetoric, debate, upper-school rhetoric theses, archival memory work, and liturgical integration.  
+- Positive keywords present: Socratic dialogue/seminar, narration/recitation, chanting/memory work, scholé/restful learning, rhetoric, debate, upper-school rhetoric theses, archival memory work, and liturgical integration. 
 - Negative keywords present: minimal signals of experiential/project-based-only approaches; public materials emphasize traditional, structured pedagogy rather than constructivist or student-led extremes. (No strong negative signals observed in public materials.) 
 
 Why this rating

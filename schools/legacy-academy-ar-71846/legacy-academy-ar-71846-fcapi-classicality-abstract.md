@@ -1,0 +1,4 @@
+## ABSTRACT
+
+- Overall classification: NOT CLASSICAL
+- Core insight: The only publicly accessible crawl data for Legacy Academy AR 71846 is a landing URL reference with no explicit communications about classical curriculum, pedagogy, or community formation. Consequently, none of the six classical categories show evidence of classical alignment in the available public materials. The Six Essential Elements framework and its keyword lexicon indicate the expected signals (Great Books, Trivium/Quadrivium, scholé, reverence, liturgy, partnership with families, etc.), but these signals are not observed in the current crawl data. For a credible shift toward CLASSICAL, the school would need to publicly articulate and demonstrate a clear classical philosophy across governance, curriculum, pedagogy, and community engagement. See the cited materials for the rubric and the public crawl entry.

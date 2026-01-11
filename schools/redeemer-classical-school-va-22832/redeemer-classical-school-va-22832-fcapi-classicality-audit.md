@@ -1,12 +1,12 @@
 ## Executive Summary
 
-Redeemer Classical School Va 22832 presents a robust classical-education orientation embedded in a Christian worldview. Public-facing materials emphasize the Trivium (grammar, logic, rhetoric), Great Books and a Great Conversation ethos, memorization through chant and recitation in the grammar stage, and Socratic/seminar-style discussion in the upper grades. The school explicitly frames its mission within a Christian, theologically grounded framework (God’s truth; integrated Christian worldview) and highlights accreditation by Christian Schools International, signaling alignment with a transproperty of classical-Christian schooling. Evidence of a high-level commitment to formation (virtue, wisdom, beauty) over mere information is evident, with statements about formation, teleology, and the cultivation of character. Taken together, these signals strongly support a CLASSICAL classification for Redeemer Classical School, with Element 6 (Parents & Community) showing comparatively less explicit documentation on partnership with families within public-facing materials, suggesting a SOMEWHAT CLASSICAL note in that particular dimension. Overall, the school is classified as CLASSICAL.
+Redeemer Classical School (Keezletown, VA, 22832) presents a robust classical-education orientation embedded in a Christian worldview. Public-facing materials emphasize the Trivium (grammar, logic, rhetoric), Great Books and a Great Conversation ethos, memorization through chant and recitation in the grammar stage, and Socratic/seminar-style discussion in the upper grades. The school explicitly frames its mission within a Christian, theologically grounded framework (God’s truth; integrated Christian worldview) and highlights accreditation by Christian Schools International, signaling alignment with a transproperty of classical-Christian schooling. Evidence of a high-level commitment to formation (virtue, wisdom, beauty) over mere information is evident, with statements about formation, teleology, and the cultivation of character. Taken together, these signals strongly support a CLASSICAL classification for Redeemer Classical School, with Element 6 (Parents & Community) showing comparatively less explicit documentation on partnership with families within public-facing materials, suggesting a SOMEWHAT CLASSICAL note in that particular dimension. Overall, the school is classified as CLASSICAL.
 
 Executive Summary — Element-by-Element Snapshot
 
 Element 1: Religious and Metaphysical Foundations — CLASSICAL
 
-- Evidence: The school describes itself as teaching from an integrated Christian worldview; all truth being God’s truth; and Christian-theological framing underpinning discipline and learning.  
+- Evidence: The school describes itself as teaching from an integrated Christian worldview; all truth being God’s truth; and Christian-theological framing underpinning discipline and learning. 
 - Positive/Negative keyword analysis: Positive religious/metaphysical terms appear (truth, goodness, beauty; theology; sacred tradition; Christian worldview; liturgy/integration). Negative secular signals are not evident in public materials.
 - Why this rating: Clear emphasis on transcendental realism (truth/goodness/beauty), theology, and liturgical/community rhythm aligns with Classical criteria.
 
@@ -18,7 +18,7 @@ Element 2: School Purpose and Goal — CLASSICAL
 
 Element 3: Curriculum — CLASSICAL
 
-- Evidence: Explicit Trivium structure (grammar/K-5; logic/6-8; rhetoric/9-12); Great Books/Great Conversation framing; emphasis on history-integrated, interdisciplinary study; memory-work in the grammar stage (chanting) and attention to reading primary texts and classical texts.  
+- Evidence: Explicit Trivium structure (grammar/K-5; logic/6-8; rhetoric/9-12); Great Books/Great Conversation framing; emphasis on history-integrated, interdisciplinary study; memory-work in the grammar stage (chanting) and attention to reading primary texts and classical texts. 
 - Positive/Negative keyword analysis: Strong frequency of Trivium terms, Great Books, memory/recitation, and integration across disciplines; limited evidence of modern, non-classical curriculum terms.
 - Why this rating: The curriculum mirrors the canonical classical-content signals (Seven Liberal Arts emphasis via Trivium; Great Books; integrated history-literate approach).
 
@@ -36,7 +36,7 @@ Element 5: Faculty — CLASSICAL
 
 Element 6: Parents & Community — SOMEWHAT CLASSICAL
 
-- Evidence: Public-facing content emphasizes Christian worldview and family-influenced formation (e.g., a strong communication of faith-integrated education), with evidence of parent-facing content in other classical-education materials (e.g., podcasts and alumni stories). However, explicit statements about parents as “co-teachers,” formal parent-formation programs, and open visitation policies are less visible in the core public materials cited here.  
+- Evidence: Public-facing content emphasizes Christian worldview and family-influenced formation (e.g., a strong communication of faith-integrated education), with evidence of parent-facing content in other classical-education materials (e.g., podcasts and alumni stories). However, explicit statements about parents as “co-teachers,” formal parent-formation programs, and open visitation policies are less visible in the core public materials cited here. 
 - Positive/Negative keyword analysis: Positive keywords associated with families and partnerships appear in the general classical lexicon, but explicit institutional wording about parent partnership, family catechesis, or open-campus visitation is not clearly documented in the school’s public pages here; the materials show religious community integration and family involvement in broader contexts (e.g., alumni content, governance). This yields a partial alignment with the “Partnership with Families” positive indicator, but not a robust explicit articulation on the school site.
 - Why this rating: The school demonstrates alignment with a Christian family-involvement ethos and community engagement, but explicit, explicit “parents as co-educators” wording or structured parent-formation programs are not clearly evidenced in the captured public materials, resulting in SOMEWHAT CLASSICAL rather than fully CLASSICAL for this category.
 

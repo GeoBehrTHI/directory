@@ -2,39 +2,39 @@
 
 Holy Trinity School in Winsted, MN (ZIP 55395) presents a robust classical-Catholic educational model. Public-facing materials emphasize a traditional, liberal-arts oriented curriculum anchored in a Catholic worldview, with explicit commitments to faith formation, liturgical life, and rational inquiry. The school describes itself as a “traditional classical education curriculum” that forms students through the liberal arts, and it integrates theology, philosophy, and rhetoric within a faith-filled framework. Across multiple pages, the school foregrounds daily Mass, Eucharistic adoration, sacramental life, and liturgical prayer as integral to the student experience. The curriculum foregrounds grammar, logic, rhetoric, philosophy, theology, Latin, and humane letters, with upper-school seminars and public speaking training—signaling alignment with classical pedagogy. The faculty is portrayed as morally anchored, with small class sizes and a mission-centered culture, and parents are presented as engaged stakeholders within a parish-school community.
 
-Overall, the school scores CLASSICAL across the six classical-elements categories, with clearly strong alignment in Religious and Metaphysical Foundations, School Purpose and Goal, Curriculum, Pedagogy, and Faculty. The Parents & Community category shows engagement and openness consistent with classical aims, though explicit language about parents as “co-teachers” and formal parent-education programs is less evident in the materials available, leading to a nuanced but still favorable standing in that area. Taken together, Holy Trinity School Mn 55395 is best characterized as CLASSICAL.
+Overall, the school scores CLASSICAL across the six classical-elements categories, with clearly strong alignment in Religious and Metaphysical Foundations, School Purpose and Goal, Curriculum, Pedagogy, and Faculty. The Parents & Community category shows engagement and openness consistent with classical aims, though explicit language about parents as “co-teachers” and formal parent-education programs is less evident in the materials available, leading to a nuanced but still favorable standing in that area. Taken together, Holy Trinity School (Winsted, MN, 55395) is best characterized as CLASSICAL.
 
 Executive Summary — Element-by-Element Snapshot
 
 - Element 1: Religious and Metaphysical Foundations — CLASSICAL
-  Evidence: Catholic identity is central; daily Mass, Eucharistic adoration, sacramental life, liturgical prayer, and theology are woven into school life. Positive references to truth, goodness, beauty, and a sacramental worldview underscore transcendental aims.
-  Positive/Negative keyword analysis: Positive indicators (Catholic faith, Mass, liturgy/worship, adoration, prayer, theology, sacred, sacramental worldview, truth/goodness/beauty) dominate; negatives absent.
-  Why this rating: The school explicitly situates education within a Catholic metaphysical framework and liturgical life.
+ Evidence: Catholic identity is central; daily Mass, Eucharistic adoration, sacramental life, liturgical prayer, and theology are woven into school life. Positive references to truth, goodness, beauty, and a sacramental worldview underscore transcendental aims.
+ Positive/Negative keyword analysis: Positive indicators (Catholic faith, Mass, liturgy/worship, adoration, prayer, theology, sacred, sacramental worldview, truth/goodness/beauty) dominate; negatives absent.
+ Why this rating: The school explicitly situates education within a Catholic metaphysical framework and liturgical life.
 
 - Element 2: School Purpose and Goal — CLASSICAL
-  Evidence: Formation of virtue and wisdom; education as formation through Liberal Arts; emphasis on truth, goodness, beauty; formation of character; emphasis on contemplation and “scholé”-like aims via classical education rhetoric.
-  Positive/Negative keyword analysis: Strong presence of formation, virtue, wisdom, liberal education, and pursuit of truth/beauty; no explicit focus on workforce preparation in public-facing materials.
-  Why this rating: The telos aligns with classical aims of human flourishing and virtuous character rather than solely job-readiness.
+ Evidence: Formation of virtue and wisdom; education as formation through Liberal Arts; emphasis on truth, goodness, beauty; formation of character; emphasis on contemplation and “scholé”-like aims via classical education rhetoric.
+ Positive/Negative keyword analysis: Strong presence of formation, virtue, wisdom, liberal education, and pursuit of truth/beauty; no explicit focus on workforce preparation in public-facing materials.
+ Why this rating: The telos aligns with classical aims of human flourishing and virtuous character rather than solely job-readiness.
 
 - Element 3: School Curriculum — CLASSICAL
-  Evidence: Liberal arts emphasis (grammar, logic, rhetoric); history taught across the curriculum; study of philosophy and theology; Latin program; Humane Letters and literature focus at upper levels; recognition of the classical tradition and “liberal arts” in curriculum descriptions.
-  Positive/Negative keyword analysis: Positive signals include liberal arts, grammar, logic, rhetoric, history, philosophy, theology, Latin, humane letters; absence of dominant “project-based/ STEM-first” negative signals.
-  Why this rating: The curricular architecture aligns with classical curriculum expectations, including grammar/logic/rhetoric and humanities-centered study.
+ Evidence: Liberal arts emphasis (grammar, logic, rhetoric); history taught across the curriculum; study of philosophy and theology; Latin program; Humane Letters and literature focus at upper levels; recognition of the classical tradition and “liberal arts” in curriculum descriptions.
+ Positive/Negative keyword analysis: Positive signals include liberal arts, grammar, logic, rhetoric, history, philosophy, theology, Latin, humane letters; absence of dominant “project-based/ STEM-first” negative signals.
+ Why this rating: The curricular architecture aligns with classical curriculum expectations, including grammar/logic/rhetoric and humanities-centered study.
 
 - Element 4: Pedagogy or Teaching Methods — CLASSICAL
-  Evidence: Upper-level seminars and rhetoric/public speaking emphasis; lower-level memory work and chant-like repetition in some descriptions; emphasis on contemplation/scholé; the pedagogy includes Socratic-like seminars at the high-school level and rhetoric training; holistic formation through inquiry and memory.
-  Positive/Negative keyword analysis: Positive indicators include Socratic/seminar-style discourse, memory work, recitation, rhetoric, public speaking, contemplation/wonder, liturgical integration; no explicit dominant negative signals present in materials.
-  Why this rating: Pedagogical practices reflect classical methods (Socratic/seminar discussions, rhetoric, memory work) alongside contemplative elements.
+ Evidence: Upper-level seminars and rhetoric/public speaking emphasis; lower-level memory work and chant-like repetition in some descriptions; emphasis on contemplation/scholé; the pedagogy includes Socratic-like seminars at the high-school level and rhetoric training; holistic formation through inquiry and memory.
+ Positive/Negative keyword analysis: Positive indicators include Socratic/seminar-style discourse, memory work, recitation, rhetoric, public speaking, contemplation/wonder, liturgical integration; no explicit dominant negative signals present in materials.
+ Why this rating: Pedagogical practices reflect classical methods (Socratic/seminar discussions, rhetoric, memory work) alongside contemplative elements.
 
 - Element 5: Faculty — CLASSICAL
-  Evidence: Emphasis on virtuous, model teachers; teachers as living examples and part of the curriculum; close faculty-student relationships implied by small class sizes; mission-focused, faith-aligned teacher culture.
-  Positive/Negative keyword analysis: Positive indicators include model teachers, living curriculum, faculty as mentors, portrait of teacher, collaborative culture; minimal negative signals.
-  Why this rating: The materials depict teachers as central to formation and virtuous living, aligning with classical faculty ideals.
+ Evidence: Emphasis on virtuous, model teachers; teachers as living examples and part of the curriculum; close faculty-student relationships implied by small class sizes; mission-focused, faith-aligned teacher culture.
+ Positive/Negative keyword analysis: Positive indicators include model teachers, living curriculum, faculty as mentors, portrait of teacher, collaborative culture; minimal negative signals.
+ Why this rating: The materials depict teachers as central to formation and virtuous living, aligning with classical faculty ideals.
 
 - Element 6: Parents & Community — CLASSICAL
-  Evidence: Parental involvement is encouraged within a parish-school framework; open invitation to visits; community life anchored in Catholic culture and school activities; family engagement shown in testimonials and open events.
-  Positive/Negative keyword analysis: Positive indicators include partnership orientation, parental/community involvement, open campus/visit opportunities, and catechesis or family faith formation; explicit “co-teacher” language and formal parent-education programs are less prominent, which tempers the rating slightly toward CLASSICAL but still strongly classical in spirit.
-  Why this rating: The school fosters community and parental involvement, though explicit language framing parents as co-teachers and formal parent-education programs is not as pronounced as in some classical schools.
+ Evidence: Parental involvement is encouraged within a parish-school framework; open invitation to visits; community life anchored in Catholic culture and school activities; family engagement shown in testimonials and open events.
+ Positive/Negative keyword analysis: Positive indicators include partnership orientation, parental/community involvement, open campus/visit opportunities, and catechesis or family faith formation; explicit “co-teacher” language and formal parent-education programs are less prominent, which tempers the rating slightly toward CLASSICAL but still strongly classical in spirit.
+ Why this rating: The school fosters community and parental involvement, though explicit language framing parents as co-teachers and formal parent-education programs is not as pronounced as in some classical schools.
 
 What Would Move the Needle (only applicable if SOMEWHAT CLASSICAL)
 - Not needed here since the aggregate classification is CLASSICAL. The school already demonstrates robust alignment across the six classical elements, with only minor gaps in explicit parental-co-teacher language.
@@ -55,10 +55,7 @@ Why this rating
 - The public materials present religion as foundational to identity and objectives, with liturgical practices and theological study woven into daily life and the curriculum. This aligns squarely with the Religious and Metaphysical Foundations criteria of a classical school.
 
 Citations
-- Mission statements and Catholic formation details: turn0file11, turn0file0
-- Catholic Culture and liturgical practices: turn0file6, turn0file9
-- Motto and academic identity (Knowledge, Excellence, Worship): turn0file2, turn0file3
-
+- Mission statements and Catholic formation details:- Catholic Culture and liturgical practices:- Motto and academic identity (Knowledge, Excellence, Worship):
 ## Element 2: School Purpose and Goal — CLASSICAL
 
 Evidence
@@ -75,10 +72,7 @@ Why this rating
 - The materials foreground formation, virtue, wisdom, and a classical telos rather than a purely job- or college-prep mindset, supporting CLASSICAL.
 
 Citations
-- Mission and formation language: turn0file11
-- Academic inquiry and the pursuit of knowledge: turn0file0
-- Liberal arts emphasis and classical aims: turn0file2, turn0file3
-
+- Mission and formation language:- Academic inquiry and the pursuit of knowledge:- Liberal arts emphasis and classical aims:
 ## Element 3: School Curriculum — CLASSICAL
 
 Evidence
@@ -96,11 +90,7 @@ Why this rating
 - The curriculum emphasizes liberal arts and the Trivium (grammar, logic, rhetoric) plus theology and philosophy, with Latin and humane letters/contemporary classical humanities work in upper grades. This strongly aligns with CLASSICAL.
 
 Citations
-- General curriculum and liberal arts emphasis: turn0file0, turn0file2
-- Specific list of disciplines and the liberal-arts framing: turn0file3
-- Humane Letters, seminars, public speaking (upper levels): turn0file16
-- Latin program and classical language emphasis: turn0file16
-
+- General curriculum and liberal arts emphasis:- Specific list of disciplines and the liberal-arts framing:- Humane Letters, seminars, public speaking (upper levels):- Latin program and classical language emphasis:
 ## Element 4: Pedagogy or Teaching Methods — CLASSICAL
 
 Evidence
@@ -117,10 +107,7 @@ Why this rating
 - The pedagogy blends contemplative/restful elements with rigorous classical activities (Socratic discussions/seminars, memory work, rhetoric, recitation, and liturgical/cultural integration), which aligns with CLASSICAL.
 
 Citations
-- Seminars, public speaking, rhetoric: turn0file16
-- Lower-school memory/chanting and memory-deepening practices: turn0file4
-- Mission-informed learning and critical-thinking emphasis: turn0file0
-
+- Seminars, public speaking, rhetoric:- Lower-school memory/chanting and memory-deepening practices:- Mission-informed learning and critical-thinking emphasis:
 ## Element 5: School Faculty — CLASSICAL
 
 Evidence
@@ -136,10 +123,7 @@ Why this rating
 - The materials present teachers as core, virtuous, and formation-oriented figures, consistent with classical faculty archetypes.
 
 Citations
-- Living curriculum and teacher as moral model: turn0file11
-- Testimonials about teacher influence and character: turn0file9
-- Small class size and formation emphasis: turn0file6
-
+- Living curriculum and teacher as moral model:- Testimonials about teacher influence and character:- Small class size and formation emphasis:
 ## Element 6: Parents & Community — CLASSICAL
 
 Evidence
@@ -155,15 +139,12 @@ Why this rating
 - The school clearly situates parents and the broader Catholic community as integral to the school’s mission and life, matching the classical category’s emphasis on engaged parents and community, albeit with less explicit “co-teaching” language than some classical schools.
 
 Citations
-- Parish-school/community framing and events: turn0file6
-- Family testimonials and community life: turn0file9
-- Visit/enrollment and openness to families: turn0file7
-
+- Parish-school/community framing and events:- Family testimonials and community life:- Visit/enrollment and openness to families:
 Aggregate Ranking
 - Overall classification: CLASSICAL
-  - All six categories individually align with classical aims or robustly support them, with Element 6 showing strong community involvement though slightly less explicit “co-teacher” language.
+ - All six categories individually align with classical aims or robustly support them, with Element 6 showing strong community involvement though slightly less explicit “co-teacher” language.
 
 What would move the needle
 - Not required, given the CLASSICAL aggregate. If one sought to push this even further toward a conventional “fully classical” showcase, the following would strengthen Element 6:
-  - Add explicit, public language about parents as co-teachers or formal parent-education programs (book studies, study groups) aligned with classical formation.
-  - Add explicit references to the Great Books or “Great Conversation” framework within curricular materials (even if the school already embraces humane letters and classical education in practice).
+ - Add explicit, public language about parents as co-teachers or formal parent-education programs (book studies, study groups) aligned with classical formation.
+ - Add explicit references to the Great Books or “Great Conversation” framework within curricular materials (even if the school already embraces humane letters and classical education in practice).

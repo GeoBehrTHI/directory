@@ -2,7 +2,7 @@
 
 Leadership Academy of Utah presents a predominantly classical framework, anchored in liberal arts education, leadership formation, and mentor-supported pedagogy, with a robust parental partnership model. Across the six categories, curriculum and faculty evidence strong classical alignment (CLASSICAL), while religious/metaphysical foundations, explicit philosophical goals, and certain pedagogical methods show only Partial/Somewhat Classical alignment due to limited explicit theological grounding, triadic metaphysical language, and explicit Socratic/Great Books emphasis in public content. The aggregate assessment is SOMEWHAT CLASSICAL, with multiple avenues for needle-moving improvements, particularly in making explicit the metaphysical/theological foundations, Great Books framing, and explicit Socratic pedagogy.
 
-ABSTRACT — Category-by-Category Summary
+ABSTRACT — Element-by-Element Summary
 
 - Religious and Metaphysical Foundations: SOMEWHAT CLASSICAL — Evidence of virtue and transformation language but no explicit theological or liturgical framing. Positive keywords include growth, transformation, virtue; lacking explicit theology or liturgy in public content. 
 - Purpose and Goal: SOMEWHAT CLASSICAL — Formation/leadership emphasis with growth and transformation; lack of explicit triad language (truth, goodness, beauty) makes it not fully Classical. 

@@ -39,7 +39,7 @@ Positive/Negative Keyword Analysis
 - Quantitative estimate: Positive keywords present (approximately 4–6 distinct terms across materials) vs. Negative keywords present (0–1 explicit negations). This yields a tilt toward a classical stance though with limited explicit theological liturgical programming in the site’s public materials.
 - Why this rating: The school foregrounds transcendental aims (truth, goodness, beauty) and virtue, consistent with the first element’s emphasis on transcendental realism and formation, but it does not consistently foreground theology or liturgical/community practices on the public pages reviewed. This yields a SOMEWHAT CLASSICAL rating for Religious and Metaphysical Foundations.
 
-Citations: Truth/Beauty/Goodness emphasis appears in Curriculum language; Virtue and formation are referenced in mission materials and “Virtue in Daily Practice.” See Curricular statements and mission pages. fileciteturn0file9turn0file2turn0file0
+Citations: Truth/Beauty/Goodness emphasis appears in Curriculum language; Virtue and formation are referenced in mission materials and “Virtue in Daily Practice.” See Curricular statements and mission pages. 
 
 Why not CLASSICAL: The lexicon’s explicit Grounded in Theology and Liturgical/Communal Practices dimensions are not strongly foregrounded in the accessible public materials for this school, though the Great Hearts framework does imply a Christian worldview. The absence of explicit liturgical practices or theology integration on the public-facing content reduces the score from CLASSICAL to SOMEWHAT CLASSICAL. See the lexicon’s framework for theology/liturgy as a benchmark. 
 
@@ -58,7 +58,7 @@ Positive/Negative Keyword Analysis
 - Quantitative estimate: Positive keywords present across the mission and curriculum materials (6–8 distinct positive terms). Negative workforce/ career framing appears in outcomes data and broader Great Hearts materials but is less prominent as a policy aim; overall, more positive formation language than negative workforce framing in the public pages.
 - Why this rating: The school prominently prioritizes formation and the pursuit of transcendent values, but there is a visible emphasis on college-ready outcomes and merit-based scholarships. This places Element 2 in the SOMeWHAT CLASSICAL range rather than fully CLASSICAL, given the tension between formation and career pathways in the public-facing content.
 
-Citations: Mission/formation language; Great Books formation; college-outcomes language. fileciteturn0file12turn0file14turn0file10
+Citations: Mission/formation language; Great Books formation; college-outcomes language. 
 
 What would move the needle (if this category were to improve to CLASSICAL): Increased emphasis on formation as telos in every policy/marketing copy, with less emphasis on college-admissions metrics as primary outcomes; explicit articulation of a formation-first telos beyond college outcomes.
 
@@ -68,7 +68,7 @@ What would move the needle (if this category were to improve to CLASSICAL): Incr
 
 Evidence
 - The school’s stated curriculum is explicitly described as a classical liberal arts curriculum grounding learning in Trivium/Quadrivium traditions, with an emphasis on Great Books and the Western canon. Public materials emphasize Great Books, liberal arts, and classical curriculum as core. 
-- Great Books and the Great Conversation are highlighted as a central pedagogy; the school uses Great Books as a core frame for historical and philosophical study. The Great Books approach is explicitly referenced in multiple materials. fileciteturn0file4turn0file1
+- Great Books and the Great Conversation are highlighted as a central pedagogy; the school uses Great Books as a core frame for historical and philosophical study. The Great Books approach is explicitly referenced in multiple materials. 
 - Socratic approach and rhetoric are described as key top-level pedagogy (Socratic Method is explicitly named for upper grades; rhetoric training is described). 
 - There is explicit mention of a core liberal arts curriculum, with a robust emphasis on history and the Western canon, and a sense of “formation” through exposure to Great Books and classical texts. 
 
@@ -78,7 +78,7 @@ Positive/Negative Keyword Analysis
 - Quantitative estimate: Positive keywords appear frequently (roughly 7–9 distinct terms across the public materials). There are few if any explicit negative indicators in the public pages.
 - Why this rating: The curriculum as described aligns strongly with CLASSICAL criteria (liberal arts, trivium/quadrivium, Great Books, history as part of a Great Conversation, Socratic pedagogy). Element 3 is clearly CLASSICAL.
 
-Citations: Curriculum statements; Great Books emphasis; Socratic Method language. fileciteturn0file9turn0file1turn0file8
+Citations: Curriculum statements; Great Books emphasis; Socratic Method language. 
 
 ---
 
@@ -96,7 +96,7 @@ Positive/Negative Keyword Analysis
 - Quantitative estimate: Positive keywords present in several public pages (Socratic, rhetoric, Great Books, seminars) – roughly 4–6 distinct terms. Negative signals are minimal in public content; a potential gap is the explicit, systemic restfulness-language (Scholé) in the public-facing pages.
 - Why this rating: Pedagogy shows strong classical elements (Socratic discussion, rhetoric, Great Books). However, the public-facing content does not always explicitly articulate a full restfulness/scholé program across all grades, which keeps Element 4 in SOMEWHAT CLASSICAL rather than CLASSICAL.
 
-Citations: Socratic Method and rhetoric in Curriculum/Academy Traits; statement about upper-level public pedagogy. fileciteturn0file8turn0file9
+Citations: Socratic Method and rhetoric in Curriculum/Academy Traits; statement about upper-level public pedagogy. 
 
 What would move the needle: More explicit articulation of a rested/Scholé-based rhythm across grade levels (especially lower grades), and a published, school-wide restfulness or contemplative schedule to complement the active Socratic/seminar approach.
 
@@ -115,7 +115,7 @@ Positive/Negative Keyword Analysis
 - Quantitative estimate: Positive keywords present across multiple pages (4–6 distinct terms). No explicit negative signals.
 - Why this rating: The materials align with a CLASSICAL faculty profile: teachers as virtuous exemplars who form the heart of the school and serve as mentors in a living curriculum.
 
-Citations: Two-teacher model; living curriculum; faculty as mentors; core-actor in the school. fileciteturn0file2turn0file0
+Citations: Two-teacher model; living curriculum; faculty as mentors; core-actor in the school. 
 
 ---
 
@@ -132,19 +132,19 @@ Positive/Negative Keyword Analysis
 - Quantitative estimate: Positive keywords present in multiple areas (4–6 distinct terms). Negligible to zero negative signals in public materials.
 - Why this rating: The school demonstrates strong CLASSICAL alignment for Parent & Community through explicit parent partnership and ongoing family engagement.
 
-Citations: Parent partnership; open-campus language; family involvement; commitment to parent engagement. fileciteturn0file2turn0file16turn0file12
+Citations: Parent partnership; open-campus language; family involvement; commitment to parent engagement. 
 
 ---
 
 ## What Would Move the Needle
 
 - If any category were to move toward CLASSICAL with greater immediacy, the quickest needle would be Element 1 (Religious and Metaphysical Foundations) and Element 4 (Pedagogy). Concrete steps:
-  - Element 1: More explicit articulation of theological grounding, liturgical/community practices, and a clearly stated theological framework within public materials (e.g., a page summarizing liturgical rhythm, chapel or morning prayer components, sacred music, or catechesis language aligned with the Great Hearts Christian orientation).
-  - Element 4: Expand and publish a school-wide, explicit restfulness/scholé program across all grades, including documented routines for contemplative moments, slow-paced learning, and reflective time as a core daily element (to complement Socratic/dialectic pedagogy with a well-defined scholé schedule).
-  - Element 2: Emphasize formation as telos in marketing and policy language beyond college/outcome metrics; reduce emphasis on college-admissions metrics as the primary public aim and foreground formation and virtuous leadership as the dominant end.
-  - Element 3: Maintain and expand the Great Books/ liberal-arts core, and clearly articulate how grammar, logic, rhetoric are woven into each grade’s curriculum, ideally with explicit trimester-ready outlines showing the Trivium/Quadrivium progression.
-  - Element 6: Continue to deepen parent formation and communication channels (e.g., more formalized parent book clubs or liturgical-year events) to reinforce parent-co-teacher roles.
+ - Element 1: More explicit articulation of theological grounding, liturgical/community practices, and a clearly stated theological framework within public materials (e.g., a page summarizing liturgical rhythm, chapel or morning prayer components, sacred music, or catechesis language aligned with the Great Hearts Christian orientation).
+ - Element 4: Expand and publish a school-wide, explicit restfulness/scholé program across all grades, including documented routines for contemplative moments, slow-paced learning, and reflective time as a core daily element (to complement Socratic/dialectic pedagogy with a well-defined scholé schedule).
+ - Element 2: Emphasize formation as telos in marketing and policy language beyond college/outcome metrics; reduce emphasis on college-admissions metrics as the primary public aim and foreground formation and virtuous leadership as the dominant end.
+ - Element 3: Maintain and expand the Great Books/ liberal-arts core, and clearly articulate how grammar, logic, rhetoric are woven into each grade’s curriculum, ideally with explicit trimester-ready outlines showing the Trivium/Quadrivium progression.
+ - Element 6: Continue to deepen parent formation and communication channels (e.g., more formalized parent book clubs or liturgical-year events) to reinforce parent-co-teacher roles.
 
-Citations: Language in public materials supports these suggestions (e.g., Truth/Goodness/Beauty, Great Books, Socratic Method, formation/virtue language). See Curricular and Mission materials cited above. fileciteturn0file9turn0file12turn0file8
+Citations: Language in public materials supports these suggestions (e.g., Truth/Goodness/Beauty, Great Books, Socratic Method, formation/virtue language). See Curricular and Mission materials cited above. 
 
 ---

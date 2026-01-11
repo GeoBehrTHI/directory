@@ -1,3 +1,5 @@
+Overall Classification: CLASSICAL
+
 ## ABSTRACT
 
 Archway Classical Academy Trivium West AZ 85395 presents a CLASSICAL orientation across all six classical-education criteria:

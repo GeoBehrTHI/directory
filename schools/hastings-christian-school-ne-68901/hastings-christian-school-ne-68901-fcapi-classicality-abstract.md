@@ -1,23 +1,23 @@
 ## ABSTRACT
 
-Hastings Christian School Ne 68901 presents a public-facing program with a Christian classical orientation. The school foregrounds a Trivium/Quadrivium-based curriculum, Christian Liberal Arts framing, and a formation-focused mission aimed at truth, goodness, and beauty within a gospel-centered context. Category-by-category analysis indicates a CLASSICAL alignment in Curriculum (Category 3) and Religious Foundations (Category 1) and solid signals in Formation-oriented goals (Category 2). Pedagogy (Category 4) shows partial classical alignment with some Socratic/guide-discussion elements, but not a fully explicit, systematized classical pedagogy; Faculty (Category 5) surfaces few explicit “living-curriculum” statements; Parents & Community (Category 6) shows meaningful partnership with families but would benefit from more formal parent-education programs.
+Hastings Christian School (Hastings, NE, 68901) presents a public-facing program with a Christian classical orientation. The school foregrounds a Trivium/Quadrivium-based curriculum, Christian Liberal Arts framing, and a formation-focused mission aimed at truth, goodness, and beauty within a gospel-centered context. Category-by-category analysis indicates a CLASSICAL alignment in Curriculum (Element 3) and Religious Foundations (Element 1) and solid signals in Formation-oriented goals (Element 2). Pedagogy (Element 4) shows partial classical alignment with some Socratic/guide-discussion elements, but not a fully explicit, systematized classical pedagogy; Faculty (Element 5) surfaces few explicit “living-curriculum” statements; Parents & Community (Element 6) shows meaningful partnership with families but would benefit from more formal parent-education programs.
 
-- Category 1 (Foundations): CLASSICAL
+- Element 1 (Foundations): CLASSICAL
   - Evidence: mission to love God, truth/goodness/beauty; theological framing.  
 
-- Category 2 (Purpose/Goal): SOMEWHAT CLASSICAL
+- Element 2 (Purpose/Goal): SOMEWHAT CLASSICAL
   - Evidence: formation/discipline language and explicit truth/goodness/beauty aims; some telos language appears but lacks full explicit articulation of classical telos and Great Conversation across the board. 
 
-- Category 3 (Curriculum): CLASSICAL
+- Element 3 (Curriculum): CLASSICAL
   - Evidence: Trivium/Quadrivium; liberal arts framing; Christian Liberal Arts Tradition. 
 
-- Category 4 (Pedagogy): SOMEWHAT CLASSICAL
+- Element 4 (Pedagogy): SOMEWHAT CLASSICAL
   - Evidence: guided discussions in Trivium; partial alignment with classical pedagogy but not a full, explicit pedagogy program described. 
 
-- Category 5 (Faculty): NOT CLASSICAL
+- Element 5 (Faculty): NOT CLASSICAL
   - Evidence: limited explicit faculty-as-core language; living-curriculum concepts not publicly articulated. 
 
-- Category 6 (Parents & Community): SOMEWHAT CLASSICAL
+- Element 6 (Parents & Community): SOMEWHAT CLASSICAL
   - Evidence: partnership with families; parental involvement language; practical home practice with children; formal parent-education programs not clearly described. 
 
 Aggregate assessment: SOMEWHAT CLASSICAL

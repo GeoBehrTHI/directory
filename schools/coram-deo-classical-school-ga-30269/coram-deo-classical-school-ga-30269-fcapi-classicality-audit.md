@@ -35,7 +35,7 @@ Positive/Negative Keyword Analysis
 - Negative keywords present: None identified in the public materials (no explicit secular/relativist signals countering a theocentric stance).
 - Quantitative estimate: P approx. 9–12 distinct positive religious/metaphysical indicators appear across the materials; N approx. 0 explicit negative indicators. Interpretation: 100% positive in terms of the lexical signals present.
 Why this rating
-- The materials consistently demonstrate transcendental moral realism and a theologically grounded education, with explicit liturgical and communal practices, and a telos oriented toward truth, goodness, and beauty within a Christian frame. This strongly satisfies the Religious and Metaphysical Foundations criteria. See evidence references above. The absence of explicit negative signals reinforces the Classical alignment in this category. fileciteturn0file1turn0file0turn0file4
+- The materials consistently demonstrate transcendental moral realism and a theologically grounded education, with explicit liturgical and communal practices, and a telos oriented toward truth, goodness, and beauty within a Christian frame. This strongly satisfies the Religious and Metaphysical Foundations criteria. See evidence references above. The absence of explicit negative signals reinforces the Classical alignment in this category. 
 
 ---
 
@@ -52,7 +52,7 @@ Positive/Negative Keyword Analysis
 - Negative keywords present: The site does not emphasize “workforce preparation” or “career readiness” in a way that competes with formation; no explicit negative signals against formation are evident.
 - Quantitative estimate: P approx. 8–10 positive indicators; N approx. 0–1 subtle signals (none explicit countering formation). Interpretation: near 100% positive lexical signaling for formation-focused aims.
 Why this rating
-- The site consistently frames education as formation and a cultivation of virtue and wisdom, with a teleology toward the Good and Beautiful, not primarily toward job-readiness or technical/workforce outcomes. The presence of phrases like “transformative encounters with the True, the Good, and the Beautiful” and the emphasis on virtue and wisdom substantiate a Classical orientation for purpose/goals. fileciteturn0file1turn0file4
+- The site consistently frames education as formation and a cultivation of virtue and wisdom, with a teleology toward the Good and Beautiful, not primarily toward job-readiness or technical/workforce outcomes. The presence of phrases like “transformative encounters with the True, the Good, and the Beautiful” and the emphasis on virtue and wisdom substantiate a Classical orientation for purpose/goals. 
 
 ---
 
@@ -70,7 +70,7 @@ Positive/Negative Keyword Analysis
 - Negative keywords present: None that counter the classical curriculum extensively; no “social studies” replacement framing; minimal reference to project-based or constructivist-only approaches dominating the curriculum.
 - Quantitative estimate: P approx. 9–12 positive indicators; N approx. 0–1 subtle counter-indicators (none explicit). Interpretation: strong positive signaling for a Classics curriculum.
 Why this rating
-- The CDCS materials demonstrate a canonical classical curriculum with grammar/logic/rhetoric, Great Books, emphasis on history in a broad Western/canonical sense, and classical languages and logic/reasoning components. The explicit Great Books orientation and Trivium-based structure justify a CLASSICAL rating for Curriculum. fileciteturn0file0turn1file13turn1file16
+- The CDCS materials demonstrate a canonical classical curriculum with grammar/logic/rhetoric, Great Books, emphasis on history in a broad Western/canonical sense, and classical languages and logic/reasoning components. The explicit Great Books orientation and Trivium-based structure justify a CLASSICAL rating for Curriculum. 
 
 ---
 
@@ -87,7 +87,7 @@ Positive/Negative Keyword Analysis
 - Negative keywords present: The explicit negative indicators for Pedagogy in the lexicon include “experiential learning focus,” “project-based only,” or “constructivist” approaches as potential red flags. CDCS public materials do not emphasize these as the sole mode; however, there is less explicit emphasis on pure Socratic seminars or formal upper-school seminar culture in the publicly visible pages.
 - Quantitative estimate: P approx. 5–7 positive indicators; N approx. 0–1 weak negative indicators (lack of explicit Socratic/seminar labeling in public content; not a strong counter-indicator due to other classical pedagogy signals). Interpretation: trending toward CLASSICAL but with some ambiguity in the explicit public phrasing about high-school seminars and Socratic dialogue in public-facing content.
 Why this rating
-- Public-facing materials clearly demonstrate classical pedagogy through memory work (Lower School), chant/singing, and formation-focused methods, and through rhetorical training and logic in the Upper School (including public-facing emphasis on rhetoric and public speaking). However, explicit, explicit public statements about Socratic seminars or a sustained high-school seminar culture are not as strongly documented as some classical schools, which justifies a SOMEWHAT CLASSICAL designation for Pedagogy. fileciteturn0file9turn0file4turn1file13
+- Public-facing materials clearly demonstrate classical pedagogy through memory work (Lower School), chant/singing, and formation-focused methods, and through rhetorical training and logic in the Upper School (including public-facing emphasis on rhetoric and public speaking). However, explicit, explicit public statements about Socratic seminars or a sustained high-school seminar culture are not as strongly documented as some classical schools, which justifies a SOMEWHAT CLASSICAL designation for Pedagogy. 
 
 ---
 
@@ -120,7 +120,7 @@ Positive/Negative Keyword Analysis
 - Negative keywords present: None publicly evident as signals of consumerism or minimal parental involvement; the public content tends toward parental engagement and formation.
 - Quantitative estimate: P approx. 6–8 positive indicators; N approx. 0 negative indicators.
 Why this rating
-- The public materials strongly emphasize parent partnership, parent formation, and open family engagement as integral to the school’s classical model, aligning with the Parents & Community criteria in the classical rubric. This supports a CLASSICAL designation for Element 6. fileciteturn0file0turn0file3
+- The public materials strongly emphasize parent partnership, parent formation, and open family engagement as integral to the school’s classical model, aligning with the Parents & Community criteria in the classical rubric. This supports a CLASSICAL designation for Element 6. 
 
 ---
 

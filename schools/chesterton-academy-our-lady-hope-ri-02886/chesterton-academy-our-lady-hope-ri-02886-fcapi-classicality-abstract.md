@@ -1,3 +1,5 @@
+Overall Classification: CLASSICAL
+
 ## ABSTRACT
 
 Chesterton Academy of Our Lady of Hope Rhode Island demonstrates strong CLASSICAL alignment across all six categories of the classical education rubric. Religious and Metaphysical Foundations are grounded in Catholic theology, liturgy, and sacramental life, with daily Mass and a chapel presence integrated into school life. The School Purpose and Goal center on formation, virtue, and wisdom—truth, goodness, and beauty—over mere information or job preparation. The Curriculum emphasizes liberal arts through a canon of Great Books (Homer, Dante, Shakespeare) and integrated study of history, philosophy, theology, and languages, reflecting a Great-Books orientation. Pedagogy blends Socratic dialogue and seminars with memory-work and liturgical elements, adhering to classical teaching methods. Faculty are depicted as model teachers and mentors who form a living curriculum, and Parents & Community are actively engaged as co-educators, with open houses, shadow days, and community campaigns. The aggregate evaluation is CLASSICAL.

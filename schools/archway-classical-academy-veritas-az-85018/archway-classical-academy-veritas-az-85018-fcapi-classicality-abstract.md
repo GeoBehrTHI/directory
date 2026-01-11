@@ -1,3 +1,5 @@
+Overall Classification: CLASSICAL
+
 ## ABSTRACT
 
 Archway Classical Academy Veritas AZ 85018 demonstrates a strong CLASSICAL orientation across all six categories of the classical-school rubric. The public materials consistently emphasize formation of virtue and wisdom within a canon-driven curriculum, anchored by Great Hearts’ Great Books framework, and supported by a robust parental and community ecosystem.
@@ -9,7 +11,7 @@ Archway Classical Academy Veritas AZ 85018 demonstrates a strong CLASSICAL orien
 - Faculty: CLASSICAL. Faculty are positioned as virtuous mentors and living exemplars, with a clear focus on forming minds and hearts in virtue and truth; the core-virtues framework is visible and used to shape expectations.  
 - Parents & Community: CLASSICAL. The AVPSO and parent-partnership language, along with open-campus philosophy and family formation activities, align with classical expectations about family involvement in education. 
 
-Overall, Archway Veritas presents a coherent CLASSICAL profile with strong signals in all six categories. The strongest category signals cluster around formation and virtue (Categories 1–2), canonical-curriculum and Great Books events (Category 3), classical pedagogy (Category 4), virtuous living faculties (Category 5), and robust parent-community partnership (Category 6). The aggregate assessment is CLASSICAL.
+Overall, Archway Veritas presents a coherent CLASSICAL profile with strong signals in all six categories. The strongest category signals cluster around formation and virtue (Categories 1–2), canonical-curriculum and Great Books events (Element 3), classical pedagogy (Element 4), virtuous living faculties (Element 5), and robust parent-community partnership (Element 6). The aggregate assessment is CLASSICAL.
 
 Notes on documentation and sources
 - Core mission language and virtue-focused framing are clearly visible in the school materials and Great Hearts content. Representative examples include the mission statements and public presentations of Great Hearts Day activities.  

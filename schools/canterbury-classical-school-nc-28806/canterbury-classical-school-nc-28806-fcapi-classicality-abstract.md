@@ -1,3 +1,5 @@
+Overall Classification: CLASSICAL
+
 ## ABSTRACT
 
 Canterbury Classical School NC 28806 demonstrates a CLASSICAL orientation across most of the classical education criteria. The school’s public materials emphasize:

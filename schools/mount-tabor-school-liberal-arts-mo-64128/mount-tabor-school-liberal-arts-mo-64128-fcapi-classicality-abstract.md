@@ -11,5 +11,3 @@ Category-by-category highlights:
 - Parents & Community: CLASSICAL, evidenced by parish-based partnerships and active parental involvement.
 
 Aggregate assessment: CLASSICAL.
-
-If you would like, I can extract direct quotations and provide a more granular mapping of specific terms from the Six Essential Elements lexicon to each observed instance on the Mount Tabor site, with line-by-line citations.

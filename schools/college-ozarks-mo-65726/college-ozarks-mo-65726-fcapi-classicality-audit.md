@@ -22,7 +22,7 @@ Positive/ Negative Keyword Analysis
 - Negative keywords: None evident in public materials.
 
 Why this rating
-- The school explicitly grounds its mission and pedagogy in Christian theology and moral realism through specific language about faith integration, a biblical worldview, and character formation, aligning well with the transcendental moral realism and theology emphases of the classical model. This category clearly stands as CLASSICAL given the explicit religious-metaphysical framing and communal-faith practices evident in the public materials. See mission and pillar statements cited above. fileciteturn0file11turn0file15turn0file16
+- The school explicitly grounds its mission and pedagogy in Christian theology and moral realism through specific language about faith integration, a biblical worldview, and character formation, aligning well with the transcendental moral realism and theology emphases of the classical model. This category clearly stands as CLASSICAL given the explicit religious-metaphysical framing and communal-faith practices evident in the public materials. See mission and pillar statements cited above. 
 
 ### Element 2: School Purpose and Goal — CLASSICAL
 
@@ -35,7 +35,7 @@ Positive/ Negative Keyword Analysis
 - Negative keywords: Not evident in public materials (no explicit “workforce preparation” language in the public-facing statements; however, some materials emphasize vocational/pillar content rather than purely career prep).
 
 Why this rating
-- The school foregrounds formation, virtue, and a classical telos via Christian formation and liberal-arts grounding rather than a job-centric or information-dense approach. The presence of formation-focused language and a classical mission orientation supports CLASSICAL rather than purely information-based education. fileciteturn0file11turn0file16
+- The school foregrounds formation, virtue, and a classical telos via Christian formation and liberal-arts grounding rather than a job-centric or information-dense approach. The presence of formation-focused language and a classical mission orientation supports CLASSICAL rather than purely information-based education. 
 
 ### Element 3: School Curriculum — SOMEWHAT CLASSICAL
 
@@ -50,7 +50,7 @@ Positive/ Negative Keyword Analysis
 - Net: Some classical signals (liberal arts, history) without explicit Great Books or grammar/logic/rhetoric signals.
 
 Why this rating
-- The curriculum is grounded in liberal arts and history, and historically oriented via Western civilization framing, which are hallmarks of classical education. However, there is a notable absence of explicit Great Books, grammar/logical/rhetorical sequencing, and named Socratic inquiry in the public-facing materials. These gaps reduce the category from CLASSICAL toward SOMEWHAT CLASSICAL. See liberal arts wording (turn0file16) and history/western-civilization framing (turn0file2). fileciteturn0file16turn0file2
+- The curriculum is grounded in liberal arts and history, and historically oriented via Western civilization framing, which are hallmarks of classical education. However, there is a notable absence of explicit Great Books, grammar/logical/rhetorical sequencing, and named Socratic inquiry in the public-facing materials. These gaps reduce the category from CLASSICAL toward SOMEWHAT CLASSICAL. See liberal arts wording (turn0file16) and history/western-civilization framing (turn0file2). 
 
 ### Element 4: Pedagogy or Teaching Methods — NOT CLASSICAL
 
@@ -64,7 +64,7 @@ Positive/ Negative Keyword Analysis
 - Net: The Pedagogy category aligns more with NOT CLASSICAL given the absence of explicit classical pedagogical signaling in the public-facing materials.
 
 Why this rating
-- While the school clearly centers Christian formation, liberal arts, and a living curriculum, explicit classical pedagogy signals such as Socratic seminars, structured classical memory work, or a documented sequence of grammar–logic–rhetoric are not demonstrated in the public-facing content provided. This results in a NOT CLASSICAL designation for pedagogy in this rubric context. See lack of explicit Socratic/seminar language in the cited materials (turn0file16, turn0file12, turn0file18). 
+- While the school clearly centers Christian formation, liberal arts, and a living curriculum, explicit classical pedagogy signals such as Socratic seminars, structured classical memory work, or a documented sequence of grammar–logic–rhetoric are not demonstrated in the public-facing content provided. This results in a NOT CLASSICAL designation for pedagogy in this rubric context. See lack of explicit Socratic/seminar language in the cited materials (turn0file16, turn0file18). 
 
 ### Element 5: School Faculty — CLASSICAL
 
@@ -95,10 +95,10 @@ Why this rating
 ## What Would Move the Needle
 
 - If this school seeks to move from SOMEWHAT CLASSICAL toward FULL CLASSICAL, consider:
-  - Explicitly codifying and publicly communicating a Great Books orientation within the Curriculum category (e.g., a published Great Books list, primary sources, and a formal “Great Conversation” framework).
-  - Establishing a clear, documented grammar–logic–rhetoric progression, including Latin/Greek options, and explicit signs of Socratic pedagogy and seminars at high school levels (or a stated path from K–8 to 12 with Socratic elements starting in 9–12).
-  - Making Pedagogy signals explicit on the website: documented use of Socratic seminars, narration/recitation pathways, and memory-work structures as a formalized practice across grade bands.
-  - Strengthening Parent and Community signals with formal “co-teaching” language, parent study groups, and published policies that describe parents as co-educators with specific roles, not just open-campus access.
-  - Increasing emphasis on universal “permanent things” language and the triad of truth, goodness, and beauty in mission statements and curriculum maps (to echo transcendental realisms and the telos of classical education).
+ - Explicitly codifying and publicly communicating a Great Books orientation within the Curriculum category (e.g., a published Great Books list, primary sources, and a formal “Great Conversation” framework).
+ - Establishing a clear, documented grammar–logic–rhetoric progression, including Latin/Greek options, and explicit signs of Socratic pedagogy and seminars at high school levels (or a stated path from K–8 to 12 with Socratic elements starting in 9–12).
+ - Making Pedagogy signals explicit on the website: documented use of Socratic seminars, narration/recitation pathways, and memory-work structures as a formalized practice across grade bands.
+ - Strengthening Parent and Community signals with formal “co-teaching” language, parent study groups, and published policies that describe parents as co-educators with specific roles, not just open-campus access.
+ - Increasing emphasis on universal “permanent things” language and the triad of truth, goodness, and beauty in mission statements and curriculum maps (to echo transcendental realisms and the telos of classical education).
 
 These changes would align more completely with the positive keyword indicators and address the gaps between a robust Christian liberal-arts program and a fully realized classical pedagogy.

@@ -9,7 +9,7 @@ Chesterton Academy of St. Margaret Clitherow (Knoxville, TN) demonstrates a robu
 - Faculty: Mentors and living curriculum embodiment; named leadership; diocesan worship oversight; collaborative faculty culture.  
 - Parents & Community: Active family partnerships, parent-formation opportunities, and welcoming, open-campus culture. 
 
-Executive Summary — Category-by-Category Snapshot (Aggregate)
+Executive Summary — Element-by-Element Snapshot (Aggregate)
 - Overall classification: CLASSICAL
 - Most important insights: Chesterton Academy Knoxville presents a coherent, Catholic, classical education model with strong emphasis on Great Books, Socratic inquiry, liturgical life, and family partnership. The public materials consistently reflect the core elements of the classical rubric across all six categories, with abundant evidence of formation, truth/goodness/beauty, and a living, mentorship-focused faculty culture.
 

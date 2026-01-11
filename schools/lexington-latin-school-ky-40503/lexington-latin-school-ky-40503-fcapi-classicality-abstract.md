@@ -15,40 +15,40 @@ Notes on evidence and sources
 - Core public materials from Lexington Latin School (e.g., “A Christian, classical, and traditional private school,” “Education as Formation,” “Truth, Goodness, & Beauty,” “The Great Tradition,” “Upper School Courses,” “Grammar School Courses,” and “Upper School House System”) anchor the religious, curricular, and community dimensions cited here.     
 - The six-element/classicality framework and positive/negative keyword indicators are drawn from the knowledge-base lexicon (“Six Essential Elements of a Classical School (1)” and the.Classicality Lexicon). Positive keywords for each category (and negative signals) are enumerated in the Lexicon, which informs the keyword-analysis methodology used here.  
 
-Executive Summary — Category-by-Category Details
+Executive Summary — Element-by-Element Details
 
-- Category 1: Religious and Metaphysical Foundations — CLASSICAL
+- Element 1: Religious and Metaphysical Foundations — CLASSICAL
   - Evidence: Christian/religious framing; gospel-guided formation; liturgical elements; theology integrated with curriculum; references to truth/beauty as real; worship/music alignment with sacred tradition. 
   - Keyword indicators: Truth, goodness, beauty; virtue; theology; liturgy; reverence; wonder; Logos; imago Dei; wisdom. 12+ positives; 0 negatives.
   - Rationale: Clear transcendental/real-properties orientation; defined sacred/god-centered formation.
 
-- Category 2: School Purpose and Goal — CLASSICAL
+- Element 2: School Purpose and Goal — CLASSICAL
   - Evidence: Formation-focused aims; virtue and wisdom; Great Tradition; formation over information; telos toward the true/good/beautiful. 
   - Keyword indicators: Formation, virtue, wisdom, liberal education, paideia, telos, great conversation, classical heritage. 6–12 positives; 0 negatives.
   - Rationale: Purpose aligns with classical aims for formation and human excellence.
 
-- Category 3: School Curriculum — CLASSICAL
+- Element 3: School Curriculum — CLASSICAL
   - Evidence: Latin core; grammar/logic/rhetoric; study of great books; Shakespeare; Western civilization; emphasis on the liberal arts; Great Books/Great Conversation framing.  
   - Keyword indicators: Seven Liberal Arts (grammar/logic/rhetoric), Latin, Great Books, Shakespeare, history, the unity of truth across disciplines; wonder. 8–12 positives; 0 negatives.
   - Rationale: Consistent with classical curriculum architecture.
 
-- Category 4: School Pedagogy or Teaching Methods — SOMEWHAT CLASSICAL
+- Element 4: School Pedagogy or Teaching Methods — SOMEWHAT CLASSICAL
   - Evidence: Lower grades feature recitation, memory, singing; upper grades show rhetoric and classical-styled content; explicit Socratic discussions are not consistently documented across all grades. 
   - Keyword indicators: Recitation/chanting, scholé, memorization, formation through imitation, rhetoric, seminars/debates; limited explicit Socratic documentation. 6–10 positives; 1–2 potential negatives (lack of explicit, uniform Socratic practice across all grades).
   - Rationale: Strong Classical threads, but Pedagogy documentation is not uniformly explicit about the full Socratic/seminar program, hence SOMEWHAT CLASSICAL.
 
-- Category 5: School Faculty — CLASSICAL
+- Element 5: School Faculty — CLASSICAL
   - Evidence: Distinct leaders (Head of School, Upper School Dean, etc.); stated living-curriculum/character-formation orientation; faculty portraits/role-models; explicit “teacher as mentor” framing. 
   - Keyword indicators: Living curriculum, portrait of the teacher, mentors, virtue, character formation, collegial culture. 6–10 positives; 0–1 negatives.
   - Rationale: Faculty transparency and emphasis on virtue/mentorship align strongly with classical expectations.
 
-- Category 6: School Parents and Community — CLASSICAL
+- Element 6: School Parents and Community — CLASSICAL
   - Evidence: Partnership with parents; parental formation resources; open campus; parent-co-teachers language; family formation emphasis. 
   - Keyword indicators: Partnership with parents, co-teachers, parental formation, open campus, classical book clubs, family liturgy. 6–12 positives; 0 negatives.
   - Rationale: Strong community-formation orientation consistent with classical-classroom culture.
 
 What would move the needle (applies when SOMEWHAT CLASSICAL)
-- For Pedagogy (Category 4), concrete steps to elevate toward CLASSICAL:
+- For Pedagogy (Element 4), concrete steps to elevate toward CLASSICAL:
   - Publish explicit, school-wide documentation of Socratic/seminar-based pedagogy across grades, with exemplar lessons or transcripts.
   - Expand the Scholé/reflective learning framework across all divisions (not just lower grades) with documented practice.
   - Develop and publish a formal Pedagogy Playbook integrating Great Books, Trivium-based content, and rhetoric across the grades.

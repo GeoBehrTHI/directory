@@ -1,12 +1,12 @@
 ## Executive Summary
 
-Chelsea Academy Va 22630 presents a clearly Catholic, character-oriented program that integrates classical ideals into a K–12 liberal-arts framework. Public materials emphasize formation of virtue, a Catholic worldview, reverence for truth, and engagement with great books and a classical sensibility, while also detailing modern capabilities (accreditation, campus facilities, college-preparatory work). Overall, the school demonstrates strong classical commitments in religious/metaphysical foundations, school purpose/goals, faculty, and parent/community engagement, with solid if not fully explicit signals in curriculum and pedagogy. The aggregate assessment leans toward CLASSICAL, with several category elements clearly CLASSICAL and a couple that show MOSTLY classical alignment with room for fuller explicit articulation of traditional classical curriculum components (e.g., explicit grammar/logic/rhetoric pedagogy in public-facing materials).
+Chelsea Academy (Front Royal, VA, 22630) presents a clearly Catholic, character-oriented program that integrates classical ideals into a K–12 liberal-arts framework. Public materials emphasize formation of virtue, a Catholic worldview, reverence for truth, and engagement with great books and a classical sensibility, while also detailing modern capabilities (accreditation, campus facilities, college-preparatory work). Overall, the school demonstrates strong classical commitments in religious/metaphysical foundations, school purpose/goals, faculty, and parent/community engagement, with solid if not fully explicit signals in curriculum and pedagogy. The aggregate assessment leans toward CLASSICAL, with several category elements clearly CLASSICAL and a couple that show MOSTLY classical alignment with room for fuller explicit articulation of traditional classical curriculum components (e.g., explicit grammar/logic/rhetoric pedagogy in public-facing materials).
 
 Key takeaways:
 - Religious and Metaphysical Foundations: Strong Catholic identity, liturgical life, and explicit references to truth, virtue, and sacred practice. Evidence includes Mass, St. Thomas More Chapel, atrium-based religious formation, and statements invoking a Catholic liberal-arts mission. 
 - Purpose and Goal: Emphasis on formation, virtue, wisdom, and the cultivation of human excellence within a liberal-arts and theologically grounded frame. Public materials foreground transformation, character formation, and a “Great Books/Western-Civilization” orientation in practice. 
-- Curriculum: The school markets itself as a Catholic liberal-arts institution; supporting documents reference liberal arts, Western-Civilization-style study, and Great Books through coursework like English offerings and literature lists. Some explicit classical-curriculum cues (liberal-arts emphasis; Great Books) are present, but fully explicit articulation of the classic Trivium/Quadrivium pathway is not consistently foregrounded in site content. fileciteturn0file0turn0file18turn0file6
-- Pedagogy: Signals of contemplative/wonder-based approaches (e.g., Atrium, memory work, chants, ritual life) exist alongside more dialogic elements (e.g., upper-school opportunities for rhetoric and public speaking are referenced, but explicit Socratic seminars are not uniformly documented across public pages). fileciteturn0file9turn0file16
+- Curriculum: The school markets itself as a Catholic liberal-arts institution; supporting documents reference liberal arts, Western-Civilization-style study, and Great Books through coursework like English offerings and literature lists. Some explicit classical-curriculum cues (liberal-arts emphasis; Great Books) are present, but fully explicit articulation of the classic Trivium/Quadrivium pathway is not consistently foregrounded in site content. 
+- Pedagogy: Signals of contemplative/wonder-based approaches (e.g., Atrium, memory work, chants, ritual life) exist alongside more dialogic elements (e.g., upper-school opportunities for rhetoric and public speaking are referenced, but explicit Socratic seminars are not uniformly documented across public pages). 
 - Faculty: The faculty are framed as living exemplars and mentors, with language emphasizing faith-filled teaching, virtue, and the “living curriculum.” Featured content highlights leadership and a team-oriented, faith-centered approach. 
 - Parents & Community: Strong emphasis on parent partnership, parent formation via the website, book discussions, and open-campus ethos, with explicit references to parent involvement and engagement. 
 
@@ -22,11 +22,11 @@ Evidence
 - Atrium experiences and prayers are described in lower-school life as part of sacred tradition and religious formation. 
 
 Positive/Negative Keyword Analysis
-- Positive indicators present from the religious-metaphysical lexicon (truth, virtue, theology, liturgy, Mass, prayer, sacred tradition, sacred music, chant, wonder, imago Dei) are found across Chelsea’s public materials: “authentic Catholic Liberal Arts tradition,” “Forming Saints, Scholars, and Servant Leaders,” the Mass and chapel, and theatrical liturgical life. This aligns with the lexicon’s Catholic/ liturgical/ theological signals. fileciteturn0file0turn0file3turn0file16
+- Positive indicators present from the religious-metaphysical lexicon (truth, virtue, theology, liturgy, Mass, prayer, sacred tradition, sacred music, chant, wonder, imago Dei) are found across Chelsea’s public materials: “authentic Catholic Liberal Arts tradition,” “Forming Saints, Scholars, and Servant Leaders,” the Mass and chapel, and theatrical liturgical life. This aligns with the lexicon’s Catholic/ liturgical/ theological signals. 
 - Negative indicators (relativism, secular humanism, values clarification) are not evident in the public materials reviewed for this school. The absence of these signals supports a CLASSICAL rating for this category. (Referenced lexicon notes negative signals to watch for; these do not appear in Chelsea’s public materials.) 
 
 Why this rating
-- Chelsea Academy’s public-facing materials foreground a trans-cending moral order anchored in Catholic theology, liturgy, and sacred life, which strongly aligns with transcendental realism and liturgical/community practice described in the classical rubric. The presence of the St. Thomas More Chapel, Mass, the atrium, and explicit language about pursuing truth through a Catholic lens all support a CLASSICAL designation in this domain. fileciteturn0file16turn0file9turn0file0
+- Chelsea Academy’s public-facing materials foreground a trans-cending moral order anchored in Catholic theology, liturgy, and sacred life, which strongly aligns with transcendental realism and liturgical/community practice described in the classical rubric. The presence of the St. Thomas More Chapel, Mass, the atrium, and explicit language about pursuing truth through a Catholic lens all support a CLASSICAL designation in this domain. 
 
 ### Element 2: School Purpose and Goal — CLASSICAL
 
@@ -36,39 +36,39 @@ Evidence
 - “Transformative” education and the idea of forming virtuous leaders are repeatedly highlighted, indicating a formation-focused goal beyond information transfer. 
 
 Positive/Negative Keyword Analysis
-- Positive keywords drawn from the lexicon: formation, virtue, human flourishing, wisdom, liberal education, paideia, telos, pursuit of the true/good/beautiful, great conversation, scholé. Chelsea’s materials explicitly reference formation, virtue, and liberal-arts orientation; the phrase “Transformative Lives” and “Forming Saints, Scholars, and Servant Leaders” map directly to these positive indicators. fileciteturn0file3turn0file13
+- Positive keywords drawn from the lexicon: formation, virtue, human flourishing, wisdom, liberal education, paideia, telos, pursuit of the true/good/beautiful, great conversation, scholé. Chelsea’s materials explicitly reference formation, virtue, and liberal-arts orientation; the phrase “Transformative Lives” and “Forming Saints, Scholars, and Servant Leaders” map directly to these positive indicators. 
 - Negative signals (workforce-readiness, 21st-century skills) are not present as a primary framing in Chelsea’s public materials; the emphasis remains on formation and virtue rather than short-term job-readiness discourse. The lexicon notes these as potential negative signals when present; they do not appear here. 
 
 Why this rating
-- The school consistently frames education as formation toward virtue and wisdom within a Catholic liberal-arts framework, aligning with the classical aim for human excellence and the true/good/beautiful telos. This supports CLASSICAL designation for this category. fileciteturn0file3turn0file0
+- The school consistently frames education as formation toward virtue and wisdom within a Catholic liberal-arts framework, aligning with the classical aim for human excellence and the true/good/beautiful telos. This supports CLASSICAL designation for this category. 
 
 ### Element 3: School Curriculum — SOMEWHAT CLASSICAL
 
 Evidence
-- Chelsea positions itself as a Catholic liberal-arts institution, referencing liberal arts as the curricular backbone and citing engagement with Western tradition and study of great books/literature (e.g., English course lists including classic works; descriptions of classical study and a “great books” orientation implied through the emphasis on canonical literature). fileciteturn0file0turn0file18
+- Chelsea positions itself as a Catholic liberal-arts institution, referencing liberal arts as the curricular backbone and citing engagement with Western tradition and study of great books/literature (e.g., English course lists including classic works; descriptions of classical study and a “great books” orientation implied through the emphasis on canonical literature). 
 - Supporting materials (ICE pamphlet and classical-curriculum lexicon) outline the Trivium/Quadrivium, Latin/Greek, history, and great books as core curricular elements of classical education; these elements provide a framework for what a classical curriculum should include. Chelsea’s materials reference liberal arts education and canonical literature (e.g., book lists featuring classic titles). 
 - The curriculum content in Chelsea materials shows emphasis on literature and Western civilization through graded reading lists and course choices (e.g., English IV, History, Theology). The presence of classic works and a heavy humanities emphasis is evident. 
 
 Positive/Negative Keyword Analysis
-- Positive indicators present: liberal arts, great books, classics, history (as in Western Civilization framing), and canonical literature (e.g., The Great Gatsby, The Scarlet Letter, etc.). Chelsea publicly references classical education through its mission and course materials; these map onto the lexicon’s expected curricular signals. fileciteturn0file0turn0file18
+- Positive indicators present: liberal arts, great books, classics, history (as in Western Civilization framing), and canonical literature (e.g., The Great Gatsby, The Scarlet Letter, etc.). Chelsea publicly references classical education through its mission and course materials; these map onto the lexicon’s expected curricular signals. 
 - Explicit Trivium/Quadrivium vocabulary (grammar, logic, rhetoric) is not consistently foregrounded in public Chelsea pages; the formal articulation of these components is more implied through “liberal arts” and canonical literature rather than explicit Trivium/Quadrivium naming in site content. The lexicon warns that lack of these explicit terms can signal a weaker alignment; Chelsea’s site does not frequently spell them out, though the broader liberal-arts/western-civilization emphasis remains strong. 
 
 Why this rating
-- Chelsea clearly embraces a liberal-arts, canon-focused curriculum and a Great Books/Western-Civilization orientation, which are core classical markers. However, the public-facing materials do not consistently spell out the full Trivium/Quadrivium pathway or the explicit “Great Conversation” framing in a way that would guarantee a full classical-curriculum declaration. Given that, the category is best described as SOMEWHAT CLASSICAL, with strong classical signals but not complete, explicit pedagogy/curriculum articulation in every public-facing piece. fileciteturn0file0turn0file18
+- Chelsea clearly embraces a liberal-arts, canon-focused curriculum and a Great Books/Western-Civilization orientation, which are core classical markers. However, the public-facing materials do not consistently spell out the full Trivium/Quadrivium pathway or the explicit “Great Conversation” framing in a way that would guarantee a full classical-curriculum declaration. Given that, the category is best described as SOMEWHAT CLASSICAL, with strong classical signals but not complete, explicit pedagogy/curriculum articulation in every public-facing piece. 
 
 ### Element 4: Pedagogy or Teaching Methods — SOMEWHAT CLASSICAL
 
 Evidence
 - The school features contemplative, ritualized elements (atrium classes, liturgical life, and memory-based routines) alongside more traditional, dialogic expressions (upper-school rhetoric and public speaking). The presence of Atrium programs and prayer/memory-based practices aligns with scholé (restful/wonderful learning) signals in the classical lexicon. 
-- Public materials reference opportunities for writing, speaking, and leadership (e.g., senior theses, public addresses, and headmaster communications) suggesting rhetoric/eloquence training in the upper grades. fileciteturn0file13turn0file10
+- Public materials reference opportunities for writing, speaking, and leadership (e.g., senior theses, public addresses, and headmaster communications) suggesting rhetoric/eloquence training in the upper grades. 
 - There is evidence of classical pedagogy signals (memory work, recitation, chant, and a strong emphasis on reverence and wonder) in lower-school experiences and liturgical life; this aligns with some of the pedagogical signals in the lexicon. 
 
 Positive/Negative Keyword Analysis
-- Positive indicators present: scholé (contemplative/restful learning), memory work/recitation or chant (even if not named explicitly as such in every page), singing, and a semantically canonical path (Upper School rhetoric/debate opportunities). The lower-school Atrium and the liturgical/ritual life support a contemplative dimension. fileciteturn0file9turn0file7
+- Positive indicators present: scholé (contemplative/restful learning), memory work/recitation or chant (even if not named explicitly as such in every page), singing, and a semantically canonical path (Upper School rhetoric/debate opportunities). The lower-school Atrium and the liturgical/ritual life support a contemplative dimension. 
 - Negative signals in the public-facing data are not prominent; however, explicit, canonical Socratic seminars and a comprehensive articulation of classical dialogic pedagogy in every grade are not consistently documented in site pages. This limits a full CLASSICAL rating for pedagogy. 
 
 Why this rating
-- Chelsea demonstrates several classical pedagogical signals (contemplative/reverent learning, memory/chant practices, and high-school rhetoric opportunities). Yet, the site does not consistently present a full, explicit Socratic/seminar-based pedagogy across the upper grades in public-facing materials. Therefore, SOMEWHAT CLASSICAL is appropriate here, with room to bolster explicit Socratic/seminar pedagogy and scholé-centered practice documentation. fileciteturn0file9turn0file13
+- Chelsea demonstrates several classical pedagogical signals (contemplative/reverent learning, memory/chant practices, and high-school rhetoric opportunities). Yet, the site does not consistently present a full, explicit Socratic/seminar-based pedagogy across the upper grades in public-facing materials. Therefore, SOMEWHAT CLASSICAL is appropriate here, with room to bolster explicit Socratic/seminar pedagogy and scholé-centered practice documentation. 
 
 ### Element 5: Faculty — CLASSICAL
 
@@ -78,11 +78,11 @@ Evidence
 - The school’s communications emphasize a “faculty of friends” and a portrait of what teachers should be, consistent with classical elements of a strong, virtuous teaching staff. 
 
 Positive/Negative Keyword Analysis
-- Positive keywords from the lexicon include: living curriculum, portrait of a teacher, model teachers and mentors, collegial culture, and teachers as sages/guides. Chelsea’s site content reflects these ideas in mission statements and faculty pages. fileciteturn0file0turn0file7
+- Positive keywords from the lexicon include: living curriculum, portrait of a teacher, model teachers and mentors, collegial culture, and teachers as sages/guides. Chelsea’s site content reflects these ideas in mission statements and faculty pages. 
 - Negative keywords (e.g., “facilitators on the side,” over-emphasis on credentialing without classical context) do not appear in the Chelsea materials; the faculty portrayal aligns with classical expectations. 
 
 Why this rating
-- The site consistently frames faculty as central, virtuous exemplars and living curriculum, with strong, faith-centered professional identity. This matches the classical faculty criterion well, supporting a CLASSICAL rating for this category. fileciteturn0file0turn0file7
+- The site consistently frames faculty as central, virtuous exemplars and living curriculum, with strong, faith-centered professional identity. This matches the classical faculty criterion well, supporting a CLASSICAL rating for this category. 
 
 ### Element 6: Parents & Community — CLASSICAL
 

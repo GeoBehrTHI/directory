@@ -11,5 +11,3 @@ Category-by-category observations:
 - Parents & Community: CLASSICAL — strong partnership; parental formation; open campus and family involvement.
 
 Direct textual anchors include: “classical Christian School… Christ is pre-eminent”; statements of biblical grounding and doctrinal fidelity; “Our Faith” with Sovereignty of God and Inerrancy of Scripture; “The Midway Standard” with grammar–logic–rhetoric; Great Books (Iliad, Odyssey, Shakespeare); Latin starts in 3rd grade; “House System” with virtuous aims; “A Letter From Our Head of School” acknowledging Christian, classical, covenantal education; and explicit parental/co-school engagement statements.    
-
-If you would like, I can extract additional direct quotes or provide a line-by-line table mapping each Six Elements keyword to the MCCS text for a more granular appendix.

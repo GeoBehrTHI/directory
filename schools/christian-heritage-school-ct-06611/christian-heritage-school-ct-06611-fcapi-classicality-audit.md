@@ -95,7 +95,7 @@ Why this rating
 
 Evidence
 - The school explicitly states a partnership with parents and churches, viewing parents as co-educators and integrally involved in the formation of their children. The mission emphasizes support for families and collaboration with the church, reflecting the classical emphasis on family and community in education. 
-- Public materials show active parent involvement and multiple opportunities for families (home and church partnerships, parent events, tours, and formation resources). The CHS blog and community pages highlight family engagement, community events, and a welcoming campus for visits. fileciteturn0file16turn0file18
+- Public materials show active parent involvement and multiple opportunities for families (home and church partnerships, parent events, tours, and formation resources). The CHS blog and community pages highlight family engagement, community events, and a welcoming campus for visits. 
 
 Positive/Negative keyword analysis
 - Positive keywords from the Six Elements corpus include: partnership with families, co-teachers, parent formation, family involvement, home-centered learning, parent participation, and school-parent synergy. CHS materials explicitly articulate parents as co-educators and emphasize family involvement and Church partnerships, which aligns with these positive indicators. 
@@ -115,12 +115,12 @@ Aggregate Assessment
 ## What Would Move the Needle
 
 - Curriculum (Element 3)
-  - Publish a formal Liberal Arts map: grammar, logic, rhetoric pathway by grade, including explicit Great Books readings and a public “Great Conversation” framework.
-  - Integrate Western civilization and classical texts as core reading across grades, with a publicly available curriculum grid.
+ - Publish a formal Liberal Arts map: grammar, logic, rhetoric pathway by grade, including explicit Great Books readings and a public “Great Conversation” framework.
+ - Integrate Western civilization and classical texts as core reading across grades, with a publicly available curriculum grid.
 - Pedagogy (Element 4)
-  - Publicly codify a K–12 progression of Socratic/seminar pedagogy, with grade-specific formats (lower grades memory/recitation; middle/high school seminars and rhetoric/declamation opportunities).
-  - Minimize non-classical project-based approaches as the sole method, while clearly articulating a balanced approach that preserves contemplation, memory work, and seminar-style learning.
+ - Publicly codify a K–12 progression of Socratic/seminar pedagogy, with grade-specific formats (lower grades memory/recitation; middle/high school seminars and rhetoric/declamation opportunities).
+ - Minimize non-classical project-based approaches as the sole method, while clearly articulating a balanced approach that preserves contemplation, memory work, and seminar-style learning.
 - Recruitment and Public Communication
-  - Strengthen explicit articulation of the classical telos (formation through liberal arts) in all marketing materials, with a public statement linking mission, curriculum, and pedagogy to classical education principles.
+ - Strengthen explicit articulation of the classical telos (formation through liberal arts) in all marketing materials, with a public statement linking mission, curriculum, and pedagogy to classical education principles.
 - Community and Family Formation
-  - Expand a structured Parent Formation program (book studies, lectures, discussion groups) that explicitly ties familial formation to classical education values and practices.
+ - Expand a structured Parent Formation program (book studies, lectures, discussion groups) that explicitly ties familial formation to classical education values and practices.

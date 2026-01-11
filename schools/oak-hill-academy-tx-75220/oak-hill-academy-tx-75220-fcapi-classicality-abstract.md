@@ -9,7 +9,7 @@ Oak Hill Academy’s public materials depict a formation-oriented, student-cente
 - Faculty: CLASSICAL. The faculty is described as living curriculum and mentors; there is a strong emphasis on teacher excellence and collaborative culture.
 - Parents & Community: SOMEWHAT CLASSICAL. There is meaningful parent partnership and community engagement, but formalized classical parent formation and family liturgy practices are not explicitly documented.
 
-Overall, Oak Hill Academy sits in SOMEWHAT CLASSICAL territory, with the strongest alignment in Category 5 (Faculty) and moderate alignment in Category 2, Category 3, and Category 6. The school would move more decisively into CLASSICAL territory with targeted, public-facing expansions into Great Books/Scholé-inspired pedagogy, explicit classical canonical readings, and a deeper articulation of religious/metaphysical foundations where appropriate.
+Overall, Oak Hill Academy sits in SOMEWHAT CLASSICAL territory, with the strongest alignment in Element 5 (Faculty) and moderate alignment in Element 2, Element 3, and Element 6. The school would move more decisively into CLASSICAL territory with targeted, public-facing expansions into Great Books/Scholé-inspired pedagogy, explicit classical canonical readings, and a deeper articulation of religious/metaphysical foundations where appropriate.
 
 - Abstracted evidence sources include the Mission & Services pages (public statements on whole-child education and equity) and Head of School materials (faculty as living curriculum), as well as curriculum and admission materials (grading/learning structure and history/grammar content).   
 

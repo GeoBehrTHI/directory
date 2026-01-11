@@ -1,6 +1,6 @@
 ## ABSTRACT
 
-Coram Deo Classical School Il 62864 presents a robust classical Christian education profile, with explicit religious/theological foundations, formation-oriented purposes, and a Trivium-centered curriculum and pedagogy. Public materials consistently foreground Christ-centered mission, virtue formation, and the integration of theology with learning. The curriculum demonstrates core classical elements (grammar, logic, rhetoric) and a historically informed approach (Bible/theology integration, memory-based pedagogy, and a staged progression). Faculty are positioned as living exemplars and core to the school’s formation, with evidence of ongoing faculty development and a mentorship culture. Community and parental engagement are visible through events, admissions, and Paideia Day, signaling a collaborative model with families.
+Coram Deo Classical School (Mount Vernon, IL, 62864) presents a robust classical Christian education profile, with explicit religious/theological foundations, formation-oriented purposes, and a Trivium-centered curriculum and pedagogy. Public materials consistently foreground Christ-centered mission, virtue formation, and the integration of theology with learning. The curriculum demonstrates core classical elements (grammar, logic, rhetoric) and a historically informed approach (Bible/theology integration, memory-based pedagogy, and a staged progression). Faculty are positioned as living exemplars and core to the school’s formation, with evidence of ongoing faculty development and a mentorship culture. Community and parental engagement are visible through events, admissions, and Paideia Day, signaling a collaborative model with families.
 
 Category-by-category snapshot (overall): CLASSICAL
 
@@ -17,16 +17,16 @@ Category-by-category snapshot (overall): CLASSICAL
 - Parents & Community: SOMEWHAT CLASSICAL
   Evidence shows active family involvement through events and admissions, and Paideia Day, but explicit language about parents as co-teachers is not strongly present in public materials. Positive keywords exist; lack of explicit parental co-teaching language yields a partial alignment. 
 
-Overall, Coram Deo Classical School Il 62864 sits within a CLASSICAL framework, with strongest alignment in Religious & Metaphysical Foundations, School Purpose & Goal, and Faculty, and partial alignment in Curriculum, Pedagogy, and Parents & Community due to explicit Great Books language, explicit Socratic pedagogy, and explicit parent-as-co-teacher language in public materials.
+Overall, Coram Deo Classical School (Mount Vernon, IL, 62864) sits within a CLASSICAL framework, with strongest alignment in Religious & Metaphysical Foundations, School Purpose & Goal, and Faculty, and partial alignment in Curriculum, Pedagogy, and Parents & Community due to explicit Great Books language, explicit Socratic pedagogy, and explicit parent-as-co-teacher language in public materials.
 
 EXECUTIVE SUMMARY — CATEGORY-BY-CATEGORY, RATED: CLASSICAL
 
-- Category 1 — Religious and Metaphysical Foundations: CLASSICAL
-- Category 2 — School Purpose and Goal: CLASSICAL
-- Category 3 — Curriculum: SOMEWHAT CLASSICAL
-- Category 4 — Pedagogy or Teaching Methods: SOMEWHAT CLASSICAL
-- Category 5 — Faculty: CLASSICAL
-- Category 6 — Parents & Community: SOMEWHAT CLASSICAL
+- Element 1 — Religious and Metaphysical Foundations: CLASSICAL
+- Element 2 — School Purpose and Goal: CLASSICAL
+- Element 3 — Curriculum: SOMEWHAT CLASSICAL
+- Element 4 — Pedagogy or Teaching Methods: SOMEWHAT CLASSICAL
+- Element 5 — Faculty: CLASSICAL
+- Element 6 — Parents & Community: SOMEWHAT CLASSICAL
 
 Notes on evidence sources
 - Core mission and Christian framing: Coram Deo Classical School materials (Our Mission; Core Values) and related pages. 

@@ -19,6 +19,6 @@ Important textual anchors:
 
 Notes on evidence and alignment:
 - Evidence of Great Books, Trivium/Quadrivium, and a rigorous, content-rich classical framework is robust across multiple pages, including explicit references to the Great Conversation and Western-tradition study. 
-- While the public materials show a strong classical mission and family partnership, explicit liturgical/theological grounding is not prominent in the public materials, which is why Category 1 is categorized as SOMEWHAT CLASSICAL rather than CLASSICAL.
+- While the public materials show a strong classical mission and family partnership, explicit liturgical/theological grounding is not prominent in the public materials, which is why Element 1 is categorized as SOMEWHAT CLASSICAL rather than CLASSICAL.
 
 End of ABSTRACT.

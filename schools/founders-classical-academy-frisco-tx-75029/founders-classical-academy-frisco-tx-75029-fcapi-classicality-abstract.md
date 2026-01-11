@@ -2,12 +2,12 @@
 
 Founders Classical Academy - Frisco, TX demonstrates a strong classical orientation, with public materials emphasizing virtue, truth, beauty, and a liberal-arts curriculum. The school foregrounds formation and virtuous human flourishing as core aims, aligning with several Positive Keyword Indicators for classical education. However, the public-facing materials do not fully demonstrate canonical classical pedagogy (e.g., explicit Socratic/seminal methods, Great Books/Great Conversation framework, or a complete Trivium/Quadrivium articulation), and there is limited public language around a faculty-as-living-curriculum or liturgical/theological scaffolding. The Parents & Community category shows the strongest classical alignment, with explicit emphasis on parental partnership and community events. Overall, the school earns a SOMEWHAT CLASSICAL rating, with clear classical elements and notable gaps that, if addressed publicly, could elevate it to CLASSICAL across all six categories.
 
-- Category 1: SOMEWHAT CLASSICAL
-- Category 2: CLASSICAL
-- Category 3: SOMEWHAT CLASSICAL
-- Category 4: NOT CLASSICAL
-- Category 5: NOT CLASSICAL
-- Category 6: CLASSICAL
+- Element 1: SOMEWHAT CLASSICAL
+- Element 2: CLASSICAL
+- Element 3: SOMEWHAT CLASSICAL
+- Element 4: NOT CLASSICAL
+- Element 5: NOT CLASSICAL
+- Element 6: CLASSICAL
 
 Aggregate: SOMEWHAT CLASSICAL
 

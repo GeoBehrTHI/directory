@@ -2,12 +2,12 @@
 
 Saint John Paul the Great Catholic High School Denver demonstrates strong classical alignment across six core categories. Religious and metaphysical foundations are explicit in mission and formation language rooted in truth, goodness, beauty, and Catholic theology. The school’s purpose and goals emphasize formation toward virtue and wisdom, with a liberal-arts orientation and a Great Books ethos. The curriculum centers on these classical elements (grammar, logic, rhetoric; Great Books; Latin/Greek; Western history and civilization). Pedagogy includes memory-based learning, narrations, recitations, and integrated disciplines, with a culture of mentorship in faculty. Parent and community engagement is robust, featuring a clear partnership with co-educators and ongoing parental formation. The Pedagogy category shows solid classical practices but with somewhat less explicit documentation of universal Socratic seminars across all grades, resulting in a SOMEWHAT CLASSICAL rating for that category; all other categories are CLASSICAL. The aggregate assessment is therefore CLASSICAL.
 
-- Category 1: Religious and Metaphysical Foundations — CLASSICAL
-- Category 2: Purpose and Goal — CLASSICAL
-- Category 3: Curriculum — CLASSICAL
-- Category 4: Pedagogy — SOMEWHAT CLASSICAL
-- Category 5: Faculty — CLASSICAL
-- Category 6: Parents & Community — CLASSICAL
+- Element 1: Religious and Metaphysical Foundations — CLASSICAL
+- Element 2: Purpose and Goal — CLASSICAL
+- Element 3: Curriculum — CLASSICAL
+- Element 4: Pedagogy — SOMEWHAT CLASSICAL
+- Element 5: Faculty — CLASSICAL
+- Element 6: Parents & Community — CLASSICAL
 
 Overall, the school meets the criteria for CLASSICAL education, with a strong Catholic formation, clear classical curriculum, and a robust parental/community partnership that aligns with the classical tradition.
 

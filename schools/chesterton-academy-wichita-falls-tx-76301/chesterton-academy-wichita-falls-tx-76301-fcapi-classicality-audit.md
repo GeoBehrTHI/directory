@@ -2,7 +2,7 @@
 
 Chesterton Academy of Wichita Falls (CAWF) presents a robust classical-Catholic program anchored in formation of virtue, truth, and beauty. Public materials on the school’s site consistently foreground a Catholic, liturgical orientation, a liberal-arts curriculum, and a Socratic, discussion-driven pedagogy. The school’s published mission and pillars emphasize formation (intellect, character, spirituality) and direct engagement with great ideas through a classical framework. Taken together, these signals align CAWF with a CLASSICAL profile across all six rubric categories.
 
-Key evidentiary notes include: explicit identification as a Catholic classical high school in Wichita Falls with a campus affiliation to a local Catholic parish and daily Mass on site; a mission to raise up joyful saints and leaders through a classical education rooted in Catholic truths; a curriculum described as classical with liberal arts emphasis; explicit reference to Socratic seminars as a core pedagogy; biographies of credentialed faculty; and active parent engagement through admissions events, information sessions, and open houses. These elements are all cited directly from CAWF’s public materials and corroborated by the knowledge base’s classical-education rubric.    
+Key evidentiary notes include: explicit identification as a Catholic classical high school in Wichita Falls with a campus affiliation to a local Catholic parish and daily Mass on site; a mission to raise up joyful saints and leaders through a classical education rooted in Catholic truths; a curriculum described as classical with liberal arts emphasis; explicit reference to Socratic seminars as a core pedagogy; biographies of credentialed faculty; and active parent engagement through admissions events, information sessions, and open houses. These elements are all cited directly from CAWF’s public materials and corroborated by the knowledge base’s classical-education rubric. 
 
 Executive Summary — Element-by-Element Snapshot
 
@@ -44,7 +44,7 @@ Positive/Negative Keyword Analysis
 - Positive keywords present: classical curriculum, liberal arts, great thinkers, logic, Western thought, virtue-centered education, great ideas
 - Negative keywords present: none identified in the public materials (no secularized or non-theological curriculum indicators)
 - Ratio: predominantly positive; 0 explicit negative indicators
-- Why this rating: CAWF’s public materials consistently frame the program as classical with liberal-arts emphasis and engagement with Western thought, aligning with the category’s criteria. The explicit mention of “logic” and “great ideas” supports a CLASSICAL curriculum orientation. fileciteturn0file0turn0file1turn0file2
+- Why this rating: CAWF’s public materials consistently frame the program as classical with liberal-arts emphasis and engagement with Western thought, aligning with the category’s criteria. The explicit mention of “logic” and “great ideas” supports a CLASSICAL curriculum orientation. 
 
 ### Element 4: Pedagogy or Teaching Methods — CLASSICAL
 
@@ -76,7 +76,7 @@ Positive/Negative Keyword Analysis
 ### Element 6: Parents & Community — CLASSICAL
 
 Evidence
-- CAWF presents ongoing enrollment events, shadow days, information evenings, open houses, and parent-teacher communications, signaling a strong partnership with families. Examples include Shadow Day events and Information Evenings hosted at local churches, as well as a focus on admissions and family information sessions. fileciteturn0file9turn0file4turn0file6
+- CAWF presents ongoing enrollment events, shadow days, information evenings, open houses, and parent-teacher communications, signaling a strong partnership with families. Examples include Shadow Day events and Information Evenings hosted at local churches, as well as a focus on admissions and family information sessions. 
 - Public materials indicate that the school seeks to educate and involve parents (parent sessions, newsletters, and family handbooks) and welcomes visits from prospective and current families. The “Current Families” page and calendars show ongoing engagement with families. 
 - The campus and network positioning alongside local Catholic parishes reinforces a community-oriented model in which parents are viewed as partners in education. 
 
@@ -84,7 +84,7 @@ Positive/Negative Keyword Analysis
 - Positive keywords present: partnership with parents, co-teachers with the school, parent information sessions, open houses, shadow days, admissions events, family calendars, current families
 - Negative keywords present: none identified
 - Ratio: Strong positive indicators; minimal to zero negative indicators
-- Why this rating: The site frames parents as integral to the educational project (co-teachers and partners) and provides multiple channels for parent engagement and education, aligning with CLASSICAL expectations for parent/community involvement. fileciteturn0file12turn0file6
+- Why this rating: The site frames parents as integral to the educational project (co-teachers and partners) and provides multiple channels for parent engagement and education, aligning with CLASSICAL expectations for parent/community involvement. 
 
 Aggregate Assessment
 

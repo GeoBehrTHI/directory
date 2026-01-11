@@ -1,6 +1,6 @@
 ## ABSTRACT
 
-Imago School Ma 01754 demonstrates CLASSICAL alignment across Religious and Metaphysical Foundations, School Purpose & Goal, Faculty, and Parents & Community, with substantial but not always explicit alignment in Curriculum and Pedagogy. Public materials affirm a Christian, classical tradition, a focus on virtue and wisdom, and a curriculum featuring Latin and a canon of literature, alongside robust arts integration and Chapel-life. The school articulates a strong formation-focused mission and a community-centric model, consistent with classical education’s aims.
+The IMAGO School (Maynard, MA, 1754) demonstrates CLASSICAL alignment across Religious and Metaphysical Foundations, School Purpose & Goal, Faculty, and Parents & Community, with substantial but not always explicit alignment in Curriculum and Pedagogy. Public materials affirm a Christian, classical tradition, a focus on virtue and wisdom, and a curriculum featuring Latin and a canon of literature, alongside robust arts integration and Chapel-life. The school articulates a strong formation-focused mission and a community-centric model, consistent with classical education’s aims.
 
 - Religious and Metaphysical Foundations: CLASSICAL, with explicit Christian/traditional and liturgical life and a clear emphasis on truth, goodness, and beauty.
 - School Purpose and Goal: CLASSICAL, emphasizing formation, virtue, wisdom, and a classical telos.

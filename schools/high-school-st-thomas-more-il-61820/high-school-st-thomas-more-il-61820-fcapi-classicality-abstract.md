@@ -2,12 +2,12 @@
 
 Overall Classification: SOMEWHAT CLASSICAL
 
-- Category 1: Religious and Metaphysical Foundations — CLASSICAL. STM demonstrates a robust Catholic foundation, theology integration across disciplines, Christ-centered framing, and diocesan/NCEA alignment, aligning with the classical emphasis on transcendent truth and sacred order. Evidence supports a CLASSICAL rating here. 
-- Category 2: School Purpose and Goal — SOMEWHAT CLASSICAL. The school emphasizes formation and virtue and a formation-first telos, but public materials lack explicit Great Books/Great Conversation language and full classical teleology, which tempers the classification. 
-- Category 3: Curriculum — NOT CLASSICAL. Public materials show college-prep and AP/dual-credit emphasis rather than a canonical liberal-arts spine (grammar-logic-rhetoric) or Great Books requirement. Latent classical signs (Latin club) exist but are not presented as a core curriculum. 
-- Category 4: Pedagogy — NOT CLASSICAL. The materials do not publicly reveal a clear classical pedagogy (e.g., Socratic seminars, scholé, memory work) beyond formation-based teaching. 
-- Category 5: Faculty — CLASSICAL. Faculty are described as living exemplars and the living curriculum; a collegial, mentor-driven culture supports classical ideals of formation. 
-- Category 6: Parents and Community — CLASSICAL. The school emphasizes partnership with families, parent formation, open campus, and a consultative governance structure, consistent with classical community-building. 
+- Element 1: Religious and Metaphysical Foundations — CLASSICAL. STM demonstrates a robust Catholic foundation, theology integration across disciplines, Christ-centered framing, and diocesan/NCEA alignment, aligning with the classical emphasis on transcendent truth and sacred order. Evidence supports a CLASSICAL rating here. 
+- Element 2: School Purpose and Goal — SOMEWHAT CLASSICAL. The school emphasizes formation and virtue and a formation-first telos, but public materials lack explicit Great Books/Great Conversation language and full classical teleology, which tempers the classification. 
+- Element 3: Curriculum — NOT CLASSICAL. Public materials show college-prep and AP/dual-credit emphasis rather than a canonical liberal-arts spine (grammar-logic-rhetoric) or Great Books requirement. Latent classical signs (Latin club) exist but are not presented as a core curriculum. 
+- Element 4: Pedagogy — NOT CLASSICAL. The materials do not publicly reveal a clear classical pedagogy (e.g., Socratic seminars, scholé, memory work) beyond formation-based teaching. 
+- Element 5: Faculty — CLASSICAL. Faculty are described as living exemplars and the living curriculum; a collegial, mentor-driven culture supports classical ideals of formation. 
+- Element 6: Parents and Community — CLASSICAL. The school emphasizes partnership with families, parent formation, open campus, and a consultative governance structure, consistent with classical community-building. 
 
 Aggregate: SOMEWHAT CLASSICAL
 

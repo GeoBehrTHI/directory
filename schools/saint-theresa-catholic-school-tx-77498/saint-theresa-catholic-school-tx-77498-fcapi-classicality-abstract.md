@@ -14,15 +14,15 @@ Cited evidence and representative passages drawn from Saint Theresa Catholic Sch
 Notes on the knowledge-base alignment
 - The knowledge-base rubric (Six Essential Elements) provides the Positive/Negative Keyword Indicators used for category ratings (e.g., Trivium, Great Books, liturgy, scholé, the Great Conversation, etc.). The school’s materials align strongly with many positive indicators (Trivium, Latin, Great Books/classics, liturgical life, formation in virtue, parental partnership) and show few if any negative indicators on public pages. The lexicon of keywords serves as the scoring framework for each category. For reference to the classical-keyword framework, see the general lexicon and indicators. 
 
-- The school explicitly brands itself as a Classical Catholic School, with statements about “a vigorous Liberal Arts curriculum,” “the Trivium,” and the study of Latin and classical literature, as well as the aim to form students who love God and the Church and live virtuous lives. These statements anchor Category 2 and Category 3. 
+- The school explicitly brands itself as a Classical Catholic School, with statements about “a vigorous Liberal Arts curriculum,” “the Trivium,” and the study of Latin and classical literature, as well as the aim to form students who love God and the Church and live virtuous lives. These statements anchor Element 2 and Element 3. 
 
-- Public materials include discussion of classical reading cycles and a selection of classics, supporting Category 3’s Great Books/Great Conversation orientation even when the exact phrase “Great Books” is not always used. 
+- Public materials include discussion of classical reading cycles and a selection of classics, supporting Element 3’s Great Books/Great Conversation orientation even when the exact phrase “Great Books” is not always used. 
 
-- Parental partnership and open access to campus information are explicitly described, supporting Category 6. 
+- Parental partnership and open access to campus information are explicitly described, supporting Element 6. 
 
 - The presence of explicit pedagogy elements (memory, recitation, chanting; contemplation; scholé) is supported by multiple pages describing religious and cultural practices and curriculum. 
 
-- For a fuller upper-grade Socratic/seminar emphasis, the site does imply discussion of literature and ideas (e.g., “discussed by students” across multiple pages), though explicit, formal “Socratic seminar” labeling is not consistently foregrounded in public content. This nuance informs the Category 4 assessment as CLASSICAL with room for more explicit articulation. 
+- For a fuller upper-grade Socratic/seminar emphasis, the site does imply discussion of literature and ideas (e.g., “discussed by students” across multiple pages), though explicit, formal “Socratic seminar” labeling is not consistently foregrounded in public content. This nuance informs the Element 4 assessment as CLASSICAL with room for more explicit articulation. 
 
 Abstracted scoring rationale (aggregate)
 - Aggregate: CLASSICAL

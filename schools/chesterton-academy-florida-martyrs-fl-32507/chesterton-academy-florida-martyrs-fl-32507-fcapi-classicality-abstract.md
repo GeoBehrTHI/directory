@@ -1,3 +1,5 @@
+Overall Classification: CLASSICAL
+
 ## ABSTRACT
 
 Chesterton Academy of The Florida Martyrs (Pensacola) is a clearly CLASSICAL institution that situates itself within the Catholic intellectual tradition, foregrounding a Great Books liberal-arts curriculum, formation-based education, and liturgical Catholic life. The school explicitly frames its mission around intellectual, spiritual, and moral formation, with a strong emphasis on Truth, Goodness, and Beauty. Curricular signals include a Great Books approach and the interrelationship of great ideas, with explicit mentions of canonical figures (e.g., Socrates, Aquinas, Dante) and an emphasis on forming virtuous, well-educated citizens. Pedagogical signals lean toward Socratic-style inquiry, seminars, and rhetoric within a Catholic context, while faculty and parent/community structures reinforce a living, interconnected educational ecosystem. Overall, Chesterton Academy Florida Martyrs demonstrates CLASSICAL characteristics across all six rubric categories.

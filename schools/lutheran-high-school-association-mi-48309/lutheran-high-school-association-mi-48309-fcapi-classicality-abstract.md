@@ -12,7 +12,7 @@ Category-by-category recap:
 - Faculty: No explicit “living curriculum” or classical faculty profile; Not Classical.
 - Parents & Community: Partnership language exists, but lacks the depth of classical parental formation practices; Not Classical.
 
-Executive Summary — Category-by-Category Snapshot indicates a predominantly non-classical orientation, with no category reaching a Classical rating based on the available LHSA crawl content and the classical keyword framework.
+Executive Summary — Element-by-Element Snapshot indicates a predominantly non-classical orientation, with no category reaching a Classical rating based on the available LHSA crawl content and the classical keyword framework.
 
 Citations:
 - LHSA Christian identity and partnership language: turn0file0. 

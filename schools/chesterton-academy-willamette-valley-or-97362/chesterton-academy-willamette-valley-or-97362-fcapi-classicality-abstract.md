@@ -1,3 +1,5 @@
+Overall Classification: CLASSICAL
+
 ## ABSTRACT
 
 Chesterton Academy of the Willamette Valley presents a robust CLASSICAL profile anchored in Catholic formation, a Great Books–driven liberal arts curriculum, Socratic pedagogy, and a teacher-led living curriculum. Religious and metaphysical foundations are central (Catholic identity, liturgical life, Cultura Vitae); the school’s goal centers on formation, virtue, wisdom, and the pursuit of truth, goodness, and beauty. Curriculum emphasizes historical, canonical content and the Great Books tradition; pedagogy emphasizes Socratic dialogue, memory work, and rhetoric; faculty are portrayed as mentors who embody the living curriculum; and parents/community are invited to partner in education. Across six categories, Chesterton Academy of the Willamette Valley demonstrates strong alignment with classical criteria, yielding an overall CLASSICAL rating.

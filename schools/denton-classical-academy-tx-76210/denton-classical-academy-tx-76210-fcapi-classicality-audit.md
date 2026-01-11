@@ -3,9 +3,9 @@
 Denton Classical Academy (DCA) presents a clear nominal alignment with classical education ideals, primarily through explicit references to a classical approach, a liberal arts orientation, and a goal of forming virtuous, thoughtful citizens. Website content emphasizes truth, goodness, and beauty as enduring aims, and frames education as formation of character and intellect rather than mere information transfer. Evidence of a public-facing governing philosophy includes language about a classical education that pursues knowledge, virtue, and a prosperous life in freedom, and a stated goal of forming virtuous, civic-minded students. At the same time, the publicly available materials do not consistently demonstrate full implementation of all classical-education hallmarks (e.g., explicit Great Books/Great Conversation commitments, extensive liturgical or theological programming, or a uniformly Socratic upper-school pedagogy). The six-category rubric therefore yields a predominantly SOMEWHAT CLASSICAL overall assessment, with Element 2 showing CLASSICAL alignment and several other categories showing partial or emerging classical features.
 
 Key insights:
-- Strong core emphasis on classical orientation, liberal arts framing, and formation of virtue (Element 2 is the strongest match; evidence appears across mission statements and program descriptions) .
-- Foundational keywords from the classical lexicon (truth, goodness, beauty, virtue, formation) appear in public materials, supporting positive alignment in several categories, though not always in a fully explicit, liturgical or theological framing (Element 1 and Element 6 show more modest alignment) .
-- The public materials show accessibility to families and a partnering posture with parents, but the depth of “parents as co-teachers” and liturgical/community practices is less explicit than the strongest classical exemplars in the lexicon. This yields a SOMEWHAT CLASSICAL rating for several categories rather than CLASSICAL across the board, with Element 2 being the clearest CLASSICAL signal .
+- Strong core emphasis on classical orientation, liberal arts framing, and formation of virtue (Element 2 is the strongest match; evidence appears across mission statements and program descriptions).
+- Foundational keywords from the classical lexicon (truth, goodness, beauty, virtue, formation) appear in public materials, supporting positive alignment in several categories, though not always in a fully explicit, liturgical or theological framing (Element 1 and Element 6 show more modest alignment).
+- The public materials show accessibility to families and a partnering posture with parents, but the depth of “parents as co-teachers” and liturgical/community practices is less explicit than the strongest classical exemplars in the lexicon. This yields a SOMEWHAT CLASSICAL rating for several categories rather than CLASSICAL across the board, with Element 2 being the clearest CLASSICAL signal.
 
 Executive Summary — Element-by-Element Snapshot
 
@@ -64,7 +64,7 @@ Why this rating
 ### Element 5: School Faculty — SOMEWHAT CLASSICAL
 
 Evidence
-- The site lists a staff directory with teacher profiles and a campus director, indicating a functioning, credentialed faculty. The public materials show teachers by name and position (e.g., Kory James, Allyson Opinker, Dani Samatas, Rebecca Hoch, Tracey Patras, etc.), and a campus director (Matthew Butler) who positions the school’s leadership. This establishes a factual, albeit not overtly “living curriculum” claim in the public materials. fileciteturn0file4turn0file16
+- The site lists a staff directory with teacher profiles and a campus director, indicating a functioning, credentialed faculty. The public materials show teachers by name and position (e.g., Kory James, Allyson Opinker, Dani Samatas, Rebecca Hoch, Tracey Patras, etc.), and a campus director (Matthew Butler) who positions the school’s leadership. This establishes a factual, albeit not overtly “living curriculum” claim in the public materials. 
 
 Positive/Negative keyword analysis
 - Positive keywords present: “master/teacher,” “mentor,” “living curriculum,” “portrait of a teacher,” “faculty,” “collaborative/collegial” (as inferred from faculty pages and team-oriented language in public sections).

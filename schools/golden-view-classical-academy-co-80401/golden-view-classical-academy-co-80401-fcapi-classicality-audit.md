@@ -2,9 +2,9 @@
 
 Golden View Classical Academy (GVCA) presents a pronounced classical orientation across mission, curriculum, and faculty culture, with clear commitments to virtue, liberal-arts study, and a content-rich canon. Public materials emphasize formation of character (virtue, moral character, civic virtue) alongside rigorous engagement with classical texts, languages, and the liberal arts. The school explicitly positions education as formation and the cultivation of wisdom, while maintaining a traditional, disciplined environment. However, some components of a fully classical program—such as explicit liturgical/theological foundations, ceremonial scholé practices, and uniform, explicit Socratic pedagogy across grades—are not uniformly foregrounded in the public materials. Taken together, GVCA evidences a robust classical frame with notable strengths in formation, curriculum, and faculty culture, but with room to strengthen explicit metaphysical grounding and some pedagogical clarity. Accordingly, GVCA is best characterized as SOMEWHAT CLASSICAL overall, with strong classical elements in several facets and selective gaps in others.
 
-Cited evidence includes GVCA mission and values statements, core virtues, curriculum highlights, and teacher-staff commitments drawn from the school’s public materials, along with the established classical rubric and keyword indicators from the classical-school knowledge corpus. See sources from GVCA (mission, culture, curriculum highlights, faculty statements, and family/community materials) and the classical criteria/lexicon for grounding terms and indicators.     
+Cited evidence includes GVCA mission and values statements, core virtues, curriculum highlights, and teacher-staff commitments drawn from the school’s public materials, along with the established classical rubric and keyword indicators from the classical-school knowledge corpus. See sources from GVCA (mission, culture, curriculum highlights, faculty statements, and family/community materials) and the classical criteria/lexicon for grounding terms and indicators. 
 
-- Classical rubric anchors used: the Six Essential Elements of a Classical School (1) and the accompanying keyword lexicon. Positive and negative indicators include seven liberal-arts orientation, Great Books/Great Conversation, virtue formation, and Socratic/seminar pedagogy, among others. GVCA demonstrates many of these markers (e.g., liberal-arts emphasis, strong focus on virtue and wonder, Great Books/primary sources through curriculum highlights, and an emphasis on teacher as moral exemplar).  
+- Classical rubric anchors used: the Six Essential Elements of a Classical School (1) and the accompanying keyword lexicon. Positive and negative indicators include seven liberal-arts orientation, Great Books/Great Conversation, virtue formation, and Socratic/seminar pedagogy, among others. GVCA demonstrates many of these markers (e.g., liberal-arts emphasis, strong focus on virtue and wonder, Great Books/primary sources through curriculum highlights, and an emphasis on teacher as moral exemplar). 
 
 ---
 
@@ -22,7 +22,7 @@ Positive/Negative Keyword Analysis
 - Negative indicators such as secular relativism or value-neutral ethics are not foregrounded in GVCA’s public materials; the content shows a stable formation-oriented frame rather than relativism.
 
 Why this rating
-- GVCA demonstrates a clear orientation toward transcendent ideals of virtue and well-formed character, with references to truth, beauty, and the good through virtue language and classical sources. However, explicit theological or liturgical practices are not routinely delineated on the public pages, which keeps the category from a full, explicit theistic/metaphysical framing in the public-facing content. The balance of evidence supports a SOMEWHAT CLASSICAL rating here. fileciteturn0file0Turn0file1Turn0file3
+- GVCA demonstrates a clear orientation toward transcendent ideals of virtue and well-formed character, with references to truth, beauty, and the good through virtue language and classical sources. However, explicit theological or liturgical practices are not routinely delineated on the public pages, which keeps the category from a full, explicit theistic/metaphysical framing in the public-facing content. The balance of evidence supports a SOMEWHAT CLASSICAL rating here. Turn0file1Turn0file3
 
 What would move the needle (for Element 1)
 - Add explicit statements or curricular references to theological study, liturgical life, or communal worship as integrated practices (e.g., formal liturgical calendar, chapel/mass-like components, or catechetical components) to strengthen Grounded in Theology and Liturgical/Communal Practices indicators. Also, foreground explicit mentions of truth/goodness/beauty as transcendent, real, knowable ideals with direct statements and texts in the public materials.
@@ -41,7 +41,7 @@ Positive/Negative Keyword Analysis
 - Negative keywords in the classical framework (e.g., college/career readiness as the sole aim, purely skills-based, lack of formation) are opposed by GVCA’s stated goals, contributing to a strong formation-oriented orientation.
 
 Why this rating
-- GVCA’s public materials consistently position education as formation through virtue and wisdom, with a classical curriculum emphasis and a focus on enduring truths rather than solely job preparation. This alignment merits CLASSICAL for Element 2. fileciteturn0file0turn0file1turn0file5
+- GVCA’s public materials consistently position education as formation through virtue and wisdom, with a classical curriculum emphasis and a focus on enduring truths rather than solely job preparation. This alignment merits CLASSICAL for Element 2. 
 
 ---
 
@@ -50,14 +50,14 @@ Why this rating
 Evidence
 - The curriculum emphasizes the liberal arts core (grammar, logic, rhetoric) and the Quadrivium, along with primary sources and Great Books-style reading, as shown in curriculum highlights and language work (Latin starting in 7th grade; Greek, French, etc.). This reflects the Seven Liberal Arts framework and a strong Great Books orientation. 
 - Content-rich, integrated curriculum described as delivering deep engagement with historical events, fables, myths, scientific facts, and mathematical proofs; students read whole literary works and study primary sources, consistent with the Great Books/Great Conversation model. 
-- Explicit reference to language study (Latin progression, classical languages) and to literature and drama in the upper grades (Shakespeare, Cyrano de Bergerac, etc.) demonstrates breadth within a classical curriculum. fileciteturn0file7turn0file9
+- Explicit reference to language study (Latin progression, classical languages) and to literature and drama in the upper grades (Shakespeare, Cyrano de Bergerac, etc.) demonstrates breadth within a classical curriculum. 
 
 Positive/Negative Keyword Analysis
-- Positive keywords present: liberal arts, grammar, logic, rhetoric, Great Books, primary sources, history as continuous discipline, Latin/Greek/French, reading whole books, wonder, and classical languages. These map strongly to the Positive Keyword set for Curriculum in the Six Essential Elements lexicon.  
+- Positive keywords present: liberal arts, grammar, logic, rhetoric, Great Books, primary sources, history as continuous discipline, Latin/Greek/French, reading whole books, wonder, and classical languages. These map strongly to the Positive Keyword set for Curriculum in the Six Essential Elements lexicon. 
 - No adverse signals in public materials regarding curriculum structure; the public materials emphasize a coherent classical curriculum with interdisciplinary connections and inquiry-based study of enduring texts.
 
 Why this rating
-- GVCA’s curriculum aligns with core elements of classical education: the liberal arts framework, study of Great Books and primary sources, and a curriculum designed to cultivate wonder and historical consciousness. Therefore, Element 3 is CLASSICAL. fileciteturn0file0turn0file5turn0file16
+- GVCA’s curriculum aligns with core elements of classical education: the liberal arts framework, study of Great Books and primary sources, and a curriculum designed to cultivate wonder and historical consciousness. Therefore, Element 3 is CLASSICAL. 
 
 ---
 
@@ -73,7 +73,7 @@ Positive/Negative Keyword Analysis
 - Negative indicators: instances of project-based, experiential-only pedagogy are not foregrounded; however, explicit, school-wide Socratic seminars are not clearly documented in public pages beyond references to rhetoric in higher grades. This yields a partial alignment with the ideal pedagogy rather than a full, explicit Socratic/seminar framework across grades.
 
 Why this rating
-- GVCA shows important classical pedagogy markers (rhetoric in upper grades, formation-focused learning, and a traditional classroom ethos), but explicit, widespread adoption of Socratic seminars and a consistent, contemplative pedagogy across all grades is not consistently foregrounded in public content. This yields a SOMEWHAT CLASSICAL rating for Element 4. fileciteturn0file5turn0file1
+- GVCA shows important classical pedagogy markers (rhetoric in upper grades, formation-focused learning, and a traditional classroom ethos), but explicit, widespread adoption of Socratic seminars and a consistent, contemplative pedagogy across all grades is not consistently foregrounded in public content. This yields a SOMEWHAT CLASSICAL rating for Element 4. 
 
 ---
 
@@ -105,7 +105,7 @@ Positive/Negative Keyword Analysis
 - Negative signals: consumer-language phrasing or minimal parent involvement are not evident in public materials; rather, GVCA presents active parent engagement and governance channels. The most visible signals align with positive partnership and formation.
 
 Why this rating
-- GVCA shows meaningful parent partnership and community engagement in line with classical-community expectations, but the depth of formal “parents as co-teachers” and structured parent-formation programs are not as deeply foregrounded as some classical programs. This yields a SOMEWHAT CLASSICAL rating for Element 6. fileciteturn0file14turn0file2
+- GVCA shows meaningful parent partnership and community engagement in line with classical-community expectations, but the depth of formal “parents as co-teachers” and structured parent-formation programs are not as deeply foregrounded as some classical programs. This yields a SOMEWHAT CLASSICAL rating for Element 6. 
 
 ---
 

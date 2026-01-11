@@ -4,7 +4,7 @@ Regents School of Austin (Regents) presents a robust, highly aligned CLASSICAL m
 
 Aggregate classification: CLASSICAL
 
-- Evidence across categories highlights a sustained, explicit classical Christian program, including: the school’s mission to cultivate truth, goodness, and beauty within a Christian worldview; a curricular structure built on grammar, logic, and rhetoric; sustained engagement with the Great Conversation and Great Books; a pedagogy that includes Harkness-style discussion, senior theses, and Socratic-style inquiry; faculty functioning as a living curriculum; and a robust model of parent partnership and community involvement (chapels, ministerium, fiducia, and practical family engagement). Direct textual supports include mission language, weekly chapel, ministerium/fiducia framing, three-tiered curriculum (Grammar–Logic–Rhetoric), references to the Great Conversation, and multiple features highlighting parental partnership and community life. fileciteturn0file0turn0file4turn0file6turn0file11
+- Evidence across categories highlights a sustained, explicit classical Christian program, including: the school’s mission to cultivate truth, goodness, and beauty within a Christian worldview; a curricular structure built on grammar, logic, and rhetoric; sustained engagement with the Great Conversation and Great Books; a pedagogy that includes Harkness-style discussion, senior theses, and Socratic-style inquiry; faculty functioning as a living curriculum; and a robust model of parent partnership and community involvement (chapels, ministerium, fiducia, and practical family engagement). Direct textual supports include mission language, weekly chapel, ministerium/fiducia framing, three-tiered curriculum (Grammar–Logic–Rhetoric), references to the Great Conversation, and multiple features highlighting parental partnership and community life. 
 
 - Category-by-category snapshot below provides keyword analyses and scoring grounded in the Positive/Negative Keyword Indicators from the Six Essential Elements document. In all six categories, Regents demonstrates substantial positive alignment with classical criteria and minimal presence of negative indicators; thus the overall assessment is CLASSICAL.
 
@@ -19,7 +19,7 @@ Element 1: Religious and Metaphysical Foundations — CLASSICAL
 Evidence
 - The school’s public materials frame Regents as a "K-12 classical Christian school" with a Christian worldview that informs all study, life on campus, and community life. This explicit theological and metaphysical framework is central to the mission and daily experience. 
 - The mission statement explicitly ties education to knowing, loving, and practicing what is true, good, and beautiful within a Christian worldview. This is a direct alignment with transcendental realism and the grounding of knowledge in theology. 
-- The curriculum and practice include liturgical/community practices (weekly chapel, reverence, worship) and literature that foreground theological framing (Ministerium, Fiducia, Reverentia). These terms and practices appear in school-facing materials. fileciteturn0file4turn0file6
+- The curriculum and practice include liturgical/community practices (weekly chapel, reverence, worship) and literature that foreground theological framing (Ministerium, Fiducia, Reverentia). These terms and practices appear in school-facing materials. 
 
 Positive/Negative keyword analysis
 - Positive keywords present: Christian, worldview, Scripture-centered, worship, chapel, Ministerium, Fiducia, Reverentia, truth/goodness/beauty, prayer, liturgy.
@@ -93,13 +93,13 @@ Positive/Negative keyword analysis
 
 Overall assessment and aggregate ranking
 
-- Across all six categories, Regents School of Austin demonstrates CLASSICAL alignment. The public materials reveal a coherent classical Christian program rooted in the three liberal arts, the Great Books/Great Conversation canon, Socratic-style pedagogy with Harkness-based discussion, a living curriculum by faculty, a partnership-oriented community with engaged parents, and liturgical/community life. This synthesis aligns with the Six Essential Elements framework for a CLASSICAL education. fileciteturn0file0turn0file4turn0file6turn0file11
+- Across all six categories, Regents School of Austin demonstrates CLASSICAL alignment. The public materials reveal a coherent classical Christian program rooted in the three liberal arts, the Great Books/Great Conversation canon, Socratic-style pedagogy with Harkness-based discussion, a living curriculum by faculty, a partnership-oriented community with engaged parents, and liturgical/community life. This synthesis aligns with the Six Essential Elements framework for a CLASSICAL education. 
 
 - Aggregate classification: CLASSICAL
 
 What Would Move the Needle
 
 - No major needle-moving changes are required given the CLASSICAL aggregate rating. If desired, small enhancements could include:
-  - A concise, explicit crosswalk on the website that maps each policy and activity to the six classical categories (to aid external evaluators), while preserving existing curricular language.
-  - Additional public-facing statements highlighting the Great Books/Great Conversation program in each division (K–12) to reinforce public perception of the classical curriculum.
-  - More explicit, consistently labeled examples of lower-school contemplative and “Scholé-like” practices (beyond weekly chapel) to further highlight contemplative dimensions of classical education.
+ - A concise, explicit crosswalk on the website that maps each policy and activity to the six classical categories (to aid external evaluators), while preserving existing curricular language.
+ - Additional public-facing statements highlighting the Great Books/Great Conversation program in each division (K–12) to reinforce public perception of the classical curriculum.
+ - More explicit, consistently labeled examples of lower-school contemplative and “Scholé-like” practices (beyond weekly chapel) to further highlight contemplative dimensions of classical education.

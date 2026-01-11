@@ -6,7 +6,7 @@ The Oaks Classical Cottage School (Al 36109) presents a strongly classical, Chri
 - Most influential strengths: strong religious-metaphysical foundations; formation-focused purpose; clear liberal-arts curriculum with grammar/logic/rhetoric emphasis; explicit theology integration; active parental partnership; robust faculty presence and accessibility.
 - Notable gaps to move toward full CLASSICAL: explicit Great Books/Great Conversation positioning; explicit documentation of Socratic/seminar pedagogy in upper grades; broader public articulation of all six Great-Conversation-oriented practices on public-facing materials.
 
-Key evidentiary threads include the school’s Statement of Faith and gospel-centered approach (The Oaks Statement of Faith; gospel integration across subjects) and explicit mention of classical aims (Latin study, grammar/logic/rhetoric; three-day model; devotion and liturgical practices), plus a culture that centers parental involvement and a robust faculty structure. See citations for: Theology and liturgical practices, classical curriculum emphasis, three-day model and parental partnership, and faculty structure. fileciteturn0file12turn0file10turn0file2turn0file6turn0file11
+Key evidentiary threads include the school’s Statement of Faith and gospel-centered approach (The Oaks Statement of Faith; gospel integration across subjects) and explicit mention of classical aims (Latin study, grammar/logic/rhetoric; three-day model; devotion and liturgical practices), plus a culture that centers parental involvement and a robust faculty structure. See citations for: Theology and liturgical practices, classical curriculum emphasis, three-day model and parental partnership, and faculty structure. 
 
 ---
 
@@ -27,10 +27,7 @@ Why this rating
 - The presence of a formal Statement of Faith, explicit theology-driven framing, and liturgical/community practices strongly aligns with TRANSCENDENTAL MORAL REALISM and a grounded theology in classical education. This category is CLASSICAL.
 
 Citations
-- The Oaks Statement of Faith; theological articulation: turn0file12
-- Gospel integration and partnership with Gospel-guided mission: turn0file2
-- Liturgical/communal practice evidence (devotions, prayer): turn0file10
-
+- The Oaks Statement of Faith; theological articulation:- Gospel integration and partnership with Gospel-guided mission:- Liturgical/communal practice evidence (devotions, prayer):
 ### Element 2: School Purpose and Goal — CLASSICAL
 
 Evidence
@@ -46,9 +43,7 @@ Why this rating
 - The emphasis on formation, virtue, wisdom, and knowledge of true/good/beautiful aligns with TRANSCENDENTAL MORAL REALISM and a formation-centric purpose. The presence of a robust theological frame further supports CLASSICAL status in this category.
 
 Citations
-- Formation and virtue/wisdom language: turn0file6
-- Formation over information and Gospel-centered formation: turn0file2
-
+- Formation and virtue/wisdom language:- Formation over information and Gospel-centered formation:
 ### Element 3: School Curriculum — SOMEWHAT CLASSICAL
 
 Evidence
@@ -64,10 +59,7 @@ Why this rating
 - The curriculum shows a strong classical core (grammar, logic, rhetoric; Latin; history integrated across subjects). However, explicit Great Books/Great Conversation programming and a fully explicit Great-Books-centered Great Conversation stance are not clearly evidenced in public content. Thus SOMEWHAT CLASSICAL rather than fully CLASSICAL.
 
 Citations
-- Grammar/logic/rhetoric; Latin; history across curriculum: turn0file6
-- Latin study and classical orientation: turn0file1
-- History across curriculum; not social studies framing: turn0file0
-
+- Grammar/logic/rhetoric; Latin; history across curriculum:- Latin study and classical orientation:- History across curriculum; not social studies framing:
 ### Element 4: Pedagogy or Teaching Methods — SOMEWHAT CLASSICAL
 
 Evidence
@@ -83,10 +75,7 @@ Why this rating
 - Pedagogy shows several classical touchpoints (restful/contemplative aspects in parts of the education; lower- and upper-grade strands that include memory work, rhetoric, logic). However, explicit documentation of Socratic seminars or a fully-developed upper-grade seminar discourse is not clearly present in public content, tempering the category to SOMEWHAT CLASSICAL.
 
 Citations
-- Three-day model and formation-oriented pedagogy: turn0file2
-- Lower-grade devotions, memory-friendly rhythm: turn0file10
-- Faculty and subject mix (logic, rhetoric, Christian studies): turn0file11
-
+- Three-day model and formation-oriented pedagogy:- Lower-grade devotions, memory-friendly rhythm:- Faculty and subject mix (logic, rhetoric, Christian studies):
 ### Element 5: School Faculty — CLASSICAL
 
 Evidence
@@ -102,15 +91,13 @@ Why this rating
 - The presence of named administrators, a robust faculty roster, and a stated emphasis on teacher virtue and mentorship align with CLASSICAL expectations for the faculty category.
 
 Citations
-- Faculty listing and leadership roles: turn0file11
-- Administration and staff references: turn0file11
-
+- Faculty listing and leadership roles:- Administration and staff references:
 ### Element 6: School Parents & Community — CLASSICAL
 
 Evidence
 - The Oaks frames partnership with Christian parents as a central feature, including explicit statements about working with parents and guiding families in classical education. There is a strong emphasis on parental engagement, including open houses, admissions forms, and family involvement in the process. 
 - The school communicates opportunities for parents to participate or be educated about classical education (open houses, study opportunities, and parent-faculty alignment). The ICE materials and parent-education pamphlets in the knowledge base likewise emphasize parental partnership in classical education. 
-- Public materials routinely invite parental involvement (Discovery events, forms, and admissions steps) and highlight a collaborative approach with families. fileciteturn0file3turn0file5
+- Public materials routinely invite parental involvement (Discovery events, forms, and admissions steps) and highlight a collaborative approach with families. 
 
 Positive/Negative keyword analysis
 - Positive keywords present: partnership with parents; co-teachers with the school; parent education about classical education; open houses; family engagement; shared mission; parental references.
@@ -120,23 +107,18 @@ Why this rating
 - Clear, ongoing emphasis on parental partnership and family involvement is consistent with CLASSICAL expectations for parent-community alignment.
 
 Citations
-- Partnership with parents and gospel-guided mission: turn0file2
-- Admissions/parental involvement and open houses: turn0file3, turn0file5
-- ICE pamphlet and parent-education emphasis: turn0file18
-
+- Partnership with parents and gospel-guided mission:- Admissions/parental involvement and open houses:- ICE pamphlet and parent-education emphasis:
 ---
 
 ## What Would Move the Needle
 
 - Element 3 (Curriculum) and Element 4 (Pedagogy) show the most explicit gaps relative to a full CLASSICAL rubric, particularly around explicit, widespread Great Books/Great Conversation framing and explicit Socratic/seminar pedagogy across grade levels. To move these toward CLASSICAL:
-  - Publicly articulate a formal Great Books/Great Conversation component across grades, including recommended Great Books lists and explicit seminar-style activities aligned with logic and rhetoric progression.
-  - Expand explicit Socratic/seminal seminar practices in upper grades, with documented standards for discourse, questioning strategies, and assessment aligned to classical rhetoric.
-  - Provide a public-facing outline of how the curriculum integrates Great Books, Great Conversation, and Socratic pedagogy, including sample lesson structures, teacher training plans, and student assessment rubrics.
+ - Publicly articulate a formal Great Books/Great Conversation component across grades, including recommended Great Books lists and explicit seminar-style activities aligned with logic and rhetoric progression.
+ - Expand explicit Socratic/seminal seminar practices in upper grades, with documented standards for discourse, questioning strategies, and assessment aligned to classical rhetoric.
+ - Provide a public-facing outline of how the curriculum integrates Great Books, Great Conversation, and Socratic pedagogy, including sample lesson structures, teacher training plans, and student assessment rubrics.
 - Element 4 could benefit from clearer documentation of specific pedagogical routines (e.g., explicit Socratic seminars, dialogue protocols, and performance-based rhetoric opportunities) in the public materials.
 - Element 3 would gain from explicit, public references to Great Books and the Great Conversation in the curriculum pages, plus a stated approach to history as a coherent through-line rather than solely a content area.
 
 Citations (for needle-mover ideas)
-- Great Books/Great Conversation not clearly evidenced; potential areas to document: turn0file6, turn0file0
-- Socratic/ Seminar pedagogy not clearly evidenced; potential areas to document: turn0file6
-
+- Great Books/Great Conversation not clearly evidenced; potential areas to document:- Socratic/ Seminar pedagogy not clearly evidenced; potential areas to document:
 ---

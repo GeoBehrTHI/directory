@@ -1,6 +1,6 @@
 ## Executive Summary
 
-Addenbrooke Classical Academy Co 80235 (ACA), operating in Lakewood, Colorado, presents a classical Christian program organized around the Trivium (grammar, logic, rhetoric) with a four-day academic week and a strong emphasis on partnership with families. Public materials describe ACA as a preschool–12th grade school whose mission is to provide an education that is both classical and Christian, to equip students to know, love, and practice what is true, virtuous, and beautiful, and to challenge them to strive for excellence as they live for the glory of God and for the good of all people. This signals a robust Religious & Metaphysical Foundations and Purpose/Goal alignment with classical education, and the curriculum is explicitly structured around grammar, logic, and rhetoric. Parent partnerships and community engagement are clearly foregrounded, and the faculty structure is visible in administrative and teaching roles. Overall classification: CLASSICAL.
+Addenbrooke Classical Academy (Lakeview, CO, 80235) (ACA), operating in Lakewood, Colorado, presents a classical Christian program organized around the Trivium (grammar, logic, rhetoric) with a four-day academic week and a strong emphasis on partnership with families. Public materials describe ACA as a preschool–12th grade school whose mission is to provide an education that is both classical and Christian, to equip students to know, love, and practice what is true, virtuous, and beautiful, and to challenge them to strive for excellence as they live for the glory of God and for the good of all people. This signals a robust Religious & Metaphysical Foundations and Purpose/Goal alignment with classical education, and the curriculum is explicitly structured around grammar, logic, and rhetoric. Parent partnerships and community engagement are clearly foregrounded, and the faculty structure is visible in administrative and teaching roles. Overall classification: CLASSICAL.
 
 Key strengths
 - Explicit classical framework anchored in Christian ideals (truth, goodness, beauty) and a formation-of-character orientation.
@@ -43,7 +43,7 @@ Why this rating
 
 Evidence
 - The school presents a classic Trivium-based structure: Grammar School (K–5), Logic School (6–8), Rhetoric School (9–12). This alignment with grammar, logic, and rhetoric is a hallmark of classical curriculum design. 
-- The program sections reference distinct curricular lanes (Grammar, Logic, Rhetoric) and are framed as the core structure of the school’s curriculum. (e.g., “The Grammar School (Grades K-5) ... The Logic School (Grades 6-8) ... The Rhetoric School (Grades 9-12).”) 
+- The program sections reference distinct curricular lanes (Grammar, Logic, Rhetoric) and are framed as the core structure of the school’s curriculum. (e.g., “The Grammar School (Grades K-5)... The Logic School (Grades 6-8)... The Rhetoric School (Grades 9-12).”) 
 
 Positive/Negative keyword analysis
 - Positive keywords present: grammar, logic, rhetoric (explicitly named as the three stages of the curriculum).
@@ -97,12 +97,12 @@ What Would Move the Needle
 
 Category 4 (Pedagogy) and Category 5 (Faculty) are the ones closest to being NOT FULLY CLASSICAL in the public materials. If the school wishes to move toward a full CLASSICAL designation, concrete steps could include:
 - Category 4: Pedagogy
-  - Explicitly articulate and provide examples of Socratic seminars, classical discussion formats, and regular engagement with primary Great Books within upper levels.
-  - Add explicit statements and program components around scholé/restful learning practices (e.g., planned contemplative periods, memory rituals, and nature-based or aesthetic experiences) and publicly publish how these are integrated into daily schedules.
-  - Provide sample lesson plans or teacher statements showing how inquiry-based learning, rigorous logic and rhetoric work alongside contemplative practices.
+ - Explicitly articulate and provide examples of Socratic seminars, classical discussion formats, and regular engagement with primary Great Books within upper levels.
+ - Add explicit statements and program components around scholé/restful learning practices (e.g., planned contemplative periods, memory rituals, and nature-based or aesthetic experiences) and publicly publish how these are integrated into daily schedules.
+ - Provide sample lesson plans or teacher statements showing how inquiry-based learning, rigorous logic and rhetoric work alongside contemplative practices.
 
 - Category 5: Faculty
-  - Publish a formal “Faculty Profile” framework that describes teacher virtues, mentorship roles, and how faculty serve as the living curriculum (with concrete examples and testimonials).
-  - Highlight ongoing professional development that aligns with classical pedagogy, including training in the Trivium, Great Books engagement, and rhetoric instruction.
+ - Publish a formal “Faculty Profile” framework that describes teacher virtues, mentorship roles, and how faculty serve as the living curriculum (with concrete examples and testimonials).
+ - Highlight ongoing professional development that aligns with classical pedagogy, including training in the Trivium, Great Books engagement, and rhetoric instruction.
 
 - Category 1–3 and Category 6 are already well aligned with CLASSICAL expectations; maintaining and expanding explicit language around Great Books, scholé, and a living-curriculum approach for faculty would further strengthen the overall CLASSICAL alignment.

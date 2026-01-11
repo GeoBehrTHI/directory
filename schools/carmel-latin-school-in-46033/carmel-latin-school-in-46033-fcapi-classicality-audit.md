@@ -1,6 +1,6 @@
 ## Executive Summary
 
-Carmel High School (Carmel Latin School In 46033 in the provided materials) presents a contemporary, district-run IB/AP-oriented program rather than a classical liberal-arts pedagogy. Across the six classical-elements criteria, public-facing materials emphasize IB, AP, dual-credit pathways, college- and career-readiness supports, and a large extracurricular ecosystem, with explicit focus on transitioning students to higher education and diverse global perspectives. There is little to no explicit signaling of a classical framework (grammar–logic–rhetoric, great books, traditional memory work, scholé/restful learning, or a living-teacher “living curriculum” described in classical terms). Based on the six-category rubric and the keyword indicators, the school clusters as NOT CLASSICAL overall.
+Carmel High School (Carmel Latin School (Carmel, IN, 46033) in the provided materials) presents a contemporary, district-run IB/AP-oriented program rather than a classical liberal-arts pedagogy. Across the six classical-elements criteria, public-facing materials emphasize IB, AP, dual-credit pathways, college- and career-readiness supports, and a large extracurricular ecosystem, with explicit focus on transitioning students to higher education and diverse global perspectives. There is little to no explicit signaling of a classical framework (grammar–logic–rhetoric, great books, traditional memory work, scholé/restful learning, or a living-teacher “living curriculum” described in classical terms). Based on the six-category rubric and the keyword indicators, the school clusters as NOT CLASSICAL overall.
 
 Key takeaways
 - Strong emphasis on international programs (IB) and college preparation (AP, ACP, AVID, post-secondary planning) rather than Great Books, the Trivium/Quadrivium, or liturgical/community practices rooted in classical pedagogy. See the explicit IB Diploma description and program structure. 
@@ -123,8 +123,8 @@ Citations
 - The six categories have been evaluated above, with keyword inventories mapped to the indicators in the Six Essential Elements lexicon. The overall pattern is a strong lean toward a non-classical, IB/AP-driven framework rather than classical liberal-arts formation.
 
 - For each category, the keyword analysis used two kinds of signals:
-  - Keywords/phrases present in Carmel’s public materials (e.g., IB Diploma language, AP offerings, counselor and transition-to-college language, Latin as an IB language, etc.).
-  - Positive and Negative keyword indicators from the Six Essential Elements lexicon (truth/goodness/beauty; seven liberal arts; great books; Socratic pedagogy; living curriculum; partnership with families; etc.).
+ - Keywords/phrases present in Carmel’s public materials (e.g., IB Diploma language, AP offerings, counselor and transition-to-college language, Latin as an IB language, etc.).
+ - Positive and Negative keyword indicators from the Six Essential Elements lexicon (truth/goodness/beauty; seven liberal arts; great books; Socratic pedagogy; living curriculum; partnership with families; etc.).
 
 - Across all categories, the presence of classical positive keyword indicators is minimal or absent in publicly visible Carmel materials, and there are clear signals of modern college-preparatory and IB structures rather than classical formation.
 

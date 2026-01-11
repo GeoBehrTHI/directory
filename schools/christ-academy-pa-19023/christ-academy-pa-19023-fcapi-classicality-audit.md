@@ -1,6 +1,6 @@
 ## Executive Summary
 
-Christ Academy Pa 19023 presents a robust Classical Christian program aligned with the Six Essential Elements of a Classical School rubric. The public-facing materials consistently articulate a classical aim centered on virtue, wisdom, and truth within a Christian framework. The curriculum foregrounds the liberal arts (Trivium and Quadrivium), Great Books/historical engagement, and integrated humanities, with explicit emphasis on formation over mere information. The school markets itself as Christian, the curriculum as liberal-arts rooted, and pedagogy that blends contemplative elements with higher-order inquiry. The weight of evidence across the site supports CLASSICAL in five of the six categories, and SOMEWHAT CLASSICAL primarily for pedagogy where explicit Socratic/seminar-style practices are implied by structure rather than openly described in the site copy. The aggregate assessment is CLASSICAL.
+Christ Academy (Collingdale, PA, 19023) presents a robust Classical Christian program aligned with the Six Essential Elements of a Classical School rubric. The public-facing materials consistently articulate a classical aim centered on virtue, wisdom, and truth within a Christian framework. The curriculum foregrounds the liberal arts (Trivium and Quadrivium), Great Books/historical engagement, and integrated humanities, with explicit emphasis on formation over mere information. The school markets itself as Christian, the curriculum as liberal-arts rooted, and pedagogy that blends contemplative elements with higher-order inquiry. The weight of evidence across the site supports CLASSICAL in five of the six categories, and SOMEWHAT CLASSICAL primarily for pedagogy where explicit Socratic/seminar-style practices are implied by structure rather than openly described in the site copy. The aggregate assessment is CLASSICAL.
 
 - Core religious/metaphysical foundations are clearly identified through explicit Christian framing, theology integration, and a mission anchored in Christ-centered education. Evidence includes mission statements and theological framing on the site and in the public pages. This aligns strongly with CLASSICAL in Element 1. 
 
@@ -24,11 +24,11 @@ Evidence
 - The public materials support the integration of theology and sacred tradition as foundational to the curriculum, with references to theology as part of the curriculum and to the Christian worldview. 
 
 Positive/Negative Keyword Analysis
-- Positive keywords found: Christian, Jesus Christ, Theology, Sacred tradition, Faith, Formation, Truth, Goodness, Beauty, Gospel, Mission, Worship (where implied by liturgical framing in community). Presence of terms like "classical Christian education" and explicit theology mentions are frequent. (From Six Essential Elements: theology; sacred tradition; the Logos; sacred order; formation through faith and reason.) fileciteturn0file10turn0file16turn0file1
+- Positive keywords found: Christian, Jesus Christ, Theology, Sacred tradition, Faith, Formation, Truth, Goodness, Beauty, Gospel, Mission, Worship (where implied by liturgical framing in community). Presence of terms like "classical Christian education" and explicit theology mentions are frequent. (From Six Essential Elements: theology; sacred tradition; the Logos; sacred order; formation through faith and reason.) 
 - Negative keywords: None present in the public materials (secular or non-theistic frames are not promoted). This category shows no detectable secular drift in public copy. 
 
 Why this rating
-- The public-facing materials anchor the program in Christian theological foundations and a metaphysical frame (truth, goodness, beauty, transcendental aims) that align with traditional Classical Catholic/Christian educational ideals. The presence of explicit statements about Jesus Christ as center, theology integrated into the curriculum, and liturgical/community rhythms (as a component of formation) justify a CLASSICAL rating here. fileciteturn0file10turn0file16
+- The public-facing materials anchor the program in Christian theological foundations and a metaphysical frame (truth, goodness, beauty, transcendental aims) that align with traditional Classical Catholic/Christian educational ideals. The presence of explicit statements about Jesus Christ as center, theology integrated into the curriculum, and liturgical/community rhythms (as a component of formation) justify a CLASSICAL rating here. 
 
 ### Element 2: School Purpose and Goal — CLASSICAL
 
@@ -53,7 +53,7 @@ Evidence
 - The curriculum is described as block-style humanities integration (Integrated Humanities) with the aim of forming “true humanity” through study of timeless texts. 
 
 Positive/Negative Keyword Analysis
-- Positive keywords found: Seven Liberal Arts; Trivium; Quadrivium; grammar; logic; rhetoric; Great Books; Great Conversation; history; literature; philosophy; theology; sacred tradition; formation through reading of classical texts; living books; integration. (From Six Essential Elements: Seven Liberal Arts; Great Books; Great Conversation; integration; wonder; classical canon; literature; theology.) fileciteturn0file16turn0file1
+- Positive keywords found: Seven Liberal Arts; Trivium; Quadrivium; grammar; logic; rhetoric; Great Books; Great Conversation; history; literature; philosophy; theology; sacred tradition; formation through reading of classical texts; living books; integration. (From Six Essential Elements: Seven Liberal Arts; Great Books; Great Conversation; integration; wonder; classical canon; literature; theology.) 
 - Negative keywords: Not present; no major modernist, skills-based, or fragmented-curriculum signals in the public copy. 
 
 Why this rating
@@ -84,7 +84,7 @@ Positive/Negative Keyword Analysis
 - Negative keywords: None detected in public materials (no evidence of a purely didactic or non-mentoring faculty model). 
 
 Why this rating
-- The presence of a dedicated Faculty section and mission-driven language about teachers as virtuous mentors and as the core of the school supports CLASSICAL for Element 5. The public materials align with the expectation that faculty embody and transmit the classical curriculum. fileciteturn0file0turn0file10
+- The presence of a dedicated Faculty section and mission-driven language about teachers as virtuous mentors and as the core of the school supports CLASSICAL for Element 5. The public materials align with the expectation that faculty embody and transmit the classical curriculum. 
 
 ### Element 6: Parents & Community — CLASSICAL
 
@@ -97,7 +97,7 @@ Positive/Negative Keyword Analysis
 - Negative keywords: None detected; no hint of limited parent access or separation from family engagement in the public copy. (Public copy emphasizes open parent involvement.) 
 
 Why this rating
-- The public materials present parents as engaged, co-educators with access to portals and content, and emphasize formation of affections and cultural transmission—classic markers of CLASSICAL in Element 6. fileciteturn0file0turn0file4
+- The public materials present parents as engaged, co-educators with access to portals and content, and emphasize formation of affections and cultural transmission—classic markers of CLASSICAL in Element 6. 
 
 Aggregate Assessment
 
@@ -113,11 +113,11 @@ Overall classification: CLASSICAL
 What Would Move the Needle
 
 - Element 4 (Pedagogy) would most strengthen the overall CLASSICAL rating if explicitly articulated as a Scholé-informed pedagogy. Concrete steps:
-  - Publicly document and emphasize explicit Socratic seminars or dialectical discussions in upper grades, with examples of topics and assessment methods.
-  - Clearly describe the memory/recitation routines (Scholé) in lower grades with daily/weekly rhythms, songs, chants, and review cycles—and how they tie to long-term retention of Great Books and core texts.
-  - Publish a concise pedagogy guide that links Trivium/Quadrivium aims to daily classroom practice and how upper-grade rhetoric and public speaking are taught (e.g., formal speech opportunities, debates, and rhetoric exercises).
-  - Increase explicit mention of ancient-language and classical reasoning methods across all grades with examples of classroom exercises and student outputs that demonstrate Trivium progression.
+ - Publicly document and emphasize explicit Socratic seminars or dialectical discussions in upper grades, with examples of topics and assessment methods.
+ - Clearly describe the memory/recitation routines (Scholé) in lower grades with daily/weekly rhythms, songs, chants, and review cycles—and how they tie to long-term retention of Great Books and core texts.
+ - Publish a concise pedagogy guide that links Trivium/Quadrivium aims to daily classroom practice and how upper-grade rhetoric and public speaking are taught (e.g., formal speech opportunities, debates, and rhetoric exercises).
+ - Increase explicit mention of ancient-language and classical reasoning methods across all grades with examples of classroom exercises and student outputs that demonstrate Trivium progression.
 
 - Additional moves (optional but beneficial):
-  - Provide more explicit evidence of Great Books readings across subject areas with a published reading list and assessment rubrics to demonstrate the Great Conversation in action.
-  - Expand parent-facing explanations of how the living curriculum functions in practice, with samples of student work illustrating the “formation through the arts” and “living books” approach.
+ - Provide more explicit evidence of Great Books readings across subject areas with a published reading list and assessment rubrics to demonstrate the Great Conversation in action.
+ - Expand parent-facing explanations of how the living curriculum functions in practice, with samples of student work illustrating the “formation through the arts” and “living books” approach.

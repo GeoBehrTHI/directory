@@ -9,6 +9,6 @@ Kenai Classical Alaska presents a robust CLASSICAL profile across most of the cl
 - Faculty: CLASSICAL. Faculty is positioned as central to the living curriculum with a teacher-centered, mentorship-oriented ethos in alignment with classical formation; explicit quotations about faculty as mentors/models appear in public materials and the Six Elements framework supports this lens .
 - Parents & Community: CLASSICAL. Strong partner language with families; parent formation and involvement are highlighted in Kenai materials and echo the Six Elements’ expectations that families participate and are co-educators in the classical tradition .
 
-Overall, Kenai Classical Alaska aligns closely with the CLASSICAL rubric, with Category 4 (Pedagogy) as the principal needle-mover opportunity. Implementing a more explicit, publicly documented pedagogy (Socratic/Scholé/memory-work chants and explicit upper-school rhetoric programs) would move that category definitively to CLASSICAL and further deepen the school’s aggregate alignment with the classical model.
+Overall, Kenai Classical Alaska aligns closely with the CLASSICAL rubric, with Element 4 (Pedagogy) as the principal needle-mover opportunity. Implementing a more explicit, publicly documented pedagogy (Socratic/Scholé/memory-work chants and explicit upper-school rhetoric programs) would move that category definitively to CLASSICAL and further deepen the school’s aggregate alignment with the classical model.
 
 End of report.

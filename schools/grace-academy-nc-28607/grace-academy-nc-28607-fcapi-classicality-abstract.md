@@ -1,0 +1,12 @@
+## Abstract
+
+Grace Academy Boone (28607) clearly aligns with CLASSICAL education across all six rubric categories analyzed. Textual evidence from public materials shows a Christian, classical, collaborative mission (Core Values: Christian, Classical, Collaborative) rooted in biblical theology and a philosophy of formation (Proverbs 9:10; Biblical worldview; Statement of Faith). The curriculum reflects the liberal-arts Trivium model (grammar, logic, rhetoric) with Latin, Great Books/Great Conversation, and chronologic history from Creation to today. Pedagogy emphasizes lower-school singing/memorization/recitation and upper-school Socratic discussion and rhetorical training, consistent with classical methods. Faculty are depicted as virtuous mentors who model the curriculum, and parents/community partnerships are central to Grace Academy’s “Collaborative” ethos, with home–school co-teaching and active parental involvement.
+
+- Religious and Metaphysical Foundations: Evident through Christian core values, Biblical worldview, theology-integrated education, and Scriptural grounding (Proverbs 9:10). 
+- Purpose and Goal: Formation and wisdom within a classical, theologically framed telos, not simply job-prep. 
+- Curriculum: Trivium-based structure; Great Books/Great Conversation framing; Latin; history from Creation; interdisciplinary integration within a Biblical worldview.  fileciteturn14
+- Pedagogy: Memory-based methods in early grades (Recitation, singing) and Socratic/seminar/rhetoric in later grades.  
+- Faculty: Mentoring, living-curriculum approach; faculty as virtuous exemplars; shared mission across staff and leadership. 
+- Parents & Community: Strong parent partnership, home-classroom integration, parental education, and community connections. 
+
+In sum, Grace Academy Boone demonstrates a robust CLASSICAL orientation across all six domains of the classical education rubric, anchored by a Christian theological framework, a formation-centric mission, a Trivium-based curriculum, traditional pedagogical methods (recitation, Socratic discourse, rhetoric), a faculty culture centered on virtue and mentorship, and a deeply collaborative relationship with families and the surrounding community. The school’s public-facing materials consistently reflect transcendental aims, Great Books-oriented curriculum, and a home–school partnership model that are hallmarks of Classical Christian education as defined by the Six Essential Elements framework and the affiliated lexicon.

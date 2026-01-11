@@ -1,27 +1,27 @@
 ## Executive Summary
 
-Based on the school’s public materials within the crawl store and applying the classical rubric from the knowledge base, Schaeffer Academy Mn 55902 demonstrates strong alignment with classical education across most elements of the model. The materials show explicit engagement with religious foundations (catechesis, theology, liturgical practice), a clear purpose centered on virtue and wisdom (formation over mere information), a deep curriculum built on liberal arts (grammar, logic, rhetoric; Trivium; Quadrivium; engagement with great literature), and pedagogy that mixes contemplative and Socratic/seminar approaches, memory-based drill, and performative rhetoric. The faculty image is consistent with a living curriculum and mentoring role, and community/parent engagement is present through family-focused activities and communications, though explicit statements about parents as co-teachers are less visible in the public materials.
+Based on the school’s public materials within the crawl store and applying the classical rubric from the knowledge base, Schaeffer Academy (Rochester, MN, 55902) demonstrates strong alignment with classical education across most elements of the model. The materials show explicit engagement with religious foundations (catechesis, theology, liturgical practice), a clear purpose centered on virtue and wisdom (formation over mere information), a deep curriculum built on liberal arts (grammar, logic, rhetoric; Trivium; Quadrivium; engagement with great literature), and pedagogy that mixes contemplative and Socratic/seminar approaches, memory-based drill, and performative rhetoric. The faculty image is consistent with a living curriculum and mentoring role, and community/parent engagement is present through family-focused activities and communications, though explicit statements about parents as co-teachers are less visible in the public materials.
 
 Overall classification: CLASSICAL.
 
 - Element 1 (Religious and Metaphysical Foundations): CLASSICAL
-  Evidence points to catechesis, theology, liturgy, hymnody, and a Lutheran framework; public materials foreground spiritual formation and a sacred worldview.
-  Positive keyword indicators appear plentiful; negative indicators are negligible.
+ Evidence points to catechesis, theology, liturgy, hymnody, and a Lutheran framework; public materials foreground spiritual formation and a sacred worldview.
+ Positive keyword indicators appear plentiful; negative indicators are negligible.
 
 - Element 2 (Purpose and Goal): CLASSICAL
-  The materials emphasize formation, virtue, wisdom, truth, and beauty as real and knowable, aligning with a classical telos rather than mere job preparation.
+ The materials emphasize formation, virtue, wisdom, truth, and beauty as real and knowable, aligning with a classical telos rather than mere job preparation.
 
 - Element 3 (Curriculum): CLASSICAL
-  There is explicit reference to the liberal arts (grammar, logic, rhetoric) and the Quadrivium/Trivium framework, plus attention to classical literature and “Great Books” style engagement, signaling a strong classical curriculum.
+ There is explicit reference to the liberal arts (grammar, logic, rhetoric) and the Quadrivium/Trivium framework, plus attention to classical literature and “Great Books” style engagement, signaling a strong classical curriculum.
 
 - Element 4 (Pedagogy): CLASSICAL
-  Pedagogy includes contemplative/restful elements, singing/chanting in the lower grades, and upper-grade Socratic/seminar/debate formats, with a clear focus on memory, rhetoric, and disciplined discussion.
+ Pedagogy includes contemplative/restful elements, singing/chanting in the lower grades, and upper-grade Socratic/seminar/debate formats, with a clear focus on memory, rhetoric, and disciplined discussion.
 
 - Element 5 (Faculty): CLASSICAL
-  The publicly described faculty role aligns with models of living curriculum and mentorship, with emphasis on virtue, skill, and knowledge being modeled by teachers.
+ The publicly described faculty role aligns with models of living curriculum and mentorship, with emphasis on virtue, skill, and knowledge being modeled by teachers.
 
 - Element 6 (Parents & Community): SOMEWHAT CLASSICAL
-  Community offerings (family retreats, newsletters, book clubs, podcasts) indicate active engagement and partnership with families, but explicit public statements that parents are “co-teachers” or that parents are systematically integrated as part of the curriculum’s living framework are less clearly articulated in the available materials.
+ Community offerings (family retreats, newsletters, book clubs, podcasts) indicate active engagement and partnership with families, but explicit public statements that parents are “co-teachers” or that parents are systematically integrated as part of the curriculum’s living framework are less clearly articulated in the available materials.
 
 Executive Summary — Element-by-Element Snapshot
 
@@ -110,10 +110,10 @@ Aggregate assessment across all categories
 
 What would move the needle
 - To move Element 6 from SOMEWHAT CLASSICAL to CLASSICAL, the school could publish explicit statements and examples showing parents as co-teachers within the curriculum framework, including:
-  - Clear language on parental co-teaching roles and responsibilities within the classical curriculum.
-  - Structured parent-involvement programs that align with Great Books discussions, Latin/grammar cycles, or history readings.
-  - Regular parent-teacher collaborative cycles (commonplace books, shared memory work, family discussion guides) that demonstrate a public-facing “living curriculum” including parental participation.
+ - Clear language on parental co-teaching roles and responsibilities within the classical curriculum.
+ - Structured parent-involvement programs that align with Great Books discussions, Latin/grammar cycles, or history readings.
+ - Regular parent-teacher collaborative cycles (commonplace books, shared memory work, family discussion guides) that demonstrate a public-facing “living curriculum” including parental participation.
 
 - Additional needle-moving steps (optional for further strengthening):
-  - Explicit public articulation of a two-kingdom or catechetical formation approach as foundational pedagogy, linking it to daily classroom practice and family learning.
-  - More explicit references to the Great Books program and Great Conversation in public materials, with sample schedules or examples of student-led discussions.
+ - Explicit public articulation of a two-kingdom or catechetical formation approach as foundational pedagogy, linking it to daily classroom practice and family learning.
+ - More explicit references to the Great Books program and Great Conversation in public materials, with sample schedules or examples of student-led discussions.

@@ -44,7 +44,7 @@ Why this rating
 Citations
 - Great Literature and arts emphasis (implied formation through literature and beauty). 
 - Christian framing and biblical language suggest formation anchored in virtue within a faith tradition. 
-- The Six Elements rubric and lexicon provide the canonical signals for purpose/goal (formation, true/good/beautiful). fileciteturn0file2turn0file0
+- The Six Elements rubric and lexicon provide the canonical signals for purpose/goal (formation, true/good/beautiful). 
 
 ### Element 3: School Curriculum — SOMEWHAT CLASSICAL
 
@@ -129,5 +129,5 @@ What would move the needle
 Citations
 - Evidence of current Christian framing and literature/arts emphasis is visible in Praise Academy Lakeside materials. 
 - Great Literature and a broad curriculum emphasis are evidenced by the site content. 
-- The Six Essential Elements lexicon (and related literature) defines the core categories and keywords used for evaluating classical alignment. fileciteturn0file10turn0file0
+- The Six Essential Elements lexicon (and related literature) defines the core categories and keywords used for evaluating classical alignment. 
 - The Great Books/Great Conversation language is a core classical signal defined in the knowledge base.

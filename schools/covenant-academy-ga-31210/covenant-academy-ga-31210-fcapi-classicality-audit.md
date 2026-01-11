@@ -102,7 +102,7 @@ Citations: faculty-related statements and living-curriculum language (turn0file1
 ### Element 6: School Parents and Community — CLASSICAL
 
 Evidence
-- The school positions itself as a covenantal community of likeminded families, emphasizing partnership with families and a school community aligned in truth and grace (turn0file1 turn0file2 turn0file4).
+- The school positions itself as a covenantal community of likeminded families, emphasizing partnership with families and a school community aligned in truth and grace (turn0file1turn0file4).
 - The school emphasizes parental engagement and educational partnership, including parent-led groups and activities (CAP, CAMP, etc.) and a visible family-centric culture (turn0file2; turn0file4).
 - Partnerships with families are integral and parents are welcomed to engage with the school; the Georgia Promise Scholarship information shows a practical partnership with government programs to support families (turn0file6 turn0file12).
 
@@ -119,5 +119,5 @@ Citations: Covenant’s partnership language (turn0file2; turn0file4); parent en
 ## What Would Move the Needle
 
 - As Covenant Academy GA 31210 currently achieves CLASSICAL in all six categories, there are no category-level needle-moving changes necessary to elevate classification. If desired, the following small enhancements could further strengthen the public articulation of its classical identity:
-  - Make Liturgical/Communal Practices explicit on the public site (e.g., chapel, liturgical rhythm, communal worship language) to align more directly with the Liturgical/Communal Practices criterion in the knowledge framework.
-  - Expand explicit public references to the Great Conversation language as a formal phrase tied to Great Books beyond general “great books” language, to reinforce the historical continuity of classical education.
+ - Make Liturgical/Communal Practices explicit on the public site (e.g., chapel, liturgical rhythm, communal worship language) to align more directly with the Liturgical/Communal Practices criterion in the knowledge framework.
+ - Expand explicit public references to the Great Conversation language as a formal phrase tied to Great Books beyond general “great books” language, to reinforce the historical continuity of classical education.

@@ -9,7 +9,7 @@
   - Faculty: CLASSICAL. Living-curriculum faculty with mentors and tenured staff; bios show a strong classical formation and long-term involvement with Cedar. 
   - Parents & Community: CLASSICAL. Explicit partnerships with families, parent observation visits, and community events; parental formation is encouraged and welcomed on campus. 
 
-- Needle-moving considerations (if any): None required; Cedar already demonstrates a coherent CLASSICAL alignment across all six categories. If any needle movement is desired, it would be incremental signaling (e.g., explicit naming of “Great Books” and “Great Conversation” in curriculum pages) to reinforce Category 3 signals and further public affirmation of the Great-Books orientation.
+- Needle-moving considerations (if any): None required; Cedar already demonstrates a coherent CLASSICAL alignment across all six categories. If any needle movement is desired, it would be incremental signaling (e.g., explicit naming of “Great Books” and “Great Conversation” in curriculum pages) to reinforce Element 3 signals and further public affirmation of the Great-Books orientation.
 
 - Aggregate assessment: CLASSICAL
   - The school’s public materials consistently reflect a classical Christian orientation across all six categories, with explicit formation language, Trivium-based curriculum, contemplative pedagogy balanced with Socratic dialogue, virtuous faculty exemplars, and robust parent/community partnerships. The result is a coherent CLASSICAL classification for Cedar Classical Academy.

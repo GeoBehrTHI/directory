@@ -1,16 +1,16 @@
 ## Executive Summary
 
-Revive Academy Ak 99603 presents a clearly Christian, classical education model with a strong emphasis on formation of character, virtue, and a God-centered worldview. The public materials position the school as Christ-centered, biblically anchored, and committed to a classical framework (grammar, logic, rhetoric; history; biblical studies; Latin; great books; Trivium/Quadrivium concepts). The school highlights a hybrid on-campus/at-home model that intensively involves families as co-educators, aligning with classical education’s emphasis on partnership with families. Taken as a whole, the school demonstrates a robust CLASSICAL orientation, with especially strong religious/metaphysical grounding, goal formation, and curriculum alignment. A notable area for improvement is the explicit articulation of certain upper-school pedagogical methods (e.g., explicit Socratic/seminar practices) within the public materials; however, the available content still supports a classical pedagogy through emphasis on memory, rhetoric, and dialogic skills in the context of a rigorous classical program.
+Revive Academy (Homer, AK, 99603) presents a clearly Christian, classical education model with a strong emphasis on formation of character, virtue, and a God-centered worldview. The public materials position the school as Christ-centered, biblically anchored, and committed to a classical framework (grammar, logic, rhetoric; history; biblical studies; Latin; great books; Trivium/Quadrivium concepts). The school highlights a hybrid on-campus/at-home model that intensively involves families as co-educators, aligning with classical education’s emphasis on partnership with families. Taken as a whole, the school demonstrates a robust CLASSICAL orientation, with especially strong religious/metaphysical grounding, goal formation, and curriculum alignment. A notable area for improvement is the explicit articulation of certain upper-school pedagogical methods (e.g., explicit Socratic/seminar practices) within the public materials; however, the available content still supports a classical pedagogy through emphasis on memory, rhetoric, and dialogic skills in the context of a rigorous classical program.
 
 Evidence drawn from Revive Academy’s materials shows explicit references to:
-- Religious/metaphysical foundations: Christ-centered approach, biblical worldview, statements of faith and prayer, and integration of theology into education.  
+- Religious/metaphysical foundations: Christ-centered approach, biblical worldview, statements of faith and prayer, and integration of theology into education. 
 - Purpose/goal: formation of virtue and wisdom, holistic development of the person, truth-goodness-beauty as real, knowable realities. 
-- Curriculum: grammar, logic, rhetoric; history; biblical studies; Latin; great books; study of nature and mathematics; emphasis on “great books” and the liberal arts.  
+- Curriculum: grammar, logic, rhetoric; history; biblical studies; Latin; great books; study of nature and mathematics; emphasis on “great books” and the liberal arts. 
 - Pedagogy: hybrid on-campus and home-based model; emphasis on memory, formation of character, and purposeful formation aligned with biblical principles; hands-on, community-oriented approach. Some explicit Socratic/seminar-based methods are not prominently described in public pages, which tempers the Pedagogy assessment. 
 - Faculty: emphasis on staff aligning with a mission, serving as mentors, and embodying the school’s virtuous aims; leadership emphasis evident in the “About/Staff” materials. 
 - Parents & Community: strong partnership with parents as co-educators; emphasis on parent involvement, visiting, and engagement through the admissions/support pages. 
 
-Overall, Revive Academy Ak 99603 is classified as CLASSICAL. The strongest evidence lies in explicit religious/theological foundations, formation-centered goals, and a curriculum built on classical liberal arts and Great Books. The most notable gap concerns explicit public articulation of some upper-school, Socratic/seminar-based pedagogy, which, while not visibly explicit in the public materials, does not undermine the school’s classical orientation given the clear Trivium/Quadrivium framework, Great Books emphasis, and intensive teacher-family partnership.
+Overall, Revive Academy (Homer, AK, 99603) is classified as CLASSICAL. The strongest evidence lies in explicit religious/theological foundations, formation-centered goals, and a curriculum built on classical liberal arts and Great Books. The most notable gap concerns explicit public articulation of some upper-school, Socratic/seminar-based pedagogy, which, while not visibly explicit in the public materials, does not undermine the school’s classical orientation given the clear Trivium/Quadrivium framework, Great Books emphasis, and intensive teacher-family partnership.
 
 ---
 
@@ -19,12 +19,12 @@ Overall, Revive Academy Ak 99603 is classified as CLASSICAL. The strongest evide
 ### Element 1: Religious and Metaphysical Foundations — CLASSICAL
 
 Evidence
-- The school presents itself as Christ-centered and biblically anchored, with explicit references to biblical worldview and a Statement of Faith.  
+- The school presents itself as Christ-centered and biblically anchored, with explicit references to biblical worldview and a Statement of Faith. 
 - Philosophy of Education discusses looking to God (Trivium/Quadrivium) and the true, the good, and the beautiful, positioning theology and metaphysical aims at the core of learning. 
 - Public materials emphasize worship/discipleship elements and a God-centered approach to education. 
 
 Positive/Negative keyword analysis
-- Positive keywords present: Christ-centered, biblical worldview, Statement of Faith, prayer, God, theology, truth/goodness/beauty in a transcendent sense.   
+- Positive keywords present: Christ-centered, biblical worldview, Statement of Faith, prayer, God, theology, truth/goodness/beauty in a transcendent sense. 
 - Negative keywords: None clearly evident in public materials; no strong secular or non-theistic framing observed.
 
 Why this rating
@@ -55,7 +55,7 @@ Evidence
 - The Philosophy of Education pages emphasize Trivium/Quadrivium and integration of biblical principles into the curriculum. 
 
 Positive/Negative keyword analysis
-- Positive keywords present: liberal arts, grammar, logic, rhetoric, Great Books, history, Latin, biblical principles, Trivium, Quadrivium.   
+- Positive keywords present: liberal arts, grammar, logic, rhetoric, Great Books, history, Latin, biblical principles, Trivium, Quadrivium. 
 - Negative keywords: None clearly present in public materials; no secular or non-traditional curriculum framing observed.
 
 Why this rating
@@ -66,11 +66,11 @@ Why this rating
 ### Element 4: School Pedagogy or Teaching Methods — SOMEWHAT CLASSICAL
 
 Evidence
-- The public materials describe a hybrid model (on-campus 2–3 days with home-directed instruction and parent partnership), emphasizing memory, virtue formation, and a “hands-on” classical approach. This aligns with core classical pedagogy concepts (memory work, virtue, dialogic learning, and structure), though explicit upper-school Socratic/seminar-based practices are not clearly detailed in the public pages.  
+- The public materials describe a hybrid model (on-campus 2–3 days with home-directed instruction and parent partnership), emphasizing memory, virtue formation, and a “hands-on” classical approach. This aligns with core classical pedagogy concepts (memory work, virtue, dialogic learning, and structure), though explicit upper-school Socratic/seminar-based practices are not clearly detailed in the public pages. 
 - The Philosophy of Education content references the Trivium/Quadrivium and a focus on reading great books, debate-style dialogue, and meaningful dialogue, but concrete public-page descriptions of Socratic seminars or upper-school debates are not overtly spelled out in Revive’s site content. 
 
 Positive/Negative keyword analysis
-- Positive keywords present: classical approach, grammar/logic/rhetoric, memorization, rigorous but balanced with contemplative elements, hands-on learning, nature study, great books, dialogue.   
+- Positive keywords present: classical approach, grammar/logic/rhetoric, memorization, rigorous but balanced with contemplative elements, hands-on learning, nature study, great books, dialogue. 
 - Negative keywords present: explicit, fully articulated upper-school Socratic/seminar-based pedagogy is not clearly described in public pages; absence of explicit “Socratic seminars” or heavy debate-method language lowers the category from full CLASSICAL to SOMEWHAT CLASSICAL.
 
 Why this rating

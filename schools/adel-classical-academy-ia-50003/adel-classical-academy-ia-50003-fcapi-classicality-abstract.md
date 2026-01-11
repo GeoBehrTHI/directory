@@ -11,34 +11,34 @@ Adel Classical Academy (ACA) demonstrates a robust classical orientation anchore
 
 Note: The analysis used two knowledge sources. The school-specific content (ACA’s site) provides explicit, testable evidence of the above features; the classical-school rubric (Six Essential Elements) from the knowledge base provides the keyword framework (positive/negative indicators such as truth/goodness/beauty, formation, Great Books, Socratic pedagogy, living curriculum, partnership with families, etc.). Key alignment points are drawn from ACA’s biblical/theological grounding, the Trivium structure (grammar–logic–rhetoric), Great Books/Western canon orientation to the degree it’s expressed through a classical framework, and a strong parental-partner model. See the cited ACA pages for direct textual support (e.g., biblical worldview and truth/beauty/goodness language; collaborative model; memory-based pedagogy; and parental covenant language).   
 
-Executive Summary — Category-by-Category Snapshot (Detailed)
+Executive Summary — Element-by-Element Snapshot (Detailed)
 
-- Category 1: Religious and Metaphysical Foundations — CLASSICAL
+- Element 1: Religious and Metaphysical Foundations — CLASSICAL
   - Evidence: Biblical truth, gospel-centered education, God's creation; creation theology; worship-like formation cues; parental covenant. 
   - Keyword analysis: Positive: truth, goodness, beauty; theology; Biblical worldview; gospel-centered; creation; reverence. Negative: none evident. Estimated: Positive ~6–8, Negative 0.
   - Why: Strong alignment with transcendental moral realism and theology; robust religious-grounded identity.
 
-- Category 2: School Purpose and Goal — CLASSICAL
+- Element 2: School Purpose and Goal — CLASSICAL
   - Evidence: Liberal-arts framing; formation; unity of truth/beauty/goodness; formation-focused language; telos. 
   - Keyword analysis: Positive: formation; liberal-arts; telos; Great Conversation (implied); virtue/character; wisdom. Negative: none evident. Estimated: Positive ~4–6, Negative 0.
   - Why: Clear formation aim and classical telos; fits CLASSICAL.
 
-- Category 3: Curriculum — CLASSICAL
+- Element 3: Curriculum — CLASSICAL
   - Evidence: Grammar–logic–rhetoric emphasis; Latin; history; integrated subjects; worldview. 
   - Keyword analysis: Positive: grammar, logic, rhetoric; liberal arts; history; Latin; great books (implied); integrated approach. Negative: minimal. Estimated: Positive ~6–8, Negative 0–1.
   - Why: Strong alignment with classical curriculum.
 
-- Category 4: Pedagogy or Teaching Methods — SOMEW HAT CLASSICAL
+- Element 4: Pedagogy or Teaching Methods — SOMEW HAT CLASSICAL
   - Evidence: Memory work via songs/chanting in lower grades; collaborative model blending on-campus and at-home instruction; subject-based upper-year pedagogy.  
   - Keyword analysis: Positive: memory work, recitation, rhetoric, scholé; Socratic/seminar implied; integration. Negative: collaborative/home-model shaping pedagogy. Estimated: Positive ~4–6, Negative ~1–2.
   - Why: The blended model and strong classical elements place Pedagogy in SOMEWHAT CLASSICAL.
 
-- Category 5: Faculty — CLASSICAL
+- Element 5: Faculty — CLASSICAL
   - Evidence: Headmaster; professional, qualified teachers; clear staffing; living-curriculum through integrated instruction. 
   - Keyword analysis: Positive: master-teacher/headmaster, professional teachers, mentorship. Negative: none explicit. Estimated: Positive ~4–6, Negative 0.
   - Why: Clear classical faculty signals.
 
-- Category 6: Parents & Community — CLASSICAL
+- Element 6: Parents & Community — CLASSICAL
   - Evidence: Parental covenant and collaborative expectations; family involvement; open campus; frequent family events. 
   - Keyword analysis: Positive: partnership with families, parent covenant, co-teachers, family involvement. Negative: none. Estimated: Positive ~6–8, Negative 0.
   - Why: Very strong alignment with the Parents & Community criterion.
@@ -46,9 +46,9 @@ Executive Summary — Category-by-Category Snapshot (Detailed)
 Overall aggregate: CLASSICAL
 
 What would move the needle (for SOMEWHAT CLASSICAL categories)
-- Pedagogy (Category 4): Introduce explicit, documented Socratic seminars and structured upper-grade debates with documented outcomes; ensure formal rubrics for oral reasoning and rhetoric are published publicly.
-- Category 2 (if you want to push even more classical): Add explicit language on Great Books/Great Conversation and telos in mission statements and site copy; articulate a more formal progression in the Great Conversation across grades.
-- Category 1 (optional enhancement): Add more explicit liturgical/community routines (e.g., formal chapel/morning prayer cycle) while maintaining the Gospel-centered identity; document these practices publicly for clarity.
+- Pedagogy (Element 4): Introduce explicit, documented Socratic seminars and structured upper-grade debates with documented outcomes; ensure formal rubrics for oral reasoning and rhetoric are published publicly.
+- Element 2 (if you want to push even more classical): Add explicit language on Great Books/Great Conversation and telos in mission statements and site copy; articulate a more formal progression in the Great Conversation across grades.
+- Element 1 (optional enhancement): Add more explicit liturgical/community routines (e.g., formal chapel/morning prayer cycle) while maintaining the Gospel-centered identity; document these practices publicly for clarity.
 
 Note: The above needle-mover recommendations are targeted at elevating CLASSICAL alignment in the categories identified as SOMEWHAT CLASSICAL (4 and 2) and are based on the gap between strong classical signals and the blended features ACA publicly describes.
 

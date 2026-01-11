@@ -1,0 +1,3 @@
+# ABSTRACT
+
+Providence Academy (Parma, OH, 44130) exhibits CLASSICAL alignment on all six categories, with explicit religious/intellectual foundations, formation-centered goals, a Trivium-based curriculum, a pedagogy combining memory-work and Socratic dialogue, a faculty modeled as the living curriculum, and a strong partnership with parents and the community. The public materials consistently reflect the classical lexicon: Christ-centered worldview, Bible-saturated culture, the true/good/beautiful triad, Great Books, grammar-logic-rhetoric progression, Socratic teaching, and active family/community engagement. These elements collectively position the school as CLASSICAL, with ample textual anchors across sources in the school’s public content.

@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+        <title>Connection Denied</title>
+        <meta charset="UTF-8">
+        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+</head>
+<body>
+                <style>
+        body {
+                background-color: #f7f7f7;
+        }
+
+        .alert-warning {
+                color: #fff;
+                padding: 40px;
+                background: #333;
+                text-align: center;
+                font-size: 2em;
+        }
+        h1 {
+                font-size: 2em;
+                text-align: center;   
+        }
+        h2 {
+             font-size: 1.5em;
+             text-align: center; 
+        }
+        a {
+                text-decoration: none;
+                background: #376dc4;
+                color: #fff;
+                border-radius: 3px;
+                padding: 20px 30px;
+        }
+</style>
+
+<div class="container-fluid">
+        <div class="alert alert-warning"><h3>Your connection to this server has been blocked by ChurchDev's Security systems.</h3></div>
+        <h1>Please contact <b>ChurchDev</b> support and provide this information:</h1>
+        <h2>IP Address: <b>152.208.19.209</b></h2>
+        <h2>Domain Name: <b>www.lcodessa.org</b></h2>
+        <br />
+        <h2><a href="mailto:support@churchdev.com?subject=My IP is blocked&body=My IP 152.208.19.209 is blocked. My domain name is www.lcodessa.org. Please unblock my IP.">Click Here To Contact Support</a></h2>
+</div>
+</body>
+</html>

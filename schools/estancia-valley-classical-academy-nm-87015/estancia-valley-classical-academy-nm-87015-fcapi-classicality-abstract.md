@@ -4,17 +4,17 @@ Estancia Valley Classical Academy (EVCA) presents a CLASSICAL education profile 
 
 Overall classification: CLASSICAL.
 
-- Category 1: SOMEWHAT CLASSICAL
+- Element 1: SOMEWHAT CLASSICAL
   - Evidence: Virtue, character, moral formation present; theology and liturgy not explicitly foregrounded in public materials. fileciteturn0file1turn0file0
-- Category 2: CLASSICAL
+- Element 2: CLASSICAL
   - Evidence: Formation-focused aims; virtue and wisdom as telos; classical liberal-arts orientation. 
-- Category 3: CLASSICAL
+- Element 3: CLASSICAL
   - Evidence: Seven Liberal Arts, Great Books/Great Conversation, integrated history/philoshy/literature with a classical curriculum frame. 
-- Category 4: CLASSICAL
+- Element 4: CLASSICAL
   - Evidence: Explicit Pedagogy (Socratic, Scholé, recitation, imitation) and upper-school rhetoric and seminars described. 
-- Category 5: SOMEWHAT CLASSICAL
+- Element 5: SOMEWHAT CLASSICAL
   - Evidence: Faculty framing implied (living-curriculum and mentor-role) but not fully codified in public material. 
-- Category 6: CLASSICAL
+- Element 6: CLASSICAL
   - Evidence: Founding-by-parents/community; governance and parent engagement. 
 
 Cited sources (selected):

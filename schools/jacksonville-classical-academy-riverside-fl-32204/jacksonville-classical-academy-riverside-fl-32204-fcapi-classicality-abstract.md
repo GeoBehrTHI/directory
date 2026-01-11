@@ -9,7 +9,7 @@ Strengths across the six elements include:
 - Faculty expectations and professional development framing aligned to classical aims (Careers page). 
 
 Gaps to address for full CLASSICAL in every category:
-- Explicit liturgical/theological grounding and ritual/community practices are not clearly evidenced in public materials (Category 1).
-- Explicit, public articulation of pedagogy signals (Socratic seminars, Scholé restfulness, memorization/recitation) is not robustly documented (Category 4).
+- Explicit liturgical/theological grounding and ritual/community practices are not clearly evidenced in public materials (Element 1).
+- Explicit, public articulation of pedagogy signals (Socratic seminars, Scholé restfulness, memorization/recitation) is not robustly documented (Element 4).
 
 In aggregate, Jacksonville Classical Academy Riverside is CLASSICAL, with SOMEWHAT CLASSICAL signals in two categories where further public documentation of pedagogy and metaphysical grounding would strengthen the overall alignment.

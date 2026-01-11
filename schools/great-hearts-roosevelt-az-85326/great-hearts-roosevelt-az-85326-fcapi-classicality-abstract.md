@@ -19,11 +19,11 @@ Executive Summary — Closing
 - The Great Hearts Roosevelt curriculum, pedagogy, faculty orientation, and parent/community engagement collectively align with the Classical education rubric provided by the knowledge-base sources. The school effectively communicates a classical telos, an integrated liberal-arts curriculum anchored by Great Books and Socratic inquiry, and robust family/community partnerships.
 
 - ABSTRACT (summary of classification and six-category synthesis)
-  - Category 1: CLASSICAL
-  - Category 2: CLASSICAL
-  - Category 3: CLASSICAL
-  - Category 4: CLASSICAL
-  - Category 5: CLASSICAL
-  - Category 6: CLASSICAL
+  - Element 1: CLASSICAL
+  - Element 2: CLASSICAL
+  - Element 3: CLASSICAL
+  - Element 4: CLASSICAL
+  - Element 5: CLASSICAL
+  - Element 6: CLASSICAL
 
 - Aggregate: CLASSICAL

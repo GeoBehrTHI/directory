@@ -1,3 +1,5 @@
+Overall Classification: CLASSICAL
+
 ## Abstract
 
 Chesterton Academy of St. Therese (10916) presents a coherent CLASSICAL profile across six canonical categories:

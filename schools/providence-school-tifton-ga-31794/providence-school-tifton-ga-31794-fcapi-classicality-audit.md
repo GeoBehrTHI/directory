@@ -19,7 +19,7 @@ What would move the needle
 - Publicly articulate liturgical or liturgy-adjacent practices and communal worship language to strengthen the Religious and Metaphysical Foundations category as truly liturgical/communal.
 - Expand parent formation opportunities (book studies, community lectures) and documentation that parents are co-teachers in more formalized ways.
 
-References to the school’s public materials (evidence is drawn from Providence School of Tifton’s site content captured in the crawl) include explicit statements of classical Christian identity, Trivium/Quadrivium, and a mix of Socratic and memory-based pedagogy. See the FAQ and Our Story pages for foundational language, the Kindergarten/Grammar/Literacy content for curriculum and pedagogy, and Our Leadership/Events materials for community and faculty signals. Citations appear inline with the supporting evidence. See sources turn0file0, turn0file3, turn0file5, turn0file9, turn0file6, turn0file12, turn0file14, turn0file15 for specifics.
+References to the school’s public materials (evidence is drawn from Providence School of Tifton’s site content captured in the crawl) include explicit statements of classical Christian identity, Trivium/Quadrivium, and a mix of Socratic and memory-based pedagogy. See the FAQ and Our Story pages for foundational language, the Kindergarten/Grammar/Literacy content for curriculum and pedagogy, and Our Leadership/Events materials for community and faculty signals. Citations appear inline with the supporting evidence. See sourcesfor specifics.
 
 ## Executive Summary — Element-by-Element Details
 
@@ -32,7 +32,7 @@ Evidence
 - The site repeatedly references “classical Christian education” and a Christ-centered approach to learning, including external references to classical education and theology. 
 
 Positive/Negative keyword analysis
-- Positive keywords present in public materials: Christian, theology, Bible, truth, goodness, beauty, virtue, liturgy/worship (as implied by communal Christian practice and “Soli Deo Gloria” sentiment), transcendentals, sacred. Evidence words include “unapologetically Christian,” “God’s Revelation,” and “truth, goodness, and beauty.”  
+- Positive keywords present in public materials: Christian, theology, Bible, truth, goodness, beauty, virtue, liturgy/worship (as implied by communal Christian practice and “Soli Deo Gloria” sentiment), transcendentals, sacred. Evidence words include “unapologetically Christian,” “God’s Revelation,” and “truth, goodness, and beauty.” 
 - Negative keywords: None detected in public materials that would indicate secular or relativistic orientation. The materials emphasize doctrinal and transcendent commitments rather than relativistic or secular frameworks.
 
 Why this rating
@@ -41,12 +41,12 @@ Why this rating
 ### Element 2: School Purpose and Goal — CLASSICAL
 
 Evidence
-- The core aim is formation of virtue and wisdom, not mere information or job preparation. The FAQ underscores formation around truth, goodness, and beauty within a classical liberal arts framework, and Our Story emphasizes formation and a teleology oriented toward character and virtue in a God-centered frame.  
+- The core aim is formation of virtue and wisdom, not mere information or job preparation. The FAQ underscores formation around truth, goodness, and beauty within a classical liberal arts framework, and Our Story emphasizes formation and a teleology oriented toward character and virtue in a God-centered frame. 
 - Language about the end-in-mind and bearing fruit as mature people of God reflects a telos-oriented aim (formation of character and human excellence, rather than workforce prep). 
 - Great Books reading and “Great Conversation” language is not explicitly stated, but the classical formation language (virtue, wisdom, liberal arts) is prominent, including the Trivium/Quadrivium framing. 
 
 Positive/Negative keyword analysis
-- Positive keywords present: formation, virtue, wisdom, liberal education, telos, true/good/beautiful, classical mission, human flourishing.  
+- Positive keywords present: formation, virtue, wisdom, liberal education, telos, true/good/beautiful, classical mission, human flourishing. 
 - Negative keywords: explicit workforce- or career-prep emphasis is not present; there is no language suggesting a purely job-preparation aim, and the materials emphasize virtue and wisdom over vocational training.
 
 Why this rating
@@ -55,13 +55,13 @@ Why this rating
 ### Element 3: School Curriculum — SOMEWHAT CLASSICAL
 
 Evidence
-- The curriculum explicitly references the liberal arts framework: the Trivium (grammar, logic, rhetoric) and Quadrivium, which are foundational to classical education. This is stated in the public materials and reflected in Our Story and FAQ content.  
+- The curriculum explicitly references the liberal arts framework: the Trivium (grammar, logic, rhetoric) and Quadrivium, which are foundational to classical education. This is stated in the public materials and reflected in Our Story and FAQ content. 
 - There is explicit indication of a liberal arts emphasis and a curricular structure around the Grammar School, Logic & Rhetoric School (K–12 progression), which aligns with classical curriculum organization. 
 - History is integrated into the curriculum (e.g., Kindergarten content mentions history as part of read-aloud literature and Bible curriculum), indicating cross-disciplinary historical study. 
 - Great Books/Great Conversation: Not explicitly stated as a universal requirement or program across grades. The available content emphasizes Trivium/Quadrivium and a Christian liberal arts approach more than an explicit Great Books program. 
 
 Positive/Negative keyword analysis
-- Positive keywords present: liberal arts, Trivium, Quadrivium, grammar, logic, rhetoric, history, Western civilization, primary sources, classics, sacred art, memory work, recitation, chanting. These items are present either directly or as implied through program naming and described pedagogical aims.  
+- Positive keywords present: liberal arts, Trivium, Quadrivium, grammar, logic, rhetoric, history, Western civilization, primary sources, classics, sacred art, memory work, recitation, chanting. These items are present either directly or as implied through program naming and described pedagogical aims. 
 - Negative keywords: the explicit Great Books/Great Conversation criterion is not clearly shown in the public materials, and there is no explicit mention of project-based learning dominating the curriculum (though the site does not foreground such approaches). The lack of explicit Great Books references reduces full alignment with category 3’s ideal.
 
 Why this rating

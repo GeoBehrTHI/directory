@@ -1,3 +1,5 @@
+Overall Classification: CLASSICAL
+
 ## ABSTRACT
 
 The Chesterton Academy of the Holy Family demonstrates a robust CLASSICAL orientation across all six classical-education categories. Its public materials emphasize a liturgical, Catholic framework (Mass, chaplain, diocese affiliation, and theology-infused formation) paired with a liberal-arts curriculum and a Great Books–inspired outlook. Pedagogy combines Socratic inquiry with memorization/recitation and contemplative elements, while faculty are portrayed as moral exemplars and living curriculum. Parental partnership is central to the model, including community events and shared formation opportunities. Across the six categories, positive classical keywords (truth, virtue, Catholic theology, Mass, Great Books, Socratic pedagogy, heritage of Western civilization, formation, and parent partnership) are consistently foregrounded, and negative signals (secular, purely skills-based approaches, or de-emphasis of classical methods) are notably absent from the public-facing materials. Therefore, the overall assessment for Chesterton Academy of the Holy Family is CLASSICAL.
@@ -18,4 +20,4 @@ Abstract (short-form recap)
 - Classification: CLASSICAL
 - Core evidence: Catholic liturgical life; formation-centered mission; liberal-arts curriculum with Great Books orientation; Socratic pedagogy and memory-based practices; teacher-mentors as living curriculum; robust parent/community partnership.
 
-Executive Summary — Category-by-Category details (as requested above) have been synthesized, citing the primary sources from the Chesterton Academy of the Holy Family site and the classical-education knowledge base.
+Executive Summary — Element-by-Element details (as requested above) have been synthesized, citing the primary sources from the Chesterton Academy of the Holy Family site and the classical-education knowledge base.
