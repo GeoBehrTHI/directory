@@ -1,0 +1,13 @@
+{
+    "timestamp": "2026-08-11T16:10:25+00:00",
+    "mode": "full",
+    "file_count": 0,
+    "account_count": 3227,
+    "accounts": {
+        "classical": 3227,
+        "somewhat-classical": 0,
+        "non-classical": 0,
+        "pending": 0,
+        "not-found-in-audit": 0
+    }
+}
