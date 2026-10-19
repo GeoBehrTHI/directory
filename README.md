@@ -18,6 +18,10 @@ This stores the files for each school, including their abstract and audit MD fil
 
 NOTE: Images may be there, but at this time THI is only using placeholder images for schools.
 
+## All schools
+
+`all-schools/` holds every school's working files, published or not: crawls, contact info, surveys, audits, screenshots and PDFs. The THI app reads and writes here. Publishing copies the public subset into `schools/`. `all-schools/` is **not** in this repository (`.gitignore`) or synced to S3 (excluded in `.github/workflows/deploy.yml`). It is backed up to Dropbox (`Dropbox/Backups/thi/all-schools`, hourly, without `local_llm/` and `*.pkl`).
+
 ## Structure
 
 ```

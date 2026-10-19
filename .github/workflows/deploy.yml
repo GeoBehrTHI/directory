@@ -23,5 +23,6 @@ jobs:
           aws s3 sync . s3://your-bucket-name \
             --exclude ".git/*" \
             --exclude ".github/*" \
+            --exclude "all-schools/*" \
             --exclude "node_modules/*" \
             --delete

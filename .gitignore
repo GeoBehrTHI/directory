@@ -9,3 +9,8 @@ Thumbs.db
 *.swo
 *~
 
+
+# all-schools: every school's working files (published or not), about 28 GB. Not versioned here;
+# backed up to Dropbox by ~/.local/bin/thi-backup-schools.sh (hourly launchd job).
+all-schools/
+*.pkl
